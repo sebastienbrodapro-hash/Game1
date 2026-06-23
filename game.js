@@ -4,6 +4,7 @@ const resourceMeta = {
   evolution: { label: "Points d'evolution", short: "Evo" },
   survie: { label: "Survie", short: "Sur" },
   nourriture: { label: "Nourriture", short: "Nou" },
+  pierre: { label: "Pierre", short: "Pie" },
   savoir: { label: "Savoir", short: "Sav" },
   population: { label: "Population", short: "Pop" },
   influence: { label: "Influence", short: "Inf" },
@@ -27,18 +28,28 @@ const eraData = [
     theme: "La tribu apprend a survivre, transmettre et garder le feu.",
     actionLabel: "Organiser la tribu",
     actionText: "Gagne de la survie et un peu de nourriture.",
-    action: { survie: 1, nourriture: 0.12 },
+    action: { survie: 1.15, nourriture: 0.15 },
     unlock: null,
     generators: [
-      { id: "cueilleurs", name: "Cueilleurs", text: "Ils ramassent ce qui nourrit la tribu.", cost: { survie: 30 }, scale: 1.2, produces: { nourriture: 0.04 } },
-      { id: "chasseurs", name: "Chasseurs", text: "Ils rapportent des peaux, des outils et de la securite.", cost: { nourriture: 90 }, scale: 1.21, produces: { survie: 0.12 } },
-      { id: "conteurs", name: "Conteurs", text: "Ils gardent les gestes utiles en memoire.", cost: { survie: 420, nourriture: 180 }, scale: 1.22, produces: { savoir: 0.035 }, requires: ["feu"] }
+      { id: "cueilleurs", name: "Cueilleurs", text: "Ils ramassent ce qui nourrit la tribu.", cost: { survie: 18 }, scale: 1.18, produces: { nourriture: 0.055, survie: 0.0017 }, position: { x: 34, y: 38 } },
+      { id: "ramasseursGalets", name: "Ramasseurs de galets", text: "Ils cherchent les pierres utiles autour du camp.", cost: { survie: 68, nourriture: 18 }, scale: 1.18, produces: { pierre: 0.075 }, requires: ["feu"], parent: "cueilleurs", position: { x: 258, y: 38 } },
+      { id: "tailleursBruts", name: "Tailleurs sans atelier", text: "La pierre devient outil avant meme d'avoir un atelier.", cost: { pierre: 72, nourriture: 80 }, scale: 1.2, produces: { pierre: 0.18, savoir: 0.012 }, requires: ["outils"], producerRequires: { ramasseursGalets: 4 }, resourceRequires: { pierre: 80 }, parent: "ramasseursGalets", position: { x: 258, y: 218 } },
+      { id: "tablesTaillage", name: "Tables de taillage", text: "Un poste fixe stabilise le geste et prepare les tailleurs V2.", cost: { pierre: 420, survie: 520 }, scale: 1.28, produces: { pierre: 0.34, savoir: 0.025 }, requires: ["outils"], producerRequires: { tailleursBruts: 8 }, resourceRequires: { pierre: 420 }, parent: "tailleursBruts", position: { x: 482, y: 218 } },
+      { id: "chasseurs", name: "Chasseurs", text: "Ils rapportent des peaux, des outils et de la securite.", cost: { nourriture: 90, pierre: 48 }, scale: 1.19, produces: { survie: 0.18 }, requires: ["pistes"], producerRequires: { tailleursBruts: 4 }, parent: "tailleursBruts", position: { x: 34, y: 398 } },
+      { id: "tailleursAtelier", name: "Tailleurs V2", text: "Une table, une sequence, un rendement qui change d'echelle.", cost: { pierre: 760, savoir: 32 }, scale: 1.22, produces: { pierre: 0.7, savoir: 0.09 }, requires: ["pistes"], producerRequires: { tablesTaillage: 1 }, resourceRequires: { pierre: 650 }, parent: "tablesTaillage", position: { x: 258, y: 398 } },
+      { id: "conteurs", name: "Conteurs", text: "Ils gardent les gestes utiles en memoire.", cost: { survie: 360, nourriture: 180, savoir: 36 }, scale: 1.2, produces: { savoir: 0.08 }, requires: ["signes"], producerRequires: { tailleursAtelier: 4 }, parent: "tailleursAtelier", position: { x: 482, y: 398 } }
     ],
     nodes: [
-      { id: "feu", name: "Feu garde", tag: "Socle", text: "La nuit devient moins totale. Debloque le savoir et le premier challenge.", cost: { survie: 120, nourriture: 32 }, effects: { click: { survie: 1 }, mult: { survie: 0.16 } } },
-      { id: "outils", name: "Outils tailles", tag: "Technique", text: "Chaque action nourrit mieux la tribu.", cost: { survie: 520, nourriture: 180 }, requires: ["feu"], effects: { click: { nourriture: 0.55 }, mult: { nourriture: 0.22 } } },
-      { id: "langage", name: "Langage commun", tag: "Memoire", text: "Les conteurs deviennent utiles et le savoir circule.", cost: { savoir: 32, survie: 1450 }, requires: ["outils"], effects: { mult: { savoir: 0.36 }, global: 0.04 } },
-      { id: "tribuStable", name: "Tribu stable", tag: "Unlock", text: "La tribu peut rester, semer et batir. Debloque le Neolithique.", cost: { survie: 5700, nourriture: 3400, savoir: 220 }, requires: ["langage"], effects: { global: 0.08 } }
+      { id: "feu", name: "Feu garde", tag: "Socle", text: "La nuit devient moins totale. La tribu cesse de seulement subir.", cost: { survie: 42, nourriture: 10, evolution: 28 }, position: { x: 390, y: 28 }, effects: { click: { survie: 0.8 }, mult: { survie: 0.12 } } },
+      { id: "braises", name: "Braises conservees", tag: "Feu", text: "Le feu dure entre deux nuits. Les actions donnent plus d'evolution.", cost: { survie: 120, nourriture: 36, evolution: 58 }, requires: ["feu"], position: { x: 250, y: 202 }, effects: { click: { evolution: 0.75 }, mult: { evolution: 0.08 } } },
+      { id: "outils", name: "Outils tailles", tag: "Technique", text: "Chaque action nourrit mieux la tribu et ouvre la chasse organisee.", cost: { survie: 160, nourriture: 52, pierre: 26, evolution: 64 }, requires: ["feu"], producerRequires: { ramasseursGalets: 3 }, position: { x: 530, y: 202 }, effects: { click: { nourriture: 0.38 }, mult: { nourriture: 0.16 } } },
+      { id: "pistes", name: "Pistes de chasse", tag: "Survie", text: "Lire les traces transforme les chasseurs en moteur de survie.", cost: { survie: 420, nourriture: 170, pierre: 90, evolution: 110 }, requires: ["outils"], producerRequires: { tailleursBruts: 4 }, position: { x: 250, y: 376 }, effects: { mult: { survie: 0.22 }, generator: { chasseurs: 0.45 } } },
+      { id: "abris", name: "Abris saisonniers", tag: "Camp", text: "La nourriture se perd moins et les couts respirent un peu.", cost: { survie: 520, nourriture: 260, evolution: 130 }, requires: ["braises"], producerRequires: { cueilleurs: 10 }, position: { x: 530, y: 376 }, effects: { mult: { nourriture: 0.2 }, discount: 0.03 } },
+      { id: "signes", name: "Signes graves", tag: "Memoire", text: "La tribu laisse des marques. Les premiers savoirs deviennent possibles.", cost: { survie: 900, nourriture: 520, pierre: 180, evolution: 220 }, requires: ["pistes", "abris"], producerRequires: { tablesTaillage: 1 }, position: { x: 390, y: 550 }, effects: { click: { savoir: 0.08 }, mult: { evolution: 0.12 } } },
+      { id: "parole", name: "Parole commune", tag: "Langage", text: "Les ordres, mythes et techniques circulent sans etre redecouverts.", cost: { savoir: 18, survie: 1250, evolution: 320 }, requires: ["signes"], position: { x: 250, y: 724 }, effects: { mult: { savoir: 0.32 }, global: 0.03 } },
+      { id: "foyer", name: "Foyer des conteurs", tag: "Savoir", text: "Les conteurs transforment la memoire en progression durable.", cost: { savoir: 42, nourriture: 900, pierre: 280, evolution: 480 }, requires: ["signes"], producerRequires: { tailleursAtelier: 3 }, position: { x: 530, y: 724 }, effects: { generator: { conteurs: 0.65 }, click: { savoir: 0.14 } } },
+      { id: "rites", name: "Rites de transmission", tag: "Culture", text: "La tribu apprend a reproduire ses propres accelerations.", cost: { savoir: 105, survie: 2400, evolution: 820 }, requires: ["parole", "foyer"], producerRequires: { conteurs: 6 }, position: { x: 390, y: 898 }, effects: { mult: { evolution: 0.22, savoir: 0.18 }, generator: { cueilleurs: 0.4, chasseurs: 0.7, conteurs: 0.35 }, clickAll: 0.08, global: 0.04 } },
+      { id: "tribuStable", name: "Tribu stable", tag: "Unlock", text: "La tribu peut rester, semer et batir. Debloque le Neolithique.", cost: { survie: 2200, nourriture: 1500, savoir: 180, evolution: 1200 }, requires: ["rites"], producerRequires: { chasseurs: 10, conteurs: 10 }, position: { x: 390, y: 1072 }, effects: { global: 0.08 } }
     ]
   },
   {
@@ -250,10 +261,10 @@ const challengeTreePositions = [
 
 const eraPacing = {
   prehistoire: {
-    actionEvolution: 0.45,
-    passiveEvolution: 0.018,
-    producerEvolutionCost: 2.3,
-    nodeEvolutionCost: 4.2,
+    actionEvolution: 1.45,
+    passiveEvolution: 0.05,
+    producerEvolutionCost: 0.8,
+    nodeEvolutionCost: 1.1,
     challengeEvolutionCost: 2.8
   }
 };
@@ -265,6 +276,11 @@ const milestoneData = [
   { id: "m25", era: "prehistoire", name: "Cueillette organisee", text: "Posseder 5 Cueilleurs.", condition: () => (state.producers.cueilleurs || 0) >= 5, reward: { mult: { nourriture: 0.18 } } },
   { id: "m26", era: "prehistoire", name: "Pistes de chasse", text: "Posseder 5 Chasseurs.", condition: () => (state.producers.chasseurs || 0) >= 5, reward: { mult: { survie: 0.18 } } },
   { id: "m27", era: "prehistoire", name: "Recits du foyer", text: "Posseder 5 Conteurs.", condition: () => (state.producers.conteurs || 0) >= 5, reward: { mult: { savoir: 0.22 } } },
+  { id: "m28", era: "prehistoire", name: "Chemins connus", text: "Avoir 6 nodes de Prehistoire.", condition: () => eraNodeCount("prehistoire") >= 6, reward: { global: 0.08, clickAll: 0.12 } },
+  { id: "m29", era: "prehistoire", name: "Camp nourri", text: "Posseder 10 Cueilleurs.", condition: () => (state.producers.cueilleurs || 0) >= 10, reward: { click: { nourriture: 0.5 }, mult: { nourriture: 0.3 } } },
+  { id: "m30", era: "prehistoire", name: "Chasse rythmee", text: "Posseder 10 Chasseurs.", condition: () => (state.producers.chasseurs || 0) >= 10, reward: { click: { survie: 1.2 }, mult: { survie: 0.32 } } },
+  { id: "m31", era: "prehistoire", name: "Mythes communs", text: "Avoir 8 nodes de Prehistoire.", condition: () => eraNodeCount("prehistoire") >= 8, reward: { global: 0.08, mult: { evolution: 0.18 } } },
+  { id: "m32", era: "prehistoire", name: "Memoire vivante", text: "Atteindre 150 Savoir.", condition: (s) => s.resources.savoir >= 150, reward: { click: { savoir: 0.18 }, mult: { savoir: 0.35 } } },
   { id: "m4", era: "neolithique", name: "Premiers champs", text: "Debloquer le Neolithique.", condition: () => isEraUnlocked("neolithique"), reward: { click: { nourriture: 1 } } },
   { id: "m5", era: "neolithique", name: "Village vivant", text: "Atteindre 20 Population.", condition: (s) => s.resources.population >= 20, reward: { mult: { population: 0.3 } } },
   { id: "m6", era: "neolithique", name: "Greniers pleins", text: "Posseder 10 producteurs neolithiques.", condition: () => eraProducerCount("neolithique") >= 10, reward: { discount: 0.03 } },
@@ -289,8 +305,7 @@ const milestoneData = [
 ];
 
 const layouts = [
-  { id: "thread", title: "Fil", subtitle: "Chronologie", icon: "F" },
-  { id: "era", title: "Epoque", subtitle: "Actions et nodes", icon: "E" },
+  { id: "thread", title: "Fil", subtitle: "Arbre et metiers", icon: "F" },
   { id: "challenges", title: "Challenges", subtitle: "Epreuves", icon: "C" },
   { id: "milestones", title: "Milestones", subtitle: "Paliers", icon: "M" },
   { id: "transmission", title: "Transmission", subtitle: "Prestige", icon: "T" },
@@ -432,7 +447,6 @@ function render() {
   renderQuick();
   const renderers = {
     thread: renderThread,
-    era: renderEra,
     challenges: renderChallenges,
     milestones: renderMilestones,
     transmission: renderTransmission,
@@ -501,15 +515,19 @@ function renderSideStatus() {
 function renderThread() {
   const era = getEra(state.activeEra);
   const threadNodes = visibleThreadNodes(era.id);
-  const boughtCount = threadNodes.filter((node) => hasNode(node.id)).length;
+  const producerNodes = visibleProducerNodes(era.id);
   const totalEraNodes = getThreadNodes(era.id).length;
+  const totalEraProducers = getProducerTreeNodes(era.id).length;
+  const treeHeight = Math.max(430, Math.max(...threadNodes.map((node) => node.y)) + 190);
+  const producerHeight = Math.max(430, Math.max(...producerNodes.map((producer) => producer.y)) + 190);
+  const gains = clickGains(era);
   return `
     <div class="page">
       <header class="page-head">
         <div>
           <p class="kicker">Fil conducteur</p>
-          <h2>Arbre de ${era.name}</h2>
-          <p>Le fil est l'arbre principal : nodes d'amelioration, nodes de transition, puis a partir de l'Antiquite nodes qui debloquent des defis historiques.</p>
+          <h2>${era.name}</h2>
+          <p>${era.theme}</p>
         </div>
         <div class="head-meter">
           <div class="meter-label"><span>Arbre actif</span><strong>${threadNodeCount(era.id)} / ${totalEraNodes}</strong></div>
@@ -519,9 +537,44 @@ function renderThread() {
       <div class="era-switcher">
         ${visibleEraTabs().map(renderEraSwitch).join("")}
       </div>
-      <div class="tree-board">
-        ${renderTreeLinks(threadNodes)}
-        ${threadNodes.map(renderTreeNode).join("")}
+      <div class="play-grid">
+        <section class="command-column">
+          <div class="action-card">
+            <div>
+              <p class="kicker">Action</p>
+              <h3>${era.actionLabel}</h3>
+              <p>${era.actionText}</p>
+            </div>
+            <button class="action-button" type="button" data-action-era="${era.id}">${era.actionLabel}</button>
+            <div class="gain-list">
+              ${Object.entries(gains).map(([resource, amount]) => `<div class="gain-line"><span>${resourceMeta[resource].label}</span><strong>+${format(amount)}</strong></div>`).join("")}
+            </div>
+          </div>
+          <div class="tree-section-head">
+            <div>
+              <p class="kicker">Metiers et production</p>
+              <h3>Arbre des ressources</h3>
+            </div>
+            <strong>${producerTreeCount(era.id)} / ${totalEraProducers}</strong>
+          </div>
+          <div class="producer-tree-board" style="--producer-tree-height:${producerHeight}px">
+            ${renderProducerTreeLinks(producerNodes, producerHeight)}
+            ${producerNodes.map(renderProducerNode).join("")}
+          </div>
+        </section>
+        <section class="history-column">
+          <div class="tree-section-head">
+            <div>
+              <p class="kicker">Civilisation</p>
+              <h3>Fil historique</h3>
+            </div>
+            <strong>${threadNodeCount(era.id)} / ${totalEraNodes}</strong>
+          </div>
+          <div class="tree-board" style="--tree-height:${treeHeight}px">
+            ${renderTreeLinks(threadNodes, treeHeight)}
+            ${threadNodes.map(renderTreeNode).join("")}
+          </div>
+        </section>
       </div>
     </div>
   `;
@@ -563,7 +616,7 @@ function renderTreeNode(node) {
   `;
 }
 
-function renderTreeLinks(nodes) {
+function renderTreeLinks(nodes, treeHeight) {
   const links = [];
   const byId = Object.fromEntries(nodes.map((node) => [node.id, node]));
   nodes.forEach((node) => {
@@ -573,7 +626,19 @@ function renderTreeLinks(nodes) {
       links.push(`<path d="${treeConnectorPath(parent, node)}"></path>`);
     });
   });
-  return `<svg class="tree-links" viewBox="0 0 980 1120" aria-hidden="true">${links.join("")}</svg>`;
+  return `<svg class="tree-links" viewBox="0 0 980 ${treeHeight}" aria-hidden="true">${links.join("")}</svg>`;
+}
+
+function renderProducerTreeLinks(producers, treeHeight) {
+  const links = [];
+  const byId = Object.fromEntries(producers.map((producer) => [producer.id, producer]));
+  producers.forEach((producer) => {
+    if (!producer.parent) return;
+    const parent = byId[producer.parent];
+    if (!parent) return;
+    links.push(`<path d="${treeConnectorPath(parent, producer)}"></path>`);
+  });
+  return `<svg class="tree-links producer-tree-links" viewBox="0 0 700 ${treeHeight}" aria-hidden="true">${links.join("")}</svg>`;
 }
 
 function treeConnectorPath(parent, node) {
@@ -638,17 +703,37 @@ function renderEra() {
 
 function renderProducer(producer) {
   const owned = state.producers[producer.id] || 0;
-  const locked = producer.requires && !producer.requires.every(hasNode);
+  const locked = !producerAvailable(producer);
   const cost = producerCost(producer);
+  const nextBulkAt = (Math.floor(owned / 10) + 1) * 10;
   return `
     <article class="producer-card">
       <div>
         <h3>${producer.name} x${owned}</h3>
         <p>${producer.text}</p>
         <p>${formatProduces(producerProduces(producer))}</p>
-        <div class="cost-line">${locked ? `Requiert ${producer.requires.join(", ")}` : formatCost(cost)}</div>
+        <p>Palier x${format(producerBulkBonus(producer))} - prochain a ${nextBulkAt}</p>
+        <div class="cost-line">${locked ? producerRequirementText(producer) : formatCost(cost)}</div>
       </div>
       <button class="buy-button" type="button" data-buy-producer="${producer.id}" ${locked || !canPay(cost) ? "disabled" : ""}>Acheter</button>
+    </article>
+  `;
+}
+
+function renderProducerNode(producer) {
+  const owned = state.producers[producer.id] || 0;
+  const available = producerAvailable(producer);
+  const cost = producerCost(producer);
+  const nextBulkAt = (Math.floor(owned / 10) + 1) * 10;
+  return `
+    <article class="tree-node producer-node ${owned ? "bought" : ""} ${available ? "" : "locked"}" style="left:${producer.x}px; top:${producer.y}px">
+      <span class="node-tag">${producer.tag || "Metier"}</span>
+      <h3>${producer.name} x${owned}</h3>
+      <p>${producer.text}</p>
+      <p>${formatProduces(producerProduces(producer))}</p>
+      <p>Palier x${format(producerBulkBonus(producer))} - prochain a ${nextBulkAt}</p>
+      <div class="cost-line">${available ? formatCost(cost) : producerRequirementText(producer)}</div>
+      <button class="node-button" type="button" data-buy-producer="${producer.id}" ${!available || !canPay(cost) ? "disabled" : ""}>Acheter</button>
     </article>
   `;
 }
@@ -669,6 +754,8 @@ function renderNode(node) {
 
 function renderChallenges() {
   const active = state.activeChallenge ? getChallenge(state.activeChallenge.id) : null;
+  const visibleChallenges = challengeData.filter((challenge) => isEraUnlocked(challenge.era));
+  const completedVisible = visibleChallenges.filter((challenge) => state.completedChallenges.includes(challenge.id)).length;
   return `
     <div class="page">
       <header class="page-head">
@@ -678,14 +765,14 @@ function renderChallenges() {
           <p>Chaque challenge modifie les regles. L'objectif se mesure depuis ton entree dans le challenge, puis la recompense reste permanente.</p>
         </div>
         <div class="head-meter">
-          <div class="meter-label"><span>Completes</span><strong>${state.completedChallenges.length} / ${challengeData.length}</strong></div>
-          <div class="progress"><span style="--progress:${percentage(state.completedChallenges.length, challengeData.length)}%"></span></div>
+          <div class="meter-label"><span>Completes</span><strong>${completedVisible} / ${visibleChallenges.length}</strong></div>
+          <div class="progress"><span style="--progress:${percentage(completedVisible, visibleChallenges.length)}%"></span></div>
         </div>
       </header>
       ${active ? renderActiveChallenge(active) : ""}
-      <div class="challenge-grid">
-        ${challengeData.map(renderChallengeCard).join("")}
-      </div>
+      ${visibleChallenges.length
+        ? `<div class="challenge-grid">${visibleChallenges.map(renderChallengeCard).join("")}</div>`
+        : `<section class="panel"><h3>Aucune epreuve revelee</h3><p>Les defis historiques commencent avec l'Antiquite.</p></section>`}
     </div>
   `;
 }
@@ -837,7 +924,7 @@ function wireStage() {
   document.querySelectorAll("[data-era]").forEach((button) => {
     button.addEventListener("click", () => {
       state.activeEra = button.dataset.era;
-      state.activeLayout = "era";
+      state.activeLayout = "thread";
       render();
     });
   });
@@ -874,6 +961,7 @@ function takeAction(eraId, button) {
 
 function buyProducer(id) {
   const producer = getProducer(id);
+  if (!producerAvailable(producer)) return;
   const cost = producerCost(producer);
   if (!canPay(cost)) return;
   pay(cost);
@@ -909,7 +997,7 @@ function startChallenge(id) {
     backup
   };
   state.activeEra = challenge.era;
-  state.activeLayout = "era";
+  state.activeLayout = "thread";
   addLog(`Challenge commence : ${challenge.name}.`);
   render();
 }
@@ -1020,20 +1108,26 @@ function productionPerSecond() {
 
 function producerProduces(producer, effects = computedEffects()) {
   const challenge = activeChallengeData();
+  const bulkBonus = producerBulkBonus(producer);
   const result = {};
   Object.entries(producer.produces).forEach(([resource, amount]) => {
     const specific = effects.generator[producer.id] || 0;
     const resourceMult = effects.resource[resource] || 1;
     const challengeResource = challenge && challenge.modifiers.resource && challenge.modifiers.resource[resource] !== undefined ? challenge.modifiers.resource[resource] : 1;
-    result[resource] = amount * effects.global * resourceMult * (1 + specific) * effects.passive * challengeResource;
+    result[resource] = amount * effects.global * resourceMult * (1 + specific) * effects.passive * challengeResource * bulkBonus;
   });
   const era = getEraForProducer(producer.id);
   const eraIndex = eraData.findIndex((item) => item.id === era.id);
   const pacing = eraPacing[era.id] || {};
   const evolutionBase = (pacing.passiveEvolution || 0.08) * Math.pow(5.2, Math.max(0, eraIndex));
   const evolutionChallenge = challenge && challenge.modifiers.resource && challenge.modifiers.resource.evolution !== undefined ? challenge.modifiers.resource.evolution : 1;
-  result.evolution = (result.evolution || 0) + evolutionBase * effects.global * (effects.resource.evolution || 1) * effects.passive * evolutionChallenge;
+  result.evolution = (result.evolution || 0) + evolutionBase * effects.global * (effects.resource.evolution || 1) * effects.passive * evolutionChallenge * bulkBonus;
   return result;
+}
+
+function producerBulkBonus(producer) {
+  const owned = state.producers[producer.id] || 0;
+  return Math.pow(1.7, Math.floor(owned / 10));
 }
 
 function clickGains(era) {
@@ -1136,7 +1230,9 @@ function nodeCost(node) {
   const eraIndex = eraData.findIndex((item) => item.id === era.id);
   const pacing = eraPacing[era.id] || {};
   const evolutionCost = 35 * (pacing.nodeEvolutionCost || 1) * Math.pow(8.5, Math.max(0, eraIndex)) * challengeCost * discount;
-  cost.evolution = Math.max(cost.evolution || 0, Math.ceil(evolutionCost));
+  if (!Object.prototype.hasOwnProperty.call(node.cost, "evolution")) {
+    cost.evolution = Math.ceil(evolutionCost);
+  }
   return cost;
 }
 
@@ -1153,7 +1249,33 @@ function checkMilestones() {
 }
 
 function nodeAvailable(node) {
-  return !node.requires || node.requires.every(hasNode);
+  return nodeRevealed(node) && producerRequirementsMet(node.producerRequires) && resourceRequirementsMet(node.resourceRequires);
+}
+
+function nodeRevealed(node) {
+  return nodeRequirementsMet(node.requires);
+}
+
+function producerAvailable(producer) {
+  return producerRevealed(producer) && producerRequirementsMet(producer.producerRequires) && resourceRequirementsMet(producer.resourceRequires);
+}
+
+function producerRevealed(producer) {
+  if ((state.producers[producer.id] || 0) > 0) return true;
+  const parentReady = !producer.parent || (state.producers[producer.parent] || 0) > 0;
+  return parentReady && nodeRequirementsMet(producer.requires);
+}
+
+function nodeRequirementsMet(requirements = []) {
+  return requirements.every(hasNode);
+}
+
+function producerRequirementsMet(requirements = {}) {
+  return Object.entries(requirements).every(([producerId, amount]) => (state.producers[producerId] || 0) >= amount);
+}
+
+function resourceRequirementsMet(requirements = {}) {
+  return Object.entries(requirements).every(([resource, amount]) => state.resources[resource] >= amount);
 }
 
 function challengeAvailable(challenge) {
@@ -1243,15 +1365,11 @@ function getMilestone(id) {
 
 function getThreadNodes(eraId) {
   const era = getEra(eraId);
-  const upgrades = era.nodes.map((node, index) => {
-    const previous = era.nodes[index - 1];
-    return {
-      ...node,
-      kind: "upgrade",
-      requires: index === 0 ? node.requires : [previous.id],
-      ...(upgradeTreePositions[index] || { x: 390, y: 938 + (index - 5) * 182 })
-    };
-  });
+  const upgrades = era.nodes.map((node, index) => ({
+    ...node,
+    kind: "upgrade",
+    ...(node.position || upgradeTreePositions[index] || { x: 390, y: 938 + (index - 5) * 182 })
+  }));
   const challengeNodes = challengeData
     .filter((challenge) => challenge.era === eraId)
     .map((challenge, index) => ({
@@ -1261,16 +1379,34 @@ function getThreadNodes(eraId) {
   return [...upgrades, ...challengeNodes];
 }
 
+function getProducerTreeNodes(eraId) {
+  const era = getEra(eraId);
+  return era.generators.map((producer, index) => ({
+    ...producer,
+    kind: "producer",
+    tag: producer.tag || "Metier",
+    ...(producer.position || { x: 34 + (index % 3) * 224, y: 38 + Math.floor(index / 3) * 180 })
+  }));
+}
+
 function visibleThreadNodes(eraId) {
   const allNodes = getThreadNodes(eraId);
   return allNodes.filter((node) => {
     if (hasNode(node.id)) return true;
-    return nodeAvailable(node);
+    return nodeRevealed(node);
   });
+}
+
+function visibleProducerNodes(eraId) {
+  return getProducerTreeNodes(eraId).filter((producer) => producerRevealed(producer));
 }
 
 function threadNodeCount(eraId) {
   return getThreadNodes(eraId).filter((node) => hasNode(node.id)).length;
+}
+
+function producerTreeCount(eraId) {
+  return getProducerTreeNodes(eraId).filter((producer) => (state.producers[producer.id] || 0) > 0).length;
 }
 
 function challengeUnlockNodeId(challengeId) {
@@ -1367,8 +1503,34 @@ function formatProduces(produces) {
 }
 
 function requirementText(node) {
-  if (!node.requires || node.requires.length === 0) return "Verrouille";
-  return `Requiert ${node.requires.map((id) => getNode(id).name).join(" + ")}`;
+  const requirements = [];
+  (node.requires || []).forEach((id) => {
+    if (!hasNode(id)) requirements.push(getNode(id).name);
+  });
+  Object.entries(node.producerRequires || {}).forEach(([producerId, amount]) => {
+    if ((state.producers[producerId] || 0) < amount) requirements.push(`${format(amount)} ${getProducer(producerId).name}`);
+  });
+  Object.entries(node.resourceRequires || {}).forEach(([resource, amount]) => {
+    if (state.resources[resource] < amount) requirements.push(`${format(amount)} ${resourceMeta[resource].label}`);
+  });
+  return requirements.length ? `Requiert ${requirements.join(" + ")}` : "Verrouille";
+}
+
+function producerRequirementText(producer) {
+  const requirements = [];
+  if (producer.parent && (state.producers[producer.parent] || 0) <= 0) {
+    requirements.push(getProducer(producer.parent).name);
+  }
+  (producer.requires || []).forEach((id) => {
+    if (!hasNode(id)) requirements.push(getNode(id).name);
+  });
+  Object.entries(producer.producerRequires || {}).forEach(([producerId, amount]) => {
+    if ((state.producers[producerId] || 0) < amount) requirements.push(`${format(amount)} ${getProducer(producerId).name}`);
+  });
+  Object.entries(producer.resourceRequires || {}).forEach(([resource, amount]) => {
+    if (state.resources[resource] < amount) requirements.push(`${format(amount)} ${resourceMeta[resource].label}`);
+  });
+  return requirements.length ? `Requiert ${requirements.join(" + ")}` : "Verrouille";
 }
 
 function formatEffect(effect) {

@@ -352,6 +352,35 @@ h3 {
   gap: 12px;
 }
 
+.play-grid {
+  display: grid;
+  grid-template-columns: minmax(360px, 0.92fr) minmax(560px, 1.38fr);
+  gap: 16px;
+  align-items: start;
+}
+
+.command-column,
+.history-column {
+  display: grid;
+  gap: 12px;
+  min-width: 0;
+}
+
+.tree-section-head {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 12px;
+  max-width: 980px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.tree-section-head strong {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
 .era-switcher {
   display: flex;
   gap: 8px;
@@ -396,7 +425,7 @@ h3 {
 .tree-board {
   position: relative;
   width: min(980px, 100%);
-  min-height: 720px;
+  min-height: var(--tree-height, 720px);
   margin: 0 auto;
   overflow: auto;
   border: 1px solid var(--line);
@@ -410,14 +439,35 @@ h3 {
   box-shadow: var(--shadow);
 }
 
+.producer-tree-board {
+  position: relative;
+  width: min(700px, 100%);
+  min-height: var(--producer-tree-height, 430px);
+  margin: 0 auto;
+  overflow: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background:
+    linear-gradient(90deg, rgba(23, 26, 31, 0.05) 1px, transparent 1px),
+    linear-gradient(0deg, rgba(23, 26, 31, 0.045) 1px, transparent 1px),
+    rgba(255, 255, 255, 0.78);
+  background-size: 34px 34px, 34px 34px, auto;
+  box-shadow: var(--shadow);
+}
+
 .tree-links {
   position: absolute;
   left: 0;
   top: 0;
   width: 980px;
-  height: 1120px;
+  height: var(--tree-height, 720px);
   pointer-events: none;
   z-index: 0;
+}
+
+.producer-tree-links {
+  width: 700px;
+  height: var(--producer-tree-height, 430px);
 }
 
 .tree-links path {
@@ -455,6 +505,16 @@ h3 {
 .tree-node.challenge.bought {
   border-color: #f03b2f;
   background: #f2d36b;
+}
+
+.tree-node.producer-node {
+  border-color: #7a6840;
+  background: #f0d995;
+}
+
+.tree-node.producer-node.bought {
+  border-color: #b3832d;
+  background: #f7e7b2;
 }
 
 .tree-node.done {
@@ -856,7 +916,8 @@ h3 {
   }
 
   .topbar,
-  .two-column {
+  .two-column,
+  .play-grid {
     grid-template-columns: 1fr;
   }
 
