@@ -27,18 +27,18 @@ const eraData = [
     theme: "La tribu apprend a survivre, transmettre et garder le feu.",
     actionLabel: "Organiser la tribu",
     actionText: "Gagne de la survie et un peu de nourriture.",
-    action: { survie: 1, nourriture: 0.25 },
+    action: { survie: 1, nourriture: 0.12 },
     unlock: null,
     generators: [
-      { id: "cueilleurs", name: "Cueilleurs", text: "Ils ramassent ce qui nourrit la tribu.", cost: { survie: 12 }, scale: 1.17, produces: { nourriture: 0.18 } },
-      { id: "chasseurs", name: "Chasseurs", text: "Ils rapportent des peaux, des outils et de la securite.", cost: { nourriture: 24 }, scale: 1.18, produces: { survie: 0.34 } },
-      { id: "conteurs", name: "Conteurs", text: "Ils gardent les gestes utiles en memoire.", cost: { survie: 90, nourriture: 40 }, scale: 1.2, produces: { savoir: 0.08 }, requires: ["feu"] }
+      { id: "cueilleurs", name: "Cueilleurs", text: "Ils ramassent ce qui nourrit la tribu.", cost: { survie: 30 }, scale: 1.2, produces: { nourriture: 0.04 } },
+      { id: "chasseurs", name: "Chasseurs", text: "Ils rapportent des peaux, des outils et de la securite.", cost: { nourriture: 90 }, scale: 1.21, produces: { survie: 0.12 } },
+      { id: "conteurs", name: "Conteurs", text: "Ils gardent les gestes utiles en memoire.", cost: { survie: 420, nourriture: 180 }, scale: 1.22, produces: { savoir: 0.035 }, requires: ["feu"] }
     ],
     nodes: [
-      { id: "feu", name: "Feu garde", tag: "Socle", text: "La nuit devient moins totale. Debloque le savoir et le premier challenge.", cost: { survie: 25, nourriture: 8 }, effects: { click: { survie: 1 }, mult: { survie: 0.2 } } },
-      { id: "outils", name: "Outils tailles", tag: "Technique", text: "Chaque action nourrit mieux la tribu.", cost: { survie: 85, nourriture: 35 }, requires: ["feu"], effects: { click: { nourriture: 0.75 }, mult: { nourriture: 0.3 } } },
-      { id: "langage", name: "Langage commun", tag: "Memoire", text: "Les conteurs deviennent utiles et le savoir circule.", cost: { savoir: 18, survie: 150 }, requires: ["feu"], effects: { mult: { savoir: 0.45 }, global: 0.05 } },
-      { id: "tribuStable", name: "Tribu stable", tag: "Unlock", text: "La tribu peut rester, semer et batir. Debloque le Neolithique.", cost: { survie: 420, nourriture: 220, savoir: 35 }, requires: ["outils", "langage"], effects: { global: 0.08 } }
+      { id: "feu", name: "Feu garde", tag: "Socle", text: "La nuit devient moins totale. Debloque le savoir et le premier challenge.", cost: { survie: 120, nourriture: 32 }, effects: { click: { survie: 1 }, mult: { survie: 0.16 } } },
+      { id: "outils", name: "Outils tailles", tag: "Technique", text: "Chaque action nourrit mieux la tribu.", cost: { survie: 520, nourriture: 180 }, requires: ["feu"], effects: { click: { nourriture: 0.55 }, mult: { nourriture: 0.22 } } },
+      { id: "langage", name: "Langage commun", tag: "Memoire", text: "Les conteurs deviennent utiles et le savoir circule.", cost: { savoir: 32, survie: 1450 }, requires: ["outils"], effects: { mult: { savoir: 0.36 }, global: 0.04 } },
+      { id: "tribuStable", name: "Tribu stable", tag: "Unlock", text: "La tribu peut rester, semer et batir. Debloque le Neolithique.", cost: { survie: 5700, nourriture: 3400, savoir: 220 }, requires: ["langage"], effects: { global: 0.08 } }
     ]
   },
   {
@@ -219,45 +219,58 @@ const eraData = [
 ];
 
 const challengeData = [
-  { id: "nuitFroide", era: "prehistoire", name: "Nuit froide", text: "Le passif est reduit a 30%. Gagner 180 Survie pendant le challenge.", goal: { resource: "survie", amount: 180 }, requires: ["feu"], modifiers: { passive: 0.3 }, reward: { mult: { survie: 0.35 }, click: { survie: 1 } } },
-  { id: "mainsNues", era: "prehistoire", name: "Mains nues", text: "Les producteurs sont muets. Gagner 140 Nourriture au clic.", goal: { resource: "nourriture", amount: 140 }, requires: ["outils"], modifiers: { passive: 0 }, reward: { mult: { nourriture: 0.45 } } },
-  { id: "famine", era: "neolithique", name: "Famine", text: "La production de nourriture est divisee par 4. Gagner 12 Population.", goal: { resource: "population", amount: 12 }, requires: ["agriculture"], modifiers: { resource: { nourriture: 0.25 } }, reward: { mult: { population: 0.4 }, discount: 0.03 } },
-  { id: "secheresse", era: "neolithique", name: "Secheresse", text: "Les couts sont plus hauts. Gagner 1500 Nourriture.", goal: { resource: "nourriture", amount: 1500 }, requires: ["stockage"], modifiers: { cost: 1.75 }, reward: { discount: 0.05 } },
-  { id: "chuteCite", era: "antiquite", name: "Chute de la cite", text: "Influence passive -80%. Gagner 1600 Influence.", goal: { resource: "influence", amount: 1600 }, requires: ["lois"], modifiers: { resource: { influence: 0.2 } }, reward: { mult: { influence: 0.55 } } },
-  { id: "bureaucratie", era: "antiquite", name: "Bureaucratie lente", text: "Clic divise par deux, mais le passif tient. Gagner 5000 Savoir.", goal: { resource: "savoir", amount: 5000 }, requires: ["academie"], modifiers: { click: 0.5 }, reward: { mult: { savoir: 0.65 }, global: 0.05 } },
-  { id: "peste", era: "moyenage", name: "Peste noire", text: "Production globale -60%. Gagner 18000 Artisanat.", goal: { resource: "artisanat", amount: 18000 }, requires: ["moulins"], modifiers: { passive: 0.4, click: 0.75 }, reward: { global: 0.12 } },
-  { id: "censure", era: "renaissance", name: "Censure", text: "Le savoir et les idees coutent cher. Gagner 1800 Recherche.", goal: { resource: "recherche", amount: 1800 }, requires: ["methode"], modifiers: { cost: 1.55, resource: { idees: 0.55 } }, reward: { mult: { recherche: 0.7, idees: 0.4 } } },
-  { id: "pollution", era: "industrie", name: "Pollution industrielle", text: "Energie -70%, production intacte. Gagner 120000 Production.", goal: { resource: "production", amount: 120000 }, requires: ["standardisation"], modifiers: { resource: { energie: 0.3 } }, reward: { mult: { production: 0.75 }, global: 0.06 } },
-  { id: "blackout", era: "moderne", name: "Blackout", text: "Passif -50% et energie -80%. Gagner 220000 Recherche.", goal: { resource: "recherche", amount: 220000 }, requires: ["medecine"], modifiers: { passive: 0.5, resource: { energie: 0.2 } }, reward: { mult: { energie: 0.9, recherche: 0.35 } } },
-  { id: "surcharge", era: "numerique", name: "Surcharge reseau", text: "Donnees -65%. Gagner 12000 Calcul.", goal: { resource: "calcul", amount: 12000 }, requires: ["internet"], modifiers: { resource: { donnees: 0.35 } }, reward: { mult: { donnees: 0.9, calcul: 0.65 } } },
-  { id: "isolement", era: "spatial", name: "Isolement spatial", text: "La Terre n'aide presque plus. Gagner 120 Colonies.", goal: { resource: "colonies", amount: 120 }, requires: ["biospheres"], modifiers: { passive: 0.35, click: 1.25 }, reward: { mult: { colonies: 1.1 }, global: 0.08 } }
+  { id: "guerresPuniques", era: "antiquite", name: "Guerres puniques", text: "Les routes commerciales s'effondrent. Influence passive -80%. Gagner 1600 Influence.", goal: { resource: "influence", amount: 1600 }, requires: ["lois"], modifiers: { resource: { influence: 0.2 } }, reward: { mult: { influence: 0.55 } } },
+  { id: "criseRepublique", era: "antiquite", name: "Crise de la Republique", text: "Les decisions se figent. Clic divise par deux, mais le passif tient. Gagner 5000 Savoir.", goal: { resource: "savoir", amount: 5000 }, requires: ["academie"], modifiers: { click: 0.5 }, reward: { mult: { savoir: 0.65 }, global: 0.05 } },
+  { id: "pesteNoire", era: "moyenage", name: "Peste noire", text: "Les reseaux humains ralentissent. Production globale -60%. Gagner 18000 Artisanat.", goal: { resource: "artisanat", amount: 18000 }, requires: ["moulins"], modifiers: { passive: 0.4, click: 0.75 }, reward: { global: 0.12 } },
+  { id: "guerreCentAns", era: "moyenage", name: "Guerre de Cent Ans", text: "Les foires et guildes subissent la guerre. Influence -70%. Gagner 42000 Influence.", goal: { resource: "influence", amount: 42000 }, requires: ["banques"], modifiers: { resource: { influence: 0.3 }, cost: 1.25 }, reward: { mult: { artisanat: 0.45, influence: 0.35 } } },
+  { id: "procesGalilee", era: "renaissance", name: "Proces de Galilee", text: "Les idees nouvelles sont freinees. Idees -45% et couts plus hauts. Gagner 1800 Recherche.", goal: { resource: "recherche", amount: 1800 }, requires: ["methode"], modifiers: { cost: 1.55, resource: { idees: 0.55 } }, reward: { mult: { recherche: 0.7, idees: 0.4 } } },
+  { id: "longitudesPerdues", era: "renaissance", name: "Longitudes perdues", text: "La navigation manque de precision. Influence -60%. Gagner 16000 Idees.", goal: { resource: "idees", amount: 16000 }, requires: ["navigation"], modifiers: { resource: { influence: 0.4 } }, reward: { mult: { influence: 0.45, idees: 0.35 } } },
+  { id: "smogLondres", era: "industrie", name: "Grand smog industriel", text: "Energie -70%, production intacte. Gagner 120000 Production.", goal: { resource: "production", amount: 120000 }, requires: ["standardisation"], modifiers: { resource: { energie: 0.3 } }, reward: { mult: { production: 0.75 }, global: 0.06 } },
+  { id: "criseCharbon", era: "industrie", name: "Crise du charbon", text: "L'energie coute cher. Couts +60% et energie -50%. Gagner 90000 Energie.", goal: { resource: "energie", amount: 90000 }, requires: ["electricite"], modifiers: { cost: 1.6, resource: { energie: 0.5 } }, reward: { mult: { energie: 0.75 }, discount: 0.04 } },
+  { id: "blackout1977", era: "moderne", name: "Blackout de 1977", text: "Passif -50% et energie -80%. Gagner 220000 Recherche.", goal: { resource: "recherche", amount: 220000 }, requires: ["medecine"], modifiers: { passive: 0.5, resource: { energie: 0.2 } }, reward: { mult: { energie: 0.9, recherche: 0.35 } } },
+  { id: "courseAtomique", era: "moderne", name: "Course atomique", text: "La recherche avance sous contrainte. Couts +50%, mais clic recherche +25%. Gagner 900000 Recherche.", goal: { resource: "recherche", amount: 900000 }, requires: ["transistor"], modifiers: { cost: 1.5, click: 1.25 }, reward: { mult: { recherche: 0.8 }, global: 0.06 } },
+  { id: "bugAn2000", era: "numerique", name: "Bug de l'an 2000", text: "Donnees -65%. Gagner 12000 Calcul.", goal: { resource: "calcul", amount: 12000 }, requires: ["internet"], modifiers: { resource: { donnees: 0.35 } }, reward: { mult: { donnees: 0.9, calcul: 0.65 } } },
+  { id: "tempeteSolaire", era: "spatial", name: "Tempete solaire", text: "La Terre n'aide presque plus. Gagner 120 Colonies.", goal: { resource: "colonies", amount: 120 }, requires: ["biospheres"], modifiers: { passive: 0.35, click: 1.25 }, reward: { mult: { colonies: 1.1 }, global: 0.08 } }
 ];
 
 const upgradeTreePositions = [
-  { x: 415, y: 34 },
-  { x: 225, y: 210 },
-  { x: 605, y: 210 },
-  { x: 415, y: 390 },
-  { x: 225, y: 520 },
-  { x: 605, y: 520 }
+  { x: 390, y: 28 },
+  { x: 390, y: 210 },
+  { x: 390, y: 392 },
+  { x: 390, y: 574 },
+  { x: 390, y: 756 },
+  { x: 390, y: 938 }
 ];
 
 const challengeTreePositions = [
-  { x: 795, y: 116 },
-  { x: 795, y: 330 },
-  { x: 35, y: 330 }
+  { x: 665, y: 210 },
+  { x: 115, y: 392 },
+  { x: 665, y: 574 }
 ];
+
+const eraPacing = {
+  prehistoire: {
+    actionEvolution: 0.45,
+    passiveEvolution: 0.018,
+    producerEvolutionCost: 2.3,
+    nodeEvolutionCost: 4.2,
+    challengeEvolutionCost: 2.8
+  }
+};
 
 const milestoneData = [
   { id: "m1", era: "prehistoire", name: "Premier camp", text: "Atteindre 100 Points d'evolution.", condition: (s) => s.resources.evolution >= 100, reward: { click: { evolution: 1, survie: 1 } } },
   { id: "m2", era: "prehistoire", name: "Feu partage", text: "Acheter Feu garde.", condition: () => hasNode("feu"), reward: { mult: { savoir: 0.25 } } },
   { id: "m3", era: "prehistoire", name: "Memoire orale", text: "Avoir 3 nodes de Prehistoire.", condition: () => eraNodeCount("prehistoire") >= 3, reward: { global: 0.06 } },
+  { id: "m25", era: "prehistoire", name: "Cueillette organisee", text: "Posseder 5 Cueilleurs.", condition: () => (state.producers.cueilleurs || 0) >= 5, reward: { mult: { nourriture: 0.18 } } },
+  { id: "m26", era: "prehistoire", name: "Pistes de chasse", text: "Posseder 5 Chasseurs.", condition: () => (state.producers.chasseurs || 0) >= 5, reward: { mult: { survie: 0.18 } } },
+  { id: "m27", era: "prehistoire", name: "Recits du foyer", text: "Posseder 5 Conteurs.", condition: () => (state.producers.conteurs || 0) >= 5, reward: { mult: { savoir: 0.22 } } },
   { id: "m4", era: "neolithique", name: "Premiers champs", text: "Debloquer le Neolithique.", condition: () => isEraUnlocked("neolithique"), reward: { click: { nourriture: 1 } } },
   { id: "m5", era: "neolithique", name: "Village vivant", text: "Atteindre 20 Population.", condition: (s) => s.resources.population >= 20, reward: { mult: { population: 0.3 } } },
   { id: "m6", era: "neolithique", name: "Greniers pleins", text: "Posseder 10 producteurs neolithiques.", condition: () => eraProducerCount("neolithique") >= 10, reward: { discount: 0.03 } },
   { id: "m7", era: "antiquite", name: "Cite ecrite", text: "Debloquer l'Antiquite.", condition: () => isEraUnlocked("antiquite"), reward: { click: { influence: 1 } } },
   { id: "m8", era: "antiquite", name: "Routes actives", text: "Acheter Routes imperiales.", condition: () => hasNode("routes"), reward: { mult: { influence: 0.3 } } },
-  { id: "m9", era: "antiquite", name: "Deux epreuves", text: "Completer 2 challenges.", condition: (s) => s.completedChallenges.length >= 2, reward: { global: 0.1 } },
+  { id: "m9", era: "antiquite", name: "Deux defis antiques", text: "Completer 2 challenges.", condition: (s) => s.completedChallenges.length >= 2, reward: { global: 0.1 } },
   { id: "m10", era: "moyenage", name: "Villes libres", text: "Debloquer le Moyen Age.", condition: () => isEraUnlocked("moyenage"), reward: { mult: { artisanat: 0.45 } } },
   { id: "m11", era: "moyenage", name: "Savoirs copies", text: "Atteindre 100000 Savoir.", condition: (s) => s.resources.savoir >= 100000, reward: { mult: { savoir: 0.35 } } },
   { id: "m12", era: "renaissance", name: "Idees imprimees", text: "Debloquer la Renaissance.", condition: () => isEraUnlocked("renaissance"), reward: { click: { idees: 2 }, mult: { idees: 0.35 } } },
@@ -487,23 +500,24 @@ function renderSideStatus() {
 
 function renderThread() {
   const era = getEra(state.activeEra);
-  const threadNodes = getThreadNodes(era.id);
+  const threadNodes = visibleThreadNodes(era.id);
   const boughtCount = threadNodes.filter((node) => hasNode(node.id)).length;
+  const totalEraNodes = getThreadNodes(era.id).length;
   return `
     <div class="page">
       <header class="page-head">
         <div>
           <p class="kicker">Fil conducteur</p>
           <h2>Arbre de ${era.name}</h2>
-          <p>Le fil est l'arbre principal : nodes d'amelioration, nodes de transition et nodes qui debloquent les challenges de l'age actif.</p>
+          <p>Le fil est l'arbre principal : nodes d'amelioration, nodes de transition, puis a partir de l'Antiquite nodes qui debloquent des defis historiques.</p>
         </div>
         <div class="head-meter">
-          <div class="meter-label"><span>Arbre actif</span><strong>${boughtCount} / ${threadNodes.length}</strong></div>
-          <div class="progress"><span style="--progress:${percentage(boughtCount, threadNodes.length)}%"></span></div>
+          <div class="meter-label"><span>Arbre actif</span><strong>${threadNodeCount(era.id)} / ${totalEraNodes}</strong></div>
+          <div class="progress"><span style="--progress:${percentage(threadNodeCount(era.id), totalEraNodes)}%"></span></div>
         </div>
       </header>
       <div class="era-switcher">
-        ${eraData.map(renderEraSwitch).join("")}
+        ${visibleEraTabs().map(renderEraSwitch).join("")}
       </div>
       <div class="tree-board">
         ${renderTreeLinks(threadNodes)}
@@ -522,6 +536,12 @@ function renderEraSwitch(era) {
       <span>${unlocked ? `${threadNodeCount(era.id)} nodes` : era.unlock.label}</span>
     </button>
   `;
+}
+
+function visibleEraTabs() {
+  const unlocked = unlockedEras();
+  const next = eraData.find((era) => !isEraUnlocked(era.id));
+  return next ? [...unlocked, next] : unlocked;
 }
 
 function renderTreeNode(node) {
@@ -550,10 +570,22 @@ function renderTreeLinks(nodes) {
     (node.requires || []).forEach((requiredId) => {
       const parent = byId[requiredId];
       if (!parent) return;
-      links.push(`<line x1="${parent.x + 95}" y1="${parent.y + 78}" x2="${node.x + 95}" y2="${node.y + 78}"></line>`);
+      links.push(`<path d="${treeConnectorPath(parent, node)}"></path>`);
     });
   });
-  return `<svg class="tree-links" viewBox="0 0 1020 660" aria-hidden="true">${links.join("")}</svg>`;
+  return `<svg class="tree-links" viewBox="0 0 980 1120" aria-hidden="true">${links.join("")}</svg>`;
+}
+
+function treeConnectorPath(parent, node) {
+  const parentX = parent.x + 90;
+  const parentY = parent.y + 142;
+  const nodeX = node.x + 90;
+  const nodeY = node.y;
+  if (Math.abs(parentX - nodeX) < 20) {
+    return `M ${parentX} ${parentY} L ${nodeX} ${nodeY}`;
+  }
+  const midY = parentY + Math.max(24, (nodeY - parentY) * 0.45);
+  return `M ${parentX} ${parentY} C ${parentX} ${midY}, ${nodeX} ${midY}, ${nodeX} ${nodeY}`;
 }
 
 function renderEra() {
@@ -997,7 +1029,8 @@ function producerProduces(producer, effects = computedEffects()) {
   });
   const era = getEraForProducer(producer.id);
   const eraIndex = eraData.findIndex((item) => item.id === era.id);
-  const evolutionBase = 0.08 * Math.pow(5.2, Math.max(0, eraIndex));
+  const pacing = eraPacing[era.id] || {};
+  const evolutionBase = (pacing.passiveEvolution || 0.08) * Math.pow(5.2, Math.max(0, eraIndex));
   const evolutionChallenge = challenge && challenge.modifiers.resource && challenge.modifiers.resource.evolution !== undefined ? challenge.modifiers.resource.evolution : 1;
   result.evolution = (result.evolution || 0) + evolutionBase * effects.global * (effects.resource.evolution || 1) * effects.passive * evolutionChallenge;
   return result;
@@ -1015,7 +1048,8 @@ function clickGains(era) {
     gains[resource] = (amount + clickExtra) * resourceMult * allClick * challengeClick;
   });
   const eraIndex = eraData.findIndex((item) => item.id === era.id);
-  const evolutionBase = Math.pow(4.25, Math.max(0, eraIndex));
+  const pacing = eraPacing[era.id] || {};
+  const evolutionBase = (pacing.actionEvolution || 1) * Math.pow(4.25, Math.max(0, eraIndex));
   const evolutionMult = effects.resource.evolution || 1;
   gains.evolution = (gains.evolution || 0) + evolutionBase * evolutionMult * (1 + effects.clickAll) * challengeClick;
   return gains;
@@ -1083,7 +1117,8 @@ function producerCost(producer) {
   ]));
   const era = getEraForProducer(producer.id);
   const eraIndex = eraData.findIndex((item) => item.id === era.id);
-  const evolutionCost = 14 * Math.pow(7.5, Math.max(0, eraIndex)) * Math.pow(producer.scale, owned) * challengeCost * discount;
+  const pacing = eraPacing[era.id] || {};
+  const evolutionCost = 14 * (pacing.producerEvolutionCost || 1) * Math.pow(7.5, Math.max(0, eraIndex)) * Math.pow(producer.scale, owned) * challengeCost * discount;
   cost.evolution = Math.max(cost.evolution || 0, Math.ceil(evolutionCost));
   return cost;
 }
@@ -1099,7 +1134,8 @@ function nodeCost(node) {
   ]));
   const era = getEraForNode(node.id);
   const eraIndex = eraData.findIndex((item) => item.id === era.id);
-  const evolutionCost = 35 * Math.pow(8.5, Math.max(0, eraIndex)) * challengeCost * discount;
+  const pacing = eraPacing[era.id] || {};
+  const evolutionCost = 35 * (pacing.nodeEvolutionCost || 1) * Math.pow(8.5, Math.max(0, eraIndex)) * challengeCost * discount;
   cost.evolution = Math.max(cost.evolution || 0, Math.ceil(evolutionCost));
   return cost;
 }
@@ -1207,11 +1243,15 @@ function getMilestone(id) {
 
 function getThreadNodes(eraId) {
   const era = getEra(eraId);
-  const upgrades = era.nodes.map((node, index) => ({
-    ...node,
-    kind: "upgrade",
-    ...(upgradeTreePositions[index] || { x: 415 + (index % 3) * 190, y: 520 + Math.floor(index / 3) * 170 })
-  }));
+  const upgrades = era.nodes.map((node, index) => {
+    const previous = era.nodes[index - 1];
+    return {
+      ...node,
+      kind: "upgrade",
+      requires: index === 0 ? node.requires : [previous.id],
+      ...(upgradeTreePositions[index] || { x: 390, y: 938 + (index - 5) * 182 })
+    };
+  });
   const challengeNodes = challengeData
     .filter((challenge) => challenge.era === eraId)
     .map((challenge, index) => ({
@@ -1219,6 +1259,14 @@ function getThreadNodes(eraId) {
       ...(challengeTreePositions[index] || { x: 35 + index * 210, y: 520 })
     }));
   return [...upgrades, ...challengeNodes];
+}
+
+function visibleThreadNodes(eraId) {
+  const allNodes = getThreadNodes(eraId);
+  return allNodes.filter((node) => {
+    if (hasNode(node.id)) return true;
+    return nodeAvailable(node);
+  });
 }
 
 function threadNodeCount(eraId) {
@@ -1247,9 +1295,10 @@ function getChallengeUnlockNode(id) {
 
 function challengeUnlockCost(challenge) {
   const eraIndex = eraData.findIndex((era) => era.id === challenge.era);
+  const pacing = eraPacing[challenge.era] || {};
   const goalResource = challenge.goal.resource;
   return {
-    evolution: Math.ceil(55 * Math.pow(8.5, eraIndex)),
+    evolution: Math.ceil(55 * (pacing.challengeEvolutionCost || 1) * Math.pow(8.5, eraIndex)),
     [goalResource]: Math.ceil(challenge.goal.amount * 0.34)
   };
 }

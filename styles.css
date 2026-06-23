@@ -357,6 +357,8 @@ h3 {
   gap: 8px;
   overflow-x: auto;
   padding-bottom: 4px;
+  max-width: 980px;
+  margin: 0 auto;
 }
 
 .era-tab {
@@ -393,7 +395,9 @@ h3 {
 
 .tree-board {
   position: relative;
-  min-height: 660px;
+  width: min(980px, 100%);
+  min-height: 720px;
+  margin: 0 auto;
   overflow: auto;
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -410,26 +414,28 @@ h3 {
   position: absolute;
   left: 0;
   top: 0;
-  width: 1020px;
-  height: 660px;
+  width: 980px;
+  height: 1120px;
   pointer-events: none;
   z-index: 0;
 }
 
-.tree-links line {
+.tree-links path {
   stroke: rgba(24, 28, 33, 0.42);
   stroke-linecap: round;
-  stroke-width: 8;
+  stroke-linejoin: round;
+  stroke-width: 6;
+  fill: none;
 }
 
 .tree-node {
   position: absolute;
   display: flex;
   z-index: 1;
-  width: 190px;
-  min-height: 156px;
+  width: 180px;
+  min-height: 142px;
   flex-direction: column;
-  padding: 12px;
+  padding: 10px;
   border: 3px solid #466b37;
   border-radius: 12px;
   background: #86c66b;
@@ -462,14 +468,14 @@ h3 {
 }
 
 .tree-node h3 {
-  font-size: 0.94rem;
+  font-size: 0.88rem;
   text-align: center;
 }
 
 .tree-node p {
-  margin-top: 5px;
+  margin-top: 4px;
   color: #182015;
-  font-size: 0.78rem;
+  font-size: 0.72rem;
   line-height: 1.28;
   text-align: center;
 }
@@ -477,15 +483,15 @@ h3 {
 .tree-node .cost-line {
   margin-top: auto;
   color: #1d2919;
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   text-align: center;
 }
 
 .tree-node .node-button {
-  min-height: 34px;
-  margin-top: 8px;
+  min-height: 32px;
+  margin-top: 7px;
   padding: 6px 9px;
-  font-size: 0.78rem;
+  font-size: 0.74rem;
 }
 
 .era-card {
