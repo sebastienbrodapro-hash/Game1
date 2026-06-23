@@ -3,117 +3,59 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Atelier Stellaire</title>
-    <meta name="description" content="Jeu web incremental local en HTML, CSS et JavaScript.">
+    <title>Chronique Incrementale</title>
+    <meta name="description" content="Jeu incremental historique avec arbre de progression, challenges et milestones.">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <div class="stars" aria-hidden="true"></div>
     <div class="app-shell">
-      <header class="topbar">
-        <div>
-          <p class="eyebrow">Prototype local</p>
-          <h1>Atelier Stellaire</h1>
+      <aside class="sidebar">
+        <div class="brand">
+          <img src="assets/chronicle.svg" alt="" draggable="false">
+          <div>
+            <p class="kicker">Tree incremental</p>
+            <h1>Chronique</h1>
+          </div>
         </div>
-        <div class="topbar-actions" aria-label="Sauvegarde">
-          <span id="saveStatus" class="save-status">Sauvegarde prete</span>
-          <button id="exportSave" class="icon-button" type="button" title="Exporter la sauvegarde" aria-label="Exporter la sauvegarde">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v11m0 0 4-4m-4 4-4-4M5 17v3h14v-3"/></svg>
-          </button>
-          <button id="importSave" class="icon-button" type="button" title="Importer une sauvegarde" aria-label="Importer une sauvegarde">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21V10m0 0 4 4m-4-4-4 4M5 7V4h14v3"/></svg>
-          </button>
-          <button id="resetSave" class="icon-button danger" type="button" title="Reinitialiser" aria-label="Reinitialiser">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M9 7V4h6v3m-8 0 1 13h8l1-13"/></svg>
-          </button>
+
+        <nav id="layoutNav" class="layout-nav" aria-label="Navigation principale"></nav>
+
+        <div class="side-panel">
+          <span class="panel-label">Epoque active</span>
+          <strong id="activeEraName">Prehistoire</strong>
+          <small id="activeEraRange">2.5M - 10 000 av. J.-C.</small>
         </div>
-      </header>
 
-      <main class="game-layout">
-        <section class="reactor-zone" aria-labelledby="reactorTitle">
-          <div class="score-strip">
-            <div>
-              <span class="metric-label">Etincelles</span>
-              <strong id="sparkCount">0</strong>
-            </div>
-            <div>
-              <span class="metric-label">Par seconde</span>
-              <strong id="sparkRate">0</strong>
-            </div>
-            <div>
-              <span class="metric-label">Impact du clic</span>
-              <strong id="clickPower">1</strong>
-            </div>
+        <div class="side-panel">
+          <span class="panel-label">Challenge</span>
+          <strong id="activeChallengeName">Aucun</strong>
+          <small id="activeChallengeInfo">Progression libre</small>
+        </div>
+      </aside>
+
+      <main class="main-area">
+        <header class="topbar">
+          <div id="resourceStrip" class="resource-strip" aria-label="Ressources"></div>
+          <div class="toolbar">
+            <span id="saveStatus" class="save-status">Sauvegarde prete</span>
+            <button id="exportSave" class="tool-button" type="button">Exporter</button>
+            <button id="importSave" class="tool-button" type="button">Importer</button>
+            <button id="resetSave" class="tool-button danger" type="button">Reset</button>
           </div>
+        </header>
 
-          <button id="reactorButton" class="reactor-button" type="button" aria-describedby="reactorTitle">
-            <span class="pulse-ring"></span>
-            <img src="assets/reactor.svg" alt="" draggable="false">
-            <span class="reactor-glow"></span>
-          </button>
-
-          <div class="reactor-copy">
-            <p class="eyebrow">Noyau actif</p>
-            <h2 id="reactorTitle">Forge des constellations</h2>
-            <p id="rankLabel" class="rank-label">Rang I - Allumage</p>
-          </div>
-        </section>
-
-        <section class="panel shop-panel" aria-labelledby="shopTitle">
-          <div class="panel-heading">
-            <div>
-              <p class="eyebrow">Atelier</p>
-              <h2 id="shopTitle">Machines</h2>
-            </div>
-            <img src="assets/workshop.svg" alt="" class="panel-art" draggable="false">
-          </div>
-          <div id="buildingList" class="stack"></div>
-        </section>
-
-        <section class="panel upgrade-panel" aria-labelledby="upgradeTitle">
-          <div class="panel-heading">
-            <div>
-              <p class="eyebrow">Recherche</p>
-              <h2 id="upgradeTitle">Ameliorations</h2>
-            </div>
-            <img src="assets/crystal.svg" alt="" class="panel-art" draggable="false">
-          </div>
-          <div id="upgradeList" class="stack"></div>
-        </section>
-
-        <section class="panel orders-panel" aria-labelledby="ordersTitle">
-          <div class="panel-heading">
-            <div>
-              <p class="eyebrow">Commandes</p>
-              <h2 id="ordersTitle">Objectifs</h2>
-            </div>
-            <span id="completedOrders" class="badge">0 / 0</span>
-          </div>
-          <div id="orderList" class="stack compact"></div>
-        </section>
-
-        <section class="panel log-panel" aria-labelledby="logTitle">
-          <div class="panel-heading">
-            <div>
-              <p class="eyebrow">Journal</p>
-              <h2 id="logTitle">Derniers gains</h2>
-            </div>
-          </div>
-          <ol id="eventLog" class="event-log"></ol>
-        </section>
+        <section id="stage" class="stage" aria-live="polite"></section>
       </main>
     </div>
 
     <dialog id="saveDialog" class="save-dialog">
       <form method="dialog">
-        <div class="panel-heading">
+        <div class="dialog-head">
           <div>
-            <p class="eyebrow">Sauvegarde</p>
+            <p class="kicker">Sauvegarde</p>
             <h2 id="dialogTitle">Exporter</h2>
           </div>
-          <button class="icon-button" value="close" aria-label="Fermer">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
-          </button>
+          <button class="icon-close" value="close" aria-label="Fermer">x</button>
         </div>
         <textarea id="savePayload" spellcheck="false"></textarea>
         <div class="dialog-actions">

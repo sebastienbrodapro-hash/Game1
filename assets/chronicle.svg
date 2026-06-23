@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Chronique">
+  <defs>
+    <linearGradient id="g" x1="24" x2="156" y1="24" y2="156" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f4d17b"/>
+      <stop offset=".45" stop-color="#7dd0a6"/>
+      <stop offset="1" stop-color="#7aa9d6"/>
+    </linearGradient>
+  </defs>
+  <rect x="14" y="14" width="152" height="152" rx="24" fill="#181c21"/>
+  <path d="M46 132c18-58 68-70 88-84" fill="none" stroke="url(#g)" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="47" cy="132" r="14" fill="#f4d17b"/>
+  <circle cx="80" cy="88" r="12" fill="#7dd0a6"/>
+  <circle cx="134" cy="48" r="14" fill="#7aa9d6"/>
+  <path d="M70 132h64M46 48h48M90 88h44" fill="none" stroke="#f8faf7" stroke-width="8" stroke-linecap="round" opacity=".65"/>
+</svg>

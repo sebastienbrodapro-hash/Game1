@@ -1,6 +1,8 @@
-# Atelier Stellaire
+# Chronique Incrementale
 
-Jeu web incremental statique en HTML, CSS et JavaScript vanilla.
+Jeu web incremental historique en HTML, CSS et JavaScript vanilla.
+
+Le projet part d'un arbre de progression inspire des tree incrementals : epoques historiques, nodes, challenges, milestones et transmission/prestige.
 
 ## Lancer depuis Git
 
@@ -15,9 +17,12 @@ Aucun serveur local et aucune dependance ne sont necessaires.
 
 ## Boucle de jeu
 
-- Produire des etincelles depuis le noyau.
-- Acheter des machines pour augmenter la production passive.
-- Debloquer des ameliorations et accomplir des commandes.
+- Suivre le fil conducteur, de la Prehistoire au Futur.
+- Accumuler des Points d'evolution, ressource principale pendant tout le jeu.
+- Produire des ressources propres a chaque epoque.
+- Acheter des producteurs et des nodes dans l'arbre.
+- Completer des challenges historiques avec contraintes.
+- Debloquer des milestones et transmettre l'heritage.
 - La sauvegarde est automatique dans le navigateur.
 
 ## Structure
