@@ -233,6 +233,21 @@ const challengeData = [
   { id: "isolement", era: "spatial", name: "Isolement spatial", text: "La Terre n'aide presque plus. Gagner 120 Colonies.", goal: { resource: "colonies", amount: 120 }, requires: ["biospheres"], modifiers: { passive: 0.35, click: 1.25 }, reward: { mult: { colonies: 1.1 }, global: 0.08 } }
 ];
 
+const upgradeTreePositions = [
+  { x: 415, y: 34 },
+  { x: 225, y: 210 },
+  { x: 605, y: 210 },
+  { x: 415, y: 390 },
+  { x: 225, y: 520 },
+  { x: 605, y: 520 }
+];
+
+const challengeTreePositions = [
+  { x: 795, y: 116 },
+  { x: 795, y: 330 },
+  { x: 35, y: 330 }
+];
+
 const milestoneData = [
   { id: "m1", era: "prehistoire", name: "Premier camp", text: "Atteindre 100 Points d'evolution.", condition: (s) => s.resources.evolution >= 100, reward: { click: { evolution: 1, survie: 1 } } },
   { id: "m2", era: "prehistoire", name: "Feu partage", text: "Acheter Feu garde.", condition: () => hasNode("feu"), reward: { mult: { savoir: 0.25 } } },
@@ -471,45 +486,74 @@ function renderSideStatus() {
 }
 
 function renderThread() {
-  const unlockedCount = unlockedEras().length;
+  const era = getEra(state.activeEra);
+  const threadNodes = getThreadNodes(era.id);
+  const boughtCount = threadNodes.filter((node) => hasNode(node.id)).length;
   return `
     <div class="page">
       <header class="page-head">
         <div>
           <p class="kicker">Fil conducteur</p>
-          <h2>Des premieres braises a la singularite</h2>
-          <p>Chaque epoque est un layer. Achete ses nodes, traverse ses challenges, empile des milestones et ouvre la periode suivante.</p>
+          <h2>Arbre de ${era.name}</h2>
+          <p>Le fil est l'arbre principal : nodes d'amelioration, nodes de transition et nodes qui debloquent les challenges de l'age actif.</p>
         </div>
         <div class="head-meter">
-          <div class="meter-label"><span>Epoques ouvertes</span><strong>${unlockedCount} / ${eraData.length}</strong></div>
-          <div class="progress"><span style="--progress:${percentage(unlockedCount, eraData.length)}%"></span></div>
+          <div class="meter-label"><span>Arbre actif</span><strong>${boughtCount} / ${threadNodes.length}</strong></div>
+          <div class="progress"><span style="--progress:${percentage(boughtCount, threadNodes.length)}%"></span></div>
         </div>
       </header>
-      <div class="timeline">
-        ${eraData.map((era, index) => renderEraCard(era, index)).join("")}
+      <div class="era-switcher">
+        ${eraData.map(renderEraSwitch).join("")}
+      </div>
+      <div class="tree-board">
+        ${renderTreeLinks(threadNodes)}
+        ${threadNodes.map(renderTreeNode).join("")}
       </div>
     </div>
   `;
 }
 
-function renderEraCard(era, index) {
+function renderEraSwitch(era) {
   const unlocked = isEraUnlocked(era.id);
   const current = state.activeEra === era.id;
-  const nodeCount = eraNodeCount(era.id);
-  const totalNodes = era.nodes.length;
   return `
-    <article class="era-card ${unlocked ? "" : "locked"} ${current ? "current" : ""}">
-      <span class="era-index">${index + 1}</span>
-      <div>
-        <h3>${era.name}</h3>
-        <p>${era.range}. ${era.theme}</p>
-        <p>${unlocked ? `${nodeCount} / ${totalNodes} nodes achetes.` : `Verrou : ${era.unlock.label}.`}</p>
-      </div>
-      <div class="era-actions">
-        <button class="ghost-button" type="button" data-era="${era.id}" ${unlocked ? "" : "disabled"}>${current ? "Active" : "Ouvrir"}</button>
-      </div>
+    <button class="era-tab ${current ? "active" : ""}" type="button" data-era="${era.id}" ${unlocked ? "" : "disabled"}>
+      <strong>${era.name}</strong>
+      <span>${unlocked ? `${threadNodeCount(era.id)} nodes` : era.unlock.label}</span>
+    </button>
+  `;
+}
+
+function renderTreeNode(node) {
+  const bought = hasNode(node.id);
+  const available = nodeAvailable(node);
+  const challenge = node.kind === "challenge" ? getChallenge(node.challengeId) : null;
+  const completed = challenge ? state.completedChallenges.includes(challenge.id) : false;
+  const label = bought
+    ? challenge ? completed ? "Complete" : "Debloque" : "Acquis"
+    : available ? "Debloquer" : "Verrouille";
+  return `
+    <article class="tree-node ${node.kind === "challenge" ? "challenge" : "upgrade"} ${bought ? "bought" : ""} ${available ? "" : "locked"} ${completed ? "done" : ""}" style="left:${node.x}px; top:${node.y}px">
+      <span class="node-tag">${node.tag}</span>
+      <h3>${node.name}</h3>
+      <p>${node.text}</p>
+      <div class="cost-line">${bought ? (challenge ? "Challenge disponible dans le layout Challenges" : "Bonus actif") : available ? formatCost(nodeCost(node)) : requirementText(node)}</div>
+      <button class="node-button" type="button" data-buy-node="${node.id}" ${bought || !available || !canPay(nodeCost(node)) ? "disabled" : ""}>${label}</button>
     </article>
   `;
+}
+
+function renderTreeLinks(nodes) {
+  const links = [];
+  const byId = Object.fromEntries(nodes.map((node) => [node.id, node]));
+  nodes.forEach((node) => {
+    (node.requires || []).forEach((requiredId) => {
+      const parent = byId[requiredId];
+      if (!parent) return;
+      links.push(`<line x1="${parent.x + 95}" y1="${parent.y + 78}" x2="${node.x + 95}" y2="${node.y + 78}"></line>`);
+    });
+  });
+  return `<svg class="tree-links" viewBox="0 0 1020 660" aria-hidden="true">${links.join("")}</svg>`;
 }
 
 function renderEra() {
@@ -823,11 +867,17 @@ function buyNode(id) {
 function startChallenge(id) {
   const challenge = getChallenge(id);
   if (!challengeAvailable(challenge) || state.completedChallenges.includes(id) || state.activeChallenge) return;
+  const backup = snapshotChallengeState();
+  resetForChallenge(challenge);
   state.activeChallenge = {
     id,
+    era: challenge.era,
     start: { ...state.resources },
-    startedAt: Date.now()
+    startedAt: Date.now(),
+    backup
   };
+  state.activeEra = challenge.era;
+  state.activeLayout = "era";
   addLog(`Challenge commence : ${challenge.name}.`);
   render();
 }
@@ -835,8 +885,12 @@ function startChallenge(id) {
 function completeChallenge(id) {
   const challenge = getChallenge(id);
   if (!state.activeChallenge || state.activeChallenge.id !== id || challengeProgress(challenge) < 1) return;
+  const backup = state.activeChallenge.backup;
+  restoreChallengeState(backup);
   state.completedChallenges.push(id);
   state.activeChallenge = null;
+  state.activeEra = challenge.era;
+  state.activeLayout = "challenges";
   addLog(`Challenge complete : ${challenge.name}.`);
   checkMilestones();
   render();
@@ -845,9 +899,60 @@ function completeChallenge(id) {
 function abandonChallenge() {
   if (!state.activeChallenge) return;
   const challenge = getChallenge(state.activeChallenge.id);
+  const backup = state.activeChallenge.backup;
+  restoreChallengeState(backup);
   addLog(`Challenge abandonne : ${challenge.name}.`);
   state.activeChallenge = null;
+  state.activeEra = challenge.era;
+  state.activeLayout = "challenges";
   render();
+}
+
+function snapshotChallengeState() {
+  return {
+    resources: { ...state.resources },
+    producers: { ...state.producers },
+    nodes: [...state.nodes],
+    milestones: [...state.milestones],
+    completedChallenges: [...state.completedChallenges],
+    totals: { ...state.totals },
+    activeEra: state.activeEra,
+    activeLayout: state.activeLayout,
+    totalActions: state.totalActions,
+    log: [...state.log]
+  };
+}
+
+function restoreChallengeState(backup) {
+  state.resources = { ...backup.resources };
+  state.producers = { ...backup.producers };
+  state.nodes = [...backup.nodes];
+  state.milestones = [...backup.milestones];
+  state.completedChallenges = [...backup.completedChallenges];
+  state.totals = { ...backup.totals };
+  state.activeEra = backup.activeEra;
+  state.activeLayout = backup.activeLayout;
+  state.totalActions = backup.totalActions;
+  state.log = [...backup.log];
+}
+
+function resetForChallenge(challenge) {
+  const eraIndex = eraData.findIndex((era) => era.id === challenge.era);
+  const resetEras = eraData.slice(eraIndex);
+  const resetResources = new Set(resetEras.flatMap((era) => eraResourceKeys(era.id)));
+  resetResources.forEach((resource) => {
+    if (resource !== "evolution" && resource !== "heritage") state.resources[resource] = 0;
+  });
+  resetEras.flatMap((era) => era.generators).forEach((producer) => {
+    state.producers[producer.id] = 0;
+  });
+  const resetNodeIds = new Set(resetEras.flatMap((era) => getThreadNodes(era.id).map((node) => node.id)));
+  state.nodes = state.nodes.filter((nodeId) => !resetNodeIds.has(nodeId));
+  const era = getEra(challenge.era);
+  Object.entries(era.action).forEach(([resource, amount]) => {
+    state.resources[resource] = Math.max(state.resources[resource] || 0, amount * 8);
+  });
+  state.resources.evolution = Math.max(state.resources.evolution, 10 * Math.pow(5, eraIndex));
 }
 
 function transmitCivilization() {
@@ -926,6 +1031,7 @@ function computedEffects() {
     generator: {},
     discount: 0
   };
+  effects.global += Math.log10(1 + Math.max(0, state.resources.evolution)) * 0.035;
   const apply = (effect) => {
     if (!effect) return;
     if (effect.global) effects.global += effect.global;
@@ -1015,7 +1121,7 @@ function nodeAvailable(node) {
 }
 
 function challengeAvailable(challenge) {
-  return isEraUnlocked(challenge.era) && (!challenge.requires || challenge.requires.every(hasNode));
+  return isEraUnlocked(challenge.era) && hasNode(challengeUnlockNodeId(challenge.id));
 }
 
 function challengeProgress(challenge) {
@@ -1079,6 +1185,7 @@ function getNode(id) {
     const node = era.nodes.find((item) => item.id === id);
     if (node) return node;
   }
+  if (id.startsWith("challenge-")) return getChallengeUnlockNode(id);
   return null;
 }
 
@@ -1098,7 +1205,60 @@ function getMilestone(id) {
   return milestoneData.find((milestone) => milestone.id === id);
 }
 
+function getThreadNodes(eraId) {
+  const era = getEra(eraId);
+  const upgrades = era.nodes.map((node, index) => ({
+    ...node,
+    kind: "upgrade",
+    ...(upgradeTreePositions[index] || { x: 415 + (index % 3) * 190, y: 520 + Math.floor(index / 3) * 170 })
+  }));
+  const challengeNodes = challengeData
+    .filter((challenge) => challenge.era === eraId)
+    .map((challenge, index) => ({
+      ...getChallengeUnlockNode(challengeUnlockNodeId(challenge.id)),
+      ...(challengeTreePositions[index] || { x: 35 + index * 210, y: 520 })
+    }));
+  return [...upgrades, ...challengeNodes];
+}
+
+function threadNodeCount(eraId) {
+  return getThreadNodes(eraId).filter((node) => hasNode(node.id)).length;
+}
+
+function challengeUnlockNodeId(challengeId) {
+  return `challenge-${challengeId}`;
+}
+
+function getChallengeUnlockNode(id) {
+  const challengeId = id.replace("challenge-", "");
+  const challenge = getChallenge(challengeId);
+  return {
+    id,
+    kind: "challenge",
+    challengeId,
+    name: `Epreuve : ${challenge.name}`,
+    tag: "Challenge",
+    text: `Debloque le challenge "${challenge.name}". ${challenge.text}`,
+    cost: challengeUnlockCost(challenge),
+    requires: challenge.requires || [],
+    effects: {}
+  };
+}
+
+function challengeUnlockCost(challenge) {
+  const eraIndex = eraData.findIndex((era) => era.id === challenge.era);
+  const goalResource = challenge.goal.resource;
+  return {
+    evolution: Math.ceil(55 * Math.pow(8.5, eraIndex)),
+    [goalResource]: Math.ceil(challenge.goal.amount * 0.34)
+  };
+}
+
 function getEraForNode(id) {
+  if (id.startsWith("challenge-")) {
+    const challenge = getChallenge(id.replace("challenge-", ""));
+    return getEra(challenge.era);
+  }
   return eraData.find((era) => era.nodes.some((node) => node.id === id));
 }
 
@@ -1108,6 +1268,26 @@ function getEraForProducer(id) {
 
 function activeChallengeData() {
   return state.activeChallenge ? getChallenge(state.activeChallenge.id) : null;
+}
+
+function eraResourceKeys(eraId) {
+  const era = getEra(eraId);
+  const resources = new Set(Object.keys(era.action));
+  era.generators.forEach((producer) => {
+    Object.keys(producer.cost).forEach((resource) => resources.add(resource));
+    Object.keys(producer.produces).forEach((resource) => resources.add(resource));
+  });
+  era.nodes.forEach((node) => {
+    Object.keys(node.cost).forEach((resource) => resources.add(resource));
+    Object.keys(node.effects?.click || {}).forEach((resource) => resources.add(resource));
+    Object.keys(node.effects?.mult || {}).forEach((resource) => resources.add(resource));
+  });
+  challengeData.filter((challenge) => challenge.era === eraId).forEach((challenge) => {
+    resources.add(challenge.goal.resource);
+    Object.keys(challenge.reward?.click || {}).forEach((resource) => resources.add(resource));
+    Object.keys(challenge.reward?.mult || {}).forEach((resource) => resources.add(resource));
+  });
+  return [...resources];
 }
 
 function eraNodeCount(eraId) {

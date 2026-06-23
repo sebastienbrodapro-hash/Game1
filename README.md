@@ -20,8 +20,10 @@ Aucun serveur local et aucune dependance ne sont necessaires.
 - Suivre le fil conducteur, de la Prehistoire au Futur.
 - Accumuler des Points d'evolution, ressource principale pendant tout le jeu.
 - Produire des ressources propres a chaque epoque.
-- Acheter des producteurs et des nodes dans l'arbre.
-- Completer des challenges historiques avec contraintes.
+- Acheter des producteurs et des nodes dans l'arbre central.
+- Debloquer des challenges via des nodes dedies.
+- Completer des challenges historiques qui redemarrent temporairement l'age courant avec des contraintes negatives.
+- Conserver les bonus d'evolution, milestones et recompenses permanentes pendant les challenges.
 - Debloquer des milestones et transmettre l'heritage.
 - La sauvegarde est automatique dans le navigateur.
 
