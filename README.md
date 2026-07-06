@@ -1,8 +1,8 @@
-# Chronique Incrementale
+# Chronique Incrémentale
 
-Jeu web incremental historique en HTML, CSS et JavaScript vanilla.
+Jeu web incrémental historique en HTML, CSS et JavaScript vanilla.
 
-Le projet part d'un arbre de progression inspire des tree incrementals : epoques historiques, nodes, challenges, milestones et transmission/prestige.
+Le projet part d'un arbre de progression inspiré des tree incrementals (Antimatter Dimensions, Celestial Incremental) : époques historiques, jalons, challenges, milestones et transmission/prestige.
 
 ## Lancer depuis Git
 
@@ -13,30 +13,40 @@ cd Game1
 
 Ouvrir ensuite `index.html` dans le navigateur.
 
-Aucun serveur local et aucune dependance ne sont necessaires.
+Aucun serveur local et aucune dépendance ne sont nécessaires.
 
 ## Boucle de jeu
 
-- Suivre le fil conducteur, de la Prehistoire au Futur.
-- Accumuler des Points d'evolution, ressource principale pendant tout le jeu.
-- Produire des ressources propres a chaque epoque.
-- Acheter des producteurs et des nodes dans l'arbre central.
+- Suivre le fil conducteur, de la Préhistoire au Futur.
+- Accumuler des Points d'évolution, ressource principale pendant tout le jeu.
+- Produire des ressources propres à chaque époque.
+- Acheter des métiers et des jalons dans les deux arbres de l'époque active.
 - Franchir des paliers de 10 producteurs pour obtenir des sauts de production.
-- Debloquer des challenges via des nodes dedies.
-- Completer des challenges historiques qui redemarrent temporairement l'age courant avec des contraintes negatives.
-- Conserver les bonus d'evolution, milestones et recompenses permanentes pendant les challenges.
-- Debloquer des milestones et transmettre l'heritage.
+- Débloquer des challenges via des jalons d'épreuve dans l'arbre.
+- Compléter des challenges historiques qui redémarrent temporairement l'âge courant avec des contraintes négatives.
+- Conserver les bonus d'évolution, milestones et récompenses permanentes pendant les challenges.
+- Débloquer des milestones et transmettre l'héritage.
 - La sauvegarde est automatique dans le navigateur.
 
-## Pacing actuel
+## Interface
 
-La Prehistoire est calibree comme premier layout long, avec 10 nodes visibles progressivement et 5 chaines de progression qui convergent vers `Tribu stable`.
+- Thème sombre atmosphérique ; chaque époque teinte l'interface de sa couleur.
+- Arbres façon « Hex of Power » (Celestial Incremental) : nodes compacts reliés par des branches, achat au clic direct sur le node.
+- Détails (description, coûts avec possédé/requis, production, prérequis, effets) dans une infobulle au survol.
+- Sélecteur d'achat ×1 / ×10 / Max pour les métiers.
+- Toasts d'événements : paliers atteints, jalons et métiers révélés, époque débloquée, épreuve prête.
+- Rendu incrémental : l'arbre n'est reconstruit qu'aux achats, les états (abordable, en attente, verrouillé) sont mis à jour en continu.
 
-Simulation indicative jusqu'au Neolithique :
+## Contenu actuel
 
-- jeu actif regulier : environ 29 minutes ;
-- jeu modere : environ 59 minutes ;
-- jeu passif : environ 2 h 50.
+- Préhistoire : 10 jalons, 7 métiers en chaînes, premier layout long.
+- Néolithique : 11 jalons, 7 métiers, 2 challenges (Grande sécheresse, Hiver volcanique).
+- Antiquité : 11 jalons, 6 métiers, 2 challenges (Guerres puniques, Crise de la République).
+- Moyen Âge → Futur lointain : squelettes à enrichir sur le même modèle.
+
+## Pacing
+
+La Préhistoire est calibrée comme premier layout long, avec 10 jalons révélés progressivement et 5 chaînes de progression qui convergent vers `Tribu stable`. Le Néolithique et l'Antiquité suivent la même logique : chaque jalon révèle la suite de l'arbre et ouvre de nouveaux métiers.
 
 ## Structure
 

@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Chronique Incrementale</title>
-    <meta name="description" content="Jeu incremental historique avec arbre de progression, challenges et milestones.">
+    <title>Chronique Incrémentale</title>
+    <meta name="description" content="Jeu incrémental historique avec arbre de progression, challenges et milestones.">
     <link rel="stylesheet" href="styles.css">
   </head>
-  <body>
+  <body data-era="prehistoire">
     <div class="app-shell">
       <aside class="sidebar">
         <div class="brand">
@@ -21,9 +21,9 @@
         <nav id="layoutNav" class="layout-nav" aria-label="Navigation principale"></nav>
 
         <div class="side-panel">
-          <span class="panel-label">Epoque active</span>
-          <strong id="activeEraName">Prehistoire</strong>
-          <small id="activeEraRange">2.5M - 10 000 av. J.-C.</small>
+          <span class="panel-label">Époque active</span>
+          <strong id="activeEraName">Préhistoire</strong>
+          <small id="activeEraRange">2,5M - 10 000 av. J.-C.</small>
         </div>
 
         <div class="side-panel">
@@ -37,7 +37,7 @@
         <header class="topbar">
           <div id="resourceStrip" class="resource-strip" aria-label="Ressources"></div>
           <div class="toolbar">
-            <span id="saveStatus" class="save-status">Sauvegarde prete</span>
+            <span id="saveStatus" class="save-status">Sauvegarde prête</span>
             <button id="exportSave" class="tool-button" type="button">Exporter</button>
             <button id="importSave" class="tool-button" type="button">Importer</button>
             <button id="resetSave" class="tool-button danger" type="button">Reset</button>
@@ -48,6 +48,9 @@
       </main>
     </div>
 
+    <div id="tooltip" class="tooltip" hidden></div>
+    <div id="toasts" class="toasts" aria-live="polite"></div>
+
     <dialog id="saveDialog" class="save-dialog">
       <form method="dialog">
         <div class="dialog-head">
@@ -55,7 +58,7 @@
             <p class="kicker">Sauvegarde</p>
             <h2 id="dialogTitle">Exporter</h2>
           </div>
-          <button class="icon-close" value="close" aria-label="Fermer">x</button>
+          <button class="icon-close" value="close" aria-label="Fermer">×</button>
         </div>
         <textarea id="savePayload" spellcheck="false"></textarea>
         <div class="dialog-actions">
