@@ -931,18 +931,152 @@ h3 {
   transform: none;
 }
 
-/* ---------- Transmission ---------- */
+/* ---------- Armée & prestige ---------- */
 
-.transmission-card {
-  display: grid;
-  gap: 14px;
-  padding: 20px;
-  border: 1px solid color-mix(in srgb, var(--gold) 30%, var(--line));
-  border-radius: 16px;
+.tree-node.army {
+  --node-accent: #9fb6d9;
+}
+
+.tree-links line.dim {
+  stroke: rgba(148, 163, 184, 0.09);
+}
+
+.army-board {
+  max-height: none;
+}
+
+.ff-value {
+  color: var(--gold);
+  text-shadow: 0 0 22px color-mix(in srgb, var(--gold) 35%, transparent);
+}
+
+.transmission-panel {
+  border-color: color-mix(in srgb, var(--gold) 30%, var(--line));
   background:
-    radial-gradient(420px 200px at 50% 0%, color-mix(in srgb, var(--gold) 9%, transparent), transparent 85%),
+    radial-gradient(420px 160px at 20% 0%, color-mix(in srgb, var(--gold) 8%, transparent), transparent 85%),
     var(--panel);
 }
+
+.transmission-panel .panel-head {
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.transmit-button {
+  min-height: 54px;
+  flex: 0 0 auto;
+  border-color: color-mix(in srgb, var(--gold) 65%, transparent);
+  background: linear-gradient(160deg, color-mix(in srgb, var(--gold) 92%, #fff 6%), color-mix(in srgb, var(--gold) 60%, #14100a));
+  box-shadow: 0 10px 26px color-mix(in srgb, var(--gold) 22%, transparent);
+}
+
+.campaign-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 12px;
+}
+
+.campaign-card {
+  display: flex;
+  flex-direction: column;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--panel-solid);
+}
+
+.campaign-card p {
+  color: var(--muted);
+  line-height: 1.42;
+  font-size: 0.85rem;
+}
+
+.campaign-card h3 {
+  margin-bottom: 5px;
+}
+
+.campaign-card.ready {
+  border-color: color-mix(in srgb, var(--gold) 55%, transparent);
+  box-shadow: 0 0 22px color-mix(in srgb, var(--gold) 12%, transparent);
+}
+
+.campaign-card.done {
+  border-color: color-mix(in srgb, var(--ok) 38%, transparent);
+  background: color-mix(in srgb, var(--ok) 5%, var(--panel-solid));
+  opacity: 0.85;
+}
+
+/* ---------- Reliques ---------- */
+
+.relic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 12px;
+}
+
+.relic-card {
+  display: flex;
+  flex-direction: column;
+  padding: 14px;
+  border: 1px solid color-mix(in srgb, var(--violet) 26%, var(--line));
+  border-radius: 14px;
+  background:
+    radial-gradient(200px 90px at 50% 0%, color-mix(in srgb, var(--violet) 8%, transparent), transparent 90%),
+    var(--panel-solid);
+}
+
+.relic-card h3 {
+  margin-bottom: 5px;
+}
+
+.relic-card p {
+  color: var(--muted);
+  line-height: 1.42;
+  font-size: 0.84rem;
+}
+
+.relic-icon {
+  font-size: 1.7rem;
+  line-height: 1;
+  margin-bottom: 8px;
+  filter: drop-shadow(0 0 14px color-mix(in srgb, var(--violet) 40%, transparent));
+}
+
+.relic-card.hidden {
+  border-style: dashed;
+  border-color: var(--line-strong);
+  background: var(--panel-solid);
+  opacity: 0.62;
+}
+
+.relic-card.hidden .relic-icon {
+  filter: none;
+  opacity: 0.5;
+}
+
+.set-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.set-chip {
+  padding: 3px 9px;
+  border: 1px solid var(--line-strong);
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 0.7rem;
+  font-weight: 750;
+}
+
+.set-chip.done {
+  border-color: color-mix(in srgb, var(--ok) 50%, transparent);
+  color: color-mix(in srgb, var(--ok) 85%, #fff 10%);
+  background: color-mix(in srgb, var(--ok) 10%, transparent);
+}
+
+/* ---------- Transmission (héritée) ---------- */
 
 .transmission-value {
   font-size: clamp(2rem, 5vw, 4.2rem);
@@ -950,11 +1084,6 @@ h3 {
   line-height: 0.95;
   color: var(--gold);
   text-shadow: 0 0 34px color-mix(in srgb, var(--gold) 35%, transparent);
-}
-
-.transmission-card > p {
-  color: var(--muted);
-  line-height: 1.5;
 }
 
 /* ---------- Journal ---------- */
@@ -1101,6 +1230,7 @@ h3 {
 .toast.era { border-left-color: var(--era); }
 .toast.challenge { border-left-color: var(--ember); }
 .toast.reveal { border-left-color: #7ab8ff; }
+.toast.relic { border-left-color: var(--violet); }
 
 .toast.out {
   opacity: 0;

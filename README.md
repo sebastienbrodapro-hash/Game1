@@ -17,16 +17,18 @@ Aucun serveur local et aucune dépendance ne sont nécessaires.
 
 ## Boucle de jeu
 
+- Le clic ne donne qu'une seule ressource : les Points d'évolution. Tout le reste est produit passivement par les métiers.
+- Le premier métier de chaque époque ne coûte que de l'évolution : aucune impasse possible.
 - Suivre le fil conducteur, de la Préhistoire au Futur.
-- Accumuler des Points d'évolution, ressource principale pendant tout le jeu.
-- Produire des ressources propres à chaque époque.
 - Acheter des métiers et des jalons dans les deux arbres de l'époque active.
-- Franchir des paliers de 10 producteurs pour obtenir des sauts de production.
+- Franchir des paliers de 10 producteurs pour obtenir des sauts de production (×1,85).
 - Débloquer des challenges via des jalons d'épreuve dans l'arbre.
-- Compléter des challenges historiques qui redémarrent temporairement l'âge courant avec des contraintes négatives.
-- Conserver les bonus d'évolution, milestones et récompenses permanentes pendant les challenges.
-- Débloquer des milestones et transmettre l'héritage.
-- La sauvegarde est automatique dans le navigateur.
+- Découvrir des Reliques (objets historiques) à des seuils cachés : bonus permanents, conservés à travers les prestiges, bonus de collection par époque.
+- Transmettre l'héritage pour payer l'Armée des âges : un arbre de prestige qui parcourt les époques (guerriers du clan → hoplites → chevaliers bannerets → blindés → essaim nanite).
+- La Force de frappe de l'armée multiplie toute la production et ouvre des Campagnes à récompenses uniques.
+- L'armée débloque l'automatisation : actions automatiques (Tambours de guerre, Réseau radio) et achats automatiques (Intendance, Quartiers-maîtres).
+- Les nodes « Mémoire » gardent les époques débloquées après transmission.
+- La sauvegarde est automatique dans le navigateur, et la production continue en arrière-plan (~1 tick/s).
 
 ## Interface
 
