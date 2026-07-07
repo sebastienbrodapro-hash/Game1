@@ -39,12 +39,18 @@ Aucun serveur local et aucune dépendance ne sont nécessaires.
 - Toasts d'événements : paliers atteints, jalons et métiers révélés, époque débloquée, épreuve prête.
 - Rendu incrémental : l'arbre n'est reconstruit qu'aux achats, les états (abordable, en attente, verrouillé) sont mis à jour en continu.
 
+## Révélation progressive
+
+Le jeu démarre quasi vide : un bouton d'action et le compteur d'évolution. Chaque système est un tournant qui se débloque en jouant, avec une cinématique dédiée : l'Arbre des métiers, le Fil historique, les Paliers, les Époques, les Crises, les Reliques, puis l'Armée des âges. Les features encore verrouillées restent visibles dans la barre latérale avec leur condition — des murs qui annoncent la suite.
+
 ## Contenu actuel
 
 - Préhistoire : 10 jalons, 7 métiers en chaînes, premier layout long.
 - Néolithique : 11 jalons, 7 métiers, 2 challenges (Grande sécheresse, Hiver volcanique).
 - Antiquité : 11 jalons, 6 métiers, 2 challenges (Guerres puniques, Crise de la République).
-- Moyen Âge → Futur lointain : squelettes à enrichir sur le même modèle.
+- Moyen Âge : 11 jalons (charrue, monastères, hanse, cathédrales, chevalerie, horloges, communes libres…), 7 métiers, 2 challenges.
+- Renaissance : 11 jalons (mécénat, perspective, partie double, anatomie, observatoires, héliocentrisme…), 7 métiers, 2 challenges.
+- Industrie → Futur lointain : squelettes à enrichir sur le même modèle.
 
 ## Pacing
 

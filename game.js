@@ -132,15 +132,26 @@ const eraData = [
     actionText: "Structurer les métiers fait mûrir la civilisation.",
     unlock: { node: "chartes", label: "Acheter Chartes urbaines" },
     generators: [
-      { id: "guildes", name: "Guildes", text: "Elles rendent les métiers reproductibles.", cost: {}, scale: 1.18, produces: { artisanat: 3.4 }, pos: { c: 0, r: 0 } },
-      { id: "scriptoriums", name: "Scriptoriums", text: "Ils copient lentement le savoir.", cost: { savoir: 6200, artisanat: 900 }, scale: 1.2, produces: { savoir: 5.5 }, pos: { c: 1, r: 0 } },
-      { id: "foires", name: "Foires", text: "Le commerce revient par cycles.", cost: { influence: 9600, population: 72 }, scale: 1.19, produces: { influence: 6.2 }, pos: { c: 2, r: 0 } }
+      { id: "guildes", name: "Guildes", text: "Elles rendent les métiers reproductibles.", cost: {}, scale: 1.17, produces: { artisanat: 3.4 }, pos: { c: 1, r: 0 } },
+      { id: "laboureurs", name: "Laboureurs", text: "La charrue lourde retourne ce que la houe effleurait.", cost: { nourriture: 24000, artisanat: 1500 }, scale: 1.17, produces: { nourriture: 45, population: 0.4 }, requires: ["charrue"], producerRequires: { guildes: 2 }, parent: "guildes", pos: { c: 0, r: 1 } },
+      { id: "scriptoriums", name: "Scriptoriums", text: "Ils copient lentement le savoir.", cost: { savoir: 6200, artisanat: 900 }, scale: 1.18, produces: { savoir: 5.5 }, requires: ["monasteres"], producerRequires: { guildes: 3 }, parent: "guildes", pos: { c: 1, r: 1 } },
+      { id: "foires", name: "Foires", text: "Le commerce revient par cycles.", cost: { influence: 9600, population: 72 }, scale: 1.18, produces: { influence: 6.2 }, requires: ["hanse"], producerRequires: { guildes: 4 }, parent: "guildes", pos: { c: 2, r: 1 } },
+      { id: "maitresOeuvre", name: "Maîtres d'œuvre", text: "Ils lèvent la pierre vers le ciel, travée après travée.", cost: { pierre: 8000, artisanat: 5200, influence: 15000 }, scale: 1.19, produces: { artisanat: 8, pierre: 6 }, requires: ["cathedrales"], producerRequires: { scriptoriums: 3 }, parent: "scriptoriums", pos: { c: 1, r: 2 } },
+      { id: "lombards", name: "Banquiers lombards", text: "Ils prêtent à l'un ce que l'autre n'a pas encore gagné.", cost: { influence: 30000, artisanat: 6000 }, scale: 1.19, produces: { influence: 16 }, requires: ["banques"], producerRequires: { foires: 3 }, parent: "foires", pos: { c: 2, r: 2 } },
+      { id: "horlogers", name: "Horlogers", text: "Le temps devient une mécanique que l'on remonte.", cost: { savoir: 48000, artisanat: 14000 }, scale: 1.2, produces: { savoir: 14, artisanat: 4 }, requires: ["horlogerie"], producerRequires: { maitresOeuvre: 2 }, parent: "maitresOeuvre", pos: { c: 1, r: 3 } }
     ],
     nodes: [
       { id: "moulins", name: "Moulins", tag: "Mécanique", text: "Une première automatisation diffuse.", cost: { artisanat: 1800, savoir: 8600 }, pos: { c: 3, r: 0 }, effects: { global: 0.14, mult: { artisanat: 0.35 } } },
-      { id: "universites", name: "Universités", tag: "Savoir", text: "Les savoirs se contredisent puis s'affinent.", cost: { savoir: 16000, influence: 12000 }, requires: ["moulins"], pos: { c: 2, r: 1 }, effects: { mult: { savoir: 0.7 }, generator: { scriptoriums: 0.5 } } },
-      { id: "banques", name: "Banques marchandes", tag: "Système", text: "Les prix de long terme deviennent plus faciles à absorber.", cost: { influence: 26000, artisanat: 5200 }, requires: ["moulins"], pos: { c: 4, r: 1 }, effects: { discount: 0.08, mult: { influence: 0.35 } } },
-      { id: "imprimerie", name: "Imprimerie", tag: "Unlock", text: "Les idées peuvent enfin se multiplier. Débloque la Renaissance.", cost: { savoir: 64000, artisanat: 14000, influence: 42000 }, requires: ["universites", "banques"], pos: { c: 3, r: 2 }, effects: { global: 0.18, mult: { idees: 0.3 } } }
+      { id: "charrue", name: "Charrue lourde", tag: "Terre", text: "Les sols lourds du nord deviennent des greniers.", cost: { nourriture: 30000, artisanat: 2600 }, requires: ["moulins"], pos: { c: 2, r: 1 }, effects: { mult: { nourriture: 0.5, population: 0.3 } } },
+      { id: "monasteres", name: "Monastères", tag: "Foi", text: "Des îlots de calme où le savoir passe l'hiver.", cost: { savoir: 12000, influence: 8000 }, requires: ["moulins"], pos: { c: 4, r: 1 }, effects: { mult: { savoir: 0.5 }, generator: { scriptoriums: 0.4 } } },
+      { id: "hanse", name: "Ligue hanséatique", tag: "Commerce", text: "Des ports alliés, des routes sûres, des prix qui voyagent.", cost: { influence: 18000, artisanat: 3800 }, requires: ["charrue"], pos: { c: 2, r: 2 }, effects: { mult: { influence: 0.4 }, generator: { foires: 0.5 }, discount: 0.03 } },
+      { id: "universites", name: "Universités", tag: "Savoir", text: "Les savoirs se contredisent puis s'affinent.", cost: { savoir: 16000, influence: 12000 }, requires: ["monasteres"], pos: { c: 4, r: 2 }, effects: { mult: { savoir: 0.7 }, generator: { scriptoriums: 0.5 } } },
+      { id: "banques", name: "Banques marchandes", tag: "Système", text: "Les prix de long terme deviennent plus faciles à absorber.", cost: { influence: 26000, artisanat: 5200 }, requires: ["hanse"], pos: { c: 3, r: 3 }, effects: { discount: 0.08, mult: { influence: 0.35 } } },
+      { id: "cathedrales", name: "Cathédrales", tag: "Chantier", text: "Un chantier plus long qu'une vie, et personne ne doute.", cost: { pierre: 30000, artisanat: 9000, savoir: 26000 }, requires: ["universites"], pos: { c: 5, r: 3 }, effects: { global: 0.1, mult: { artisanat: 0.3 } } },
+      { id: "chevalerie", name: "Chevalerie", tag: "Féodal", text: "Un code, des terres, des lances : l'ordre tient à cheval.", cost: { influence: 34000, nourriture: 60000, artisanat: 7000 }, requires: ["banques"], pos: { c: 2, r: 4 }, effects: { mult: { influence: 0.35 }, global: 0.06 } },
+      { id: "horlogerie", name: "Horloges mécaniques", tag: "Temps", text: "La journée se découpe en heures égales. Tout s'organise.", cost: { savoir: 42000, artisanat: 12000 }, requires: ["banques"], pos: { c: 4, r: 4 }, effects: { mult: { savoir: 0.45 }, clickAll: 0.1 } },
+      { id: "communesLibres", name: "Communes libres", tag: "Cité", text: "Les bourgeois rachètent leur air : l'air de la ville rend libre.", cost: { influence: 52000, artisanat: 16000, savoir: 38000 }, requires: ["chevalerie", "horlogerie"], pos: { c: 3, r: 5 }, effects: { global: 0.12, discount: 0.04, mult: { population: 0.4 } } },
+      { id: "imprimerie", name: "Imprimerie", tag: "Unlock", text: "Les idées peuvent enfin se multiplier. Débloque la Renaissance.", cost: { savoir: 90000, artisanat: 22000, influence: 60000 }, requires: ["communesLibres"], pos: { c: 3, r: 6 }, effects: { global: 0.18, mult: { idees: 0.3 } } }
     ]
   },
   {
@@ -153,15 +164,26 @@ const eraData = [
     actionText: "Chaque expérience fait avancer la pensée.",
     unlock: { node: "imprimerie", label: "Acheter Imprimerie" },
     generators: [
-      { id: "ateliers", name: "Ateliers savants", text: "Ils transforment l'artisanat en idées.", cost: {}, scale: 1.17, produces: { idees: 3.5 }, pos: { c: 0, r: 0 } },
-      { id: "cartographes", name: "Cartographes", text: "Ils ouvrent les réseaux et les risques.", cost: { idees: 1800, influence: 90000 }, scale: 1.19, produces: { influence: 18, recherche: 0.65 }, pos: { c: 1, r: 0 } },
-      { id: "laboratoires", name: "Laboratoires", text: "La recherche devient une ressource autonome.", cost: { recherche: 120, savoir: 140000 }, scale: 1.2, produces: { recherche: 1.8 }, pos: { c: 2, r: 0 } }
+      { id: "ateliers", name: "Ateliers savants", text: "Ils transforment l'artisanat en idées.", cost: {}, scale: 1.17, produces: { idees: 3.5 }, pos: { c: 1, r: 0 } },
+      { id: "imprimeurs", name: "Imprimeurs", text: "Mille copies avant midi : l'idée devient contagieuse.", cost: { idees: 900, artisanat: 40000 }, scale: 1.18, produces: { idees: 8, savoir: 60 }, requires: ["mecenat"], producerRequires: { ateliers: 3 }, parent: "ateliers", pos: { c: 0, r: 1 } },
+      { id: "cartographes", name: "Cartographes", text: "Ils ouvrent les réseaux et les risques.", cost: { idees: 3000, influence: 500000 }, scale: 1.19, produces: { influence: 60, recherche: 0.8 }, requires: ["comptabilite"], producerRequires: { ateliers: 5 }, parent: "ateliers", pos: { c: 1, r: 1 } },
+      { id: "peintres", name: "Peintres", text: "Ils vendent la lumière aux princes.", cost: { idees: 1600, influence: 300000 }, scale: 1.18, produces: { idees: 12, influence: 40 }, requires: ["perspective"], producerRequires: { ateliers: 4 }, parent: "ateliers", pos: { c: 2, r: 1 } },
+      { id: "lunetiers", name: "Lunetiers", text: "Deux lentilles, et le ciel se rapproche.", cost: { idees: 6000, artisanat: 90000 }, scale: 1.19, produces: { recherche: 1.2, idees: 10 }, requires: ["observatoires"], producerRequires: { imprimeurs: 3 }, parent: "imprimeurs", pos: { c: 0, r: 2 } },
+      { id: "laboratoires", name: "Laboratoires", text: "La recherche devient une ressource autonome.", cost: { recherche: 200, savoir: 900000 }, scale: 1.2, produces: { recherche: 3.5 }, requires: ["observatoires"], producerRequires: { cartographes: 3 }, parent: "cartographes", pos: { c: 1, r: 2 } },
+      { id: "anatomistes", name: "Anatomistes", text: "Ils dessinent l'intérieur du monde.", cost: { idees: 4200, savoir: 500000 }, scale: 1.19, produces: { recherche: 1.6, savoir: 120 }, requires: ["anatomie"], producerRequires: { peintres: 3 }, parent: "peintres", pos: { c: 2, r: 2 } }
     ],
     nodes: [
-      { id: "methode", name: "Méthode scientifique", tag: "Règle", text: "La recherche multiplie toutes les ressources anciennes.", cost: { recherche: 420, idees: 5200 }, pos: { c: 3, r: 0 }, effects: { global: 0.22, mult: { recherche: 0.55 } } },
-      { id: "navigation", name: "Navigation globale", tag: "Réseau", text: "Influence et idées s'entrelacent.", cost: { idees: 14000, influence: 260000 }, requires: ["methode"], pos: { c: 2, r: 1 }, effects: { mult: { influence: 0.55, idees: 0.45 } } },
-      { id: "manufactures", name: "Manufactures", tag: "Transition", text: "Les ateliers préparent le choc industriel.", cost: { artisanat: 90000, recherche: 2200 }, requires: ["methode"], pos: { c: 4, r: 1 }, effects: { mult: { artisanat: 0.5, production: 0.3 } } },
-      { id: "vapeur", name: "Vapeur contrôlée", tag: "Unlock", text: "La puissance mécanique sort des ateliers. Débloque l'Industrie.", cost: { recherche: 6200, idees: 45000, artisanat: 70000 }, requires: ["navigation", "manufactures"], pos: { c: 3, r: 2 }, effects: { global: 0.24 } }
+      { id: "methode", name: "Méthode scientifique", tag: "Règle", text: "La recherche multiplie toutes les ressources anciennes.", cost: { idees: 5200, savoir: 200000 }, pos: { c: 3, r: 0 }, effects: { global: 0.22, mult: { recherche: 0.55 } } },
+      { id: "mecenat", name: "Mécénat", tag: "Or", text: "Les princes paient pour l'éternité, les artistes la fabriquent.", cost: { idees: 9000, influence: 400000 }, requires: ["methode"], pos: { c: 2, r: 1 }, effects: { mult: { idees: 0.4 }, discount: 0.03 } },
+      { id: "perspective", name: "Perspective", tag: "Regard", text: "L'espace obéit enfin au dessin.", cost: { idees: 12000, artisanat: 110000 }, requires: ["methode"], pos: { c: 4, r: 1 }, effects: { mult: { idees: 0.35, artisanat: 0.3 } } },
+      { id: "comptabilite", name: "Partie double", tag: "Chiffres", text: "Chaque ligne a son miroir : la richesse devient lisible.", cost: { idees: 20000, influence: 600000, savoir: 300000 }, requires: ["mecenat"], pos: { c: 2, r: 2 }, effects: { discount: 0.05, mult: { influence: 0.4 } } },
+      { id: "anatomie", name: "Anatomie", tag: "Corps", text: "Connaître le corps pour réparer la vie.", cost: { idees: 26000, savoir: 420000 }, requires: ["perspective"], pos: { c: 4, r: 2 }, effects: { mult: { recherche: 0.4, population: 0.5 } } },
+      { id: "navigation", name: "Navigation globale", tag: "Réseau", text: "Influence et idées s'entrelacent.", cost: { idees: 32000, influence: 800000 }, requires: ["comptabilite"], pos: { c: 3, r: 3 }, effects: { mult: { influence: 0.55, idees: 0.45 } } },
+      { id: "observatoires", name: "Observatoires", tag: "Ciel", text: "Des tours pour interroger les étoiles chaque nuit.", cost: { recherche: 900, idees: 40000 }, requires: ["anatomie"], pos: { c: 5, r: 3 }, effects: { mult: { recherche: 0.5 }, generator: { laboratoires: 0.4, lunetiers: 0.3 } } },
+      { id: "manufactures", name: "Manufactures", tag: "Transition", text: "Les ateliers préparent le choc industriel.", cost: { artisanat: 90000, recherche: 2200 }, requires: ["navigation"], pos: { c: 2, r: 4 }, effects: { mult: { artisanat: 0.5, production: 0.3 } } },
+      { id: "heliocentrisme", name: "Héliocentrisme", tag: "Vérité", text: "La Terre cède sa place au Soleil. Tout se réordonne.", cost: { recherche: 3200, idees: 60000, savoir: 700000 }, requires: ["observatoires"], pos: { c: 4, r: 4 }, effects: { global: 0.12, mult: { recherche: 0.45 } } },
+      { id: "academiesSciences", name: "Académies des sciences", tag: "Réseau", text: "Les savants s'écrivent d'un royaume à l'autre.", cost: { recherche: 5000, idees: 90000, influence: 1500000 }, requires: ["manufactures", "heliocentrisme"], pos: { c: 3, r: 5 }, effects: { global: 0.1, mult: { recherche: 0.4, idees: 0.3 }, clickAll: 0.08 } },
+      { id: "vapeur", name: "Vapeur contrôlée", tag: "Unlock", text: "La puissance mécanique sort des ateliers. Débloque l'Industrie.", cost: { recherche: 9000, idees: 120000, artisanat: 160000 }, requires: ["academiesSciences"], pos: { c: 3, r: 6 }, effects: { global: 0.24 } }
     ]
   },
   {
@@ -263,9 +285,9 @@ const challengeData = [
   { id: "guerresPuniques", era: "antiquite", name: "Guerres puniques", text: "Les routes commerciales s'effondrent. Influence passive -80 %. Gagner 1 600 Influence.", goal: { resource: "influence", amount: 1600 }, requires: ["lois"], modifiers: { resource: { influence: 0.2 } }, reward: { mult: { influence: 0.55 } }, pos: { c: 1, r: 0 } },
   { id: "criseRepublique", era: "antiquite", name: "Crise de la République", text: "Les décisions se figent. Clic divisé par deux, mais le passif tient. Gagner 5 000 Savoir.", goal: { resource: "savoir", amount: 5000 }, requires: ["academie"], modifiers: { click: 0.5 }, reward: { mult: { savoir: 0.65 }, global: 0.05 }, pos: { c: 5, r: 2 } },
   { id: "pesteNoire", era: "moyenage", name: "Peste noire", text: "Les réseaux humains ralentissent. Production globale -60 %. Gagner 18 000 Artisanat.", goal: { resource: "artisanat", amount: 18000 }, requires: ["moulins"], modifiers: { passive: 0.4, click: 0.75 }, reward: { global: 0.12 }, pos: { c: 1, r: 1 } },
-  { id: "guerreCentAns", era: "moyenage", name: "Guerre de Cent Ans", text: "Les foires et guildes subissent la guerre. Influence -70 %. Gagner 42 000 Influence.", goal: { resource: "influence", amount: 42000 }, requires: ["banques"], modifiers: { resource: { influence: 0.3 }, cost: 1.25 }, reward: { mult: { artisanat: 0.45, influence: 0.35 } }, pos: { c: 5, r: 2 } },
+  { id: "guerreCentAns", era: "moyenage", name: "Guerre de Cent Ans", text: "Les foires et guildes subissent la guerre. Influence -70 %. Gagner 42 000 Influence.", goal: { resource: "influence", amount: 42000 }, requires: ["banques"], modifiers: { resource: { influence: 0.3 }, cost: 1.25 }, reward: { mult: { artisanat: 0.45, influence: 0.35 } }, pos: { c: 1, r: 3 } },
   { id: "procesGalilee", era: "renaissance", name: "Procès de Galilée", text: "Les idées nouvelles sont freinées. Idées -45 % et coûts plus hauts. Gagner 1 800 Recherche.", goal: { resource: "recherche", amount: 1800 }, requires: ["methode"], modifiers: { cost: 1.55, resource: { idees: 0.55 } }, reward: { mult: { recherche: 0.7, idees: 0.4 } }, pos: { c: 1, r: 0 } },
-  { id: "longitudesPerdues", era: "renaissance", name: "Longitudes perdues", text: "La navigation manque de précision. Influence -60 %. Gagner 16 000 Idées.", goal: { resource: "idees", amount: 16000 }, requires: ["navigation"], modifiers: { resource: { influence: 0.4 } }, reward: { mult: { influence: 0.45, idees: 0.35 } }, pos: { c: 1, r: 2 } },
+  { id: "longitudesPerdues", era: "renaissance", name: "Longitudes perdues", text: "La navigation manque de précision. Influence -60 %. Gagner 16 000 Idées.", goal: { resource: "idees", amount: 16000 }, requires: ["navigation"], modifiers: { resource: { influence: 0.4 } }, reward: { mult: { influence: 0.45, idees: 0.35 } }, pos: { c: 1, r: 3 } },
   { id: "smogLondres", era: "industrie", name: "Grand smog industriel", text: "Énergie -70 %, production intacte. Gagner 120 000 Production.", goal: { resource: "production", amount: 120000 }, requires: ["standardisation"], modifiers: { resource: { energie: 0.3 } }, reward: { mult: { production: 0.75 }, global: 0.06 }, pos: { c: 1, r: 1 } },
   { id: "criseCharbon", era: "industrie", name: "Crise du charbon", text: "L'énergie coûte cher. Coûts +60 % et énergie -50 %. Gagner 90 000 Énergie.", goal: { resource: "energie", amount: 90000 }, requires: ["electricite"], modifiers: { cost: 1.6, resource: { energie: 0.5 } }, reward: { mult: { energie: 0.75 }, discount: 0.04 }, pos: { c: 5, r: 2 } },
   { id: "blackout1977", era: "moderne", name: "Blackout de 1977", text: "Passif -50 % et énergie -80 %. Gagner 220 000 Recherche.", goal: { resource: "recherche", amount: 220000 }, requires: ["medecine"], modifiers: { passive: 0.5, resource: { energie: 0.2 } }, reward: { mult: { energie: 0.9, recherche: 0.35 } }, pos: { c: 1, r: 1 } },
@@ -277,7 +299,9 @@ const challengeData = [
 const eraPacing = {
   prehistoire: { actionEvolution: 1.7, passiveEvolution: 0.07, producerEvolutionCost: 0.75, nodeEvolutionCost: 1, challengeEvolutionCost: 2.4 },
   neolithique: { actionEvolution: 1.35, passiveEvolution: 0.09, producerEvolutionCost: 0.85, nodeEvolutionCost: 1, challengeEvolutionCost: 2 },
-  antiquite: { actionEvolution: 1.25, passiveEvolution: 0.1, producerEvolutionCost: 0.9, nodeEvolutionCost: 1, challengeEvolutionCost: 1.8 }
+  antiquite: { actionEvolution: 1.25, passiveEvolution: 0.1, producerEvolutionCost: 0.9, nodeEvolutionCost: 1, challengeEvolutionCost: 1.8 },
+  moyenage: { actionEvolution: 1.15, passiveEvolution: 0.11, producerEvolutionCost: 0.95, nodeEvolutionCost: 1, challengeEvolutionCost: 1.7 },
+  renaissance: { actionEvolution: 1.1, passiveEvolution: 0.12, producerEvolutionCost: 1, nodeEvolutionCost: 1, challengeEvolutionCost: 1.6 }
 };
 
 // ------- Reliques (objets à découvrir, gardées à travers les transmissions) -------
@@ -299,7 +323,11 @@ const artifactData = [
   { id: "aigle", era: "antiquite", name: "Aigle de légion", icon: "🦅", text: "Perdre l'aigle est pire que perdre la bataille.", hint: "Lève une grande armée de légionnaires.", condition: (s) => (s.producers.legionnaires || 0) >= 20, effect: { generator: { legionnaires: 0.4 } } },
   { id: "mosaique", era: "antiquite", name: "Mosaïque du forum", icon: "🎨", text: "Mille éclats, une seule image : la cité.", hint: "Achève le fil de l'Antiquité.", condition: () => eraNodeCount("antiquite") >= 11, effect: { global: 0.06 } },
   { id: "enluminure", era: "moyenage", name: "Manuscrit enluminé", icon: "📖", text: "Un moine a passé sa vie sur cette page. Elle le lui rend.", hint: "Copie un savoir immense.", condition: (s) => (s.totals.savoir || 0) >= 1000000, effect: { mult: { savoir: 0.2 } } },
+  { id: "heaume", era: "moyenage", name: "Heaume de tournoi", icon: "🛡️", text: "Cabossé avec honneur.", hint: "Fais entrer la chevalerie dans l'ordre du monde.", condition: () => hasNode("chevalerie"), effect: { mult: { influence: 0.15 } } },
+  { id: "vitrail", era: "moyenage", name: "Vitrail de la grande rose", icon: "🪟", text: "La lumière raconte mieux que les mots.", hint: "De grands chantiers réclament de grands maîtres.", condition: (s) => (s.producers.maitresOeuvre || 0) >= 8, effect: { mult: { artisanat: 0.15, savoir: 0.1 } } },
   { id: "astrolabe", era: "renaissance", name: "Astrolabe", icon: "🧭", text: "Tenir le ciel dans la main pour retrouver la terre.", hint: "Fais foisonner les idées.", condition: (s) => (s.totals.idees || 0) >= 50000, effect: { mult: { idees: 0.2, recherche: 0.1 } } },
+  { id: "carnets", era: "renaissance", name: "Carnets de croquis", icon: "📓", text: "Machines volantes, muscles, tourbillons : tout y est déjà.", hint: "Les peintres notent tout ce qu'ils voient.", condition: (s) => (s.producers.peintres || 0) >= 8, effect: { mult: { idees: 0.15 } } },
+  { id: "lunette", era: "renaissance", name: "Lunette astronomique", icon: "🔭", text: "Quatre lunes autour de Jupiter, et plus rien ne tourne rond.", hint: "Cherche, encore et encore.", condition: (s) => (s.totals.recherche || 0) >= 5000, effect: { mult: { recherche: 0.15 } } },
   { id: "piston", era: "industrie", name: "Piston de Watt", icon: "⚙️", text: "Le souffle de la vapeur devenu muscle de fer.", hint: "Produis à l'échelle industrielle.", condition: (s) => (s.totals.production || 0) >= 500000, effect: { mult: { production: 0.2, energie: 0.1 } } },
   { id: "massueChef", era: "global", name: "Massue du chef rival", icon: "🪓", text: "Prise lors d'une razzia. Elle décore, elle dissuade.", hint: "Récompense de la campagne « Razzia sur la vallée ».", condition: null, effect: { global: 0.04, mult: { survie: 0.1 } } }
 ];
@@ -338,6 +366,27 @@ const armyData = [
   { id: "armEternite", name: "Éternité tactique", tag: "Futur", text: "L'armée existe dans toutes les époques à la fois : Force de frappe ×2.", cost: 20, power: 0, requires: ["armEssaim"], pos: { c: 3, r: 10 }, special: { ffMult: 1 } }
 ];
 
+// ------- Features : chaque système se révèle comme un tournant du jeu -------
+
+const featureData = [
+  { id: "metiers", name: "L'Arbre des métiers", text: "La tribu peut maintenant confier des tâches. Chaque métier produit tout seul, sans un clic : recrute, empile, et franchis des paliers tous les 10.", condition: (s) => (s.totals.evolution || 0) >= 10 || totalProducers() > 0 },
+  { id: "fil", name: "Le Fil historique", text: "Les grandes idées s'enchaînent en un arbre. Chaque jalon change les règles du jeu et en révèle d'autres, jusqu'au tournant qui ouvrira l'époque suivante.", condition: (s) => (s.producers.cueilleurs || 0) >= 3 || s.nodes.length > 0 },
+  { id: "milestones", name: "Les Paliers", text: "Ta civilisation franchit des seuils toute seule, et chaque palier laisse un bonus permanent. Ils rythment tout le reste de la partie.", condition: (s) => s.milestones.length >= 1 },
+  { id: "eras", name: "Les Époques", text: "L'histoire ne s'arrête pas à la Préhistoire. D'autres âges attendent — chacun avec ses métiers, ses jalons, ses crises. Le premier mur est devant toi.", condition: () => hasNode("rites") || unlockedEras().length > 1 },
+  { id: "challenges", name: "Les Crises historiques", text: "Des épreuves réécrivent temporairement les règles : sécheresses, hivers sans soleil, guerres. Les surmonter rapporte des bonus définitifs.", condition: (s) => isEraUnlocked("neolithique") || s.completedChallenges.length > 0 || s.nodes.some((id) => id.startsWith("challenge-")) },
+  { id: "reliques", name: "Le Cabinet des reliques", text: "Des objets marquants émergent de ton histoire. Collectionne-les : leurs bonus survivent à tout, même à la fin d'une civilisation.", condition: (s) => s.artifacts.length >= 1 },
+  { id: "armee", name: "L'Armée des âges", text: "Transmets ton héritage : la civilisation renaît, l'armée demeure. Force de frappe, campagnes, automatisation — le vrai jeu commence.", condition: (s) => canTransmit() || s.army.length > 0 || s.totalHeritage > 0 }
+];
+
+// Mappage layout → feature, et à partir de quand un layout verrouillé se montre (le « mur »).
+const layoutFeature = { thread: null, challenges: "challenges", milestones: "milestones", reliques: "reliques", transmission: "armee", archive: "milestones" };
+const layoutTease = {
+  milestones: { after: "fil", hint: "Atteins 100 Points d'évolution" },
+  challenges: { after: "milestones", hint: "Débloque le Néolithique" },
+  reliques: { after: "milestones", hint: "Un objet marquant attend d'être découvert" },
+  transmission: { after: "challenges", hint: "Atteins la Révolution industrielle" }
+};
+
 const campaignData = [
   { id: "campDefense", name: "Défendre le camp", text: "Des pillards rôdent autour des feux. Montre-leur la sortie.", ff: 8, reward: { heritage: 2 } },
   { id: "campRazzia", name: "Razzia sur la vallée", text: "Le clan rival stocke plus qu'il ne mérite.", ff: 25, reward: { heritage: 3, artifact: "massueChef" } },
@@ -372,8 +421,12 @@ const milestoneData = [
   { id: "m37", era: "antiquite", name: "Forge et marbre", text: "Avoir 8 jalons de l'Antiquité.", condition: () => eraNodeCount("antiquite") >= 8, reward: { global: 0.08, discount: 0.02 } },
   { id: "m10", era: "moyenage", name: "Villes libres", text: "Débloquer le Moyen Âge.", condition: () => isEraUnlocked("moyenage"), reward: { mult: { artisanat: 0.45 } } },
   { id: "m11", era: "moyenage", name: "Savoirs copiés", text: "Atteindre 100 000 Savoir.", condition: (s) => s.resources.savoir >= 100000, reward: { mult: { savoir: 0.35 } } },
+  { id: "m38", era: "moyenage", name: "Pierres vers le ciel", text: "Acheter Cathédrales.", condition: () => hasNode("cathedrales"), reward: { mult: { artisanat: 0.3 } } },
+  { id: "m39", era: "moyenage", name: "Bourgs affranchis", text: "Avoir 8 jalons du Moyen Âge.", condition: () => eraNodeCount("moyenage") >= 8, reward: { global: 0.08 } },
   { id: "m12", era: "renaissance", name: "Idées imprimées", text: "Débloquer la Renaissance.", condition: () => isEraUnlocked("renaissance"), reward: { mult: { idees: 0.5 } } },
   { id: "m13", era: "renaissance", name: "Méthode robuste", text: "Acheter Méthode scientifique.", condition: () => hasNode("methode"), reward: { mult: { recherche: 0.35 } } },
+  { id: "m40", era: "renaissance", name: "Cartes du monde", text: "Posséder 5 Cartographes.", condition: () => (state.producers.cartographes || 0) >= 5, reward: { mult: { recherche: 0.3 } } },
+  { id: "m41", era: "renaissance", name: "Esprit des Lumières", text: "Avoir 8 jalons de la Renaissance.", condition: () => eraNodeCount("renaissance") >= 8, reward: { global: 0.08, clickAll: 0.08 } },
   { id: "m14", era: "industrie", name: "Usines en marche", text: "Débloquer l'Industrie.", condition: () => isEraUnlocked("industrie"), reward: { mult: { production: 0.25, energie: 0.2 } } },
   { id: "m15", era: "industrie", name: "Quatre crises", text: "Compléter 4 challenges.", condition: (s) => s.completedChallenges.length >= 4, reward: { global: 0.16 } },
   { id: "m16", era: "moderne", name: "Réseau mondial", text: "Débloquer l'Ère moderne.", condition: () => isEraUnlocked("moderne"), reward: { mult: { energie: 0.5, recherche: 0.3 } } },
@@ -414,7 +467,13 @@ const elements = {
   loadSave: document.querySelector("#loadSave"),
   resetSave: document.querySelector("#resetSave"),
   toasts: document.querySelector("#toasts"),
-  tooltip: document.querySelector("#tooltip")
+  tooltip: document.querySelector("#tooltip"),
+  eraPanel: document.querySelector("#eraPanel"),
+  challengePanel: document.querySelector("#challengePanel"),
+  featureReveal: document.querySelector("#featureReveal"),
+  featureRevealTitle: document.querySelector("#featureRevealTitle"),
+  featureRevealText: document.querySelector("#featureRevealText"),
+  featureRevealButton: document.querySelector("#featureRevealButton")
 };
 
 let state = loadState();
@@ -430,7 +489,11 @@ let challengeReadyNotified = false;
 let currentTip = null;
 let autoClickAcc = 0;
 let autoBuyAcc = 0;
+let featureQueue = [];
+let currentReveal = null;
+let enteringFeature = null;
 
+ensureFeatureBaseline();
 wireGlobal();
 render();
 requestAnimationFrame(tick);
@@ -461,9 +524,12 @@ function wireGlobal() {
     setStatus("Sauvegarde copiée");
   });
 
+  elements.featureRevealButton.addEventListener("click", dismissFeatureReveal);
+
   elements.loadSave.addEventListener("click", () => {
     try {
       state = normalizeState(decodeSave(elements.savePayload.value));
+      ensureFeatureBaseline();
       elements.saveDialog.close();
       invalidateFx();
       challengeReadyNotified = false;
@@ -542,6 +608,7 @@ function createState() {
     artifacts: [],
     army: [],
     campaigns: [],
+    featuresSeen: [],
     activeChallenge: null,
     activeLayout: "thread",
     activeEra: "prehistoire",
@@ -567,6 +634,8 @@ function normalizeState(input) {
   merged.artifacts = Array.isArray(input.artifacts) ? input.artifacts : [];
   merged.army = Array.isArray(input.army) ? input.army : [];
   merged.campaigns = Array.isArray(input.campaigns) ? input.campaigns : [];
+  // null = ancienne sauvegarde sans la notion de features : baseline silencieuse au boot.
+  merged.featuresSeen = Array.isArray(input.featuresSeen) ? input.featuresSeen : null;
   merged.log = Array.isArray(input.log) && input.log.length ? input.log : base.log;
   merged.activeEra = eraData.some((era) => era.id === input.activeEra) ? input.activeEra : "prehistoire";
   merged.activeLayout = layouts.some((layout) => layout.id === input.activeLayout) ? input.activeLayout : "thread";
@@ -624,11 +693,71 @@ function tickLogic(now) {
   }
   const milestoneHit = checkMilestones();
   const artifactHit = checkArtifacts();
-  if (milestoneHit || artifactHit) {
+  const featureHit = checkFeatures();
+  if (milestoneHit || artifactHit || featureHit) {
     render();
   } else {
     updateDynamic();
   }
+}
+
+// ------- Features (révélation progressive) -------
+
+function featureUnlocked(id) {
+  return state.featuresSeen.includes(id);
+}
+
+function getFeature(id) {
+  return featureData.find((feature) => feature.id === id);
+}
+
+function ensureFeatureBaseline() {
+  if (Array.isArray(state.featuresSeen)) return;
+  state.featuresSeen = [];
+  featureData.forEach((feature) => {
+    if (feature.condition(state)) state.featuresSeen.push(feature.id);
+  });
+}
+
+function checkFeatures() {
+  let changed = false;
+  featureData.forEach((feature) => {
+    if (state.featuresSeen.includes(feature.id)) return;
+    if (feature.condition(state)) {
+      state.featuresSeen.push(feature.id);
+      featureQueue.push(feature.id);
+      addLog(`Tournant : ${feature.name}.`);
+      changed = true;
+    }
+  });
+  if (changed) {
+    invalidateFx();
+    showNextFeature();
+  }
+  return changed;
+}
+
+function showNextFeature() {
+  if (currentReveal || !featureQueue.length) return;
+  currentReveal = featureQueue.shift();
+  const feature = getFeature(currentReveal);
+  elements.featureRevealTitle.textContent = feature.name;
+  elements.featureRevealText.textContent = feature.text;
+  elements.featureReveal.hidden = false;
+  requestAnimationFrame(() => elements.featureReveal.classList.add("show"));
+}
+
+function dismissFeatureReveal() {
+  if (!currentReveal) return;
+  enteringFeature = currentReveal;
+  currentReveal = null;
+  elements.featureReveal.classList.remove("show");
+  window.setTimeout(() => {
+    elements.featureReveal.hidden = true;
+    render();
+    enteringFeature = null;
+    showNextFeature();
+  }, 220);
 }
 
 function runAutomation(delta) {
@@ -700,6 +829,11 @@ function render() {
   applyEraTheme();
   checkMilestones();
   checkArtifacts();
+  checkFeatures();
+  const gate = layoutFeature[state.activeLayout];
+  if (gate && !featureUnlocked(gate)) state.activeLayout = "thread";
+  elements.eraPanel.hidden = !featureUnlocked("eras");
+  elements.challengePanel.hidden = !featureUnlocked("challenges");
   hideTip();
   renderNav();
   const renderers = {
@@ -725,6 +859,22 @@ function applyEraTheme() {
 
 function renderNav() {
   elements.nav.innerHTML = layouts.map((layout) => {
+    const feature = layoutFeature[layout.id];
+    const unlocked = !feature || featureUnlocked(feature);
+    if (!unlocked) {
+      const tease = layoutTease[layout.id];
+      if (!tease || !featureUnlocked(tease.after)) return "";
+      return `
+        <button class="nav-button locked" type="button" disabled>
+          <span class="nav-icon">🔒</span>
+          <span class="nav-text">
+            <span class="nav-title">${layout.title}</span>
+            <span class="nav-subtitle">${tease.hint}</span>
+          </span>
+          <span class="lock-dot"></span>
+        </button>
+      `;
+    }
     const count = layout.id === "challenges" ? state.completedChallenges.length
       : layout.id === "milestones" ? state.milestones.length
       : layout.id === "reliques" ? state.artifacts.length
@@ -936,21 +1086,27 @@ function renderThread() {
   );
   const gains = clickGains(era);
   const auto = armyStats();
+  const hasMetiers = featureUnlocked("metiers");
+  const hasFil = featureUnlocked("fil");
+  const hasEras = featureUnlocked("eras");
+  const showBuySwitch = totalProducers() >= 10;
+  const enterClass = (id) => (enteringFeature === id ? " feature-enter" : "");
   return `
     <div class="page thread-page">
-      <div class="era-switcher">${visibleEraTabs().map(renderEraSwitch).join("")}</div>
+      ${hasEras ? `<div class="era-switcher${enterClass("eras")}">${visibleEraTabs().map(renderEraSwitch).join("")}</div>` : ""}
       <header class="page-head">
         <div>
           <p class="kicker">Fil conducteur</p>
           <h2>${era.name}</h2>
           <p class="lede">${era.theme}</p>
         </div>
+        ${hasFil ? `
         <div class="head-meter">
           <div class="meter-label"><span>Fil historique</span><strong>${threadNodeCount(era.id)} / ${totalEraNodes}</strong></div>
           <div class="progress"><span style="--progress:${percentage(threadNodeCount(era.id), totalEraNodes)}%"></span></div>
-        </div>
+        </div>` : ""}
       </header>
-      <div class="play-grid">
+      <div class="play-grid${hasFil ? "" : " solo"}">
         <section class="command-column">
           <div class="action-card">
             <div class="action-copy">
@@ -964,27 +1120,31 @@ function renderThread() {
               ${auto.autoClick > 0 ? `<div class="gain-line"><span>Actions automatiques</span><strong>${format(auto.autoClick)}/s</strong></div>` : ""}
               ${auto.autoBuy > 0 ? `<div class="gain-line"><span>Achats automatiques</span><strong>${format(auto.autoBuy)}/s</strong></div>` : ""}
             </div>
+            ${hasMetiers ? "" : `<p class="proto-hint">Continue d'agir… quelque chose s'organise dans la tribu.</p>`}
           </div>
-          <div class="board-head">
+          ${hasMetiers ? `
+          <div class="board-head${enterClass("metiers")}">
             <div>
               <p class="kicker">Métiers et production</p>
               <h3>Arbre des ressources</h3>
             </div>
             <div class="board-head-side">
+              ${showBuySwitch ? `
               <div class="buy-switch" role="group" aria-label="Quantité d'achat">
                 ${[1, 10, "max"].map((amount) => `<button type="button" data-buy-amount="${amount}" class="${state.buyAmount === amount ? "active" : ""}">${amount === "max" ? "Max" : `×${amount}`}</button>`).join("")}
-              </div>
+              </div>` : ""}
               <strong>${producerTreeCount(era.id)} / ${totalEraProducers}</strong>
             </div>
           </div>
-          <div class="tree-board producer-board">
+          <div class="tree-board producer-board${enterClass("metiers")}">
             <div class="tree-canvas" style="width:${producerLayout.width}px;height:${producerLayout.height}px">
               ${producerLinks}
               ${producerNodes.map((producer) => producerNodeButton(producer, producerLayout)).join("")}
             </div>
-          </div>
+          </div>` : ""}
         </section>
-        <section class="history-column">
+        ${hasFil ? `
+        <section class="history-column${enterClass("fil")}">
           <div class="board-head">
             <div>
               <p class="kicker">Civilisation</p>
@@ -998,7 +1158,7 @@ function renderThread() {
               ${threadNodes.map((node) => threadNodeButton(node, threadLayout)).join("")}
             </div>
           </div>
-        </section>
+        </section>` : ""}
       </div>
     </div>
   `;
@@ -1509,7 +1669,10 @@ function takeAction(eraId, button) {
   state.totalActions += 1;
   invalidateFx();
   spawnFloat(button, `+${format(gains.evolution)} Évo`);
-  if (checkMilestones() || checkArtifacts()) {
+  const milestoneHit = checkMilestones();
+  const artifactHit = checkArtifacts();
+  const featureHit = checkFeatures();
+  if (milestoneHit || artifactHit || featureHit) {
     render();
   } else {
     updateDynamic();
@@ -1711,7 +1874,8 @@ function transmitCivilization() {
     challenges: [...state.completedChallenges],
     artifacts: [...state.artifacts],
     army: [...state.army],
-    campaigns: [...state.campaigns]
+    campaigns: [...state.campaigns],
+    featuresSeen: [...state.featuresSeen]
   };
   state = createState();
   state.resources.heritage = kept.heritage;
@@ -1720,6 +1884,7 @@ function transmitCivilization() {
   state.artifacts = kept.artifacts;
   state.army = kept.army;
   state.campaigns = kept.campaigns;
+  state.featuresSeen = kept.featuresSeen;
   armyStats().startKits.forEach((kit) => {
     Object.entries(kit.producers || {}).forEach(([producerId, amount]) => {
       state.producers[producerId] = (state.producers[producerId] || 0) + amount;
