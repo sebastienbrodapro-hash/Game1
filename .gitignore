@@ -5,3 +5,5 @@ dist/
 Thumbs.db
 Game1/
 reflexion/
+.claude/
+.agents/
