@@ -575,7 +575,9 @@ function wireGlobal() {
     }
     const campaignButton = event.target.closest("[data-run-campaign]");
     if (campaignButton) return runCampaign(campaignButton.dataset.runCampaign);
-    const eraButton = event.target.closest("[data-era]");
+    // Uniquement les onglets d'époque : le body porte aussi data-era (thème),
+    // un sélecteur trop large avalerait tous les clics de la page.
+    const eraButton = event.target.closest(".era-tab[data-era]");
     if (eraButton && !eraButton.disabled) {
       state.activeEra = eraButton.dataset.era;
       state.activeLayout = "thread";
