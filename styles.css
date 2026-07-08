@@ -687,6 +687,15 @@ h3 {
   --node-accent: var(--violet);
 }
 
+.tree-node.denied {
+  animation: denyShake 360ms ease;
+}
+
+@keyframes denyShake {
+  20%, 60% { transform: translateX(-5px); }
+  40%, 80% { transform: translateX(5px); }
+}
+
 @keyframes nodePulse {
   0%, 100% {
     box-shadow: 0 0 0 0 color-mix(in srgb, var(--node-accent) 42%, transparent), 0 12px 26px rgba(0, 0, 0, 0.45);
@@ -1256,6 +1265,16 @@ h3 {
   backdrop-filter: blur(7px);
   opacity: 0;
   transition: opacity 260ms ease;
+}
+
+/* display:grid écrase le style UA de [hidden] : sans ces règles,
+   l'overlay invisible couvre l'écran et bloque tous les clics. */
+.feature-reveal[hidden] {
+  display: none !important;
+}
+
+.feature-reveal:not(.show) {
+  pointer-events: none;
 }
 
 .feature-reveal.show {

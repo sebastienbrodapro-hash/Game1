@@ -559,11 +559,20 @@ function wireGlobal() {
     const amountButton = event.target.closest("[data-buy-amount]");
     if (amountButton) return setBuyAmount(amountButton.dataset.buyAmount);
     const producerButton = event.target.closest("[data-buy-producer]");
-    if (producerButton) return buyProducer(producerButton.dataset.buyProducer);
+    if (producerButton) {
+      if (!buyProducer(producerButton.dataset.buyProducer)) denyFeedback(producerButton);
+      return;
+    }
     const armyButton = event.target.closest("[data-buy-army]");
-    if (armyButton) return buyArmyNode(armyButton.dataset.buyArmy);
+    if (armyButton) {
+      if (!buyArmyNode(armyButton.dataset.buyArmy)) denyFeedback(armyButton);
+      return;
+    }
     const nodeButton = event.target.closest("[data-buy-node]");
-    if (nodeButton) return buyNode(nodeButton.dataset.buyNode);
+    if (nodeButton) {
+      if (!buyNode(nodeButton.dataset.buyNode)) denyFeedback(nodeButton);
+      return;
+    }
     const campaignButton = event.target.closest("[data-run-campaign]");
     if (campaignButton) return runCampaign(campaignButton.dataset.runCampaign);
     const eraButton = event.target.closest("[data-era]");
@@ -1679,6 +1688,14 @@ function takeAction(eraId, button) {
   }
 }
 
+function denyFeedback(el) {
+  if (el.dataset.state === "bought") return;
+  el.classList.remove("denied");
+  void el.offsetWidth;
+  el.classList.add("denied");
+  window.setTimeout(() => el.classList.remove("denied"), 420);
+}
+
 function spawnFloat(button, text) {
   const host = button.parentElement;
   if (!host) return;
@@ -1697,9 +1714,9 @@ function setBuyAmount(raw) {
 
 function buyProducer(id) {
   const producer = getProducer(id);
-  if (!producer || !producerAvailable(producer)) return;
+  if (!producer || !producerAvailable(producer)) return false;
   const info = bulkBuyInfo(producer);
-  if (info.count < 1) return;
+  if (info.count < 1) return false;
   pay(info.total);
   state.producers[id] = (state.producers[id] || 0) + info.count;
   invalidateFx();
@@ -1708,13 +1725,14 @@ function buyProducer(id) {
   checkMilestones();
   checkArtifacts();
   render();
+  return true;
 }
 
 function buyNode(id) {
   const node = getNode(id);
-  if (!node) return;
+  if (!node) return false;
   const cost = nodeCost(node);
-  if (hasNode(id) || !nodeAvailable(node) || !canPay(cost)) return;
+  if (hasNode(id) || !nodeAvailable(node) || !canPay(cost)) return false;
   pay(cost);
   state.nodes.push(id);
   invalidateFx();
@@ -1732,13 +1750,14 @@ function buyNode(id) {
   checkMilestones();
   checkArtifacts();
   render();
+  return true;
 }
 
 function buyArmyNode(id) {
   const node = getArmyNode(id);
-  if (!node || state.army.includes(id)) return;
-  if (!(node.requires || []).every((reqId) => state.army.includes(reqId))) return;
-  if (state.resources.heritage < node.cost) return;
+  if (!node || state.army.includes(id)) return false;
+  if (!(node.requires || []).every((reqId) => state.army.includes(reqId))) return false;
+  if (state.resources.heritage < node.cost) return false;
   state.resources.heritage -= node.cost;
   state.army.push(id);
   invalidateFx();
@@ -1746,6 +1765,7 @@ function buyArmyNode(id) {
   notify("Armée renforcée", `${node.name} rejoint la lignée (⚔ +${format(node.power)}).`, "era");
   checkMilestones();
   render();
+  return true;
 }
 
 function runCampaign(id) {
