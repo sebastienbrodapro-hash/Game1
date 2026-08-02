@@ -2,6 +2,8 @@
 
 Jeu web incrémental historique en HTML, CSS et JavaScript vanilla.
 
+> 🚀 Ce dépôt contient aussi un second projet : **[Astro Dash](astro-dash/)**, un jeu mobile d'arcade (runner en un tap, installable en PWA). Voir [astro-dash/README.md](astro-dash/README.md).
+
 Le projet part d'un arbre de progression inspiré des tree incrementals (Antimatter Dimensions, Celestial Incremental) : époques historiques, jalons, challenges, milestones et transmission/prestige.
 
 ## Lancer depuis Git
