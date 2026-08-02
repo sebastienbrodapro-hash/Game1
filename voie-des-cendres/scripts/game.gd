@@ -30,6 +30,7 @@ var flags := {}
 var secrets: Array = []
 var current_node := "start"
 var log_lines: Array = []
+var block_start := 0
 var story := {}
 
 func _ready() -> void:
@@ -46,6 +47,7 @@ func reset_game() -> void:
 	secrets = []
 	current_node = "start"
 	log_lines = []
+	block_start = 0
 	save_game()
 
 func load_story() -> void:
@@ -165,6 +167,7 @@ func save_game() -> void:
 		"secrets": secrets,
 		"current_node": current_node,
 		"log_lines": log_lines.slice(max(0, log_lines.size() - 300)),
+		"block_start": clamp(block_start - max(0, log_lines.size() - 300), 0, 300),
 	}
 	var f := FileAccess.open(SAVE_PATH, FileAccess.WRITE)
 	if f:
@@ -187,6 +190,7 @@ func load_game() -> bool:
 	secrets = parsed.get("secrets", [])
 	current_node = parsed.get("current_node", "start")
 	log_lines = parsed.get("log_lines", [])
+	block_start = int(parsed.get("block_start", 0))
 	if not story.has(current_node):
 		current_node = "start"
 	return stats.has("corps")

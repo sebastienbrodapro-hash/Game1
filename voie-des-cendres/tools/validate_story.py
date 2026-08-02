@@ -5,12 +5,13 @@ import sys
 from pathlib import Path
 
 STORY = Path(__file__).resolve().parent.parent / "data" / "story.json"
+ART_DIR = Path(__file__).resolve().parent.parent / "art"
 
 VALID_REQUIRE = {"corps", "souffle", "esprit", "perception", "destin",
                  "realm", "realm_max", "secrets", "tech", "flag", "not_flag"}
 VALID_EFFECTS = {"stats", "flags", "remove_flags", "tech", "item", "secret_id", "realm"}
 VALID_CHOICE = {"text", "goto", "require", "secret", "once", "effects", "locked_text"}
-VALID_NODE = {"text", "choices", "on_enter"}
+VALID_NODE = {"text", "image", "choices", "on_enter"}
 STATS = {"corps", "souffle", "esprit", "perception", "destin"}
 SECRET_TOTAL = 12
 
@@ -68,6 +69,21 @@ def main() -> int:
     for ending in ("ending_droiture", "ending_serpent", "ending_cendres", "epilogue"):
         if ending not in story:
             errors.append(f"fin manquante : {ending}")
+
+    # Illustrations : chaque image référencée doit exister dans art/
+    if ART_DIR.is_dir():
+        used = set()
+        for node_id, node in story.items():
+            img = node.get("image")
+            if not img:
+                warnings.append(f"{node_id}: pas d'illustration")
+                continue
+            used.add(img)
+            if not (ART_DIR / f"{img}.svg").is_file():
+                errors.append(f"{node_id}: illustration manquante art/{img}.svg")
+        unused = {p.stem for p in ART_DIR.glob("*.svg")} - used - {"su_han_portrait"}
+        if unused:
+            warnings.append(f"illustrations non utilisées : {sorted(unused)}")
 
     for msg in warnings:
         print(f"AVERTISSEMENT : {msg}")

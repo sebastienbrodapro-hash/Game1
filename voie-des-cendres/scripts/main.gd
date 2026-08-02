@@ -7,6 +7,20 @@ const COLOR_PANEL := Color("1d1712")
 const COLOR_TEXT := Color("e8ddc8")
 const COLOR_ACCENT := Color("e8a94c")
 
+const IMG_WIDTH := 660
+
+## Couleurs vives -> variantes assombries pour le texte déjà lu.
+const DIM_MAP := {
+	"#8fd3a7": "#4f6f5b",
+	"#e8a94c": "#7d6039",
+	"#c9a86a": "#6f5f44",
+	"#b48ce0": "#63527a",
+	"#ff9d5c": "#7d543a",
+	"#8a7d68": "#544c3f",
+	"#ff6b6b": "#703f3f",
+}
+const DIM_WRAP := "#6e6557"
+
 var tabs: TabContainer
 var story_log: RichTextLabel
 var choices_box: VBoxContainer
@@ -95,10 +109,21 @@ func _set_margins(m: MarginContainer, px: int) -> void:
 
 # ---------------------------------------------------------------- récit
 
+func _dim(line: String) -> String:
+	if line.begins_with("[img"):
+		return line
+	var out := line
+	for bright in DIM_MAP:
+		out = out.replace(bright, DIM_MAP[bright])
+	return "[color=%s]%s[/color]" % [DIM_WRAP, out]
+
 func _render_saved_log() -> void:
 	story_log.clear()
-	for line in Game.log_lines:
-		story_log.append_text(str(line) + "\n")
+	for i in Game.log_lines.size():
+		var line := str(Game.log_lines[i])
+		if i < Game.block_start:
+			line = _dim(line)
+		story_log.append_text(line + "\n")
 
 func _log(line: String) -> void:
 	Game.log_lines.append(line)
@@ -120,6 +145,9 @@ func _enter_node(id: String, silent_save := false) -> void:
 		for note in Game.apply_effects(node["on_enter"]):
 			_log(note)
 	_log("")
+	var img := str(node.get("image", ""))
+	if img != "" and ResourceLoader.exists("res://art/%s.svg" % img):
+		_log("[img width=%d]res://art/%s.svg[/img]" % [IMG_WIDTH, img])
 	_log(str(node.get("text", "")))
 	_show_choices(id)
 	if not silent_save:
@@ -163,6 +191,9 @@ func _show_choices(id: String) -> void:
 func _on_choice_pressed(node_id: String, index: int) -> void:
 	var node: Dictionary = Game.story[node_id]
 	var choice: Dictionary = node.get("choices", [])[index]
+	# Tout ce qui précède ce choix devient « déjà lu » : on le grise.
+	Game.block_start = Game.log_lines.size()
+	_render_saved_log()
 	_log("[color=#8a7d68][i]› %s[/i][/color]" % str(choice.get("text", "")))
 	var once_flag := str(choice.get("once", ""))
 	if once_flag != "":
@@ -176,7 +207,10 @@ func _on_choice_pressed(node_id: String, index: int) -> void:
 
 func _update_sheet() -> void:
 	var s: Dictionary = Game.stats
-	var bb := "[b][color=#e8a94c]%s[/color][/b]\n" % "Su Han"
+	var bb := ""
+	if ResourceLoader.exists("res://art/su_han_portrait.svg"):
+		bb += "[img width=220]res://art/su_han_portrait.svg[/img]\n"
+	bb += "[b][color=#e8a94c]%s[/color][/b]\n" % "Su Han"
 	bb += "[color=#8a7d68]%s[/color]\n\n" % Game.player_title()
 	bb += "[b]Rang de cultivation[/b]\n[color=#ff9d5c]☲ %s[/color]\n\n" % Game.REALMS[Game.realm]
 	bb += "[b]Statistiques[/b]\n"

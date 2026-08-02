@@ -12,6 +12,8 @@ RPG textuel de cultivation martiale (inspiré des manhua de type wuxia/xianxia, 
 - **12 secrets cachés** : des choix invisibles (marqués ✦ quand ils apparaissent) qui ne se révèlent que si tes statistiques sont assez hautes — stèles oubliées, puits scellé, épée qui murmure, autel d'une autre dimension… Certains changent la fin.
 - **3 fins différentes** pour devenir chef de secte : la droiture, la ruse, ou une voie secrète.
 - **Sauvegarde automatique** à chaque choix.
+- **~75 illustrations** dans un style « encre wuxia nocturne » cohérent : chaque scène, secret, percée et fin a sa propre image, affichée dans le fil du récit.
+- **Texte déjà lu grisé** : à chaque nouveau choix, tout ce qui précède s'assombrit pour qu'on ne perde jamais le fil.
 
 ## Structure du projet
 
@@ -23,9 +25,12 @@ voie-des-cendres/
 ├── scripts/
 │   ├── game.gd              # état du joueur : stats, rangs, drapeaux, secrets, sauvegarde
 │   └── main.gd              # interface : onglets, journal du récit, boutons de choix, fiche
-├── data/story.json          # tout le récit : nœuds, choix, conditions, effets
+├── data/story.json          # tout le récit : nœuds, choix, conditions, effets, images
+├── art/                     # les illustrations SVG (une par scène)
 └── tools/
-    ├── validate_story.py    # vérifie l'intégrité du graphe narratif
+    ├── validate_story.py    # vérifie l'intégrité du graphe narratif + les images
+    ├── validate_art.py      # vérifie que les SVG sont compatibles avec le rendu Godot
+    ├── apply_images.py      # associe les nœuds du récit aux illustrations
     └── simulate_playthrough.py  # joue une partie complète pour valider l'équilibrage
 ```
 
@@ -51,6 +56,7 @@ Tout le récit vit dans `data/story.json`. Un nœud :
 
 - `require` + `secret: true` → le choix est **invisible** tant que les conditions ne sont pas remplies (c'est le mécanisme des secrets).
 - `require` sans `secret` → le choix est visible mais verrouillé, avec l'indice des prérequis.
+- `"image": "nom"` sur un nœud → affiche `art/nom.svg` en tête du passage.
 - Après modification, lancer `python3 tools/validate_story.py`.
 
 ## APK Android 🤖
