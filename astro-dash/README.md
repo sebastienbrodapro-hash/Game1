@@ -26,6 +26,14 @@ python3 -m http.server 8000
 
 **En ligne (GitHub Pages) :** active GitHub Pages sur le dépôt et le jeu sera accessible à l'adresse `https://<ton-user>.github.io/Game1/astro-dash/`.
 
+## APK Android 🤖
+
+Un APK est compilé automatiquement par GitHub Actions (workflow « Build Astro Dash APK », via [Capacitor](https://capacitorjs.com/)) à chaque modification du jeu.
+
+**Pour le télécharger :** va dans l'onglet **Releases** du dépôt → release « Astro Dash — APK Android » → télécharge `astro-dash.apk` sur ton téléphone et ouvre-le. Android demandera d'autoriser l'installation depuis une source inconnue (normal pour un APK hors Play Store, le build est signé en debug).
+
+Tu peux aussi relancer un build à la main : onglet **Actions** → « Build Astro Dash APK » → « Run workflow ».
+
 ## Installable comme une appli 📱
 
 Le jeu est une **PWA** : ouvre-le dans Chrome/Safari sur ton téléphone, puis « Ajouter à l'écran d'accueil ». Il se lance alors en plein écran, sans barre d'adresse, et fonctionne même hors ligne.

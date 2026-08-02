@@ -1,0 +1,71 @@
+name: Build Astro Dash APK
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, claude/jeu-mobile-tlorme]
+    paths:
+      - 'astro-dash/**'
+      - '.github/workflows/build-apk.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: astro-dash
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+
+      - name: Installer les dépendances
+        run: npm install
+
+      - name: Préparer les fichiers web du jeu
+        run: |
+          mkdir -p www
+          cp index.html style.css game.js icon.svg manifest.webmanifest sw.js www/
+
+      - name: Créer le projet Android (Capacitor)
+        run: npx cap add android
+
+      - name: Générer icônes et splash screens
+        run: npx @capacitor/assets generate --android
+
+      - name: Compiler l'APK (debug)
+        run: |
+          cd android
+          chmod +x gradlew
+          ./gradlew assembleDebug
+
+      - name: Renommer l'APK
+        run: cp android/app/build/outputs/apk/debug/app-debug.apk astro-dash.apk
+
+      - name: Publier l'APK en artefact
+        uses: actions/upload-artifact@v4
+        with:
+          name: astro-dash-apk
+          path: astro-dash/astro-dash.apk
+
+      - name: Publier l'APK dans une release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: astro-dash-apk
+          name: Astro Dash — APK Android
+          body: |
+            APK Android du jeu **Astro Dash** (build debug, généré automatiquement).
+
+            📲 **Installation** : télécharge `astro-dash.apk` sur ton téléphone, ouvre-le,
+            et accepte l'installation depuis une source inconnue si Android le demande.
+          files: astro-dash/astro-dash.apk
