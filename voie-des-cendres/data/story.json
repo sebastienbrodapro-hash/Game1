@@ -1,0 +1,1618 @@
+{
+  "start": {
+    "text": "[b]LA VOIE DES CENDRES — Acte I[/b]\n\nOn t'appelle Su Han, mais personne ne se souvient de qui t'a donné ce nom. Seize hivers, des mains calleuses, un balai plus vieux que toi.\n\nLa Secte du Pin Noir t'a acheté à un marchand de sel contre deux sacs de riz. Depuis, tu balayes la Cour des Lanternes, sur le Mont des Neuf Échos, pendant que les disciples apprennent à avaler le ciel.\n\nToi, tu ne peux pas. Le médecin de la secte l'a dit en riant : « Des veines de pierre. Le souffle n'y passera jamais. »",
+    "image": "su_han_balai",
+    "choices": [
+      {
+        "text": "Continuer",
+        "goto": "intro_bai"
+      }
+    ]
+  },
+  "intro_bai": {
+    "text": "Ce matin-là, Bai Feng, le premier disciple, renverse d'un revers de manche le seau d'eau que tu viens de monter. Mille marches pour rien.\n\n« Regarde, dit-il à sa cour. Même l'eau refuse de servir un infirme. »\n\nLes rires roulent sur les dalles comme des billes.",
+    "image": "humiliation",
+    "choices": [
+      {
+        "text": "Baisser la tête et sourire. Un jour viendra. (+1 Destin)",
+        "goto": "intro_corvee",
+        "effects": {
+          "stats": {
+            "destin": 1
+          }
+        }
+      },
+      {
+        "text": "Serrer les poings jusqu'au sang, en silence. (+1 Corps)",
+        "goto": "intro_corvee",
+        "effects": {
+          "stats": {
+            "corps": 1
+          }
+        }
+      },
+      {
+        "text": "Observer sa posture, ses appuis, sa respiration. (+1 Perception)",
+        "goto": "intro_corvee",
+        "effects": {
+          "stats": {
+            "perception": 1
+          }
+        }
+      }
+    ]
+  },
+  "intro_corvee": {
+    "text": "Le soir, l'intendant Qiu te jette une corvée de plus : brûler les rebuts derrière les cuisines. Vieux talismans épuisés, herbes moisies, manuels illisibles — tout ce que la secte considère comme mort.\n\nLa fosse à feu rougeoie sous la lune. Tu y jettes le rebut, pelletée après pelletée. Et là, au fond des braises, quelque chose... [i]respire[/i].",
+    "image": "fosse_feu_nuit",
+    "choices": [
+      {
+        "text": "Approcher la main des braises",
+        "goto": "intro_braise"
+      },
+      {
+        "text": "Reculer prudemment et observer",
+        "goto": "intro_braise"
+      },
+      {
+        "text": "Murmurer : « Qui est là ? »",
+        "goto": "intro_braise"
+      }
+    ]
+  },
+  "intro_braise": {
+    "text": "Une voix monte de la cendre, sèche comme un feu d'hiver :\n\n« Trois cents ans que je regarde cette secte jeter ses morts dans ma gueule, et c'est un balayeur qui m'entend le premier. »\n\nLa braise se soulève, dessine un visage de vieillard aux yeux d'or. « On m'appelait le Gardien, quand l'Arbre se dressait encore ici. Appelle-moi Grand-Père Cendre. Tes veines de pierre, petit... sais-tu pourquoi les fours sont en pierre ? »",
+    "image": "visage_braise",
+    "choices": [
+      {
+        "text": "« ...Parce que la pierre ne brûle pas. »",
+        "goto": "awakening"
+      },
+      {
+        "text": "« Parce qu'elle garde le feu. »",
+        "goto": "awakening"
+      }
+    ]
+  },
+  "awakening": {
+    "text": "« Parce qu'elle [i]contient[/i] le feu, petit. Ce que les autres appellent une infirmité est un fourneau qui attend d'être allumé. Le souffle des vivants ne passera jamais dans tes veines — alors nous y ferons passer le souffle de ce qui a brûlé. »\n\nToute la nuit, Grand-Père Cendre te guide. Tu inspires la fumée des choses mortes, et au lieu de tousser, quelque chose s'embrase sous ton sternum.\n\nÀ l'aube, pour la première fois de ta vie, tu sens un fil de chaleur circuler dans tes veines de pierre.",
+    "image": "eveil_souffle",
+    "choices": [
+      {
+        "text": "Contempler la première étincelle",
+        "goto": "awakening2",
+        "effects": {
+          "stats": {
+            "souffle": 3
+          },
+          "tech": "Souffle des Braises",
+          "realm": 1,
+          "flags": [
+            "eveil"
+          ]
+        }
+      }
+    ]
+  },
+  "awakening2": {
+    "text": "« Écoute-moi bien, dit la voix dans les braises. Cette montagne est un mensonge posé sur un cadavre. La secte a bâti ses pavillons sur les racines d'un Arbre céleste qu'on a brûlé il y a trois siècles. Son cœur couve encore, tout en bas. Ceux qui savent se servent. Ceux qui ignorent servent. »\n\n« Deviens fort, balayeur. Fouille, écoute, regarde là où personne ne regarde. Cette secte est pleine de secrets — et les secrets sont la seule richesse qu'on ne peut pas te confisquer. »",
+    "image": "racines_secretes",
+    "choices": [
+      {
+        "text": "Commencer ta nouvelle vie",
+        "goto": "hub"
+      }
+    ]
+  },
+  "hub": {
+    "text": "[b]— La Secte du Pin Noir —[/b]\n\nLes toits sombres s'étagent sur la montagne comme des ailes de corbeau. Chaque lieu cache ses habitudes, ses rumeurs... et peut-être davantage, pour qui sait regarder.",
+    "image": "sect_panorama",
+    "choices": [
+      {
+        "text": "La Cour des Lanternes (ton domaine)",
+        "goto": "loc_cour"
+      },
+      {
+        "text": "Les Cuisines et la fosse à feu",
+        "goto": "loc_cuisines"
+      },
+      {
+        "text": "Le Pavillon des Écritures",
+        "goto": "loc_pavillon",
+        "require": {
+          "realm": 1
+        }
+      },
+      {
+        "text": "La Falaise des Épées Mortes",
+        "goto": "loc_falaise",
+        "require": {
+          "realm": 1
+        }
+      },
+      {
+        "text": "La Forêt des Brumes",
+        "goto": "loc_foret",
+        "require": {
+          "flag": "outer_disciple"
+        }
+      },
+      {
+        "text": "La Salle des Missions",
+        "goto": "loc_missions",
+        "require": {
+          "realm": 1
+        }
+      },
+      {
+        "text": "Méditer en secret (tenter une percée)",
+        "goto": "loc_meditation",
+        "require": {
+          "realm": 1
+        }
+      },
+      {
+        "text": "La vieille stèle de l'entrée, rongée de mousse",
+        "goto": "sec_stele",
+        "require": {
+          "perception": 6
+        },
+        "secret": true,
+        "once": "stele_vue"
+      }
+    ]
+  },
+  "sec_stele": {
+    "text": "Tout le monde passe devant sans la voir. Toi, tu grattes la mousse, et sous trois siècles de crasse, des caractères apparaissent :\n\n[i]« Ici s'élevait Muhuang, l'Arbre qui portait neuf cieux. Nous avons brûlé ce que nous ne pouvions comprendre. Pardon. »[/i]\n\nLa signature est celle du [b]fondateur de la secte[/b]. Ainsi, Grand-Père Cendre disait vrai — et le premier maître du Pin Noir est mort en s'excusant.",
+    "image": "stele_moussue",
+    "choices": [
+      {
+        "text": "Graver ces mots dans ta mémoire",
+        "goto": "hub",
+        "effects": {
+          "stats": {
+            "perception": 1
+          },
+          "secret_id": "stele",
+          "flags": [
+            "sait_muhuang"
+          ]
+        }
+      }
+    ]
+  },
+  "loc_cour": {
+    "text": "[b]— La Cour des Lanternes —[/b]\n\nTon royaume de poussière. Les disciples externes s'y entraînent à l'aube ; les servantes y étendent le linge ; les ragots y poussent mieux que les mauvaises herbes.",
+    "image": "cour_lanternes",
+    "choices": [
+      {
+        "text": "Balayer avec le Souffle des Braises dans les bras (+1 Corps)",
+        "goto": "cour_balaye1",
+        "once": "cour_c1",
+        "require": {
+          "realm": 1
+        }
+      },
+      {
+        "text": "Balayer encore, plus vite, plus bas, plus longtemps (+1 Corps)",
+        "goto": "cour_balaye2",
+        "once": "cour_c2",
+        "require": {
+          "flag": "cour_c1"
+        }
+      },
+      {
+        "text": "Écouter les ragots des disciples",
+        "goto": "cour_ragots",
+        "once": "ragots"
+      },
+      {
+        "text": "Défier un disciple externe qui te cherche",
+        "goto": "cour_duel",
+        "once": "duel_fait",
+        "require": {
+          "corps": 8
+        }
+      },
+      {
+        "text": "Aider la vieille servante muette à porter son linge",
+        "goto": "sec_muette",
+        "require": {
+          "destin": 3
+        },
+        "secret": true,
+        "once": "muette_vue"
+      },
+      {
+        "text": "Retourner sur la place centrale",
+        "goto": "hub"
+      }
+    ]
+  },
+  "cour_balaye1": {
+    "text": "Grand-Père Cendre te l'a appris : « Tout est entraînement pour qui décide que tout est entraînement. » Tu balayes en tenant la posture du fourneau, cuisses brûlantes, dos droit. Les autres voient un esclave. Toi, tu forges un corps.",
+    "image": "entrainement_balai",
+    "choices": [
+      {
+        "text": "Continuer",
+        "goto": "loc_cour",
+        "effects": {
+          "stats": {
+            "corps": 1
+          }
+        }
+      }
+    ]
+  },
+  "cour_balaye2": {
+    "text": "Tu balayes désormais avant l'aube, lesté de pierres plates volées au chantier. Quand le soleil se lève, tu as déjà transpiré plus que tous les disciples externes réunis. Ton balai est devenu une lance qui ne dit pas son nom.",
+    "image": "entrainement_balai",
+    "choices": [
+      {
+        "text": "Continuer",
+        "goto": "loc_cour",
+        "effects": {
+          "stats": {
+            "corps": 1
+          }
+        }
+      }
+    ]
+  },
+  "cour_ragots": {
+    "text": "En remplissant les lampes, tu tends l'oreille.\n\nOn dit que le Maître Yuan ne quitte plus son pavillon. On dit que la Grue Immaculée, la grande secte de la vallée, lorgne sur le Mont des Neuf Échos. On dit que l'Ancien Mo descend seul, la nuit, vers les caves scellées.\n\nLes ragots sont des graines : la plupart ne donnent rien, mais certaines poussent.",
+    "image": "ragots_disciples",
+    "choices": [
+      {
+        "text": "Retenir tout, ne rien montrer (+1 Esprit, +1 Destin)",
+        "goto": "loc_cour",
+        "effects": {
+          "stats": {
+            "esprit": 1,
+            "destin": 1
+          },
+          "flags": [
+            "ragots_mo"
+          ]
+        }
+      }
+    ]
+  },
+  "cour_duel": {
+    "text": "Le disciple Petit Kang te bloque le passage, réclamant que tu laves ses robes. Quelque chose en toi refuse de plier, aujourd'hui.\n\nSa paume fend l'air — mais tu as balayé dix mille fois ce dallage, et tes bras sont des manches de fer. Tu dévies, tu frappes une fois, court et sec. Petit Kang s'assoit dans la poussière, les yeux ronds.\n\nDans la cour, le silence a le goût du sang et du respect.",
+    "image": "duel_cour",
+    "choices": [
+      {
+        "text": "Tendre la main pour l'aider à se relever (+1 Corps)",
+        "goto": "loc_cour",
+        "effects": {
+          "stats": {
+            "corps": 1
+          },
+          "flags": [
+            "reputation_cour"
+          ]
+        }
+      }
+    ]
+  },
+  "sec_muette": {
+    "text": "Personne n'aide jamais Dame Wen, la servante muette. Toi si — sans y penser, comme on partage la misère.\n\nCe soir-là, elle t'attend derrière le séchoir. Elle trace des caractères dans la poussière : [i]« J'étais Immortelle, avant de tomber. Tes yeux sont bons. Tes poumons sont mal réglés. »[/i]\n\nD'un doigt sur ton sternum, elle réaccorde ta respiration comme on accorde un instrument. Une nuit entière. Un cadeau qui vaut dix ans.",
+    "image": "dame_wen",
+    "choices": [
+      {
+        "text": "La saluer comme on salue un maître (+2 Souffle)",
+        "goto": "loc_cour",
+        "effects": {
+          "stats": {
+            "souffle": 2
+          },
+          "tech": "Respiration du Fil de Soie",
+          "secret_id": "muette"
+        }
+      }
+    ]
+  },
+  "loc_cuisines": {
+    "text": "[b]— Les Cuisines —[/b]\n\nVapeurs, jurons, montagnes de choux. Derrière, la fosse à feu où dort Grand-Père Cendre. L'intendant Qiu y règne sur les provisions avec des yeux de fouine.",
+    "image": "cuisines",
+    "choices": [
+      {
+        "text": "Porter les sacs de riz pour le cuisinier (+1 Corps)",
+        "goto": "cui_aide",
+        "once": "cui_fait"
+      },
+      {
+        "text": "Parler à la fosse à feu",
+        "goto": "gpc1",
+        "once": "gpc_1"
+      },
+      {
+        "text": "Retourner voir Grand-Père Cendre",
+        "goto": "gpc2",
+        "once": "gpc_2",
+        "require": {
+          "flag": "gpc_1"
+        }
+      },
+      {
+        "text": "Demander à Grand-Père Cendre la suite de la Voie",
+        "goto": "gpc3",
+        "once": "gpc_3",
+        "require": {
+          "flag": "gpc_2",
+          "realm": 2
+        }
+      },
+      {
+        "text": "Jeter un œil au registre de l'intendant Qiu",
+        "goto": "sec_registre",
+        "require": {
+          "esprit": 7,
+          "flag": "ragots_mo"
+        },
+        "secret": true,
+        "once": "registre_vu"
+      },
+      {
+        "text": "Le vieux puits scellé, derrière la réserve",
+        "goto": "sec_puits",
+        "require": {
+          "perception": 11,
+          "realm": 2
+        },
+        "secret": true,
+        "once": "puits_vu"
+      },
+      {
+        "text": "Retourner sur la place centrale",
+        "goto": "hub"
+      }
+    ]
+  },
+  "cui_aide": {
+    "text": "Cinquante sacs, cent marches. Le cuisinier borgne te regarde faire, puis pose sans un mot un bol de soupe devant toi — avec de la viande dedans. Première fois depuis des années.\n\n« Les bras qui portent mangent », grogne-t-il. C'est la phrase la plus gentille qu'on t'ait dite ici.",
+    "image": "sacs_riz",
+    "choices": [
+      {
+        "text": "Manger jusqu'à la dernière goutte (+1 Corps)",
+        "goto": "loc_cuisines",
+        "effects": {
+          "stats": {
+            "corps": 1
+          }
+        }
+      }
+    ]
+  },
+  "gpc1": {
+    "text": "« Tu reviens. Bien. » Les braises dessinent le vieux visage. « Leçon deux : le souffle des cendres ne se vole pas, il se [i]recueille[/i]. Chaque chose brûlée te lègue ce qu'elle fut. Le talisman mort te donne sa rigueur. L'herbe moisie, sa patience. Apprends à écouter ce que tu respires. »\n\nTu passes la nuit à trier les fumées comme d'autres trient les pierres précieuses.",
+    "image": "lecon_fumees",
+    "choices": [
+      {
+        "text": "Recueillir (+1 Souffle)",
+        "goto": "loc_cuisines",
+        "effects": {
+          "stats": {
+            "souffle": 1
+          }
+        }
+      }
+    ]
+  },
+  "gpc2": {
+    "text": "« Leçon trois, petit fourneau : la cendre est humble. Elle est ce qui reste quand l'orgueil a fini de flamber. Les disciples d'ici cultivent pour dominer — c'est pour ça qu'ils plafonnent. Toi, cultive pour [i]durer[/i]. La montagne ne se souvient pas des flammes. Elle se souvient du feu qui couve. »\n\nTa respiration descend d'un cran, plus profonde que jamais.",
+    "image": "lecon_braise",
+    "choices": [
+      {
+        "text": "Durer (+1 Souffle)",
+        "goto": "loc_cuisines",
+        "effects": {
+          "stats": {
+            "souffle": 1
+          }
+        }
+      }
+    ]
+  },
+  "gpc3": {
+    "text": "Les braises crépitent longtemps avant de répondre.\n\n« Tu as ouvert ta Rivière Intérieure. Alors tu peux porter ceci. » Une flamme blanche jaillit de la fosse et se pose sur ta paume sans brûler. « La Paume de Suie. Tout ce qu'elle touche, elle peut l'éteindre — les feux, les techniques, les vies. Ne l'utilise que pour éteindre ce qui doit l'être. »",
+    "image": "paume_suie",
+    "choices": [
+      {
+        "text": "Recevoir la flamme blanche (+2 Souffle)",
+        "goto": "loc_cuisines",
+        "effects": {
+          "stats": {
+            "souffle": 2
+          },
+          "tech": "Paume de Suie"
+        }
+      }
+    ]
+  },
+  "sec_registre": {
+    "text": "Les ragots parlaient des caves. Le registre de Qiu, lui, parle en chiffres — et les chiffres mentent mal.\n\nDes pilules spirituelles sorties « pour la réserve » qui ne reviennent jamais. Des livraisons nocturnes signées d'un caractère unique : [b]Mo[/b]. L'intendant nourrit l'Ancien Mo en ressources volées, depuis des années.\n\nTu recopies trois pages d'une main tremblante et remets tout en place.",
+    "image": "registre_qiu",
+    "choices": [
+      {
+        "text": "Cacher les copies sous ton plancher",
+        "goto": "loc_cuisines",
+        "effects": {
+          "secret_id": "registre",
+          "flags": [
+            "registre"
+          ]
+        }
+      }
+    ]
+  },
+  "sec_puits": {
+    "text": "Le puits est condamné par neuf planches et un talisman fatigué. Ton œil accroche un détail que cent ans de passants ont manqué : les clous sont posés [i]de l'intérieur[/i].\n\nQuelqu'un ne voulait pas empêcher qu'on descende. Quelqu'un voulait empêcher que ça remonte... ou offrir un passage à qui saurait voir.",
+    "image": "puits_scelle",
+    "choices": [
+      {
+        "text": "Descendre dans le noir",
+        "goto": "sec_puits2"
+      },
+      {
+        "text": "Refermer et revenir plus tard",
+        "goto": "loc_cuisines"
+      }
+    ]
+  },
+  "sec_puits2": {
+    "text": "Au fond, pas d'eau : un escalier. Il s'enfonce jusqu'à une petite salle taillée dans une racine morte, large comme une maison.\n\nUn squelette en robe de maître y médite depuis trois siècles, un anneau de jade noir au doigt. Sur le mur, une dernière phrase gravée à l'ongle :\n\n[i]« J'ai fondé cette secte pour garder le Cœur, pas pour le traire. Si tu lis ceci, garde-le mieux que moi. »[/i]\n\nLe fondateur ne s'est pas éteint dans son pavillon. Il est descendu mourir en s'excusant auprès des racines.",
+    "image": "ossuaire_fondateur",
+    "choices": [
+      {
+        "text": "T'incliner neuf fois et prendre l'anneau (+2 Esprit, +2 Souffle)",
+        "goto": "loc_cuisines",
+        "effects": {
+          "stats": {
+            "esprit": 2,
+            "souffle": 2
+          },
+          "item": "Anneau du Fondateur",
+          "secret_id": "puits",
+          "flags": [
+            "serment_fondateur"
+          ]
+        }
+      }
+    ]
+  },
+  "loc_pavillon": {
+    "text": "[b]— Le Pavillon des Écritures —[/b]\n\nDes milliers de rouleaux que presque personne ne lit : les disciples veulent des techniques, pas des livres. Le vieil archiviste sourd te laisse entrer contre un coup de balai quotidien.",
+    "image": "pavillon_ecritures",
+    "choices": [
+      {
+        "text": "Recopier des manuels pour l'archiviste (+1 Esprit)",
+        "goto": "pav_copie1",
+        "once": "copie1"
+      },
+      {
+        "text": "Recopier les annales anciennes (+1 Esprit)",
+        "goto": "pav_copie2",
+        "once": "copie2",
+        "require": {
+          "flag": "copie1"
+        }
+      },
+      {
+        "text": "Étudier les fondements de la circulation du souffle (+1 Souffle)",
+        "goto": "pav_bases",
+        "once": "bases"
+      },
+      {
+        "text": "La stèle fendue, au fond de la salle des rebuts",
+        "goto": "sec_stele_fendue",
+        "require": {
+          "esprit": 8
+        },
+        "secret": true,
+        "once": "stele_f_vue"
+      },
+      {
+        "text": "L'aile interdite, dont la serrure est un poème",
+        "goto": "sec_aile",
+        "require": {
+          "esprit": 10,
+          "realm": 2
+        },
+        "secret": true,
+        "once": "aile_vue"
+      },
+      {
+        "text": "Retourner sur la place centrale",
+        "goto": "hub"
+      }
+    ]
+  },
+  "pav_copie1": {
+    "text": "Copier, c'est lire deux fois. Tu recopies des traités de médecine, des chroniques de guerre, des manuels d'agriculture spirituelle. Ta main devient précise, ta pensée aussi.",
+    "image": "copie_manuels",
+    "choices": [
+      {
+        "text": "Continuer",
+        "goto": "loc_pavillon",
+        "effects": {
+          "stats": {
+            "esprit": 1
+          }
+        }
+      }
+    ]
+  },
+  "pav_copie2": {
+    "text": "Les annales anciennes s'arrêtent étrangement trois cents ans en arrière, comme si la secte était née adulte. Les pages sur la fondation ont été arrachées proprement — toutes, sauf une demi-ligne oubliée dans une marge : [i]« ...et le feu dura neuf jours, et le Gardien refusa de mourir. »[/i]",
+    "image": "annales_arrachees",
+    "choices": [
+      {
+        "text": "Noter la demi-ligne (+1 Esprit)",
+        "goto": "loc_pavillon",
+        "effects": {
+          "stats": {
+            "esprit": 1
+          }
+        }
+      }
+    ]
+  },
+  "pav_bases": {
+    "text": "Les schémas de circulation classiques supposent des veines ouvertes — inutilisables pour toi. Mais en les inversant, en faisant circuler la chaleur là où eux font passer l'air, tu combles les trous de l'enseignement de Grand-Père Cendre. Ta rivière intérieure gagne un affluent.",
+    "image": "schema_souffle",
+    "choices": [
+      {
+        "text": "Continuer",
+        "goto": "loc_pavillon",
+        "effects": {
+          "stats": {
+            "souffle": 1
+          }
+        }
+      }
+    ]
+  },
+  "sec_stele_fendue": {
+    "text": "Dans la salle des rebuts dort une stèle brisée en deux, jugée illisible. Illisible — sauf si l'on comprend que les deux moitiés ne vont pas ensemble : ce sont [i]deux[/i] stèles, et il faut lire une colonne sur deux.\n\nCe que les siècles ont pris pour une épitaphe est un manuel : [b]la Paume du Pin Sombre[/b], l'art perdu du premier maître. Une paume lente, lourde, patiente — taillée pour un corps forgé aux corvées.",
+    "image": "stele_fendue",
+    "choices": [
+      {
+        "text": "Mémoriser le manuel avant qu'on te surprenne (+1 Esprit)",
+        "goto": "loc_pavillon",
+        "effects": {
+          "stats": {
+            "esprit": 1
+          },
+          "tech": "Paume du Pin Sombre",
+          "secret_id": "stele_fendue"
+        }
+      }
+    ]
+  },
+  "sec_aile": {
+    "text": "La serrure de l'aile interdite ne s'ouvre pas avec une clé : elle attend la fin d'un poème gravé sur le linteau. Tu la trouves — elle était dans les annales que tu as recopiées.\n\nÀ l'intérieur : un seul rouleau, scellé du sceau des chefs de secte. L'histoire vraie. L'Arbre Muhuang portait les prières de neuf vallées. La secte naissante l'a brûlé pour récolter d'un coup trois siècles de foi accumulée — et bâtir sa puissance sur ce brasier. Le fondateur s'y est opposé. Il a perdu. Puis il a fondé la secte quand même, pour monter la garde sur ce qui restait.\n\nTu sais désormais sur quoi tu marches.",
+    "image": "arbre_muhuang",
+    "choices": [
+      {
+        "text": "Refermer l'aile comme si de rien n'était (+2 Esprit)",
+        "goto": "loc_pavillon",
+        "effects": {
+          "stats": {
+            "esprit": 2
+          },
+          "secret_id": "aile",
+          "flags": [
+            "verite_arbre"
+          ]
+        }
+      }
+    ]
+  },
+  "loc_falaise": {
+    "text": "[b]— La Falaise des Épées Mortes —[/b]\n\nLe cimetière des armes de la secte. Des centaines de lames plantées dans la roche, rouillées par les siècles de brume. Les disciples y viennent tremper leur courage ; toi, tu y viens frapper la paroi.",
+    "image": "falaise_epees",
+    "choices": [
+      {
+        "text": "Frapper la paroi mille fois (+1 Corps)",
+        "goto": "fal_paroi1",
+        "once": "paroi1"
+      },
+      {
+        "text": "Frapper la paroi les yeux fermés (+2 Corps)",
+        "goto": "fal_paroi2",
+        "once": "paroi2",
+        "require": {
+          "flag": "paroi1",
+          "corps": 7
+        }
+      },
+      {
+        "text": "La vieille épée rouillée qui vibre quand tu passes",
+        "goto": "sec_epee",
+        "require": {
+          "corps": 9
+        },
+        "secret": true,
+        "once": "epee_vue"
+      },
+      {
+        "text": "Méditer sous la lune noire, au bord du vide",
+        "goto": "sec_lune",
+        "require": {
+          "souffle": 15
+        },
+        "secret": true,
+        "once": "lune_vue"
+      },
+      {
+        "text": "Retourner sur la place centrale",
+        "goto": "hub"
+      }
+    ]
+  },
+  "fal_paroi1": {
+    "text": "Mille coups de paume contre le granit. Les cent premiers font mal aux mains. Les cent suivants font mal à l'orgueil. Les huit cents derniers ne font plus mal à rien : il ne reste que le geste, de plus en plus juste.",
+    "image": "frappe_paroi",
+    "choices": [
+      {
+        "text": "Continuer",
+        "goto": "loc_falaise",
+        "effects": {
+          "stats": {
+            "corps": 1
+          }
+        }
+      }
+    ]
+  },
+  "fal_paroi2": {
+    "text": "Les yeux fermés, la paroi devient un adversaire : elle a des veines, des faiblesses, des humeurs. Tu apprends à frapper [i]où la pierre accepte[/i]. Un soir, un disciple interne s'arrête pour te regarder, fronce les sourcils, et repart sans un mot. Ton geste vaut désormais mieux que ton rang.",
+    "image": "frappe_nuit",
+    "choices": [
+      {
+        "text": "Continuer",
+        "goto": "loc_falaise",
+        "effects": {
+          "stats": {
+            "corps": 2
+          }
+        }
+      }
+    ]
+  },
+  "sec_epee": {
+    "text": "Toutes les lames du cimetière sont muettes, sauf une : une épée courte sans garde, mangée de rouille, qui frémit sur ton passage comme un chien oublié.\n\nQuand ta main se referme sur la soie, la rouille s'envole en poudre rouge. Une voix fêlée résonne dans tes os : [i]« Trois cents ans que j'attends une main qui a d'abord tenu un balai. Les paumes calleuses mentent moins. Je m'appelle Murmure. »[/i]",
+    "image": "murmure_epee",
+    "choices": [
+      {
+        "text": "Répondre : « Moi, c'est Su Han. On se lève tôt, ici. »",
+        "goto": "loc_falaise",
+        "effects": {
+          "item": "Murmure, épée éveillée",
+          "tech": "Chant de l'Épée Morte",
+          "secret_id": "epee"
+        }
+      }
+    ]
+  },
+  "sec_lune": {
+    "text": "La nuit sans lune, la falaise change. Les brumes descendent, et avec elles un silence si dense qu'il a un poids. Tu t'assieds au bord du vide et tu respires [i]le silence lui-même[/i].\n\nC'est une cendre, comprends-tu soudain. La nuit est la cendre du jour. Ta rivière intérieure s'élargit d'un coup, comme une crue.",
+    "image": "lune_noire",
+    "choices": [
+      {
+        "text": "Respirer la nuit entière (+3 Souffle)",
+        "goto": "loc_falaise",
+        "effects": {
+          "stats": {
+            "souffle": 3
+          },
+          "secret_id": "lune"
+        }
+      }
+    ]
+  },
+  "loc_foret": {
+    "text": "[b]— La Forêt des Brumes —[/b]\n\nLe versant nord, réservé aux disciples en mission. Les brumes y déforment les distances et les cris des bêtes. C'est ici que la secte cueille ses herbes — et enterre ses imprudents.",
+    "image": "foret_brumes",
+    "choices": [
+      {
+        "text": "Cueillir des herbes spirituelles (+1 Perception)",
+        "goto": "for_herbes1",
+        "once": "herbes1"
+      },
+      {
+        "text": "Cueillir plus profond dans la brume (+1 Perception)",
+        "goto": "for_herbes2",
+        "once": "herbes2",
+        "require": {
+          "flag": "herbes1"
+        }
+      },
+      {
+        "text": "T'asseoir immobile et guetter la forêt (+1 Perception)",
+        "goto": "for_guet",
+        "once": "guet"
+      },
+      {
+        "text": "Traquer le lièvre cornu qui nargue les pièges (+1 Corps)",
+        "goto": "for_lievre",
+        "once": "lievre"
+      },
+      {
+        "text": "L'autel englouti sous les racines du ravin",
+        "goto": "sec_autel",
+        "require": {
+          "perception": 10
+        },
+        "secret": true,
+        "once": "autel_vu"
+      },
+      {
+        "text": "Le nid du Rossignol de Fer, au sommet du pin foudroyé",
+        "goto": "sec_rossignol",
+        "require": {
+          "corps": 12
+        },
+        "secret": true,
+        "once": "rossignol_vu"
+      },
+      {
+        "text": "Retourner sur la place centrale",
+        "goto": "hub"
+      }
+    ]
+  },
+  "for_herbes1": {
+    "text": "L'herbe spirituelle se cache sous l'herbe ordinaire, et la différence tient à un reflet, une odeur, un frisson. Tes yeux de balayeur, habitués à repérer un grain de poussière sur dix mètres de dalles, font merveille.",
+    "image": "cueillette",
+    "choices": [
+      {
+        "text": "Continuer",
+        "goto": "loc_foret",
+        "effects": {
+          "stats": {
+            "perception": 1
+          }
+        }
+      }
+    ]
+  },
+  "for_herbes2": {
+    "text": "Plus profond, la brume avale les repères. Tu apprends à naviguer au son, à l'odeur de la mousse, à la pente sous tes semelles. La forêt cesse d'être un mur blanc : elle devient une carte que tu lis avec tout le corps.",
+    "image": "brume_profonde",
+    "choices": [
+      {
+        "text": "Continuer",
+        "goto": "loc_foret",
+        "effects": {
+          "stats": {
+            "perception": 1
+          }
+        }
+      }
+    ]
+  },
+  "for_guet": {
+    "text": "Trois heures sans bouger. Une biche spirituelle finit par traverser la clairière, suivie de son faon translucide. Puis un serpent de brume. Puis, très loin entre les troncs... une silhouette humaine en robe blanche, qui n'appartient pas à la secte. Elle disparaît quand tu clignes des yeux.",
+    "image": "biche_spirituelle",
+    "choices": [
+      {
+        "text": "Retenir l'endroit exact (+1 Perception)",
+        "goto": "loc_foret",
+        "effects": {
+          "stats": {
+            "perception": 1
+          },
+          "flags": [
+            "silhouette_blanche"
+          ]
+        }
+      }
+    ]
+  },
+  "for_lievre": {
+    "text": "Le lièvre cornu se moque des pièges des disciples depuis des années. Tu ne poses pas de piège : tu cours. Trois jours de traque, de chutes, de ronces. Au matin du quatrième, le lièvre s'assoit devant toi, te jauge, et repart dignement. Tu n'as pas attrapé le lièvre — mais tu as attrapé des jambes.",
+    "image": "lievre_cornu",
+    "choices": [
+      {
+        "text": "Continuer",
+        "goto": "loc_foret",
+        "effects": {
+          "stats": {
+            "corps": 1
+          }
+        }
+      }
+    ]
+  },
+  "sec_autel": {
+    "text": "Au fond du ravin, sous un nœud de racines mortes, ton œil accroche une géométrie trop régulière : un autel englouti, antérieur à la secte, antérieur peut-être à l'Arbre lui-même.\n\nSur la pierre, une carte du ciel — mais d'un ciel [i]faux[/i], avec neuf lunes et des constellations qui n'existent pas. Au centre, un caractère inconnu qui te fait mal aux yeux, et une phrase dans une langue que tu ne devrais pas comprendre :\n\n[i]« Toutes les dimensions sont des marches. »[/i]",
+    "image": "autel_englouti",
+    "choices": [
+      {
+        "text": "Relever la carte céleste (+2 Destin, +1 Perception)",
+        "goto": "loc_foret",
+        "effects": {
+          "stats": {
+            "destin": 2,
+            "perception": 1
+          },
+          "item": "Fragment de carte céleste",
+          "secret_id": "autel"
+        }
+      }
+    ]
+  },
+  "sec_rossignol": {
+    "text": "Le pin foudroyé n'a plus d'écorce, plus de branches basses — trente mètres de bois lisse et noir. Personne ne monte. Tu montes.\n\nDans le nid, entre trois œufs de pierre froide, un seul œuf est chaud : gris cendre, veiné d'or. Le Rossignol de Fer, l'oiseau qui niche dans les arbres morts et chante avec la voix de ce qui a brûlé. Il pulse doucement contre ta paume, comme s'il te reconnaissait.",
+    "image": "rossignol_nid",
+    "choices": [
+      {
+        "text": "Emporter l'œuf tiède contre ton cœur",
+        "goto": "loc_foret",
+        "effects": {
+          "item": "Œuf du Rossignol de Fer",
+          "secret_id": "rossignol"
+        }
+      }
+    ]
+  },
+  "loc_missions": {
+    "text": "[b]— La Salle des Missions —[/b]\n\nDes tablettes de bois pendues au mur : corvées, cueillettes, patrouilles, primes. C'est ici que les destins de la secte se distribuent, du balai jusqu'à la guerre.",
+    "image": "salle_missions",
+    "choices": [
+      {
+        "text": "S'inscrire à l'Épreuve des disciples externes",
+        "goto": "q1_intro",
+        "once": "q1_prise",
+        "require": {
+          "realm": 1
+        }
+      },
+      {
+        "text": "Mission : rapporter l'Herbe de Lune de la forêt profonde",
+        "goto": "q2_intro",
+        "once": "q2_prise",
+        "require": {
+          "flag": "outer_disciple"
+        }
+      },
+      {
+        "text": "S'inscrire au Tournoi des disciples internes",
+        "goto": "t_intro",
+        "once": "t_prise",
+        "require": {
+          "realm": 2,
+          "flag": "herbe_rendue"
+        }
+      },
+      {
+        "text": "Défier à nouveau Bai Feng",
+        "goto": "t_bai_intro",
+        "require": {
+          "flag": "defaite_bai"
+        }
+      },
+      {
+        "text": "Répondre à la convocation du Maître Yuan",
+        "goto": "q4_maitre",
+        "once": "q4_prise",
+        "require": {
+          "flag": "interne"
+        }
+      },
+      {
+        "text": "Les cloches de guerre sonnent — courir au front",
+        "goto": "f_invasion",
+        "once": "finale_prise",
+        "require": {
+          "flag": "garde_faite",
+          "realm": 3
+        }
+      },
+      {
+        "text": "Retourner sur la place centrale",
+        "goto": "hub"
+      }
+    ]
+  },
+  "q1_intro": {
+    "text": "L'Épreuve des disciples externes : porter une jarre d'eau consacrée du pied de la montagne jusqu'au temple, sans en renverser une goutte, avant midi. La plupart des candidats ont dix ans de moins que toi et des veines ouvertes de naissance.\n\nL'examinateur te regarde t'inscrire avec un sourire en coin. « Le balayeur veut une robe grise ? La montagne va rire. »",
+    "image": "jarre_epreuve",
+    "choices": [
+      {
+        "text": "Porter la jarre à la force du corps",
+        "goto": "q1_eau",
+        "require": {
+          "corps": 7
+        }
+      },
+      {
+        "text": "Réguler ta fatigue avec le Souffle des Braises",
+        "goto": "q1_eau",
+        "require": {
+          "souffle": 5
+        }
+      },
+      {
+        "text": "Étudier le chemin la veille et partir avant l'aube",
+        "goto": "q1_eau",
+        "require": {
+          "esprit": 7
+        }
+      }
+    ]
+  },
+  "q1_eau": {
+    "text": "Mille marches. La jarre pèse comme un homme mort. À mi-pente, des candidats abandonnent en pleurant ; d'autres tombent, et l'eau consacrée s'évapore en volutes argentées.\n\nToi, tu montes. C'est ton escalier. Tu l'as balayé mille fois, tu connais chaque dalle traître, chaque marche qui penche. La montagne ne rit pas : elle te reconnaît.\n\nTu poses la jarre pleine devant le temple alors que la cloche de midi commence à peine à vibrer.",
+    "image": "mille_marches",
+    "choices": [
+      {
+        "text": "Recevoir la robe grise",
+        "goto": "q1_succes"
+      }
+    ]
+  },
+  "q1_succes": {
+    "text": "L'examinateur note ton nom sans oser te regarder. [b]Su Han, disciple externe de la Secte du Pin Noir.[/b]\n\nDans la foule, Bai Feng te fixe longuement, comme on fixe une tache sur une robe neuve. Quelque part sous les cuisines, tu jurerais entendre un vieux rire de braise.",
+    "image": "robe_grise",
+    "choices": [
+      {
+        "text": "Endosser la robe grise (+1 Destin)",
+        "goto": "hub",
+        "effects": {
+          "stats": {
+            "destin": 1
+          },
+          "flags": [
+            "outer_disciple"
+          ],
+          "item": "Robe grise de disciple externe"
+        }
+      }
+    ]
+  },
+  "q2_intro": {
+    "text": "L'Herbe de Lune ne pousse qu'au cœur de la forêt profonde, là où les brumes ne se lèvent jamais. Trois disciples sont revenus bredouilles ce mois-ci. Le quatrième n'est pas revenu.\n\nLa prime est bonne, mais surtout : l'Herbe de Lune est exactement ce qu'il faut pour stabiliser une percée vers la Racine de Jade. Grand-Père Cendre a été formel.",
+    "image": "foret_brumes",
+    "choices": [
+      {
+        "text": "S'enfoncer dans la brume",
+        "goto": "q2_brume"
+      }
+    ]
+  },
+  "q2_brume": {
+    "text": "La forêt profonde ne ressemble à rien de connu : les arbres y poussent en spirale et les sons arrivent avant les choses. Tu navigues comme Dame Brume te l'a appris malgré elle — au corps, à l'odeur, à la pente.\n\nAu bord d'une combe argentée, tu la trouves : l'Herbe de Lune, sept brins qui luisent doucement. Mais tu n'es pas seul. Un homme en robe blanche est accroupi près de la combe — la broderie d'une grue à son col. La Grue Immaculée, ici, en territoire du Pin Noir.",
+    "image": "combe_argentee",
+    "choices": [
+      {
+        "text": "L'attaquer avant qu'il ne te voie",
+        "goto": "q2_espion",
+        "require": {
+          "corps": 10
+        }
+      },
+      {
+        "text": "Te fondre dans la brume et l'observer",
+        "goto": "q2_espion",
+        "require": {
+          "perception": 9
+        }
+      },
+      {
+        "text": "Cueillir l'herbe discrètement et filer",
+        "goto": "q2_espion"
+      }
+    ]
+  },
+  "q2_espion": {
+    "text": "Quoi que tu fasses, une chose est sûre : l'homme ne cueille pas d'herbes. Il [i]mesure[/i]. Des piquets de jade, des fils de soie tendus entre les arbres, des relevés — on cartographie les veines spirituelles de la montagne, comme on prépare un siège.\n\nIl finit par lever le camp, et tu notes chaque détail : sept piquets, orientés vers le cœur de la montagne. Vers les caves scellées.",
+    "image": "espion_grue",
+    "choices": [
+      {
+        "text": "Rentrer avec l'herbe et le renseignement (+1 Perception)",
+        "goto": "q2_retour",
+        "effects": {
+          "stats": {
+            "perception": 1
+          },
+          "flags": [
+            "espion_repere"
+          ]
+        }
+      }
+    ]
+  },
+  "q2_retour": {
+    "text": "Tu rends six brins d'Herbe de Lune à la Salle des Missions — le septième dort dans ta manche, pour ta propre percée. La prime tombe, et avec elle les premiers regards qui te calculent : le balayeur rapporte ce que les disciples de bonne famille ratent.\n\nQuant aux piquets de jade... tu gardes ça pour toi. Une monnaie ne vaut que si on est seul à l'avoir.",
+    "image": "retour_herbe",
+    "choices": [
+      {
+        "text": "Ranger le septième brin (+1 Souffle)",
+        "goto": "hub",
+        "effects": {
+          "stats": {
+            "souffle": 1
+          },
+          "flags": [
+            "herbe_lune",
+            "herbe_rendue"
+          ],
+          "item": "Brin d'Herbe de Lune"
+        }
+      }
+    ]
+  },
+  "t_intro": {
+    "text": "[b]— Le Tournoi des disciples internes —[/b]\n\nUne fois l'an, la secte ouvre huit places de disciple interne. Cette année, trente-deux candidats — et toi, l'ancien balayeur en robe grise, que la moitié de la montagne vient voir perdre.\n\nSur l'estrade des anciens, Maître Yuan est absent. L'Ancien Mo préside, les mains dans les manches, le regard comme une serrure.",
+    "image": "arene_tournoi",
+    "choices": [
+      {
+        "text": "Monter sur l'arène",
+        "goto": "t_r1"
+      }
+    ]
+  },
+  "t_r1": {
+    "text": "Premier tour : le disciple Wu, un colosse spécialiste de la lutte, qui annonce qu'il va te replier « comme un drap ».",
+    "image": "colosse_wu",
+    "choices": [
+      {
+        "text": "Encaisser sa charge et le déraciner (Corps)",
+        "goto": "t_r2",
+        "require": {
+          "corps": 9
+        },
+        "effects": {
+          "stats": {
+            "corps": 1
+          }
+        }
+      },
+      {
+        "text": "L'épuiser en glissant comme une fumée (Souffle)",
+        "goto": "t_r2",
+        "require": {
+          "souffle": 9
+        },
+        "effects": {
+          "stats": {
+            "souffle": 1
+          }
+        }
+      },
+      {
+        "text": "Le faire charger trois fois au même endroit — là où le plancher cède (Esprit)",
+        "goto": "t_r2",
+        "require": {
+          "esprit": 9
+        },
+        "effects": {
+          "stats": {
+            "esprit": 1
+          }
+        }
+      }
+    ]
+  },
+  "t_r2": {
+    "text": "Les tours passent. Tu ne gagnes pas joliment — tu gagnes [i]proprement[/i], à l'économie, comme on balaye une grande cour : sans un geste de trop.\n\nDemi-finale : la disciple Yan Hua et ses Mille Aiguilles de Givre, une pluie d'éclats de glace qui a déjà envoyé deux candidats à l'infirmerie.",
+    "image": "aiguilles_givre",
+    "choices": [
+      {
+        "text": "Traverser la pluie de givre en encaissant (Corps)",
+        "goto": "t_bai_intro",
+        "require": {
+          "corps": 11
+        },
+        "effects": {
+          "stats": {
+            "corps": 1
+          }
+        }
+      },
+      {
+        "text": "Faire fondre chaque aiguille au vol — la braise mange le givre (Souffle)",
+        "goto": "t_bai_intro",
+        "require": {
+          "souffle": 11
+        },
+        "effects": {
+          "stats": {
+            "souffle": 1
+          }
+        }
+      },
+      {
+        "text": "Lire le motif de ses lancers et passer entre les gouttes (Perception)",
+        "goto": "t_bai_intro",
+        "require": {
+          "perception": 11
+        },
+        "effects": {
+          "stats": {
+            "perception": 1
+          }
+        }
+      }
+    ]
+  },
+  "t_bai_intro": {
+    "text": "Finale. Bai Feng monte sur l'arène sous les acclamations, sa robe blanche immaculée, son épée de jade au côté. Il te salue avec une courtoisie pire qu'une insulte.\n\n« Je vais t'expliquer ta place, balayeur. Lentement. Pour que même toi, tu comprennes. »\n\nLa foule retient son souffle. Sur l'estrade, l'Ancien Mo se penche imperceptiblement en avant.",
+    "image": "bai_feng",
+    "choices": [
+      {
+        "text": "Observer ses huit premiers pas — son jeu de jambes boite à gauche",
+        "goto": "t_bai_secret",
+        "require": {
+          "perception": 12
+        },
+        "secret": true,
+        "once": "pas_vus"
+      },
+      {
+        "text": "Engager le combat",
+        "goto": "t_bai_fight"
+      }
+    ]
+  },
+  "t_bai_secret": {
+    "text": "Tout le monde regarde son épée de jade. Toi, tu regardes ses pieds.\n\nHuit pas d'ouverture — et au cinquième, un infime déséquilibre : une vieille blessure au genou gauche, maquillée par des années de technique. Son fameux [i]Vol de la Grue Blanche[/i] tourne toujours à droite. Toujours.\n\nDans ta tête, en trois respirations, tu inventes le contre-pas : glisser bas, à gauche, dans l'angle mort de son genou — comme une cendre portée par son propre vent.",
+    "image": "pas_boiteux",
+    "choices": [
+      {
+        "text": "Nommer le geste : Pas de la Cendre Portée",
+        "goto": "t_bai_fight",
+        "effects": {
+          "tech": "Pas de la Cendre Portée",
+          "secret_id": "pas_bai"
+        }
+      }
+    ]
+  },
+  "t_bai_fight": {
+    "text": "Bai Feng ouvre le combat comme une tempête blanche. Son épée de jade chante, la foule hurle, et pendant dix respirations tu ne fais que survivre au centre d'un blizzard.\n\nMais toi, tu as survécu à pire que lui : à seize hivers de mépris. Le moment vient de répondre.",
+    "image": "duel_tempete",
+    "choices": [
+      {
+        "text": "Glisser dans son angle mort — Pas de la Cendre Portée",
+        "goto": "t_bai_win",
+        "require": {
+          "tech": "Pas de la Cendre Portée"
+        }
+      },
+      {
+        "text": "Éteindre sa tempête à pleines paumes (Souffle 14)",
+        "goto": "t_bai_win",
+        "require": {
+          "souffle": 14
+        }
+      },
+      {
+        "text": "Briser son rythme à la force pure (Corps 12 et Souffle 11)",
+        "goto": "t_bai_win",
+        "require": {
+          "corps": 12,
+          "souffle": 11
+        }
+      },
+      {
+        "text": "Te battre de toutes tes forces, advienne que pourra",
+        "goto": "t_bai_lose"
+      }
+    ]
+  },
+  "t_bai_win": {
+    "text": "Un souffle. C'est tout ce qu'il faut.\n\nTa paume s'arrête à un pouce de sa gorge, chargée de chaleur sombre. Le silence tombe sur l'arène comme une neige. Bai Feng regarde ta main, puis ton visage — et pour la première fois, il te [i]voit[/i].\n\n« Vainqueur : Su Han », annonce l'arbitre d'une voix blanche. Quelque part dans la foule, le cuisinier borgne hurle de joie en brandissant sa louche.",
+    "image": "victoire_arene",
+    "choices": [
+      {
+        "text": "Recevoir la robe noire de disciple interne (+2 Souffle, +1 Corps)",
+        "goto": "t_epilogue",
+        "effects": {
+          "stats": {
+            "souffle": 2,
+            "corps": 1
+          },
+          "flags": [
+            "interne"
+          ],
+          "item": "Robe noire de disciple interne"
+        }
+      }
+    ]
+  },
+  "t_bai_lose": {
+    "text": "Le courage ne remplace pas l'écart de puissance. Le [i]Vol de la Grue Blanche[/i] te cueille à la neuvième respiration et te dépose dans la poussière, sonné, la bouche pleine de sang et d'orgueil.\n\nBai Feng range son épée sans un mot de trop. C'est presque pire.\n\nMais en quittant l'arène sur tes jambes, tu croises le regard des anciens : ils t'ont [i]vu[/i]. Un balayeur qui tient neuf respirations face à Bai Feng, ce n'est plus un balayeur. Reviens plus fort : le règlement autorise un défi de rattrapage.",
+    "image": "defaite_poussiere",
+    "choices": [
+      {
+        "text": "Ravaler le sang et repartir t'entraîner",
+        "goto": "hub",
+        "effects": {
+          "flags": [
+            "defaite_bai"
+          ]
+        }
+      }
+    ]
+  },
+  "t_epilogue": {
+    "text": "Le soir même, on déplace ta paillasse du réduit des serviteurs vers les pavillons internes. Tu emportes ton balai — par habitude, par mémoire, et parce qu'un manche solide a déjà gagné des combats.\n\nDans la fosse à feu, Grand-Père Cendre savoure : « Un fourneau de plus dans la maison des flammes. Reste prudent, petit. Plus on monte, mieux on voit... et mieux on est vu. »",
+    "image": "robe_noire",
+    "choices": [
+      {
+        "text": "Dormir ta première nuit de disciple interne",
+        "goto": "hub"
+      }
+    ]
+  },
+  "q4_maitre": {
+    "text": "La convocation arrive sur papier de riz noir : le Maître Yuan t'attend.\n\nSon pavillon sent la vieille encre et la maladie. Le maître de la Secte du Pin Noir, jadis capable de fendre une falaise, est un homme gris qui tremble en versant le thé.\n\n« La montagne se vide, disciple Su. Nos ressources fuient, nos protections s'affaiblissent, et la Grue Immaculée rôde. Je suis trop faible pour garder ce qui doit l'être. Toi... tu montes plus vite que quiconque en trois siècles. Cette nuit, tu garderas la porte des caves scellées. Ne pose pas de questions. N'ouvre à [i]personne[/i]. Pas même à un ancien. »",
+    "image": "maitre_yuan",
+    "choices": [
+      {
+        "text": "« Pas même à un ancien. Compris. »",
+        "goto": "q4_garde"
+      },
+      {
+        "text": "Lui parler des piquets de jade dans la forêt",
+        "goto": "q4_garde",
+        "require": {
+          "flag": "espion_repere"
+        },
+        "effects": {
+          "flags": [
+            "yuan_prevenu"
+          ]
+        }
+      }
+    ]
+  },
+  "q4_garde": {
+    "text": "Minuit. La porte des caves est un disque de bronze large comme trois hommes, gravé de racines entrelacées. Derrière, tu [i]sens[/i] le Cœur de Braise battre — lent, immense, familier. Le même feu que dans tes veines.\n\nAu troisième veille, des pas. L'Ancien Mo descend l'escalier, une lanterne éteinte à la main.\n\n« Ouvre, petit. Affaire de la secte. »",
+    "image": "porte_bronze",
+    "choices": [
+      {
+        "text": "« Personne n'entre. Ordre du Maître. » (+1 Perception, +2 Souffle)",
+        "goto": "q4_mo",
+        "effects": {
+          "stats": {
+            "perception": 1,
+            "souffle": 2
+          }
+        }
+      }
+    ]
+  },
+  "q4_mo": {
+    "text": "Le visage de Mo ne change pas. C'est pire que de la colère.\n\n« Intéressant, dit-il doucement. Yuan poste son petit prodige devant ma porte. » Il remonte l'escalier sans hâte. Arrivé en haut, sans se retourner : « Tu sens le feu d'en bas, n'est-ce pas ? Moi aussi, depuis quarante ans. Nous en reparlerons très bientôt. »\n\nAu matin, tu fais ton rapport. Le Maître Yuan ferme les yeux longtemps. « Alors c'est lui. Et c'est pour bientôt. Tiens-toi prêt, disciple. Quand les cloches sonneront, tout se jouera en une nuit. »",
+    "image": "mo_lanterne",
+    "choices": [
+      {
+        "text": "Te préparer à la tempête",
+        "goto": "hub",
+        "effects": {
+          "flags": [
+            "garde_faite"
+          ]
+        }
+      }
+    ]
+  },
+  "f_invasion": {
+    "text": "[b]— La Nuit des Cloches —[/b]\n\nElles sonnent toutes à la fois, pour la première fois en cent ans. Des silhouettes blanches escaladent les remparts par centaines : la Grue Immaculée attaque de trois côtés — exactement selon les lignes des piquets de jade.\n\nEt au cœur du chaos, tu comprends l'impensable : les protections de la montagne ne répondent pas. Quelqu'un les a éteintes [i]de l'intérieur[/i]. L'escalier des caves scellées est grand ouvert, la porte de bronze béante.",
+    "image": "nuit_cloches",
+    "choices": [
+      {
+        "text": "Fouiller la chambre de l'Ancien Mo avant de descendre",
+        "goto": "f_mo_chambre",
+        "require": {
+          "perception": 13
+        },
+        "secret": true,
+        "once": "chambre_fouillee"
+      },
+      {
+        "text": "Descendre vers le Cœur de Braise",
+        "goto": "f_choix"
+      }
+    ]
+  },
+  "f_mo_chambre": {
+    "text": "Trente respirations, pas une de plus. La chambre de Mo est d'une propreté de tombeau — mais ton œil de balayeur repère l'invisible : la latte du plancher que la poussière contourne.\n\nDessous : quarante ans de lettres de la Grue Immaculée. Le prix de la trahison, noir sur blanc — Mo leur livre la montagne, et en échange la Grue l'aidera à s'approprier le Cœur et à fonder sa propre secte sur le cadavre du Pin Noir.\n\nTu prends tout.",
+    "image": "chambre_mo",
+    "choices": [
+      {
+        "text": "Descendre vers le Cœur, les preuves contre la poitrine",
+        "goto": "f_choix",
+        "effects": {
+          "secret_id": "chambre_mo",
+          "flags": [
+            "mo_preuve"
+          ]
+        }
+      }
+    ]
+  },
+  "f_choix": {
+    "text": "Les caves s'ouvrent sur un monde. Sous la montagne, une caverne de racines calcinées grande comme une vallée — et en son centre, le [b]Cœur de Braise[/b] : tout ce qui reste de l'Arbre Muhuang, un soleil de cendre rouge qui bat comme un cœur vivant.\n\nL'Ancien Mo se tient devant, des aiguilles de jade plantées dans les racines, aspirant le feu à longs traits. Il est déjà plus vaste qu'un homme ne devrait l'être. En haut, la secte brûle. Le Maître Yuan, blessé, tient l'escalier presque seul.\n\nGrand-Père Cendre murmure dans tes veines : [i]« C'est maintenant, petit. Choisis qui tu es. »[/i]",
+    "image": "coeur_braise",
+    "choices": [
+      {
+        "text": "Te dresser entre Mo et le Cœur",
+        "goto": "f_droiture1",
+        "require": {
+          "realm": 4
+        }
+      },
+      {
+        "text": "Te dresser entre Mo et le Cœur, quoi qu'il en coûte",
+        "goto": "f_droiture1",
+        "require": {
+          "corps": 13,
+          "souffle": 16
+        }
+      },
+      {
+        "text": "Jeter les preuves aux pieds des deux armées",
+        "goto": "f_serpent1",
+        "require": {
+          "flag": "mo_preuve"
+        }
+      },
+      {
+        "text": "Révéler le registre volé et l'espionnage de la Grue",
+        "goto": "f_serpent1",
+        "require": {
+          "flag": [
+            "registre",
+            "espion_repere"
+          ]
+        }
+      },
+      {
+        "text": "Plonger dans le Cœur de Braise lui-même",
+        "goto": "f_cendres1",
+        "require": {
+          "secrets": 8
+        },
+        "secret": true
+      },
+      {
+        "text": "Te jeter dans la mêlée, advienne que pourra",
+        "goto": "f_melee"
+      }
+    ]
+  },
+  "f_melee": {
+    "text": "Pas de plan. Juste toi, ton souffle, et seize hivers de rage propre.\n\nTu traverses la bataille comme une braise dans la paille, tu arraches trois disciples aux lames blanches, tu tiens une porte le temps qu'on évacue les blessés. Une lame finit par passer ta garde et t'ouvrir le flanc — mais tu es toujours debout quand tu atteins le Cœur.",
+    "image": "melee",
+    "choices": [
+      {
+        "text": "Serrer les dents et affronter Mo",
+        "goto": "f_droiture1",
+        "effects": {
+          "stats": {
+            "corps": -2
+          },
+          "flags": [
+            "blesse"
+          ]
+        }
+      }
+    ]
+  },
+  "f_droiture1": {
+    "text": "Mo te regarde approcher avec quelque chose qui ressemble à du respect.\n\n« Le balayeur. Évidemment. Le seul qui comprenne ce qu'il y a à prendre ici. » Il arrache une aiguille de jade, et le feu volé tourbillonne autour de lui. « Rejoins-moi. Yuan est fini, la secte est finie. Ce feu peut nous porter jusqu'au sommet du monde. »\n\nDans tes veines, la cendre répond pour toi : ce feu n'appartient à personne. On ne le prend pas. On le [i]garde[/i].",
+    "image": "mo_transfigure",
+    "choices": [
+      {
+        "text": "« Je suis le gardien de ce fourneau. Sors de ma cuisine. »",
+        "goto": "f_droiture2"
+      }
+    ]
+  },
+  "f_droiture2": {
+    "text": "Le duel fait trembler la montagne. Mo est un siècle de technique gorgé de feu volé ; tu es seize ans de corvées et une nuit de vérité. Il frappe comme un dieu. Tu encaisses comme une pierre de four.\n\nEt là où son feu volé s'épuise, le tien — le tien [i]recueille[/i]. Chaque technique qu'il brûle contre toi, ta cendre l'avale et te la rend. Plus il flambe, plus tu couves.\n\nÀ l'aube, l'Ancien Mo tombe à genoux, vidé, au pied du Cœur qui bat toujours. En haut, voyant leur allié perdu et la montagne réveillée, la Grue Immaculée sonne la retraite.",
+    "image": "duel_final",
+    "choices": [
+      {
+        "text": "Éteindre son feu volé — Paume de Suie",
+        "goto": "ending_droiture",
+        "require": {
+          "tech": "Paume de Suie"
+        }
+      },
+      {
+        "text": "L'épargner et le livrer enchaîné à la justice de la secte",
+        "goto": "ending_droiture"
+      }
+    ]
+  },
+  "ending_droiture": {
+    "text": "[b]— FIN : LE GARDIEN DU FOURNEAU —[/b]\n\nLe Maître Yuan meurt trois jours plus tard, ses blessures au-delà de toute pilule. Devant la secte assemblée, il pose sur tes épaules le manteau de cendre des chefs du Pin Noir.\n\n« J'ai passé ma vie à cacher le Cœur, souffle-t-il. Toi, tu sauras le [i]garder[/i]. Ce n'est pas pareil. »\n\nLes anciens s'inclinent. Bai Feng s'incline le dernier — mais le plus bas. Dans la fosse à feu des cuisines, un vieux rire crépite : « Chef de secte à dix-sept ans. Pas mal, pour des veines de pierre. »",
+    "image": "manteau_cendre",
+    "choices": [
+      {
+        "text": "Contempler ta montagne",
+        "goto": "epilogue",
+        "effects": {
+          "flags": [
+            "chef_secte"
+          ],
+          "realm": 4
+        }
+      }
+    ]
+  },
+  "f_serpent1": {
+    "text": "Tu ne descends pas vers le Cœur. Tu montes — sur le toit du temple, au-dessus des deux armées, et tu jettes les preuves au vent. Quarante ans de trahison en papier de riz, qui neigent sur les combattants.\n\n« Grue Immaculée ! Voilà l'allié pour qui vous mourez ce soir : il vous vend la montagne qu'il a déjà vidée ! Pin Noir ! Voilà où partaient vos pilules et vos protections ! »\n\nLes lames hésitent. Les chefs lisent. Et l'armée blanche, comprenant qu'elle se bat pour remplir la poche d'un traître qui la trahira ensuite, se retourne contre Mo d'un seul mouvement de plumes furieuses.",
+    "image": "preuves_au_vent",
+    "choices": [
+      {
+        "text": "Regarder les deux sectes dévorer le traître",
+        "goto": "ending_serpent"
+      }
+    ]
+  },
+  "ending_serpent": {
+    "text": "[b]— FIN : LA LANGUE DE BRAISE —[/b]\n\nMo tombe sous cent lames, sans que tu aies eu à lever la main. La Grue Immaculée se retire avec des excuses formelles et un traité de non-agression — signé de préférence avec « l'homme qui sait des choses ».\n\nLe Maître Yuan, épargné par une bataille écourtée, abdique dans le mois. Le conseil des anciens, qui a vu ce que vaut ton esprit, ne trouve qu'un seul nom à proposer.\n\nOn murmure désormais dans neuf vallées qu'il ne faut jamais, [i]jamais[/i], avoir de secrets près du nouveau maître du Pin Noir. Dans sa fosse à feu, Grand-Père Cendre est mort de rire : « Tu as gagné une guerre avec un registre de cuisine, petit. Je t'adore. »",
+    "image": "traite_grue",
+    "choices": [
+      {
+        "text": "Sourire, et classer tes archives",
+        "goto": "epilogue",
+        "effects": {
+          "flags": [
+            "chef_secte"
+          ]
+        }
+      }
+    ]
+  },
+  "f_cendres1": {
+    "text": "Douze secrets, et chacun disait la même chose : cette montagne t'attendait.\n\nTu passes devant Mo — il est trop occupé à voler le feu pour comprendre que le feu, lui, a déjà choisi. Tu marches jusqu'au Cœur de Braise, et là où sa chair de flamme a brûlé quiconque l'a touchée depuis trois siècles... tu entres, comme on rentre chez soi.\n\n[i]« Enfin, dit une voix qui n'est plus tout à fait Grand-Père Cendre — une voix vaste comme neuf cieux. Le Gardien a trouvé son successeur. »[/i]",
+    "image": "entree_coeur",
+    "choices": [
+      {
+        "text": "Devenir le fourneau",
+        "goto": "ending_cendres"
+      }
+    ]
+  },
+  "ending_cendres": {
+    "text": "[b]— FIN : LE CŒUR DE BRAISE —[/b]\n\nQuand tu ressors du Cœur, la bataille s'arrête d'elle-même. Il n'y a plus rien à disputer : la montagne [i]entière[/i] respire à ton rythme. L'Ancien Mo, vidé de son feu volé d'un simple regard, s'enfuit en rampant. La Grue Immaculée plie bagage avec une politesse de funérailles.\n\nLe Maître Yuan s'incline devant toi — un chef de secte ne s'incline que devant plus grand que la secte. « Le Pin Noir n'a jamais eu de maître, dit-il. Il avait un secret. Désormais, le secret a un visage. »\n\nRang atteint : [b]Cœur de Braise[/b]. Quelque part dans ta manche, le fragment de carte céleste s'est mis à chauffer doucement, comme s'il reconnaissait quelque chose.",
+    "image": "renaissance_cendres",
+    "choices": [
+      {
+        "text": "Prendre le manteau de cendre",
+        "goto": "epilogue",
+        "effects": {
+          "flags": [
+            "chef_secte"
+          ],
+          "realm": 5
+        }
+      }
+    ]
+  },
+  "epilogue": {
+    "text": "[b]— ÉPILOGUE DE L'ACTE I —[/b]\n\nMaître Su Han, chef de la Secte du Pin Noir. Le balayeur aux veines de pierre règne sur le Mont des Neuf Échos.\n\nMais certaines nuits, penché sur le fragment de carte céleste aux neuf lunes, tu repenses aux mots de l'autel englouti :\n\n[i]« Toutes les dimensions sont des marches. »[/i]\n\nUne secte n'est qu'une première marche. Au-dessus, il y a les vallées. Au-dessus des vallées, les empires. Au-dessus des empires, les cieux — et au-dessus des cieux, dit la carte, huit autres cieux encore.\n\n[b]La Voie des Cendres ne fait que commencer.[/b]\n\n[i](Fin de l'acte I — les actes suivants mèneront des neuf vallées jusqu'au trône du cosmos.)[/i]",
+    "image": "carte_celeste",
+    "choices": [
+      {
+        "text": "Contempler la montagne endormie",
+        "goto": "epilogue"
+      },
+      {
+        "text": "☠ Recommencer une nouvelle vie",
+        "goto": "__restart"
+      }
+    ]
+  },
+  "loc_meditation": {
+    "text": "[b]— La grotte derrière la cascade sèche —[/b]\n\nTon refuge secret pour cultiver loin des regards. Ici, tu peux tenter de franchir un rang — si ton souffle est prêt. Une percée ratée peut briser des veines ordinaires ; les tiennes sont en pierre, mais la prudence reste une vertu.",
+    "image": "grotte_cascade",
+    "choices": [
+      {
+        "text": "Percée : ouvrir la Rivière Intérieure",
+        "goto": "med_r2",
+        "require": {
+          "realm": 1,
+          "realm_max": 1,
+          "souffle": 6
+        }
+      },
+      {
+        "text": "Percée : planter la Racine de Jade",
+        "goto": "med_r3",
+        "require": {
+          "realm": 2,
+          "realm_max": 2,
+          "souffle": 12,
+          "flag": "herbe_lune"
+        }
+      },
+      {
+        "text": "Percée : couler la Fondation du Vide",
+        "goto": "med_r4",
+        "require": {
+          "realm": 3,
+          "realm_max": 3,
+          "souffle": 18,
+          "flag": "interne"
+        }
+      },
+      {
+        "text": "Simplement méditer sur le chemin parcouru",
+        "goto": "med_calme"
+      },
+      {
+        "text": "Retourner sur la place centrale",
+        "goto": "hub"
+      }
+    ]
+  },
+  "med_calme": {
+    "text": "Tu t'assieds. Tu respires. La montagne respire avec toi — c'est nouveau, ça. Quelque part en dessous, un très vieux feu bat la mesure.\n\nPas de percée aujourd'hui, mais les fondations se tassent, et c'est ainsi que les murs tiennent.",
+    "image": "meditation_calme",
+    "choices": [
+      {
+        "text": "Rouvrir les yeux",
+        "goto": "loc_meditation"
+      }
+    ]
+  },
+  "med_r2": {
+    "text": "Tu guides le fil de chaleur en cercle, encore, encore, jusqu'à ce que le fil devienne filet, le filet ruisseau, le ruisseau [i]rivière[/i]. Tes veines de pierre, qui ne savaient pas s'ouvrir, savent désormais [b]contenir[/b] — et une rivière contenue est une rivière puissante.\n\nQuand tu rouvres les yeux, la nuit a passé et tes mains rayonnent d'une chaleur douce.",
+    "image": "percee_riviere",
+    "choices": [
+      {
+        "text": "Accueillir la Rivière Intérieure (+3 Souffle)",
+        "goto": "hub",
+        "effects": {
+          "stats": {
+            "souffle": 3
+          },
+          "realm": 2
+        }
+      }
+    ]
+  },
+  "med_r3": {
+    "text": "Tu avales le brin d'Herbe de Lune, et sa fraîcheur d'argent rencontre ta braise dans un fracas silencieux. Vapeur. Tempête interne. Puis l'équilibre : au fond de ta rivière, quelque chose prend racine — dur, vert sombre, inarrachable.\n\nGrand-Père Cendre approuve, du fond de sa fosse : « Une racine de jade dans un lit de cendre. Il n'y a pas terreau plus riche. »",
+    "image": "percee_racine",
+    "choices": [
+      {
+        "text": "Planter la Racine de Jade (+3 Souffle)",
+        "goto": "hub",
+        "effects": {
+          "stats": {
+            "souffle": 3
+          },
+          "realm": 3
+        }
+      }
+    ]
+  },
+  "med_r4": {
+    "text": "La derniere marche avant les sommets : cesser de contenir le feu, et devenir le lieu où le feu [i]repose[/i]. Tu laisses ta rivière s'évaser en lac, ton lac en mer intérieure, calme et sans fond.\n\nQuand tu rouvres les yeux, le monde a un poids différent. Ou peut-être est-ce toi qui pèses différemment sur le monde.",
+    "image": "percee_fondation",
+    "choices": [
+      {
+        "text": "Couler la Fondation du Vide (+2 Souffle)",
+        "goto": "hub",
+        "effects": {
+          "stats": {
+            "souffle": 2
+          },
+          "realm": 4
+        }
+      }
+    ]
+  }
+}

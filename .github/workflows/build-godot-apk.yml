@@ -1,0 +1,99 @@
+name: Build La Voie des Cendres APK
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, claude/jeu-mobile-tlorme]
+    paths:
+      - 'voie-des-cendres/**'
+      - '.github/workflows/build-godot-apk.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Valider le graphe narratif et les illustrations
+        run: |
+          python3 voie-des-cendres/tools/validate_story.py
+          python3 voie-des-cendres/tools/simulate_playthrough.py
+          python3 voie-des-cendres/tools/validate_art.py
+
+  export-android:
+    needs: validate
+    runs-on: ubuntu-latest
+    container: barichello/godot-ci:4.3
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Installer les templates d'export
+        run: |
+          mkdir -p ~/.local/share/godot/export_templates
+          cp -r /root/.local/share/godot/export_templates/4.3.stable ~/.local/share/godot/export_templates/ 2>/dev/null || true
+          ls -la ~/.local/share/godot/export_templates/4.3.stable/ || true
+          if [ ! -f ~/.local/share/godot/export_templates/4.3.stable/android_debug.apk ]; then
+            echo "Templates Android absents — téléchargement des templates officiels"
+            wget -q -O /tmp/templates.tpz \
+              https://github.com/godotengine/godot/releases/download/4.3-stable/Godot_v4.3-stable_export_templates.tpz
+            unzip -q /tmp/templates.tpz -d /tmp/templates
+            mkdir -p ~/.local/share/godot/export_templates/4.3.stable
+            cp -r /tmp/templates/templates/* ~/.local/share/godot/export_templates/4.3.stable/
+            rm -rf /tmp/templates /tmp/templates.tpz
+          fi
+          ls -la ~/.local/share/godot/export_templates/4.3.stable/ | head -20
+
+      - name: Configurer le keystore de debug et le SDK Android
+        run: |
+          keytool -keyalg RSA -genkeypair -alias androiddebugkey -keypass android \
+            -keystore "$HOME/debug.keystore" -storepass android \
+            -dname "CN=Android Debug,O=Android,C=US" -validity 9999
+          JAVA_BIN="$(readlink -f "$(command -v javac || command -v java)")"
+          JAVA_DIR="$(dirname "$(dirname "$JAVA_BIN")")"
+          mkdir -p ~/.config/godot
+          for f in editor_settings-4.tres editor_settings-4.3.tres; do
+            {
+              echo '[gd_resource type="EditorSettings" format=3]'
+              echo ''
+              echo '[resource]'
+              echo "export/android/android_sdk_path = \"${ANDROID_HOME:-/usr/lib/android-sdk}\""
+              echo "export/android/java_sdk_path = \"$JAVA_DIR\""
+              echo "export/android/debug_keystore = \"$HOME/debug.keystore\""
+              echo 'export/android/debug_keystore_user = "androiddebugkey"'
+              echo 'export/android/debug_keystore_pass = "android"'
+            } > ~/.config/godot/$f
+          done
+          echo "ANDROID_HOME=$ANDROID_HOME  JAVA_HOME=$JAVA_HOME"
+
+      - name: Importer le projet
+        run: |
+          cd voie-des-cendres
+          godot --headless --import || true
+
+      - name: Exporter l'APK (debug)
+        run: |
+          mkdir -p build
+          cd voie-des-cendres
+          godot --headless --verbose --export-debug "Android" ../build/voie-des-cendres.apk
+          ls -la ../build/
+
+      - name: Publier l'APK en artefact
+        uses: actions/upload-artifact@v4
+        with:
+          name: voie-des-cendres-apk
+          path: build/voie-des-cendres.apk
+
+      - name: Publier l'APK dans une release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: voie-des-cendres-apk
+          name: La Voie des Cendres — APK Android
+          body: |
+            APK Android du RPG textuel **La Voie des Cendres** (build debug, généré automatiquement).
+
+            📲 **Installation** : télécharge `voie-des-cendres.apk` sur ton téléphone, ouvre-le,
+            et accepte l'installation depuis une source inconnue si Android le demande.
+          files: build/voie-des-cendres.apk
