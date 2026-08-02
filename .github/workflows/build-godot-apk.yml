@@ -12,9 +12,8 @@ permissions:
   contents: write
 
 jobs:
-  export-android:
+  validate:
     runs-on: ubuntu-latest
-    container: barichello/godot-ci:4.3
     steps:
       - uses: actions/checkout@v4
 
@@ -22,6 +21,13 @@ jobs:
         run: |
           python3 voie-des-cendres/tools/validate_story.py
           python3 voie-des-cendres/tools/simulate_playthrough.py
+
+  export-android:
+    needs: validate
+    runs-on: ubuntu-latest
+    container: barichello/godot-ci:4.3
+    steps:
+      - uses: actions/checkout@v4
 
       - name: Installer les templates d'export
         run: |
