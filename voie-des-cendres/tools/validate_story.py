@@ -70,20 +70,25 @@ def main() -> int:
         if ending not in story:
             errors.append(f"fin manquante : {ending}")
 
-    # Illustrations : chaque image référencée doit exister dans art/
+    # Illustrations : le jeu tolère leur absence (affichage conditionnel),
+    # on signale simplement ce qui manque et ce qui est orphelin.
+    exts = ("png", "jpg", "webp", "svg")
+    used, present = set(), set()
     if ART_DIR.is_dir():
-        used = set()
-        for node_id, node in story.items():
-            img = node.get("image")
-            if not img:
-                warnings.append(f"{node_id}: pas d'illustration")
-                continue
+        present = {p.stem for p in ART_DIR.iterdir() if p.suffix.lstrip(".") in exts}
+    missing_imgs = []
+    for node_id, node in story.items():
+        img = node.get("image")
+        if img:
             used.add(img)
-            if not (ART_DIR / f"{img}.svg").is_file():
-                errors.append(f"{node_id}: illustration manquante art/{img}.svg")
-        unused = {p.stem for p in ART_DIR.glob("*.svg")} - used - {"su_han_portrait"}
-        if unused:
-            warnings.append(f"illustrations non utilisées : {sorted(unused)}")
+            if img not in present:
+                missing_imgs.append(img)
+    if missing_imgs:
+        warnings.append(f"{len(set(missing_imgs))} illustrations pas encore fournies dans art/ "
+                        f"(le jeu fonctionne sans)")
+    unused = present - used - {"su_han_portrait"}
+    if unused:
+        warnings.append(f"illustrations non utilisées : {sorted(unused)}")
 
     for msg in warnings:
         print(f"AVERTISSEMENT : {msg}")

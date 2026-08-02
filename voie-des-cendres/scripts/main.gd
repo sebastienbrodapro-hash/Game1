@@ -109,6 +109,16 @@ func _set_margins(m: MarginContainer, px: int) -> void:
 
 # ---------------------------------------------------------------- récit
 
+## Cherche l'illustration d'un nœud : PNG et JPG (art générée) d'abord, SVG sinon.
+func _find_image(name: String) -> String:
+	if name == "":
+		return ""
+	for ext in ["png", "jpg", "webp", "svg"]:
+		var path := "res://art/%s.%s" % [name, ext]
+		if ResourceLoader.exists(path):
+			return path
+	return ""
+
 func _dim(line: String) -> String:
 	if line.begins_with("[img"):
 		return line
@@ -145,9 +155,9 @@ func _enter_node(id: String, silent_save := false) -> void:
 		for note in Game.apply_effects(node["on_enter"]):
 			_log(note)
 	_log("")
-	var img := str(node.get("image", ""))
-	if img != "" and ResourceLoader.exists("res://art/%s.svg" % img):
-		_log("[img width=%d]res://art/%s.svg[/img]" % [IMG_WIDTH, img])
+	var img_path := _find_image(str(node.get("image", "")))
+	if img_path != "":
+		_log("[img width=%d]%s[/img]" % [IMG_WIDTH, img_path])
 	_log(str(node.get("text", "")))
 	_show_choices(id)
 	if not silent_save:
@@ -208,8 +218,9 @@ func _on_choice_pressed(node_id: String, index: int) -> void:
 func _update_sheet() -> void:
 	var s: Dictionary = Game.stats
 	var bb := ""
-	if ResourceLoader.exists("res://art/su_han_portrait.svg"):
-		bb += "[img width=220]res://art/su_han_portrait.svg[/img]\n"
+	var portrait := _find_image("su_han_portrait")
+	if portrait != "":
+		bb += "[img width=220]%s[/img]\n" % portrait
 	bb += "[b][color=#e8a94c]%s[/color][/b]\n" % "Su Han"
 	bb += "[color=#8a7d68]%s[/color]\n\n" % Game.player_title()
 	bb += "[b]Rang de cultivation[/b]\n[color=#ff9d5c]☲ %s[/color]\n\n" % Game.REALMS[Game.realm]

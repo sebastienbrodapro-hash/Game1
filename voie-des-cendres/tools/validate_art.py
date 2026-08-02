@@ -15,8 +15,8 @@ def main() -> int:
     errors = []
     files = sorted(ART_DIR.glob("*.svg"))
     if not files:
-        print("ERREUR : aucun SVG dans art/")
-        return 1
+        print("OK — aucun SVG à valider (les illustrations PNG/JPG sont utilisées telles quelles).")
+        return 0
     for path in files:
         content = path.read_text(encoding="utf-8")
         try:

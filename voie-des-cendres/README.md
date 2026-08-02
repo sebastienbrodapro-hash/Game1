@@ -12,8 +12,8 @@ RPG textuel de cultivation martiale (inspiré des manhua de type wuxia/xianxia, 
 - **12 secrets cachés** : des choix invisibles (marqués ✦ quand ils apparaissent) qui ne se révèlent que si tes statistiques sont assez hautes — stèles oubliées, puits scellé, épée qui murmure, autel d'une autre dimension… Certains changent la fin.
 - **3 fins différentes** pour devenir chef de secte : la droiture, la ruse, ou une voie secrète.
 - **Sauvegarde automatique** à chaque choix.
-- **~75 illustrations** dans un style « encre wuxia nocturne » cohérent : chaque scène, secret, percée et fin a sa propre image, affichée dans le fil du récit.
 - **Texte déjà lu grisé** : à chaque nouveau choix, tout ce qui précède s'assombrit pour qu'on ne perde jamais le fil.
+- **Illustrations par scène (à fournir)** : chaque passage du récit est associé à une image. Le pack de prompts [`art/PROMPTS.md`](art/PROMPTS.md) permet de générer les 76 illustrations en style manhua avec n'importe quel générateur d'images IA — il suffit de déposer les fichiers PNG/JPG dans `art/` avec le bon nom, et le jeu (et l'APK) les intègre automatiquement.
 
 ## Structure du projet
 
@@ -26,7 +26,7 @@ voie-des-cendres/
 │   ├── game.gd              # état du joueur : stats, rangs, drapeaux, secrets, sauvegarde
 │   └── main.gd              # interface : onglets, journal du récit, boutons de choix, fiche
 ├── data/story.json          # tout le récit : nœuds, choix, conditions, effets, images
-├── art/                     # les illustrations SVG (une par scène)
+├── art/                     # les illustrations (PNG/JPG à déposer) + PROMPTS.md
 └── tools/
     ├── validate_story.py    # vérifie l'intégrité du graphe narratif + les images
     ├── validate_art.py      # vérifie que les SVG sont compatibles avec le rendu Godot
