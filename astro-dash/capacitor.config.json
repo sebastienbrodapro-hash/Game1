@@ -1,9 +1,0 @@
-{
-  "appId": "com.sebastienbroda.astrodash",
-  "appName": "Astro Dash",
-  "webDir": "www",
-  "backgroundColor": "#0b1026",
-  "android": {
-    "backgroundColor": "#0b1026"
-  }
-}
