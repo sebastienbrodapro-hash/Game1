@@ -1,10 +1,9 @@
 # CLAUDE.md
 
-Ce dépôt contient deux choses **indépendantes** :
+Cette branche (`main`) contient **le jeu d'histoire IA** : un jeu de rôle solo mené par Claude en Maître du Jeu — c'est l'objet des sessions de jeu.
+Fichiers : `codexcreuset.md` (état courant de la campagne « Le Creuset »), `codex/` (sauvegardes numérotées + `INDEX.md`), `codexjiwen.md` (ancienne campagne « Le Parieur », close).
 
-1. **Un jeu de rôle solo** mené par Claude en Maître du Jeu — c'est l'objet des sessions de jeu.
-   Fichiers : `codexcreuset.md` (état courant de la campagne « Le Creuset »), `codex/` (sauvegardes numérotées + `INDEX.md`), `codexjiwen.md` (ancienne campagne « Le Parieur », close).
-2. Un jeu incrémental JS sans rapport (`game.js`, `index.html`, `styles.css`) — **ne pas y toucher** pendant les sessions de jeu de rôle.
+Le jeu incrémental JS (`game.js`, `index.html`, `styles.css`) vit sur la branche **`chronique-incrementale`** — sans rapport avec les sessions de jeu de rôle, ne pas y toucher.
 
 ## Reprendre la partie
 
