@@ -1,7 +1,7 @@
 # CODEX — LE CREUSET (v2 — BROUILLON DE SESSION)
 
 > **Usage :** colle ce fichier au début d'un nouveau fil pour reprendre exactement ici.
-> **Statut : EN FIXATION** — mis à jour en local à chaque point verrouillé, figé dans git ce soir.
+> **Version : v2 — FIGÉE (sauvegarde codex-002).** Point de reprise : **Scène 1 — la nuit de la veille de la pesée.**
 > Nouvelle campagne. Remplace « Le Parieur (Ji Wen) ». Le Pari est mort.
 
 ---
@@ -10,8 +10,8 @@
 
 - **Nouveau moteur : LE CREUSET** (vaincre → dévorer). Plus aucun pari, dette, serment ou offense comptée.
 - **Le monde est honnête** : chaque chiffre affiché est vrai, personne ne peut cacher. Le seul masque au monde est celui du héros.
-- Monde conservé : mesure, familiers, paliers I–X, grades, Sept Registres, Fond de Xun. **Verger Blanc re-casté** en secte de l'usurpation.
-- Nouveau héros (nom à trancher), canon remis à zéro, table des Portes créée.
+- Monde conservé : mesure, familiers, paliers I–X, grades, Sept Registres, le Fond. **Verger Blanc re-casté** en secte de l'usurpation.
+- Héros : **Seb**. Canon remis à zéro, table des Portes créée. **Prénoms occidentaux pour tous les personnages.**
 - Le côté social = **la gloire** (être encensé, impressionner, écraser) — plus la triche.
 
 ---
@@ -69,6 +69,7 @@ Avant chaque choix chiffré : **pronostic qualitatif** justifié par la fiche �
 - Horloges, PNJ qui avancent hors champ, limites de temps.
 - **Cérémonies, pierres, autels, contrôles de mesure = pilier du jeu.**
 - Casting féminin marquant obligatoire (« pas de femme dans un wuxia c'est fade »).
+- **Prénoms occidentaux pour tous les personnages** — le décor reste wuxia, les noms restent lisibles pour le joueur.
 - Progression **rapide**, échelle logarithmique immense (« d'une flammèche au début qui finit en big bang »), histoire très longue (centaines d'heures).
 - Le MJ interpelle pour cadrer dès qu'il pressent un désaccord ; questions méta AVANT questions de fiction ; plusieurs designs possibles = demander.
 - Illustrations web régulières.
@@ -76,7 +77,7 @@ Avant chaque choix chiffré : **pronostic qualitatif** justifié par la fiche �
 
 ### 1.6 Mots-clés
 
-`inv` fiche/inventaire · `rem` échelles de puissance · `codex` régénérer + sauvegarder ce document (git : commit + copie numérotée + index) · `.` afficher les choix (mobile)
+`inv` fiche/inventaire · `rem` échelles de puissance · `codex` régénérer + sauvegarder ce document (git : commit + copie numérotée + index + **tag annoté `codex-NNN`** si la session a le droit de tag) · `.` afficher les choix (mobile)
 
 ---
 
@@ -128,11 +129,11 @@ Avant, on **jurait**, et des dieux-créanciers vivaient de la parole donnée. Pu
 
 ---
 
-## 3 · LE HÉROS *(nom : À TRANCHER)*
+## 3 · SEB
 
 ### 3.1 Identité
 
-15 ans. Né au **Fond de Xun** (bidonville, lit de rivière détournée, 9 000 âmes). Pas de nom de famille. Mal nourri, invisible. **Il ne sait encore rien de sa lignée.**
+**Seb.** 15 ans. Né au **Fond** (bidonville, lit de rivière détournée, 9 000 âmes). Pas de nom de famille. Mal nourri, invisible. **Il ne sait encore rien de sa lignée.**
 
 ### 3.2 LE CREUSET (pouvoir central)
 
@@ -196,8 +197,8 @@ La lignée du vrai fondateur a été jetée au caniveau. La bête n'est pas mort
 
 ---
 
-## 7 · À TRANCHER (bloquants avant scène 1)
+## 7 · POINT DE REPRISE
 
-- **Nom du héros** — proposés : Luo Chen · Yan Su · Shen Kai · garder Ji Wen · autre.
-- Kit (§4) : validation.
-- Puis : **Scène 1 — la nuit de la veille.**
+Tout est fixé : moteur, origine, éveil, kit, nom. **Rien n'est encore joué.**
+Prochaine scène : **Scène 1 — la nuit de la veille.** La bête vient choisir Seb cette nuit ; demain, la pesée — premier jet de la partie, premier affiché à choisir.
+*(PC : les choix s'affichent directement. Mobile : envoyer `.`.)*
