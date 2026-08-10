@@ -90,7 +90,7 @@ Avant chaque choix chiffré : **pronostic qualitatif** justifié par la fiche �
 ### 1.7 Économie de session (verrouillé)
 
 - **Fils courts** : `codex` + fil neuf à **chaque coupure naturelle**. Jamais plus d'une grosse scène par fil.
-- **Réglage joueur retenu (2026-08-10)** : **Opus 5, effort extra, sans bascule**. Le MJ ne peut pas le changer ; il ne le rappelle plus à chaque fil.
+- **Réglage joueur retenu (2026-08-10)** : **Opus 5, effort extra, sans bascule** — réglage de jeu unique, le plus économe en quota sur l'abonnement du joueur. **Fable ne sert que sur demande explicite du joueur**, pour des vérifications hors fiction (audit du codex, git) — jamais imposé par le MJ. Le MJ ne peut pas changer le réglage et ne le rappelle plus à chaque fil.
 - **Début de fil économe** : lire `codexcreuset.md` + `codex/MJ-SECRETS.md` + `codex/MJ-ERRATA.md`, rien d'autre.
 - **Tours sobres** : répliques courtes ; aucune recherche web hors illustrations ; illustrations réservées aux scènes marquantes.
 - Le codex n'est régénéré **que** sur `codex`.
