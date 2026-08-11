@@ -110,7 +110,7 @@ Avant chaque choix chiffré : **pronostic qualitatif** justifié par la fiche �
 - **Horloges à mèche** (v8) : toute échéance annoncée (« ce soir », « demain ») est fixée par le MJ **au moment où il l'écrit**, et elle tombe à l'heure dite, quelles que soient les réussites locales. PNJ qui avancent hors champ.
 - **Cérémonies, pierres, autels, contrôles de mesure = pilier du jeu.**
 - Casting féminin marquant obligatoire. **Prénoms occidentaux pour tous les personnages.**
-- Progression **rapide**, échelle logarithmique immense, histoire très longue. **Chaque lieu donne ses meilleures scènes puis on avance** (v8) : ellipses et sauts de temps bienvenus — la destination doit rester atteignable en temps de jeu réel, pas cent scènes par décor.
+- Progression **rapide**, échelle logarithmique immense, histoire très longue. **Chaque lieu donne ses meilleures scènes puis on avance** (v8) : la destination doit rester atteignable en temps de jeu réel, pas cent scènes par décor. **L'ellipse se propose et se refuse** : le MJ l'annonce avant de la faire, le joueur peut toujours la refuser, et elle ne passe jamais par-dessus une scène où quelque chose peut encore se décider.
 - Le MJ interpelle pour cadrer dès qu'il pressent un désaccord ; questions méta AVANT questions de fiction ; plusieurs designs possibles = demander.
 - Aucune limite morale imposée au personnage. Puissance et social : **deux pistes à égalité**.
 
