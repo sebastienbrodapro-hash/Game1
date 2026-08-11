@@ -1,17 +1,19 @@
-# CODEX — LE CREUSET (v5)
+# CODEX — LE CREUSET (v6)
 
 > **Usage :** nouveau fil → « Reprends Le Creuset ». Le MJ lit ce fichier **en entier**, plus `codex/MJ-SECRETS.md` et `codex/MJ-ERRATA.md` **en silence**. Rien d'autre du dépôt.
-> **v5 — FIGÉE (codex-005).** **Point de reprise : le tout début de l'histoire. Rien n'a encore été joué.**
+> **v6 — FIGÉE (codex-006).** **Point de reprise : place basse, juste après la pesée. Le bloc de choix en attente est reproduit au §7 — le reprendre tel quel.**
 
 ---
 
-## 0 · CE QUI CHANGE (v4 → v5)
+## 0 · CE QUI CHANGE (v5 → v6)
 
-- Origine de la révision : audit d'une ouverture de fil — **conforme à la v4, mais rendu appauvri** (pas d'image, pas de fiche, un seul type de choix). La v4 fixait les règles, pas le rendu. La v5 fixe les deux.
-- **§1.9 — Format de rendu** ajouté (verrouillé) : bloc **ÉTAT à chaque scène** (fiche compacte + horloges), images réservées à une **liste fermée** de scènes marquantes, **étiquette de famille par option** avec pronostic en ligne.
-- **§7 reformulé** : l'ouverture prescrit « **aucun jet avant la pesée** » — plus « un choix libre ». Les familles se mélangent dans un même bloc, étiquetées par option ; un Noir n'exige pas de jet.
-- **La mère de Seb est canonisée** (décision MJ, validée joueur) : inventée en jeu le 2026-08-10, elle entre au §0.1 et au casting §6.
-- La fiction reste au **tout début** : rien n'a été joué.
+- **Première session réellement jouée.** Scènes 1 à 3 : la nuit du lit sec, le matin dans le taudis, la pesée sur la place basse.
+- **Premier d100 de la partie tiré** (la pesée, avantage moyen) → bande **36–65**, « ce que tu voulais, à un prix » ; **+1 jeton**.
+- **Le Masque est né en scène** et Seb l'a compris de l'intérieur, sans savoir qu'il est seul au monde à le faire.
+- **Nouveau don canonisé : l'instinct du chiffre** (§3.6) — décision MJ prise en scène, à confirmer par le joueur s'il veut la borner autrement.
+- **Casting ouvert** : la mère creusée, le greffier de la pesée (sans nom pour l'instant, §1.8), la fille au chat-des-toits.
+- **Fiche §4, casting §6 et point de reprise §7 réécrits.** Table des Portes §5 toujours vierge (aucun critique).
+- Règles §1 et univers §2 **inchangés**.
 
 ---
 
@@ -23,7 +25,16 @@
 - **Seb est la seule exception au monde.** Sa bête tient sa puissance **hors de son corps** : il règle à la seconde ce que les pierres lisent de lui, de 1 jusqu'à son réel. C'est **le Masque** (§3.3).
 - Sa bête est un **dévoreur** : ce que Seb bat **de ses mains**, il peut le manger — et il encaisse toute la puissance du vaincu. C'est **le Creuset** (§3.2). Aucun plafond.
 - Il y a trois siècles, une bête pareille a fait la fortune d'un homme qui a fondé la plus grande secte de la région — avant que le monde ne l'efface (§3.5). La bête a attendu sous le lit sec. Cette année, elle a choisi. **Seb ne sait rien de tout ça.**
-- L'histoire commence **la nuit qui précède sa pesée**.
+
+### Où en est l'histoire (fin de la session du 2026-08-10)
+
+1. **La nuit.** Une traction sous le sternum tire Seb hors du taudis vers le **lit sec**, en amont du Fond. Sept pas sur les cailloux : le sol sonne **creux**, et très loin dessous, un **bruit d'eau** — là où il n'y a plus eu d'eau depuis trois cents ans.
+2. Il pose la paume. Quelque chose de vieux, d'énorme et d'affamé remonte **à travers** la pierre et le **goûte**. Ça ne parle pas. Ça se retire. Il redescend avec **l'instinct du chiffre** : il lit la puissance des vivants sans pierre.
+3. **Le matin.** Sa mère l'attendait, réveillée, et n'a pas demandé où il était : « Le lit sec. » Sa **grand-mère** y montait aussi, et l'arrière-grand-mère — « on y va, dans la famille, on ne sait pas pourquoi ». Elle-même a essayé deux fois, jeune, et n'a rien senti. La famille n'a **ni nom, ni tombes, ni village d'avant**. Elle lui donne son pain : « quel que soit le chiffre, tu reviens ».
+4. **La pesée**, place basse, Seb dernier de la file. Trente-huit gamins, presque tous des 1 et des 2 ; une fille aux cheveux coupés au couteau sort un **chat-des-toits à 6** et la place applaudit.
+5. **Le jet.** Seb laisse la bête conduire sa main. Elle sort **par le dos**, et il sent sa puissance **quitter son corps** — tenue, pas perdue. **La Pierre de Naissance hésite trois secondes** (elle n'hésite jamais) puis rend **1**.
+6. Au-dessus de son épaule flotte une chose sombre **sans contour et sans espèce**. La place éclate de rire : le môme sans nom a fait un. Seb, lui, sent qu'il pourrait faire monter le chiffre à trois, ou le redescendre, comme on tourne une mèche de lampe — **il croit que tout le monde fait ça**.
+7. **Le prix.** Le greffier, jeune, envoyé du chef-lieu, n'a pas ri. Il fallait remplir la ligne « espèce » : il a écrit **rat commun · puissance 1** — il a couvert. Puis il a sorti une **seconde feuille** de sous le registre et y a écrit trois lignes en regardant Seb s'éloigner.
 
 ---
 
@@ -179,13 +190,17 @@ Avant, on **jurait**, et des dieux-créanciers vivaient de la parole donnée. Pu
 - Sectes de province, écoles, maisons d'armes, **courtiers** qui placent les jeunes.
 - Concours de Province (4/an) : chaque candidat **annonce publiquement le rang qu'il vise** — se vanter est la procédure.
 
+### 2.5 Le Fond (canonisé en jeu)
+
+Neuf mille âmes dans un **lit de rivière détourné** il y a environ trois cents ans. Version officielle du détournement : **irriguer les vergers, en haut**. Personne n'a jamais vérifié. En amont du bidonville, la construction s'arrête net sur une bande de **cailloux blancs** — « ça glisse », disent les vieux. C'est le **lit sec**. La Pierre de Naissance y monte une fois l'an, sur un chariot à bœufs, escortée de deux gardes du chef-lieu et d'un greffier.
+
 ---
 
 ## 3 · SEB
 
 ### 3.1 Identité
 
-**Seb.** 15 ans. Né au **Fond**. Pas de nom de famille. Mal nourri, invisible. Vit seul avec sa mère. **Il ne sait rien de sa lignée.**
+**Seb.** 15 ans. Né au **Fond**. Pas de nom de famille — et, on l'apprend en jeu, **pas de tombes ni de village d'avant** : la famille n'a aucune histoire de son arrivée ici. Mal nourri, invisible. Vit seul avec sa mère.
 
 ### 3.2 LE CREUSET (pouvoir central)
 
@@ -198,20 +213,30 @@ Avant, on **jurait**, et des dieux-créanciers vivaient de la parole donnée. Pu
 | Risques organiques | la traînée des dévorés (enquêtes) · chaque mesure publique sous masque = un jet |
 
 **La boucle sociale = la gloire** : mépris → provocation → révélation calibrée → l'esplanade qui riait scande ton nom.
+*Le mépris est en place depuis la pesée : Seb est « le 1 du Fond ».*
 
 ### 3.3 LE MASQUE
 
 La puissance réelle est tenue par la bête, **hors du corps**. Les pierres ne lisent que ce qu'il laisse entrer : **affiché réglable à la seconde**, de 1 jusqu'au réel. Il choisit chaque fois l'ampleur du dévoilement.
+**Acquis en scène à la pesée.** Seb sait qu'il peut tourner la mèche ; il **ignore encore** que personne d'autre au monde ne le peut.
 
 ### 3.4 LA BÊTE
 
 Sans espèce — **dé-nommée**. Un dévoreur. Elle prendra **forme** en grandissant (révélation progressive). Le jour où elle aura une forme, les plus vieux maîtres du Verger Blanc la reconnaîtront **au premier regard**. Elle **ne parle pas** : elle communique en faims, en poids, en tiraillements. **Elle n'a pas de nom** — et n'en aura pas avant que le jeu ne le livre.
+**Apparue à la pesée** : un nœud d'ombre de la taille de deux poings, sans contour net, sortie **par le dos**. Inscrite au registre sous une fausse espèce : *rat commun*.
 
 ### 3.5 ORIGINE (le joueur le sait — Seb, non)
 
 Il y a trois siècles, un homme a fondé la plus grande secte de la région. Son art n'était pas une technique : c'était une **bête** — un dévoreur lié. La secte a engraissé sur ses conquêtes, puis l'a **effacé** : nom rayé, espèce de la bête **dé-nommée** (la seule dé-nomination de l'histoire des Sept Registres). Le Verger Blanc vit toujours, avec un fondateur officiel de remplacement dont la légende est un mensonge d'archives. La lignée du vrai fondateur a été jetée au caniveau. La bête n'est pas morte : elle **attendait**, pesée après pesée, depuis trois siècles.
 
 **Scellé chez le MJ** : le nom du fondateur · pourquoi on l'a effacé · où il est allé · ce que la bête attend exactement · la destination finale de la campagne.
+
+### 3.6 L'INSTINCT DU CHIFFRE (acquis au lit sec)
+
+Seb **lit la puissance de tout vivant** qu'il regarde, sans pierre, comme on voit qu'un mur est droit. Gratuit, permanent, involontaire.
+- Portée : ce qu'il voit. Donne **le chiffre**, jamais l'espèce, jamais l'intention.
+- **Aucun humain ne fait ça** — les pierres existent précisément pour ça. Utiliser ce don devant témoin, c'est se désigner.
+- Décision MJ prise en scène le 2026-08-10 ; **le joueur peut demander à la borner autrement** (coût, portée, plafond de lecture) — sinon elle reste telle quelle.
 
 ---
 
@@ -220,12 +245,15 @@ Il y a trois siècles, un homme a fondé la plus grande secte de la région. Son
 | | |
 |---|---|
 | **Puissance réelle** | **3** (la flammèche) |
-| **Affiché** | néant — la bête n'a pas encore paru |
+| **Affiché** | **1** — réglable de 1 à 3, à la seconde |
 | **Corps** | faible — pas de Voile, rien d'acquis |
-| **Jetons** | **0 / 10** |
+| **Jetons** | **1 / 10** |
 | **Bourse** | 4 pièces de fer |
-| **Inventaire** | vide — mais tenu, et il servira |
-| **Statut** | **la veille de la pesée, à la tombée de la nuit**, dans le taudis du Fond |
+| **Inventaire** | un quignon de pain (donné par sa mère au matin) |
+| **Dons** | le Creuset (§3.2) · le Masque (§3.3) · l'instinct du chiffre (§3.6) |
+| **Bête** | apparue, sans forme, sans espèce · inscrite *rat commun · 1* |
+| **Réputation** | **« le 1 du Fond »** — la risée de la place basse |
+| **Statut** | **place basse, juste après la pesée**, le rire dans le dos |
 
 ---
 
@@ -233,24 +261,31 @@ Il y a trois siècles, un homme a fondé la plus grande secte de la région. Son
 
 | # | Porte | Ouverte / Fermée | Quand |
 |---|---|---|---|
-| — | *(vierge)* | | |
+| — | *(vierge — aucun critique tiré à ce jour)* | | |
 
 ---
 
 ## 6 · CASTING
 
-À construire en jeu : **5-6 personnages très creusés**, casting féminin marquant obligatoire.
+Objectif : **5-6 personnages très creusés**, casting féminin marquant obligatoire.
 
 | Nom | Rôle | État |
 |---|---|---|
-| **La mère de Seb** | vivante, respire mal, partage le taudis du Fond | canonisée v5 — à creuser en jeu |
+| **La mère de Seb** | vit avec lui au Fond, respire mal (lue à **2**), lucide, sèche, tendre sans le montrer | **Creusée en jeu.** Sa mère à elle montait au lit sec « pour respirer » ; elle-même y est montée deux fois, jeune, sans rien sentir. Sait que la famille n'a ni nom, ni tombes, ni village d'avant. À nommer en jeu |
+| **Le greffier de la pesée** | jeune, veste trop grande, envoyé du chef-lieu, applique le règlement à la lettre | **A vu la Pierre hésiter trois secondes.** A couvert Seb au registre (*rat commun · 1*) **et** consigné trois lignes sur une **feuille séparée**. Peut couvrir ou rapporter selon la suite. À nommer en jeu |
+| **La fille au chat-des-toits** | 15 ans, cheveux coupés au couteau, **6** — le plus haut de la pesée | Ne s'est pas jointe au rire ; a détourné les yeux. Sortira du Fond par le haut si personne ne l'en empêche. À nommer en jeu |
 
 ---
 
 ## 7 · POINT DE REPRISE
 
-**Le tout début de l'histoire. Rien n'a été joué.**
+**Place basse, immédiatement après la pesée.** Seb s'éloigne de la Pierre avec un **1** au-dessus de l'épaule et le rire de trente-huit familles dans le dos. Le greffier remballe et écrit sur sa seconde feuille. Sa mère l'attend en haut : « quel que soit le chiffre, tu reviens. »
 
-Seb, 15 ans, dernière nuit avant sa pesée. Le Fond dort mal ; demain, la Pierre de Naissance arrive sur la place basse et tous les gamins de son âge passeront la main dessus. Il n'a rien, ne sait rien, n'attend rien de particulier — au mieux un 2 et un rat.
+**Bloc de choix en attente — le reprendre tel quel :**
 
-**Première scène à jouer :** la nuit, le taudis, la traction sous le sternum, le lit sec en amont. **Aucun jet avant la pesée** — le premier d100 de la partie est la pesée elle-même, le lendemain. Les choix de la nuit sont donc **Libres ou Noirs**, étiquetés par option (§1.9), et la scène suit le squelette du §1.9 (scène marquante : ouverture de campagne → image).
+> ▸ Rentrer la tête basse, laisser le rire s'installer — tant qu'on rit, personne ne regarde — **[Libre]**
+> ▸ Aller trouver le greffier avant qu'il ne remballe, savoir ce qu'il a écrit sur la seconde feuille — **[Chiffré — désavantage petit : tu es un 1 sans nom de famille, il est du chef-lieu et deux gardes sont à trois pas]**
+> ▸ Remonter au lit sec avec la bête, seul, et lui demander ce qu'elle veut — **[Libre]**
+> ▸ Suivre le greffier à la sortie du Fond, à la nuit, quand les gardes seront repartis devant — **[Noir]**
+
+**Fils en cours** (à faire vivre hors champ) : la seconde feuille du greffier remonte au chef-lieu · la fille au 6 va être courtisée par un courtier · le lit sec sonne toujours creux · la mère tousse.
