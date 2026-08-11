@@ -64,3 +64,14 @@ Scène 41 : la bande a été annoncée **en bas**, en tête du bloc de choix, ap
 4. **Les choix** — bloc d'options.
 
 Le prix d'une bande 36-65 (ou la complication d'une 11-35) se **joue dans la prose**, il ne se commente pas au-dessus des options. Complète le squelette du codex §1.9, qui ne disait rien de la place du jet.
+
+## 9 · Fin de lieu sans apothéose (2026-08-11, audit de rythme)
+
+Constat sur le Fond (~45 scènes) : la fin d'arc jouée — le contrôle public — était une scène **défensive** : Seb y protégeait l'acquis, et la gagner a produit un soulagement administratif (« dossier clos »), pas une apothéose. Les vrais sommets du lieu (la place basse, le Souffle à 22, la salle sèche) étaient tombés avant, en milieu d'arc ; la sortie s'est ensuite étirée en scènes de logistique. Quarante-cinq scènes d'investissement, aucun feu d'artifice final.
+
+**Règles de conduite ajoutées :**
+
+- **La fin forte d'un lieu est offensive.** Seb y **prend** quelque chose — un rang, une place, une tête, une vérité rendue publique — jamais seulement défendre l'acquis. Les scènes défensives sont du milieu d'arc.
+- **L'ancre est la dernière grande scène du lieu.** Après elle : une scène de sortie, maximum. Adieux et transactions se compressent ou passent en ellipse.
+- **L'apothéose est spectaculaire par construction, pas par les dés** : publique, cérémonielle, irréversible. Le dé choisit *laquelle* des grandes issues se produit — jamais s'il s'en produit une.
+- **Test à l'arbre avant de jouer une ancre** : *si cette scène sort en 36-65, est-ce que le lieu se termine quand même sur un événement dont la province parle ?* Si non, ce n'est pas la bonne ancre.

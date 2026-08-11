@@ -2,6 +2,24 @@
 
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Fichier MJ, lu en silence au démarrage avec `MJ-SECRETS.md` et `MJ-ERRATA.md`.
 > **Règles d'usage** : le tronc est intouchable (destination et jalons fixes du coffre). Horizon glissant : toujours **l'ancre du lieu courant + 2-3 lieux candidats pour la suite**, écrits AVANT que l'apothéose ne se joue. **Les critiques déplacent le chemin, jamais le tronc.**
+> **Toute ancre passe le test de l'apothéose (errata §9)** : offensive (Seb prend), dernière grande scène du lieu, spectaculaire même sur 36-65.
+
+## 0 · RÉGLAGE DE RYTHME — SOUTENU *(validé joueur, 2026-08-11 : « un peu plus lent que rapide »)*
+
+Budgets de scènes par type de lieu — plafonds à respecter, pas des quotas à remplir :
+
+| Type | Budget | Règle |
+|---|---|---|
+| **Ancre** | **25-30 scènes** | 1-2 par palier, pas plus. Fin offensive, dernière grande scène |
+| **Étape** | **8-12** | un enjeu, une ou deux scènes fortes, on repart |
+| **Traversée** | **2-4** | une image, un incident — **jouées**, pas d'ellipse par défaut |
+
+- **Cibles** : Clairefont concours inclus ≈ 25-30 · Terre ≈ 130-150 scènes total · paliers suivants ≈ 50-70 chacun (plus sur les paliers à jalon fixe). Campagne ≈ 700-800 — longue, finissable.
+- **Ellipses : scénaristiques uniquement, jamais obligatoires** *(précision joueur 2026-08-11)*. Pas un outil de compression par défaut : une ellipse se justifie par la fiction — cas type, une **réclusion volontaire** de quelques semaines ou mois (couches du Corps, entraînement, digestion) quand Seb est à la ramasse sur une échéance de puissance. Proposée quand la situation s'y prête, refusable, delta (Corps, bourse, mèches) rendu en une fiche.
+- **Jets compressés** : « un enjeu = un jet » s'échelonne — pas *ce duel* mais *cette semaine aux fosses* quand la granularité n'apporte rien.
+- **Arrivées in medias res** : on entre dans un lieu au premier point de friction, pas à l'installation.
+- **Ce qui garde son poids plein** : cérémonies, dominations sociales, révélations, fins fortes — on compresse le tissu conjonctif, jamais le muscle.
+- **Audit décennal silencieux** : toutes les ~10 scènes, check de vitalité (protocole complet dans `MJ-INDEX.md`), ajustements progressifs sur 2-3 scènes, invisible pour le joueur.
 
 ---
 

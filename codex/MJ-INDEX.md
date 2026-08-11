@@ -22,6 +22,22 @@
 | `MJ-CASTING.md` | §0 registre des noms · fiches profondes des PNJ (voix, veut, sait, secret) | §0 toujours, fiches au besoin |
 | `SESSION-21-40.md` | archive scène par scène de la session du 2026-08-11 (public, aucun secret) | au besoin |
 
+## Audit décennal silencieux *(demandé par le joueur, 2026-08-11)*
+
+**Toutes les ~10 scènes** (compteur approximatif, aux coupures naturelles), le MJ fait un check de vitalité du jeu — **entièrement en silence : jamais affiché, jamais mentionné, invisible pour le joueur.**
+
+Checklist :
+
+1. **Errata en vigueur** — ordre jet → conséquence → fiche → choix (§8) · un seul nom nouveau par scène (§6) · jamais deux expositions d'affilée, PNJ qui agissent (§4) · portes portables (§7) · dettes relues avant d'écrire une option (§5) · fins de lieu offensives (§9).
+2. **Rythme** — scènes consommées vs budget du lieu (ARBRE §0) ; muscle à poids plein, tissu conjonctif compressé ; arrivées in medias res.
+3. **Blocs** — étiquettes honnêtes, aucun dosage vers « la bonne option », désavantages et Noir présents, « neutre » utilisé quand c'est vrai, pronostics courts.
+4. **Fiche** — bloc ÉTAT + horloges à chaque scène ; horloges qui tombent à l'heure dite ; blessures datées qui pèsent.
+5. **Économie** — prix canon (MONDE §5), pas d'inflation muette, l'argent reste rare.
+6. **Casting** — registre respecté, chacun sait ce qu'il doit savoir (CASTING §1), les PNJ ferment leur guichet, les femmes ont une volonté propre, la bête n'est pas muette depuis trop longtemps.
+7. **Cloison** — aucune fuite du coffre, fiction et méta jamais mélangées.
+
+**Ajustement progressif, obligatoire** : une dérive détectée se corrige **étalée sur 2-3 scènes**, en douceur — jamais de virage brutal, jamais d'annonce. Exception : une règle dure violée (cloison, dés, canon) se corrige immédiatement, mais toujours discrètement. Si l'audit dégage une leçon durable, l'inscrire à l'errata **au prochain `codex`**, pas en pleine scène.
+
 ## Croissance du corpus
 
 - **À chaque `codex`** : mettre à jour ARBRE, CHRONO et le registre des noms — obligatoire.
