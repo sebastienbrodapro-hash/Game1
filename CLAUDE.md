@@ -1,13 +1,13 @@
 # CLAUDE.md
 
 Cette branche (`main`) contient **le jeu d'histoire IA** : un jeu de rôle solo mené par Claude en Maître du Jeu — c'est l'objet des sessions de jeu.
-Fichiers : `codexcreuset.md` (état courant de la campagne « Le Creuset »), `codex/` (sauvegardes numérotées + `INDEX.md`, coffre `MJ-SECRETS.md`, errata `MJ-ERRATA.md`), `codexjiwen.md` (ancienne campagne « Le Parieur », close).
+Fichiers : `codexcreuset.md` (état courant de la campagne « Le Creuset »), `codex/` (sauvegardes numérotées + `INDEX.md`, coffre `MJ-SECRETS.md`, errata `MJ-ERRATA.md`, arbre `MJ-ARBRE.md`), `codexjiwen.md` (ancienne campagne « Le Parieur », close).
 
 Le jeu incrémental JS (`game.js`, `index.html`, `styles.css`) vit sur la branche **`chronique-incrementale`** — sans rapport avec les sessions de jeu de rôle, ne pas y toucher.
 
 ## Reprendre la partie
 
-Quand le joueur demande à jouer ou reprendre : lire `codexcreuset.md` **en entier**, plus `codex/MJ-SECRETS.md` et `codex/MJ-ERRATA.md` **en silence**, et reprendre au « Point de reprise » (§7), en respectant strictement le méta (§1). Tout se joue **en français**, répliques courtes, rythme soutenu.
+Quand le joueur demande à jouer ou reprendre : lire `codexcreuset.md` **en entier**, plus `codex/MJ-SECRETS.md`, `codex/MJ-ERRATA.md` et `codex/MJ-ARBRE.md` **en silence**, ainsi que tout ce qui sert la cohérence entre sessions (INDEX, dernière sauvegarde, git log récent) — **la cohérence prime sur l'économie**. Reprendre au « Point de reprise » (§7), en respectant strictement le méta (§1). Tout se joue **en français**, répliques courtes, rythme soutenu.
 
 ## Rappels méta critiques (détail complet dans le codex §1)
 

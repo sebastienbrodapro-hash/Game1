@@ -66,3 +66,16 @@ Pesée (premier jet) → premières dévorations discrètes (voyous, bêtes à c
 - Révélations dans l'ordre d'orbite : salle noyée → Colin/Rayeurs → Maud/édit → « Victor » → « Vael » → destination. Le rythme appartient au jeu, l'ordre est conseillé, seuls les jalons §3/§7 sont fixes.
 - Chaque grosse dévoration = un trait de plus sur la bête : tenir la liste dans le codex public (§ Bête) au fur et à mesure — le joueur voit le trait, jamais la règle d'ensemble avant de la déduire.
 - En cas de mort de Seb (annoncée, jamais surprise) : Nina est la continuité possible de la campagne. Ne le dire à personne.
+
+## 10 · VISAGES PRÉPARÉS (v8 — flexibles)
+
+- **Hugues** — vérificateur itinérant des Sept Registres, bureau du chef-lieu ; la seconde feuille tombe sur son pupitre. ~28 (Souffle), méticuleux, insensible à l'argent, sensible à la procédure. Ne sait rien des Rayeurs (trop bas dans la maison) — mais son rapport peut les réveiller. Visage récurrent d'arc Terre. C'est lui qui descend avec la Pierre de Contrôle (arbre §2).
+- **Margot, mèche vivante** : si le faux passe, une morte officielle marche avec un 6 visible — elle ne peut pas se masquer. Sa présence près de Seb est une exposition permanente. Matière à fins fortes ; jamais résolue gratuitement.
+- **Berthe → la lignée** : sa « chose » due peut router vers la famille (elle sait pour les femmes du lit sec ; peut connaître Nina, §2). Garder flexible.
+
+## 11 · CALIBRATION JOUEUR (audit 2026-08-11)
+
+- **Aime** : enjeux qui mordent · domination sociale mise en scène (l'attente d'Anselme, Gilles cassé) · révélations calibrées (« Personne. ») · thésauriser puis claquer les jetons pour le spectacle · cohérence d'univers dure — il attaque les règles molles, et il a raison · progression rapide et lisible · personnages féminins à volonté propre.
+- **Évite** : pronostics bavards, quotas d'options, MJ complaisant, meublage de décor.
+- **Noir** : toujours en proposer ; il choisit rarement (1 sur ~7) — le refus définit le personnage, continuer d'offrir.
+- **Directives** : prix planchers réels sur 36–65 · horloges qui tombent à l'heure · fins fortes préparées (arbre) · aucun nouveau PNJ tant que les neuf actifs vivent.
