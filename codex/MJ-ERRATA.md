@@ -37,3 +37,11 @@ Constat sur les scènes 22-24 : trois scènes de suite dans la même pièce, ave
 Scène 28 : le MJ a proposé « réclamer sa dette à Berthe » alors que **c'est Seb qui doit une chose à Berthe** (scène 13), et non l'inverse. Le codex l'écrivait correctement — l'erreur était dans le bloc de choix. Option retirée et remplacée.
 
 **Garde-fou** : avant d'écrire une option qui engage une dette, une promesse ou un lien, **relire la ligne correspondante du codex §4/§6** — le sens d'une obligation ne s'improvise jamais de mémoire.
+
+## 6 · Trois noms lâchés d'un coup (2026-08-11)
+
+Scène 29 : « Léon, Fabien et le grand maigre » sortis en une phrase — le joueur a dû demander qui ils étaient. Trois noms d'un bloc dans une scène de transaction, c'est trois noms perdus.
+
+**Correction** : les hommes du brasero sont **une unité**, « les trois du brasero », avec **Léon** seul comme porte-parole. Fabien et « le grand maigre » sont dé-nommés (aucun canon perdu, ils n'ont rien fait sous ces noms).
+
+**Garde-fou** : **un seul nom nouveau par scène**, et seulement si le personnage agit. Un groupe qui fonctionne en bloc reste un bloc — on nomme sa bouche, pas ses membres.

@@ -17,6 +17,7 @@
 | Gilles | 8, cassé publiquement | scène 8 |
 | Odile | ferrailleuse | scène 5 |
 | Marcel | ivrogne du remblai (jamais joué) | scène 4 |
+| Léon | porte-parole **des trois du brasero** (6, 6, 7) — l'unité achetée 12 fer, complices du faux témoignage. Les deux autres restent anonymes : ils fonctionnent en bloc, pas en individus | scènes 8 / 29 |
 | « la bête » | le familier de Seb — **aucun autre nom en jeu** | — |
 
 **Noms scellés (coffre — ne JAMAIS les écrire hors du coffre)** : la bête → coffre §2 · le fondateur → §3 · la doyenne → §4 · l'autre du sang → §2 · le greffier → §8 · le vérificateur → §10.
