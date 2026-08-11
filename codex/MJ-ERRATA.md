@@ -21,3 +21,13 @@ Fuite survenue en mélangeant fiction et méta dans un même message. Règle ajo
 ## 3 · Fiction dé-canonisée
 
 La Scène 1 (nuit de la veille) et la pesée jouées le 2026-08-10 **ne sont plus canon**. La campagne redémarre au tout début (codex §7). Les notes de mise en scène du coffre restent valables — elles n'ont pas été grillées.
+
+## 4 · Dérive « interview » (2026-08-11, audit de rythme)
+
+Constat sur les scènes 22-24 : trois scènes de suite dans la même pièce, avec le même interlocuteur, sur le mode question → exposé complet. Le MJ a fait du PNJ un puits à savoir et des blocs de choix des foreuses à lore — stagner était devenu le choix optimal. Règles de conduite ajoutées :
+
+- **Jamais deux scènes d'exposition d'affilée.** Après une scène de parole, la suivante bouge : un lieu, un acte, une horloge qui tombe.
+- **Les PNJ ferment leur guichet.** Un PNJ a son agenda, sa patience et ses limites ; il n'attend pas la question suivante, il agit.
+- **Les blocs poussent en avant.** Chaque option change un état du monde. « Poser une question de plus » n'est proposé que si l'info ne peut pas arriver autrement.
+- **Le monde parle pendant que Seb parle.** Les autres fils avancent en scène, pas seulement dans le bloc Horloges.
+- **Prose courte** : retour strict au rythme soutenu de §1.9, même sur les bandes hautes — une réussite pleine peut tenir en six lignes.
