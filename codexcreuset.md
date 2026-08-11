@@ -90,6 +90,8 @@ Plafond **10**. Les jetons s'achètent **en perdant** — jamais autrement.
 
 Petit **±5** · moyen **±10** · gros **±20**. Ne déplacent le résultat qu'entre 11 et 89.
 Avant chaque choix chiffré : **pronostic qualitatif** justifié par la fiche — jamais de tables ni de seuils.
+**Le Corps a des grades nommés** (v8) : faible → dur → trempé → la suite en jeu. Le grade pèse sur tout pronostic physique. Le Corps ne monte que par le travail — jamais par dévoration : le chiffre mesure la puissance tenue, le Corps la charpente qui la porte.
+**Blessures datées** (v8) : toute blessure inscrite à l'ÉTAT porte son horizon de guérison en clair et pèse sur les pronostics physiques jusqu'à sa fin.
 
 ### 1.4 Familles de choix (refondu en v7)
 
@@ -110,7 +112,7 @@ Avant chaque choix chiffré : **pronostic qualitatif** justifié par la fiche �
 - **Horloges à mèche** (v8) : toute échéance annoncée (« ce soir », « demain ») est fixée par le MJ **au moment où il l'écrit**, et elle tombe à l'heure dite, quelles que soient les réussites locales. PNJ qui avancent hors champ.
 - **Cérémonies, pierres, autels, contrôles de mesure = pilier du jeu.**
 - Casting féminin marquant obligatoire. **Prénoms occidentaux pour tous les personnages.**
-- Progression **rapide**, échelle logarithmique immense, histoire très longue. **Chaque lieu donne ses meilleures scènes puis on avance** (v8) : la destination doit rester atteignable en temps de jeu réel, pas cent scènes par décor. **L'ellipse se propose et se refuse** : le MJ l'annonce avant de la faire, le joueur peut toujours la refuser, et elle ne passe jamais par-dessus une scène où quelque chose peut encore se décider.
+- Progression **rapide**, échelle logarithmique immense, histoire très longue. **Chaque lieu donne ses meilleures scènes puis on avance** (v8) : la destination doit rester atteignable en temps de jeu réel, pas cent scènes par décor. **L'ellipse se propose et se refuse** : le MJ l'annonce avant de la faire, le joueur peut toujours la refuser, et elle ne passe jamais par-dessus une scène où quelque chose peut encore se décider. **Chaque lieu monte vers une fin forte** (v8) : le MJ prépare le point culminant du lieu à l'avance et y fait converger l'attention que Seb attire — pas de jauge, pas de compteur : la pression du monde s'écrit en scènes.
 - Le MJ interpelle pour cadrer dès qu'il pressent un désaccord ; questions méta AVANT questions de fiction ; plusieurs designs possibles = demander.
 - Aucune limite morale imposée au personnage. Puissance et social : **deux pistes à égalité**.
 
@@ -271,7 +273,7 @@ Transmise par les femmes de la lignée depuis au moins l'arrière-grand-mère. P
 | **Puissance réelle** | **9** — sommet de la Trempe (1–9) |
 | **Affiché** | **1** — réglable de 1 à 9, à la seconde |
 | **Corps** | **faible** — vide, pas de Voile, rien d'acquis. Armand commence demain avant le jour |
-| **Blessure** | avant-bras gauche recousu, 11 points — inutilisable quelques jours |
+| **Blessure** | avant-bras gauche recousu, 11 points — **encore 5 jours**, pèse sur tout pronostic physique d'ici là |
 | **Jetons** | **9 / 10** |
 | **Bourse** | **24 pièces de fer** — dont **4 par semaine** dues pour Jeanne, sans en sauter une |
 | **Inventaire** | plaque de fer creusée · couteau de dépeçage (acier, corne) · crochet de ferrailleur · une dent de la bête à 5 · filet crevé · quignon de pain |
