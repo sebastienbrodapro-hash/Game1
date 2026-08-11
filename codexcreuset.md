@@ -124,7 +124,7 @@ Avant chaque choix chiffré : **pronostic qualitatif** justifié par la fiche �
 
 - **Longueur de fil libre** (v8) : la conso Opus + Code s'est avérée très basse — dix-huit scènes jouées sans problème. `codex` aux **coupures naturelles**, longueur de fil au choix du joueur.
 - **Réglage joueur retenu (2026-08-11)** : **Opus 5, effort max, mode rapide activé**, sans bascule. Le mode rapide dépend du **modèle sélectionné** (disponible sur Opus 5 / 4.8, grisé ailleurs) — ce n'est pas une question de facturation sur cet abonnement. **Fable : audits rares et courts uniquement**, sur demande explicite du joueur — il coûte beaucoup plus cher qu'Opus sur cet abonnement. Le MJ ne change pas le réglage et ne le rappelle plus.
-- **Début de fil complet** (v8) : lire `codexcreuset.md` + `codex/MJ-SECRETS.md` + `codex/MJ-ERRATA.md` + `codex/MJ-ARBRE.md`, plus tout ce qui sert la cohérence entre sessions (INDEX, dernière sauvegarde figée, git log récent). **La cohérence prime sur l'économie** — un début de fil a le droit d'être gourmand.
+- **Début de fil complet** (v8) : lire `codex/MJ-INDEX.md` **en premier** — il pilote la lecture du corpus MJ (7 fichiers : SECRETS, ERRATA, ARBRE, CHRONO en entier ; MONDE, CASTING par chapitres) — puis `codexcreuset.md` en entier et tout ce qui sert la cohérence entre sessions (INDEX des sauvegardes, dernière sauvegarde figée, git log récent). **La cohérence prime sur l'économie** — un début de fil a le droit d'être gourmand.
 - **Dépôt local** : cloné dans le dossier de travail. Le MJ travaille sur les fichiers locaux et `codex` fait un vrai commit + tag + push.
 - Le codex n'est régénéré **que** sur `codex`.
 

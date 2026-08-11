@@ -7,7 +7,7 @@ Le jeu incrémental JS (`game.js`, `index.html`, `styles.css`) vit sur la branch
 
 ## Reprendre la partie
 
-Quand le joueur demande à jouer ou reprendre : lire `codexcreuset.md` **en entier**, plus `codex/MJ-SECRETS.md`, `codex/MJ-ERRATA.md` et `codex/MJ-ARBRE.md` **en silence**, ainsi que tout ce qui sert la cohérence entre sessions (INDEX, dernière sauvegarde, git log récent) — **la cohérence prime sur l'économie**. Reprendre au « Point de reprise » (§7), en respectant strictement le méta (§1). Tout se joue **en français**, répliques courtes, rythme soutenu.
+Quand le joueur demande à jouer ou reprendre : lire `codex/MJ-INDEX.md` **en premier** — il pilote la lecture du corpus MJ **en silence** (SECRETS, ERRATA, ARBRE, CHRONO en entier ; MONDE, CASTING par chapitres) — puis `codexcreuset.md` **en entier**, l'INDEX des sauvegardes et le git log récent — **la cohérence prime sur l'économie**. Reprendre au « Point de reprise » (§7), en respectant strictement le méta (§1). Tout se joue **en français**, répliques courtes, rythme soutenu.
 
 ## Rappels méta critiques (détail complet dans le codex §1)
 
