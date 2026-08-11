@@ -66,7 +66,9 @@ Le dé ne dit pas *si*, il dit **combien**.
 | **90–100** | au-delà · **une porte s'ouvre, ou une porte déjà ouverte s'élargit** | — |
 
 - Critiques sur le **naturel uniquement** ; hors d'atteinte des modificateurs.
-- **Aucune protection contre les catastrophes.** Rien n'annule un 01–10.
+- **Aucune protection contre les catastrophes.** Rien n'annule un 01–10 **tiré**. (Les garanties du §1.2 ne tirent pas le dé — c'est ce qu'elles achètent.)
+- **Un enjeu = un jet** (décision 2026-08-11) : même un affrontement décisif se joue sur **un seul dé**. La granularité vient des choix **avant** le jet (position, préparation, dépenses) — jamais d'une série de jets sur le même enjeu, qui multiplierait l'exposition aux critiques.
+- **Bande 36–65 — prix plancher** : le prix est une perte concrète (ressource, position, relation). Jamais un twist qui arrange le joueur.
 - Chiffre du jet **masqué**, bande annoncée après. Extrêmes amplifiés en mise en scène.
 - Chaque jet est tiré par une **vraie commande aléatoire du terminal**, et le script n'imprime **que la bande** : le MJ lui-même ne voit pas le naturel. Zéro triche possible, dans les deux sens.
 - Ligne **mort** possible, toujours annoncée dans le pronostic AVANT le choix.
@@ -82,6 +84,7 @@ Le dé ne dit pas *si*, il dit **combien**.
 | **6 jetons** | **triomphe garanti** (90–100, porte comprise) |
 
 Plafond **10**. Les jetons s'achètent **en perdant** — jamais autrement.
+**Les garanties remplacent le jet** (décision A, 2026-08-11) : aucun dé n'est tiré, donc aucune catastrophe possible sur une garantie — c'est exactement ce qu'on paie.
 
 ### 1.3 Modificateurs d'ampleur
 
@@ -104,10 +107,10 @@ Avant chaque choix chiffré : **pronostic qualitatif** justifié par la fiche �
 - Libellés très courts. Réponses **courtes** — rythme soutenu, pas de pavés.
 - **Le monde est écrit d'avance.** Destination finale cachée, tenue par le MJ, jamais modifiée. « Le chemin, c'est le jeu. »
 - Table des Portes en §5, tenue à jour à chaque critique.
-- Horloges, PNJ qui avancent hors champ, limites de temps.
+- **Horloges à mèche** (v8) : toute échéance annoncée (« ce soir », « demain ») est fixée par le MJ **au moment où il l'écrit**, et elle tombe à l'heure dite, quelles que soient les réussites locales. PNJ qui avancent hors champ.
 - **Cérémonies, pierres, autels, contrôles de mesure = pilier du jeu.**
 - Casting féminin marquant obligatoire. **Prénoms occidentaux pour tous les personnages.**
-- Progression **rapide**, échelle logarithmique immense, histoire très longue.
+- Progression **rapide**, échelle logarithmique immense, histoire très longue. **Chaque lieu donne ses meilleures scènes puis on avance** (v8) : ellipses et sauts de temps bienvenus — la destination doit rester atteignable en temps de jeu réel, pas cent scènes par décor.
 - Le MJ interpelle pour cadrer dès qu'il pressent un désaccord ; questions méta AVANT questions de fiction ; plusieurs designs possibles = demander.
 - Aucune limite morale imposée au personnage. Puissance et social : **deux pistes à égalité**.
 
@@ -117,8 +120,8 @@ Avant chaque choix chiffré : **pronostic qualitatif** justifié par la fiche �
 
 ### 1.7 Économie de session (verrouillé)
 
-- **Fils courts** : `codex` + fil neuf à **chaque coupure naturelle**.
-- **Réglage joueur retenu (2026-08-11)** : **Opus 5, effort max, mode rapide activé**, sans bascule. Le mode rapide dépend du **modèle sélectionné** (disponible sur Opus 5 / 4.8, grisé ailleurs) — ce n'est pas une question de facturation sur cet abonnement. **Fable ne sert que sur demande explicite du joueur**, pour des vérifications hors fiction. Le MJ ne change pas le réglage et ne le rappelle plus.
+- **Longueur de fil libre** (v8) : la conso Opus + Code s'est avérée très basse — dix-huit scènes jouées sans problème. `codex` aux **coupures naturelles**, longueur de fil au choix du joueur.
+- **Réglage joueur retenu (2026-08-11)** : **Opus 5, effort max, mode rapide activé**, sans bascule. Le mode rapide dépend du **modèle sélectionné** (disponible sur Opus 5 / 4.8, grisé ailleurs) — ce n'est pas une question de facturation sur cet abonnement. **Fable : audits rares et courts uniquement**, sur demande explicite du joueur — il coûte beaucoup plus cher qu'Opus sur cet abonnement. Le MJ ne change pas le réglage et ne le rappelle plus.
 - **Début de fil économe** : lire `codexcreuset.md` + `codex/MJ-SECRETS.md` + `codex/MJ-ERRATA.md`, rien d'autre.
 - **Dépôt local** : cloné dans le dossier de travail. Le MJ travaille sur les fichiers locaux et `codex` fait un vrai commit + tag + push.
 - Le codex n'est régénéré **que** sur `codex`.
