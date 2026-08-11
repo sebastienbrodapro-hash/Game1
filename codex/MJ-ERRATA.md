@@ -31,3 +31,9 @@ Constat sur les scènes 22-24 : trois scènes de suite dans la même pièce, ave
 - **Les blocs poussent en avant.** Chaque option change un état du monde. « Poser une question de plus » n'est proposé que si l'info ne peut pas arriver autrement.
 - **Le monde parle pendant que Seb parle.** Les autres fils avancent en scène, pas seulement dans le bloc Horloges.
 - **Prose courte** : retour strict au rythme soutenu de §1.9, même sur les bandes hautes — une réussite pleine peut tenir en six lignes.
+
+## 5 · Dette inversée (2026-08-11)
+
+Scène 28 : le MJ a proposé « réclamer sa dette à Berthe » alors que **c'est Seb qui doit une chose à Berthe** (scène 13), et non l'inverse. Le codex l'écrivait correctement — l'erreur était dans le bloc de choix. Option retirée et remplacée.
+
+**Garde-fou** : avant d'écrire une option qui engage une dette, une promesse ou un lien, **relire la ligne correspondante du codex §4/§6** — le sens d'une obligation ne s'improvise jamais de mémoire.
