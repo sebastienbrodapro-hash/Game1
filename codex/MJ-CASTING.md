@@ -8,43 +8,53 @@
 
 | Nom | Qui | Depuis |
 |---|---|---|
-| Seb | le héros, 15 ans — **réel 22 (Souffle), affiché 14 au registre** | v1 |
-| Jeanne | sa mère, 2, poumons pris — 4 fer/semaine | scène 18 |
-| Margot | 6, chat-des-toits — **vivante au registre, cliente d'Anselme**, part avec Seb | scène 7 |
-| Berthe | 3, recoud — **dette toujours ouverte**, a menti à l'État pour Seb | scène 13 |
-| Armand | 14, apothicaire — **ancien soigneur du Verger Blanc (11 ans)**, garde la plaque | scène 19 |
-| Anselme | 11, courtier — **contrat SIGNÉ au dixième, répondant sur ses biens et son nom**, au chef-lieu | scène 15 |
-| Gilles | 8, cassé publiquement puis **remis en selle** — premier rôle dans la fausse version, a promis un refus à venir | scène 8 |
-| **Léon** | **bouche des « trois du brasero »** (6-7) — payé 12 fer, puis déposition signée | **scène 29** |
-| Odile | ferrailleuse — déposition signée | scène 5 |
+| Seb | le héros, 15 ans — **réel 22 (Souffle), affiché 14 au registre**, **rang annoncé : FER** | v1 |
+| Jeanne | sa mère, 2, poumons pris — **soignée tant que le papier tient** (plus d'horloge hebdomadaire) | scène 18 |
+| Margot | 6, chat-des-toits — vivante au registre, cliente d'Anselme, **à Clairefont avec Seb** | scène 7 |
+| Berthe | 3, recoud — **dette toujours ouverte**, a menti à l'État pour Seb. Reste au Fond | scène 13 |
+| Armand | 14, apothicaire — ancien soigneur du Verger Blanc (11 ans). **A rendu la plaque**, détient une **reconnaissance de dette signée** et la clause *« je descends avec toi »* | scène 19 |
+| Anselme | 11, courtier, rue des Écritures à Clairefont — contrat signé au dixième, **répondant sur ses biens et son nom**, a **contresigné l'annonce FER** | scène 15 |
+| Gilles | 8, cassé publiquement puis remis en selle — premier rôle dans la fausse version, a promis un refus à venir | scène 8 |
+| Léon | bouche des « trois du brasero » (6-7) — payé 12 fer, puis déposition signée | scène 29 |
+| Odile | ferrailleuse — déposition signée, **puis a acheté la dent 8 fer et vend la VRAIE version depuis J8** | scène 5 |
 | Marcel | ivrogne du remblai (jamais joué) | scène 4 |
 | « la bête » | le familier de Seb — **aucun autre nom en jeu**. Trois traits : incisive, mâchoire, griffe | — |
 
-**Dé-nommés (errata §6 — ne jamais ressortir)** : « Fabien » et « le grand maigre », les deux autres du brasero. Ils fonctionnent en **unité** avec Léon pour bouche ; on nomme le porte-parole, jamais les membres.
+**Lieux fixés en jeu** : le **Fond** · **Clairefont** (chef-lieu, nommé sc. 46) · le **relais des terrasses** (station du Verger Blanc sur la route, sc. 45) · **rue des Écritures** (scribes ; Anselme loge au-dessus de l'un d'eux).
 
-**Noms scellés (coffre — ne JAMAIS les écrire hors du coffre)** : la bête → coffre §2 · le fondateur → §3 · la doyenne → §4 · l'autre du sang → §2 · le greffier → §8 · le vérificateur → §10.
-*(Le vérificateur est apparu en scène aux sc. 38-40 et reste **sans nom en jeu** — c'est un visage récurrent : le nommer sera un moment, pas un détail.)*
+**Visages actifs SANS NOM (délibérément — les nommer sera un moment, pas un détail)** :
 
-**Noms brûlés** : voir `MJ-ERRATA.md` §1 — plus jamais employés, même en fausse piste.
+| Visage | État |
+|---|---|
+| **Le vérificateur** | itinérant des Sept Registres, rentré à Clairefont. A classé l'anomalie **et** déposé une pièce séparée au greffe. Visage récurrent (fiche sous pointeur coffre §10) |
+| **Le greffier** | jeune, veste trop grande. A couvert Seb au registre **et** écrit la seconde feuille (porte 1) — sous pointeur coffre §8 |
+| **Le soigneur du relais** | vieux, tablier propre, ongles courts. Verger Blanc. A sauvé le bras **et donné la méthode du Corps**. Sait que Seb porte 14 sur une charpente de neuf, à quinze ans. **A inscrit son nom au crédit dans les livres du Verger.** Rappelable à volonté — c'est la première main du Verger sur Seb |
+
+**Dé-nommés (errata §6 — ne jamais ressortir)** : « Fabien » et « le grand maigre », les deux autres du brasero. Unité, Léon pour bouche.
+
+**Noms scellés (coffre — ne JAMAIS les écrire hors du coffre)** : la bête → §2 · le fondateur → §3 · la doyenne → §4 · l'autre du sang → §2.
+
+**Noms brûlés** : voir `MJ-ERRATA.md` §1.
 
 **Règle prénoms** : occidentaux pour tout le monde, courts, sans doublon avec ce registre.
-**Règle d'introduction** : **un seul nom nouveau par scène**, et seulement si le personnage agit (errata §6).
+**Règle d'introduction** : **un seul nom nouveau par scène**, et seulement si le personnage agit (errata §6). Directive joueur (coffre §11) : **aucun nouveau PNJ nommé tant que les actifs vivent** — Clairefont se joue avec Anselme, Margot, le vérificateur et le bureau avant d'ajouter qui que ce soit.
 
 ## 1 · FICHES PROFONDES *(à remplir en atelier — gabarit)*
 
-> Gabarit par PNJ : **Voix** (comment il/elle parle, tics) · **Veut** (moteur) · **Sait** (dont : sur Seb) · **Secret** · **Usage dramatique** (à quoi il/elle sert dans les fins fortes) · **État** (où, quand, blessures, dettes).
+> Gabarit par PNJ : **Voix** · **Veut** · **Sait** (dont : sur Seb) · **Secret** · **Usage dramatique** · **État**.
 
 ### À faire en priorité
 
-- **Ceux qui partent au chef-lieu** (branche A, lieu suivant) : Margot · Anselme · le vérificateur (fiche sous pointeur coffre §10).
-- **Ceux qui restent au Fond** et deviennent des mèches à distance : Jeanne · Armand · Berthe · Gilles · Léon · Odile.
-- **Sous pointeur coffre** : le greffier (§8).
+- **Clairefont, distribution active** : Anselme (le plus urgent — il vient de tout miser) · le vérificateur · le soigneur du relais.
+- **Restés au Fond, mèches à distance** : Jeanne · Armand · Berthe · Gilles · Léon · Odile.
 
 ### Ce que sait chacun sur Seb *(à tenir à jour — c'est le vrai enjeu de cohérence)*
 
-- **Margot** : tout. Le chiffre qui bouge, les dévorations, l'escalier, la marque — **pas** la chaussée immergée ni la salle sèche.
-- **Armand** : la marque du creux, l'escalier, la salle noyée, et que Seb a un corps vide. **Pas** le Masque, pas la chaussée. Il détient la plaque.
-- **Berthe** : a vu deux fois l'intérieur de ce bras, et a menti dessus à l'État. Ne pose pas de questions.
-- **Anselme** : a parié sa carrière sur un gamin affiché 1, qui affiche désormais 14. Ne sait rien du Masque.
-- **Gilles, Léon, Odile** : savent que la version officielle est fausse. Rien d'autre.
-- **Jeanne** : a vu la bête manger. N'a rien demandé.
+- **Margot** : tout. Le chiffre qui bouge, les dévorations, l'escalier, la marque, l'annonce Fer — **pas** la chaussée immergée ni la salle sèche.
+- **Armand** : la marque du creux, l'escalier, la salle noyée, un corps vide. **Pas** le Masque, pas la chaussée. Détient un papier signé et une clause de descente.
+- **Anselme** : a parié sa carrière puis ses biens et son nom. Sait qu'une pièce séparée existe. **Ne sait rien du Masque — et a exigé de ne jamais savoir comment Seb monte.**
+- **Le soigneur du relais** : un affiché 14 de quinze ans avec **une charpente vide**. C'est tout — et c'est déjà remarquable pour un homme du Verger.
+- **Berthe** : a vu deux fois l'intérieur de ce bras et a menti dessus à l'État.
+- **Odile** : sait que la version officielle est fausse — **et elle la vend**.
+- **Gilles, Léon** : savent que la version officielle est fausse. Rien d'autre.
+- **Jeanne** : a vu la bête manger. N'a rien demandé. Sait qu'il a signé quelque chose.

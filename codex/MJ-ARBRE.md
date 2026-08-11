@@ -9,23 +9,24 @@
 
 → Coffre : destination finale §7 · jalons fixes §3 (la rencontre, paliers IV-VI) · ordre des révélations §9 · trame indicative Terre §8.
 
-## 2 · ANCRE CONSOMMÉE — LE FOND (J7)
+## 2 · ANCRE CONSOMMÉE — LE FOND (J1-J8, quitté)
 
-Le contrôle public a eu lieu et **s'est refermé sur une victoire coûteuse** : anomalie classée en panne de matériel, dossier clos, mais **affiché 14 gravé au registre** (plancher public définitif) et **une seconde feuille** écrite par le vérificateur. Deux catastrophes et deux triomphes sur le trajet : main gauche perdue à vie, discrétion administrative perdue à vie ; Margot devient la tête, le Masque devient étalonné.
-**Le Fond est terminé.** Le joueur l'a dit explicitement : il veut partir, et une porte attachée à ce décor n'est pas une porte (errata §7). **Ne pas le retenir.** Ce qui reste au Fond doit se jouer en une ou deux scènes de sortie, pas davantage : la plaque chez Armand, la survie de Jeanne, éventuellement le vérificateur sur la route.
+Le contrôle public s'est refermé sur une victoire coûteuse (affiché 14 gravé, une seconde pièce écrite), puis les trois scènes de sortie ont été jouées proprement : **la plaque récupérée**, **Jeanne sécurisée par écrit**, **la dent vendue**. Le Fond est derrière.
+**Ne pas y ramener la campagne** avant que la clause d'Armand (« je descends avec toi ») ou la salle sèche ne le justifie — c'est-à-dire pas avant un critique de la branche C.
 
-## 3 · LIEU SUIVANT : LE CHEF-LIEU — ancre à préparer
+## 3 · ANCRE COURANTE — CLAIREFONT
 
-Branche **A** activée (le contrôle n'a pas explosé) : Anselme attend, la route du concours de province est ouverte.
+Le chef-lieu est nommé, l'eau du Fond y coule dans les rigoles, et le dossier de Seb y est arrivé avant lui.
 
-- **Événement candidat** : la première mesure officielle où Seb est **appelé en premier** — la porte fermée §38 se paie immédiatement et publiquement, dans une ville où son dossier est déjà arrivé.
-- **Casting** : Anselme (placeur ou acheteur selon le contrat) · le vérificateur, désormais visage récurrent, dans sa propre maison · Margot, exposée si elle a été déclarée morte · le bureau des Registres.
-- **Pression** : le plancher à 14 interdit la discrétion ; la réserve de 8 est la seule marge. Un bras infecté et une main morte entrent en ville.
-- **Issue : AUX DÉS.**
+- **Ancre de scène majeure immédiate — J9, sixième heure : la mesure publique d'inscription.** Appelé **en premier**, dossier relu **à voix haute**, et l'annonce **FER** prononcée devant la ville par un gamin qui affiche 14. C'est la **porte 9 qui se paie en public** et la **boucle sociale §3.2 pour la troisième fois** (mépris → provocation → révélation calibrée). Casting : Anselme, le bureau des Registres, la ville. **Le vérificateur peut être dans la salle — décider en jeu, c'est un bon endroit pour le ressortir.**
+  **Issue : AUX DÉS.**
+- **Ancre de fin d'arc — J19 : le concours de Province.** Seb doit montrer **40**. C'est la fin forte de Clairefont, et c'est là que **le Verger vient enchérir** (coffre §4 et §8).
+- **Entre les deux : onze jours, +18 points.** C'est le moteur de l'arc, et il est déjà armé par le joueur lui-même. Le jeu doit fournir de la viande — et chaque bouchée laisse une traînée lisible (codex §3.2) dans une ville qui relit son dossier.
 
-## 4 · BRANCHES CANDIDATES (après le chef-lieu)
+## 4 · BRANCHES CANDIDATES
 
-- **A. Le concours de province** — annonce publique du rang visé ; la gloire fait venir le Verger enchérir. Route naturelle du tronc.
-- **B. Les fosses** — si le chef-lieu se ferme (dossier, dépositions retournées, Margot démasquée) : montée par les salles de combat et les bêtes à chiffre, hors registre.
-- **C. Le retour sous terre** — la marque du creux est reconnaissable ailleurs (porte §7) : un second lieu bâti par les mêmes mains, plus haut. À dégainer si un critique touche la bête ou l'héritage.
+- **A. Les fosses de Clairefont** — la voie évidente pour monter hors registre : salles de combat, bêtes à chiffre, hommes bien choisis. Route naturelle vers les 40.
+- **B. La pièce séparée** — si un critique touche les Registres : le contenu sort, et c'est le premier vrai souffle des Rayeurs (coffre §1).
+- **C. Le retour sous terre** — la clause d'Armand + la salle sèche + la marque reconnaissable (porte 8). À dégainer si un critique touche la bête, la plaque ou la marque.
+- **D. Rater l'annonce** — si les 40 ne sont pas là au jour dit : Anselme ruiné et rayé, contrat mort, Seb libre et sans garantie, porte 4 refermée. **Ne pas l'éviter si les dés le disent** — le joueur a annoncé Fer en connaissance de cause.
 - **Routage** : triomphe → A · catastrophe → B · critique lié à la bête, à la plaque ou à la marque → C.

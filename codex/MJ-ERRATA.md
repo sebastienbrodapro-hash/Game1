@@ -51,3 +51,16 @@ Scène 29 : « Léon, Fabien et le grand maigre » sortis en une phrase — le j
 Scène 37 : porte ouverte « une pierre à toi », un actif **attaché au Fond** — lieu que la campagne quitte le lendemain. Une porte ancrée dans un décor périssable est une récompense de scène déguisée en porte. Reformulée en acquis **portable** (le Masque étalonné + la reconnaissance de la marque).
 
 **Garde-fou** : avant d'écrire une porte, poser la question — *est-ce que ça vaut encore dans trois lieux et deux paliers ?* Si la réponse est non, ce n'est pas une porte. Une porte est **portable, permanente, et change une règle de la partie** ; jamais un objet ou un lieu que le jeu va laisser derrière lui.
+
+## 8 · Ordre de rendu d'une scène à jet (2026-08-11)
+
+Scène 41 : la bande a été annoncée **en bas**, en tête du bloc de choix, après la prose et après la fiche. Le joueur a lu la conséquence sans savoir ce qui l'avait produite, puis a dû remonter. Correction du joueur : **« jet → conséquence → fiche → choix »**.
+
+**Ordre verrouillé de toute scène qui résout un jet :**
+
+1. **Le jet** — bande annoncée seule, en une ligne, avant tout le reste (le naturel reste masqué, y compris du MJ).
+2. **La conséquence** — titre + prose ; l'illustration, si la scène est marquante, se place ici.
+3. **La fiche** — bloc ÉTAT + horloges.
+4. **Les choix** — bloc d'options.
+
+Le prix d'une bande 36-65 (ou la complication d'une 11-35) se **joue dans la prose**, il ne se commente pas au-dessus des options. Complète le squelette du codex §1.9, qui ne disait rien de la place du jet.
