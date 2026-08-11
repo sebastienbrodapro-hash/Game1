@@ -45,3 +45,9 @@ Scène 29 : « Léon, Fabien et le grand maigre » sortis en une phrase — le j
 **Correction** : les hommes du brasero sont **une unité**, « les trois du brasero », avec **Léon** seul comme porte-parole. Fabien et « le grand maigre » sont dé-nommés (aucun canon perdu, ils n'ont rien fait sous ces noms).
 
 **Garde-fou** : **un seul nom nouveau par scène**, et seulement si le personnage agit. Un groupe qui fonctionne en bloc reste un bloc — on nomme sa bouche, pas ses membres.
+
+## 7 · Porte non portable (2026-08-11)
+
+Scène 37 : porte ouverte « une pierre à toi », un actif **attaché au Fond** — lieu que la campagne quitte le lendemain. Une porte ancrée dans un décor périssable est une récompense de scène déguisée en porte. Reformulée en acquis **portable** (le Masque étalonné + la reconnaissance de la marque).
+
+**Garde-fou** : avant d'écrire une porte, poser la question — *est-ce que ça vaut encore dans trois lieux et deux paliers ?* Si la réponse est non, ce n'est pas une porte. Une porte est **portable, permanente, et change une règle de la partie** ; jamais un objet ou un lieu que le jeu va laisser derrière lui.
