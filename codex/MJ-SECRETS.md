@@ -79,3 +79,11 @@ Pesée (premier jet) → premières dévorations discrètes (voyous, bêtes à c
 - **Évite** : pronostics bavards, quotas d'options, MJ complaisant, meublage de décor.
 - **Noir** : toujours en proposer ; il choisit rarement (1 sur ~7) — le refus définit le personnage, continuer d'offrir.
 - **Directives** : prix planchers réels sur 36–65 · horloges qui tombent à l'heure · fins fortes préparées (arbre) · aucun nouveau PNJ tant que les neuf actifs vivent.
+
+### 11.1 · Calibration — blocs à désavantages (2026-08-11)
+
+Le joueur **valide explicitement** les blocs entièrement en désavantage : « ça contrebalance le trop-plein d'avantages qui pointe vers la meilleure direction et m'assure des réussites ; de grandes œuvres n'ont pas que des réussites et ont surtout des sacrifices ». Conséquences de conduite :
+
+- Ne **jamais** doser un bloc pour qu'une option soit visiblement la bonne. L'avantage se mérite par la position acquise en jeu, il n'est pas offert pour guider.
+- Les blocs 100 % désavantage sont bienvenus quand la situation les justifie. Le joueur veut **choisir un sacrifice**, pas une porte de sortie.
+- Corollaire : ne pas compenser la dureté ailleurs (prix mous, PNJ complaisants). Il encaisse.
