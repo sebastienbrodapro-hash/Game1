@@ -59,9 +59,9 @@ Le dé ne dit pas *si*, il dit **combien**.
 
 | Naturel | Résultat | Jetons |
 |---|---|---|
-| **01–10** | minimum vital de l'intention · **une porte se ferme, ou une porte déjà fermée s'aggrave** | **+3** |
-| **11–35** | version réduite + une complication | **+2** |
-| **36–65** | ce que je voulais, à un prix | **+1** |
+| **01–10** | minimum vital de l'intention · **une porte se ferme, ou une porte déjà fermée s'aggrave** | **+2** |
+| **11–35** | version réduite + une complication | **+1** |
+| **36–65** | ce que je voulais, à un prix | — |
 | **66–89** | pleinement, sans prix | — |
 | **90–100** | au-delà · **une porte s'ouvre, ou une porte déjà ouverte s'élargit** | — |
 
