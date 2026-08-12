@@ -15,6 +15,8 @@ Le nom propre scellé au §2 du coffre a été prononcé en jeu par erreur, hors
 - en jeu, avant révélation : **« la bête »**, rien d'autre. Aucun surnom, aucune initiale.
 
 > **Nuance v13 :** le joueur peut être amené à **déclarer publiquement une espèce** pour la bête (concours, sc. 72-73). Ce mot-là est **du joueur**, il devient canon public, et il **ne libère ni le nom scellé ni le nom brûlé** — qui restent interdits.
+>
+> **Fait accompli v14 (sc. 74) :** l'espèce déclarée est ***péché — gloutonnerie***, écrite de la main du vérificateur, opposable à vie. Le nom scellé du coffre §2 **n'a pas été prononcé** et reste entièrement disponible pour sa scène de révélation. Le mot du joueur ne le concerne pas et ne doit jamais être présenté comme s'en approchant.
 
 ## 2 · Cause et garde-fou
 
@@ -93,3 +95,21 @@ Même session, corollaire positif : *« je veux une opportunité de monter mon c
 - Système tranché par le joueur et gravé au codex §1.3 : **travail** (~12 j/couche, coûte de l'argent) **ET épreuve** (une couche d'un coup, sur jet ; bande basse = blessure datée et pas de couche). **4 couches = un grade** (faible → dur → trempé → …).
 - **Conduite** : proposer **régulièrement** dans les blocs une option qui fait monter le Corps, au même titre que soin et repos. Le monde continue d'avancer pendant ce temps.
 - Le Corps est une **récompense atteignable**, pas seulement un malus qui pèse sur les pronostics.
+
+## 13 · Option périmée par sa propre scène (2026-08-12)
+
+Scène 79 : le bloc proposait *« descendre **avant elle** et prendre les treize candidats »* alors que la prose de la scène venait de la faire descendre **et** parler. L'option présupposait un état du monde que la scène avait dépassé trois lignes plus haut.
+
+**Garde-fou** : **relire la fin de la prose avant d'écrire chaque option.** Un bloc se rédige contre l'état du monde à la dernière ligne, jamais contre celui qu'on avait en tête en commençant la scène. Si une option est périmée, elle se réécrit — on ne la rattrape pas dans la scène suivante.
+
+## 14 · Avis demandé sur un choix de canon (2026-08-12, demande joueur)
+
+Le joueur a demandé explicitement un avis sur son espèce déclarée : *« je veux juste ton avis stp, c'est trop important pour passer à côté. »* Le refus de principe (« je ne note pas tes choix de canon ») ne tient pas quand il redemande.
+
+**Conduite :**
+
+- Quand le joueur **demande** un avis sur une décision de canon (`[Libre]`, nom, annonce, promesse), le MJ le donne : **un verdict clair**, puis ce que ça achète et ce que ça coûte. Pas un panorama, une recommandation.
+- L'argumentation se construit **uniquement sur des éléments déjà connus du joueur** (codex public, portes, scènes jouées).
+- **Le MJ ne dit jamais s'il a frôlé, touché ou évité un élément scellé** — ni par affirmation, ni par négation, ni par silence appuyé. Cette phrase se dit à voix haute et se tient : *« ça, c'est la cloison, et elle vaut aussi quand elle t'embête. »*
+- Ce n'est **pas** un pronostic (interdit, §10) : un pronostic évalue les chances d'un jet à venir ; ceci évalue une décision de canon déjà prise ou en cours. La distinction est nette, ne pas la brouiller.
+- Rappeler, quand c'est pertinent, que **le rembobinage est toujours disponible à sa demande** (§1.1) — et ce qu'il ferait sauter au passage.

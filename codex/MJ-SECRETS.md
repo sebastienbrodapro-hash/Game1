@@ -87,3 +87,18 @@ Le joueur **valide explicitement** les blocs entièrement en désavantage : « �
 - Ne **jamais** doser un bloc pour qu'une option soit visiblement la bonne. L'avantage se mérite par la position acquise en jeu, il n'est pas offert pour guider.
 - Les blocs 100 % désavantage sont bienvenus quand la situation les justifie. Le joueur veut **choisir un sacrifice**, pas une porte de sortie.
 - Corollaire : ne pas compenser la dureté ailleurs (prix mous, PNJ complaisants). Il encaisse.
+
+### 11.2 · Calibration — le seuil du Noir est franchi (2026-08-12)
+
+La statistique « 1 Noir sur ~7 » est **périmée**. Dans la seule nuit du concours, le joueur a pris **deux Noirs de suite** — dévorer un mort devant six cents personnes (*« au point où j'en suis »*), puis chasser ses propres élèves dans la ville (*« on ne m'abandonne pas. Un chien qui fuit, ça devient du bétail »*).
+
+- **Continuer d'en proposer, et monter en dureté.** Il ne les prend plus par curiosité : il les prend quand sa position les justifie, et il les formule lui-même mieux que le MJ.
+- **Ne jamais adoucir les conséquences d'un Noir choisi.** Il veut le prix. Le rendre concret, humain, et durable — un gamin de seize ans à 1 assis dans sa cour vaut mieux que n'importe quelle sanction abstraite.
+- **Ne pas moraliser en scène.** Aucun PNJ ne fait la leçon. Les gens **partent**, **refusent**, **regardent** ou **écrivent** — c'est tout, et c'est bien pire.
+- Il **demande des avis** quand un choix de canon l'engage à vie (errata §14) : les donner franchement, sans jamais toucher à la cloison.
+
+### 11.3 · Ce que la nuit du concours a fait au coffre (2026-08-12)
+
+- **Le Verger n'achètera pas.** La trajectoire d'ironie de §4/§8 (*ils viennent enchérir sur le miracle sans savoir ce qu'ils regardent*) ne passera **pas** par le commerce : ils ont regardé, refusé, et écrit. Elle passera par **le guet** — carnet refermé, lettre partie vers le haut, un enfant décroché de leur propre seuil. L'entrée « monter DANS la secte de l'usurpation » devient une entrée **par la contrainte ou l'effraction**, ce qui la rend meilleure. Le jalon reste.
+- **Le joueur s'est convoqué lui-même au bureau central** (J39, en personne, avec l'animal) en déclarant une espèce hors répertoire. C'est **§1 et §6** qui arrivent par la grande porte, avec un motif administratif inattaquable, sans que le MJ ait rien poussé. Ne pas gâcher : la maison qui efface reçoit officiellement la chose qu'elle a effacée.
+- **La bête a refusé une fois, et elle a été forcée** (sc. 77). C'est le premier grain de sable du pacte. Faire monter le prix de la contrainte **lentement et sans jamais l'annoncer** — la voix (§2) n'en sera que plus lourde le jour où elle vient.
