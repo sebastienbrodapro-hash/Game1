@@ -113,3 +113,56 @@ Le joueur a demandé explicitement un avis sur son espèce déclarée : *« je v
 - **Le MJ ne dit jamais s'il a frôlé, touché ou évité un élément scellé** — ni par affirmation, ni par négation, ni par silence appuyé. Cette phrase se dit à voix haute et se tient : *« ça, c'est la cloison, et elle vaut aussi quand elle t'embête. »*
 - Ce n'est **pas** un pronostic (interdit, §10) : un pronostic évalue les chances d'un jet à venir ; ceci évalue une décision de canon déjà prise ou en cours. La distinction est nette, ne pas la brouiller.
 - Rappeler, quand c'est pertinent, que **le rembobinage est toujours disponible à sa demande** (§1.1) — et ce qu'il ferait sauter au passage.
+
+## 15 · La froideur uniforme après la porte 15 (2026-08-12, recadrage joueur) — FAUTE MJ
+
+Depuis la fermeture de la porte 15, le MJ avait réglé tout le monde sur le même thermostat : tarifs à la lettre, comptant exigé, spectateurs muets, désistements silencieux, « personne ne lui apporte d'eau ». Le joueur : *« depuis cette porte une froideur ultime est apparue, c'est dommage. »*
+
+**La porte 15 interdit les dons spontanés — rien d'autre.**
+
+- **Reste mort, définitivement** : le cadeau, la faveur gratuite, la remise, l'aide non demandée.
+- **Revit** : la température. Peur bruyante, fascination qui colle, haine parlée, marchandage passionné, appétit de spectacle, curiosité payante. **Vouloir quelque chose de Seb n'est pas un don** — c'est du commerce, de l'appétit, du théâtre. Le monde en veut, et ça se voit.
+- **Les liens acquis** (Anselme, Margot, Émile, Armand…) n'ont jamais été concernés : ils fonctionnent, avec leur caractère.
+- La froideur uniforme est une **opposition gonflée en négatif** — interdite au même titre que le champion providentiel.
+
+## 16 · Les portes ouvertes pèsent au quotidien (2026-08-12, recadrage joueur)
+
+Le joueur : *« la porte 15 à elle seule vaut plus que certaines portes améliorées. »* Exact — le MJ jouait les portes fermées en lois permanentes et les ouvertes en commodités ponctuelles.
+
+**Rééquilibrage** : chaque porte ouverte se joue **à chaque scène où elle s'applique** —
+
+- **16** : jamais de file, nulle part ; traitement immédiat **et public** à chaque guichet.
+- **10** : crédit partout où l'on tient des livres. *(Le « comptant » exigé par les marchands de grain au matin de J20 était une sur-application de la 15 : les petits de rue sans livres, oui — les maisons à livres, crédit.)*
+- **14** : chaque greffier de porte de ville lit **ce que Seb décide** — franchir une porte est un choix tactique, plus un risque.
+- **13** : les dépositions restent inclassables ; la rumeur court plus vite que le dossier, et elle travaille pour lui.
+- **11** : la méthode est un produit vendable, valeur prouvée en public.
+- **6** : Margot voit tout le plateau **et le dit**.
+- **8** : toute pierre croisée est un instrument maîtrisé ; la marque du creux se repère au premier regard.
+- **2** : la légende précède Seb — les gens savent avant qu'il arrive.
+
+## 17 · Margot fade (2026-08-12, recadrage joueur) — FAUTE MJ
+
+Le joueur : *« dans tous les textes où il y a Margot, à chaque fois c'est "elle ne dit rien" — le perso est fade à souhait. »* Le silence mystérieux répété était devenu du vide.
+
+- **Margot a une volonté propre visible** : elle parle, veut, demande, refuse, propose. Un agenda à elle, joué **par des actes**, dès sa prochaine apparition.
+- Vaut pour tout le casting : un PNJ récurrent qui ne fait qu'observer est un décor. « Casting féminin à volonté propre » **se joue**, il ne s'affiche pas dans une fiche.
+
+## 18 · Ligne ⚑ Atout (2026-08-12, demande joueur)
+
+Quand un personnage démontre une valeur gardable, le MJ le signale **immédiatement, d'office, en une ligne**, dans la scène même :
+
+> ⚑ **Atout : la fille de seize ans** — seule du lot à négocier avant d'obéir.
+
+- **Factuel**, fondé uniquement sur ce que la scène vient de montrer. Jamais un pronostic de jet, jamais un fléchage vers une option.
+- **Sans check préalable** : le joueur ne demande rien, la ligne tombe seule.
+- Ça n'engage à rien — c'est de l'information ; le délestage reste entier.
+
+## 19 · Délestage des actifs encombrants (2026-08-12, préférence joueur)
+
+Le joueur : *« je vois les quinze comme un boulet. Aucune option ne permet de m'en débarrasser, ni en mal ni en bien. »* Le MJ avait présumé l'attachement depuis la nuit de la chasse — **le MJ ne présume jamais, il propose.**
+
+- Le délestage est une **direction disponible en continu** : options récurrentes dans les blocs (pas à chaque bloc), dans les deux registres —
+  - **en mal** : tuer, dévorer, vendre, abandonner — `[Noir + …]`, conséquences réelles, humaines et durables, jamais adoucies ;
+  - **en bien** : installer dans une **fonction productive qui rapporte** (école sous son nom avec gérant, contrat de formation vendu, écurie — la méthode est un produit, porte 11).
+- Vaut pour **tout actif encombrant**, pas seulement les quinze.
+- Rappel : le joueur écrit ses propres options quand il veut — étiquetage en une clause, et on joue.

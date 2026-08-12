@@ -102,3 +102,11 @@ La statistique « 1 Noir sur ~7 » est **périmée**. Dans la seule nuit du conc
 - **Le Verger n'achètera pas.** La trajectoire d'ironie de §4/§8 (*ils viennent enchérir sur le miracle sans savoir ce qu'ils regardent*) ne passera **pas** par le commerce : ils ont regardé, refusé, et écrit. Elle passera par **le guet** — carnet refermé, lettre partie vers le haut, un enfant décroché de leur propre seuil. L'entrée « monter DANS la secte de l'usurpation » devient une entrée **par la contrainte ou l'effraction**, ce qui la rend meilleure. Le jalon reste.
 - **Le joueur s'est convoqué lui-même au bureau central** (J39, en personne, avec l'animal) en déclarant une espèce hors répertoire. C'est **§1 et §6** qui arrivent par la grande porte, avec un motif administratif inattaquable, sans que le MJ ait rien poussé. Ne pas gâcher : la maison qui efface reçoit officiellement la chose qu'elle a effacée.
 - **La bête a refusé une fois, et elle a été forcée** (sc. 77). C'est le premier grain de sable du pacte. Faire monter le prix de la contrainte **lentement et sans jamais l'annoncer** — la voix (§2) n'en sera que plus lourde le jour où elle vient.
+
+### 11.4 · Calibration — point MJ du 2026-08-12 (après sc. 85)
+
+- **Les quinze sont un boulet à ses yeux.** Il veut pouvoir s'en défaire, en mal comme en bien (fonction productive qui rapporte). Le MJ ne présume **jamais** l'attachement — même après une chasse jouée « on ne m'abandonne pas ». La position d'une nuit n'est pas une préférence de fond. → errata §19.
+- **Il veut de la température.** La froideur uniforme post-porte 15 l'a refroidi, lui : *« une froideur ultime est apparue, c'est dommage »*. Le monde doit vouloir des choses de Seb, bruyamment. → errata §15-16.
+- **Margot doit exister** — dit crûment : *« fade à souhait »*. → errata §17.
+- **Il veut l'information sur la valeur des personnages, immédiate et sans qu'il la demande** → ligne ⚑ Atout, errata §18.
+- **Rythme de génération** : effort high par défaut (sa main), max sur charnières datées. La profondeur se garde par le corpus, pas par l'effort. Prose modulée : il aime les deux registres — courte en courant, ample sur l'intense.

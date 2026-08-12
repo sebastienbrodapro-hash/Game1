@@ -1,7 +1,7 @@
 # MJ-CASTING — LE CREUSET (registre des noms + fiches profondes)
 
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** §0 lu à **chaque** session ; fiches chargées au besoin (voir `MJ-INDEX.md`).
-> **À jour au 2026-08-12 (v14, scène 81).**
+> **À jour au 2026-08-12 (v15, scène 85).**
 
 ## 0 · REGISTRE DES NOMS *(vérifier AVANT de nommer quoi que ce soit en scène)*
 
@@ -9,12 +9,12 @@
 
 | Nom | Qui | Depuis |
 |---|---|---|
-| Seb | le héros, 15 ans — **réel 155 (SANG-CLAIR)**, **certifié 100** (plancher public), **rang annoncé PILIER**, **Corps DUR**, espèce déclarée ***péché — gloutonnerie***, propriétaire de la salle d'armes de Clairefont, quinze élèves | v1 |
+| Seb | le héros, 15 ans — **réel 206 (SANG-CLAIR)**, **certifié 100** (plancher public), **rang annoncé PILIER**, **Corps DUR 5 couches**, espèce déclarée ***péché — gloutonnerie***, quinze élèves, **sans toit depuis J20** (salle vendue) | v1 |
 | Jeanne | sa mère, 2, poumons pris — soignée tant que le papier tient. Au Fond | sc. 18 |
-| Margot | 6, chat-des-toits — vivante au registre, à Clairefont ; **sait tout**. A participé à la chasse aux élèves sans qu'on le lui demande | sc. 7 |
+| Margot | 6, chat-des-toits — vivante au registre, à Clairefont ; **sait tout**. A participé à la chasse aux élèves sans qu'on le lui demande ; au matin de J20, négociait le grain en ville. **Errata §17 : volonté propre VISIBLE dès sa prochaine apparition — elle parle, veut, exige. Fixer son agenda en jeu** | sc. 7 |
 | Berthe | 3, recoud — dette toujours ouverte. Au Fond | sc. 13 |
 | Armand | 14, apothicaire — ancien soigneur du Verger Blanc (11 ans). Reconnaissance de dette + clause *« je descends avec toi »*. Au Fond | sc. 19 |
-| Anselme | 11, courtier, rue des Écritures — **SAIT** depuis J13. A contresigné FER puis **PILIER**, deux fois sur ses biens et son nom. *« Je viens de vendre le reste de ma vie. »* | sc. 15 |
+| Anselme | 11, courtier, rue des Écritures — **SAIT** depuis J13. A contresigné FER puis **PILIER**, deux fois sur ses biens et son nom. *« Je viens de vendre le reste de ma vie. »* A vendu les murs de la salle en une matinée (22 fers) ; **son dixième (~2 fers) reporté au concours, de sa bouche** | sc. 15 |
 | Gilles | 8, cassé puis remis en selle — a promis un refus à venir. Au Fond | sc. 8 |
 | Léon | bouche des « trois du brasero » (6-7) — déposition signée. Au Fond | sc. 29 |
 | Odile | ferrailleuse — vend **la vraie version** depuis J8, avec la dent. Au Fond | sc. 5 |
@@ -22,7 +22,7 @@
 | Émile | vieux soigneur du **relais des terrasses**, Verger Blanc — a donné le bras, la méthode complète, a empoché la lanière, a veillé la nuit de la barre. **Complice sans l'avoir demandé** | sc. 69 |
 | « la bête » | le familier de Seb — **aucun autre nom en jeu**. Forme unique inachevée, le creux dans la paume, filigrane ancien. **Espèce déclarée publiquement par le joueur : *péché — gloutonnerie*** (sc. 74), écrite de la main du vérificateur, **opposable à vie** | — |
 
-**Lieux fixés en jeu** : le **Fond** · **Clairefont** · le **relais des terrasses** · **rue des Écritures** · **les citernes** · **la salle d'armes** (à Seb) · **l'esplanade du concours** · **la rue haute** (maison du Verger Blanc).
+**Lieux fixés en jeu** : le **Fond** · **Clairefont** · le **relais des terrasses** · **rue des Écritures** · **les citernes** · **la salle d'armes** (vendue à J20) · **la fosse** (fermée à J20) · **l'esplanade du concours** · **la rue haute** (maison du Verger Blanc).
 **Lieu à nommer en scène** : la ville du **bureau central des Sept Registres** (ancre J39).
 
 **Visages actifs SANS NOM (délibérément — les nommer sera un moment)** :
@@ -35,12 +35,14 @@
 | **La mère du Fer** | maison de province. *« Il est à toi. Garde-le. »* Sortie sans se retourner, sans son fils. **Une maison a un mort et pas de corps** |
 | **Le Fer à 44** | **MORT** (sc. 75). 17-18 ans, cuir clair. Avait accordé le passage en riant — opposition consentie. Est descendu **content** |
 | **L'homme en veste grise** | service sans plaque. **Sept jours de silence** depuis le refus de son marché |
-| **Les quinze élèves** | bloc, **une bouche** (16 ans, 7, chemise blanche, resté et lucide). Trois neufs : **le garçon qui a annoncé 39 et sorti 31**, **le maigre de quatorze ans**, **la fille de seize qui a demandé le prix avant de dire oui**. Cinq rattrapés de force. **Un à 1 à vie, seize ans, assis dans la cour** |
+| **Les quinze élèves** | bloc, **une bouche** (16 ans, 7, chemise blanche, resté et lucide). Trois neufs : **le garçon qui a annoncé 39 et sorti 31**, **le maigre de quatorze ans**, **la fille de seize qui a demandé le prix avant de dire oui**. Cinq rattrapés de force. **J20 : 11 ont pris leur première couche — dont le garçon à 1 (seize ans), qui ne regarde plus ses mains pareil ; 4 blessés 10 jours sans couche.** Candidats ⚑ Atout naturels : la fille, la bouche, le garçon à 1 |
 | **Les cinq partis** | bloc. Ont **la méthode complète** dans la tête, et ont vu la chasse |
+| **Le tenant de la fosse** | ex-**51** → **1**, 45 ans, vingt ans de fosse. Avait refusé de monter — le règlement l'y a obligé. **Dévoré vivant à J20** devant trente-deux payants. Sixième vivant |
+| **Le teneur des fosses** | tarif cloué au mur, registre. A relu deux fois la règle du tenant en espérant qu'on l'interrompe, puis écrit la **mention de fermeture**. Sept hommes vivaient de sa fosse |
 | **Les treize familles** | bloc. Saison perdue, aucun placement. Rentrent dans toute la province |
-| **La famille de la salle d'armes** | bloc. **Réclamation écrite** contre le transfert du bail |
+| **La famille de la salle d'armes** | bloc. A amené l'ex-47 en botte au greffe pour prouver la contrainte — **réclamation éteinte par sa bouche à lui** |
 | **Le teneur des citernes** | *« Je n'ai rien pesé. »* |
-| **Le maître de salle** | ex-47 → 1. Ses **trois pages** sont parties |
+| **Le maître de salle** | ex-47 → 1. **A déclaré « oui, de mon plein gré » au greffe, devant sa famille** (J20). Ses **trois pages** sont parties |
 | **Le garçon aux bottes neuves** | ex-31 → 1 |
 | **Le greffier** | jeune, veste trop grande. A couvert Seb **et** écrit la seconde feuille (porte 1) — coffre §8 |
 | **Les cueilleurs du Verger** | bloc, une charrette |
@@ -52,7 +54,8 @@
 **⚠️ L'espèce déclarée par le joueur (*péché — gloutonnerie*) est du joueur.** Elle est canon public, elle **ne libère aucun nom scellé ni brûlé**, et le MJ **ne dit jamais au joueur** s'il a frôlé ou non un mot du coffre — même interrogé directement (errata §14).
 
 **Règle prénoms** : occidentaux pour tout le monde, courts, sans doublon.
-**Règle d'introduction** : **un seul nom nouveau par scène**, et seulement si le personnage agit. Directive joueur (coffre §11) : pas de nouveau PNJ nommé tant que les actifs vivent. *Bilan sc. 74-81 : aucun nom nouveau introduit sur huit scènes — cinq visages forts créés et tenus sans nom. C'est le bon régime, continuer.*
+**Règle d'introduction** : **un seul nom nouveau par scène**, et seulement si le personnage agit. Directive joueur (coffre §11) : pas de nouveau PNJ nommé tant que les actifs vivent. *Bilan sc. 74-85 : aucun nom nouveau introduit sur douze scènes — les visages forts (tenant, teneur, femme du Verger…) tenus sans nom. C'est le bon régime, continuer.*
+**Ligne ⚑ Atout (errata §18)** : signaler d'office, en une ligne factuelle, tout personnage qui démontre une valeur gardable — sans pronostic, sans fléchage.
 
 ## 1 · FICHES PROFONDES *(à remplir en atelier — gabarit)*
 

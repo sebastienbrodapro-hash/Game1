@@ -47,6 +47,9 @@
 | acheter une version aux quarante bouches du Fond | 12 fer | sc. 29 |
 | **une dent de la bête à 5, comme relique** | **8 fer** payés par Odile — qui compte la revendre **30** avec l'histoire vraie. En ferraille, ça ne vaut rien : **c'est la légende qu'on achète** | sc. 42 |
 | **bras rouvert, nettoyé, cautérisé + dix jours de préparations** | **12 fer**, station du Verger, **payable à crédit contre un nom et un répondant** | sc. 45 |
+| droit d'enregistrement d'un bail au greffe de chef-lieu | **2 fer** | sc. 82 |
+| bail de cour sablée en ville, 11 mois | **valeur ~40 fer** — cédé **22** en vente d'urgence (l'acheteur savait que Seb partait) | sc. 83 |
+| licence de fosse, journée, porteur certifié 100+ | **12 fer**, tarif cloué au mur | sc. 84 |
 
 > **Ordre de grandeur à tenir** : une bourse de 24 fer est une petite fortune au Fond ; 12 fer achètent le silence d'un carrefour, ou un bras sauvé. **Clairefont n'a pas encore montré ses prix** — les fixer en scène, sans inflation muette.
 
