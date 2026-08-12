@@ -166,3 +166,22 @@ Le joueur : *« je vois les quinze comme un boulet. Aucune option ne permet de m
   - **en bien** : installer dans une **fonction productive qui rapporte** (école sous son nom avec gérant, contrat de formation vendu, écurie — la méthode est un produit, porte 11).
 - Vaut pour **tout actif encombrant**, pas seulement les quinze.
 - Rappel : le joueur écrit ses propres options quand il veut — étiquetage en une clause, et on joue.
+
+## 20 · BLOC SERVI EN DEUX FOIS (2026-08-12) — FAUTE MJ GRAVE
+
+Scène 86 : le MJ sert un bloc, le joueur demande *« et le délestage ? »*, et le MJ **complète le bloc au message suivant**. Réponse du joueur : *« j'ai lu un demi-bloc, c'est INADMISSIBLE. Plus jamais tu fais ça. »*
+
+**Règle dure — un bloc est servi ENTIER, UNE SEULE FOIS.**
+
+- **Jamais de complément, jamais d'ajout après coup, jamais « le bloc s'ouvre ».** Un bloc envoyé est fermé : le joueur choisit dedans, ou il écrit la sienne.
+- **Passe de contrôle obligatoire AVANT envoi de tout bloc** — dans l'ordre :
+  1. **délestage** des actifs encombrants présent quand il a lieu d'être (§19) ;
+  2. option **Corps** quand le lieu la permet (§12) ;
+  3. ligne **mort** si elle existe (§10) ;
+  4. ligne **⚑ Atout** si la scène l'a méritée (§18) ;
+  5. **portes ouvertes** jouées (§16) ;
+  6. **aucune option périmée** par la dernière ligne de la prose (§13) ;
+  7. **étiquettes honnêtes**, aucun pronostic (§10), aucun dosage vers « la bonne option ».
+- Si un manque apparaît à la relecture : **le bloc se réécrit avant envoi**. Un bloc incomplet ne part pas.
+- **Seul cas de réémission** : le joueur demande un rejeu ou un rembobinage. On renvoie alors **le bloc entier réécrit**, jamais le delta.
+- Corollaire : un bloc peut dépasser 3-4 options s'il doit être complet. **Complet prime sur court.**
