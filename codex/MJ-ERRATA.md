@@ -196,3 +196,13 @@ L'errata §12 (« proposer régulièrement une occasion de monter le Corps ») a
 - **Mais elle ne se pose que là où le lieu et le moment la portent** : un sable, une carrière, un chantier, une bête, une nuit à la barre. Jamais en garniture pour cocher une case.
 - Test avant de l'écrire : *est-ce que la scène qui vient de se jouer contient physiquement de quoi encaisser ?* Si non, l'option saute — et personne ne la regrette.
 - Vaut pour toute option de service (soin, repos, argent) : **une option qui n'est là que parce qu'une règle demande d'en mettre une se voit, et abîme le bloc.**
+
+## 22 · Git : commit direct sur `main`, à chaque changement (2026-08-12, directive joueur — point MJ Fable)
+
+Trois incidents en trois jours : trois `codex` avortés qui ont coûté vingt scènes (2026-08-11) · un local à **17 commits de retard** sur `origin/main` (2026-08-12 matin) · le merge de la PR #4 qui a repris **une tête périmée** — `main` s'est retrouvé sans la v16, rattrapé par un merge manuel (2026-08-12 soir). Le détour par branche + PR a produit l'inverse de la sécurité recherchée. Directive : *« modification directe sur git à chaque changement, avec push sur main. »*
+
+- **Toute modification d'un fichier du dépôt** (errata, corpus MJ, index, CLAUDE.md) est **commitée et poussée sur `main` immédiatement**, dans le même tour — avant de reprendre la fiction.
+- **Plus de branches, plus de PR pour le corpus.** Ce dépôt est un journal de campagne à auteur unique, pas un projet à revue.
+- **Vérification après chaque push** : `git status -sb` doit rendre `## main...origin/main`, sans avance ni retard. Un push qui échoue se refait avant de continuer à jouer.
+- **Le rituel `codex` ne change pas** : sauvegarde numérotée complète (régénération + copie figée + index + tag annoté + push). La présente règle couvre tout ce qui se modifie **entre** deux `codex`.
+- En session cloud (push refusé) : commit local immédiat quand même, push dès que possible, et l'état signalé au joueur.

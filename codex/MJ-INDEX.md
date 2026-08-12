@@ -40,6 +40,7 @@ Checklist :
 
 ## Croissance du corpus
 
+- **À chaque changement de fichier** (errata, correction, point MJ) : **commit direct sur `main` + push immédiat**, dans le même tour (errata §22). Plus de branches ni de PR pour le corpus. Vérifier `git status -sb` après chaque push.
 - **À chaque `codex`** : mettre à jour ARBRE, CHRONO et le registre des noms — obligatoire.
 - **Ateliers MJ** (sur demande du joueur, sessions dédiées) : étoffer MONDE et CASTING chapitre par chapitre, en profondeur.
 - **Objectif : une bible de campagne dense et entièrement relisible** (~100-300 pages à terme), pas de la masse. Tout ce qui est écrit doit pouvoir être relu par le MJ en session — c'est la condition de la cohérence. La densité fait la qualité, le volume fait l'incohérence.

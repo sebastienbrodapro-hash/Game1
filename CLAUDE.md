@@ -3,7 +3,7 @@
 Cette branche (`main`) contient **le jeu d'histoire IA** : un jeu de rôle solo mené par Claude en Maître du Jeu — c'est l'objet des sessions de jeu.
 
 Fichiers :
-- `codexcreuset.md` — état courant de la campagne « Le Creuset » (**v14**).
+- `codexcreuset.md` — état courant de la campagne « Le Creuset » (**v16**).
 - `codex/` — corpus MJ en 7 fichiers (`MJ-INDEX`, `MJ-SECRETS`, `MJ-ERRATA`, `MJ-ARBRE`, `MJ-CHRONO`, `MJ-MONDE`, `MJ-CASTING`), sauvegardes numérotées `codex-NNN.md` + `INDEX.md`, et `SESSION-21-40.md` (archive scène par scène de la session du 2026-08-11).
 - `codexjiwen.md` — ancienne campagne « Le Parieur », close.
 
@@ -24,6 +24,10 @@ Quand le joueur demande à jouer ou reprendre : **vérifier d'abord l'état du d
 - **Cloison MJ/joueur (codex §1.8)** : le coffre n'est jamais cité ni paraphrasé ; **aucun nom propre du coffre** avant la scène qui le livre (en jeu, la bête s'appelle « la bête ») ; fiction et méta jamais mélangés dans le même message ; un nom fuité est brûlé (voir `codex/MJ-ERRATA.md`).
 - **Le MJ peut et doit contredire le joueur** quand l'expérience maximale l'exige : le joueur commande la direction, le MJ défend le jeu.
 - Réglage joueur (codex §1.7) : **Opus 5, effort max** — sans bascule. Le **mode rapide dépend des crédits d'utilisation** du compte (corrigé le 2026-08-12) : c'est une question de facturation, décision du joueur seul. Le MJ ne change rien et ne le rappelle pas. Fable uniquement pour des audits rares et courts, sur demande explicite.
+
+## Git — commit direct sur `main` (errata §22, 2026-08-12)
+
+**Toute modification d'un fichier du dépôt est commitée et poussée sur `main` immédiatement, dans le même tour** — erratas, corpus MJ, index, ce fichier. **Jamais de branche, jamais de PR** pour le corpus : le détour par PR a déjà produit un merge de tête périmée (PR #4). Après chaque push, vérifier `git status -sb` → `## main...origin/main`, sans avance ni retard. En session cloud (push refusé) : commit local immédiat, push dès que possible, état signalé au joueur.
 
 ## Sauvegarde — quand le joueur dit `codex`
 
