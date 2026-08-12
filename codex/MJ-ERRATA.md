@@ -185,3 +185,14 @@ Scène 86 : le MJ sert un bloc, le joueur demande *« et le délestage ? »*, et
 - Si un manque apparaît à la relecture : **le bloc se réécrit avant envoi**. Un bloc incomplet ne part pas.
 - **Seul cas de réémission** : le joueur demande un rejeu ou un rembobinage. On renvoie alors **le bloc entier réécrit**, jamais le delta.
 - Corollaire : un bloc peut dépasser 3-4 options s'il doit être complet. **Complet prime sur court.**
+
+## 21 · L'option Corps ne se force pas (2026-08-12, note joueur)
+
+Le joueur, en passant : *« pas besoin de mettre de phrase de corps quand c'est ni le lieu ni le moment, ça fait forcé. »*
+
+L'errata §12 (« proposer régulièrement une occasion de monter le Corps ») avait dérivé en réflexe : une option d'épreuve collée dans des blocs où rien dans la scène ne la portait — sur une charrette, dans une salle d'archives, la veille d'une cérémonie.
+
+- **§12 tient : le Corps doit rester une récompense atteignable**, et l'occasion revient régulièrement.
+- **Mais elle ne se pose que là où le lieu et le moment la portent** : un sable, une carrière, un chantier, une bête, une nuit à la barre. Jamais en garniture pour cocher une case.
+- Test avant de l'écrire : *est-ce que la scène qui vient de se jouer contient physiquement de quoi encaisser ?* Si non, l'option saute — et personne ne la regrette.
+- Vaut pour toute option de service (soin, repos, argent) : **une option qui n'est là que parce qu'une règle demande d'en mettre une se voit, et abîme le bloc.**
