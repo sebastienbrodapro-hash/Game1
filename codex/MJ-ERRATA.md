@@ -206,3 +206,26 @@ Trois incidents en trois jours : trois `codex` avortés qui ont coûté vingt sc
 - **Vérification après chaque push** : `git status -sb` doit rendre `## main...origin/main`, sans avance ni retard. Un push qui échoue se refait avant de clore le point MJ.
 - **Hors point MJ, rien ne change** : en session de jeu, les corrections notées en passant s'inscrivent au prochain `codex`, et le rituel `codex` (régénération + copie figée + index + tag annoté + push) reste la sauvegarde de la fiction.
 - En session cloud (push refusé) : commit local immédiat quand même, push dès que possible, et l'état signalé au joueur.
+- **Toute règle nouvelle issue d'un point MJ est reformulée par le MJ, questionnée, puis validée explicitement par le joueur AVANT d'être gravée et commitée** (directive du 2026-08-12).
+
+## 23 · Portes : rares, évolutives, à crans (2026-08-12, point MJ — validé joueur)
+
+Constat joueur : *« Trop de portes ! »* — 23 en 116 scènes, dont 7 sur la seule v16. La table devenait un inventaire de trophées, plus une colonne vertébrale.
+
+- **Une porte est un acquis à crans, pas un événement.** Un critique qui touche le domaine d'une porte existante la fait **monter d'un cran** — c'est le défaut absolu. Exemple de crans : *le village veut t'aider → la ville veut t'aider → la province veut t'aider*.
+- **Symétrie stricte** : une catastrophe **aggrave** une porte fermée existante avant d'en fermer une neuve.
+- **Créer ou fermer une porte neuve est un événement de campagne** — rare, mémorable.
+- **Budget par plan : ~3 ouvertes / ~2 fermées vivantes.** Chaque porte est un monument.
+- **Les 23 de Terre : gelées en l'état jusqu'à la fin du palier.** D'ici là, plus aucune porte neuve sauf événement exceptionnel — les critiques élargissent l'existant. **Consolidation à l'entrée du palier II**, comme rituel de passage : table de fusion en ~3-5 lignes évolutives, **soumise au joueur pour validation avant gravure**.
+
+## 24 · Le monde sait, l'information rampe, le papier recule (2026-08-12, point MJ — validé joueur)
+
+Constat joueur : monde trop rigide face à un 943 certifié (*« si j'ai envie de défoncer tout le monde qui me connaît, je peux — ils devraient en avoir conscience »*) · information trop rapide (*« me dissimuler et exploser n'est plus possible »*) · *« tout consigner, tout figer, c'est trop froid et strict »*.
+
+**1. Terreur et appétit** (réponse joueur : les deux, ensemble). Partout où la puissance de Seb est sue, **tout plie** — gens, gardes, bureaux locaux : capitulations préventives, règles tordues par la peur, évitements — **et ça grouille** : quémandeurs, courtisans, vendeurs, parasites, fuyards. Le monde a peur ET veut sa part, bruyamment (prolonge §15). **Il n'existe plus d'opposition locale crédible** ; l'opposition réelle vient d'ailleurs — ce qui ne procède pas, ce qui est plus haut, ce qui est caché. Le MJ ne joue plus jamais la machine en mur imperturbable.
+
+**2. L'information en cercles concentriques.** Elle voyage au pas des rouliers, se déforme en route, rencontre l'incrédulité. La ville sait · la province apprend en semaines, version tordue · **le continent n'a rien de fiable**. Une copie officielle met des semaines et ne fait pas une conscience publique — un registre lointain, personne ne le lit. **Se dissimuler puis exploser redevient possible hors du cercle.** Recalibrages : la porte 2 (« la légende précède ») vaut dans le cercle où la légende est arrivée, sous la forme déformée qui y est arrivée ; *« on n'est pas obligés »* à deux cents lieues en cinq jours reste un fait exceptionnel le long d'une seule grand-route — pas la norme.
+
+**3. Le papier recule.** Les Sept Registres redeviennent **un acteur** du jeu, plus son climat. Il existe des lieux sans guichet, des gens sans registre, des affaires sans écriture. La procédure cesse d'être le décor par défaut des scènes.
+
+**Les §23 et §24 sont des lois de conception : elles s'appliquent à la fin de Terre et à CHAQUE plan suivant, dès sa conception.**

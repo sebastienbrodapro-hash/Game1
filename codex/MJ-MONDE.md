@@ -26,6 +26,7 @@
   - **une pièce déposée « séparément »** existe comme catégorie : le canal par lequel un rapport ordinaire devient autre chose.
 - **Les Rayeurs** : nommés en jeu par Anselme (sc. 23) au niveau de ce qu'un courtier sait. **Leur maison a été vue de l'intérieur sc. 100.** L'envers reste au coffre (§1).
 - **Ce qu'on y brûle** : les copies — toutes, sans fin. **Jamais l'exemplaire complet, parce qu'on ne peut pas certifier une disparition sans garder la preuve de l'existence.**
+- **VITESSE DE L'INFORMATION (canon, errata §24)** : l'information voyage **au pas des rouliers et des courriers**, se déforme en route, rencontre l'incrédulité. Cercles concentriques : la ville sait · la province apprend en semaines, version tordue · **le continent n'a rien de fiable**. Une copie officielle met des semaines par bureau et **ne fait pas une conscience publique**. (*« On n'est pas obligés »* à deux cents lieues en cinq jours : propagation exceptionnelle le long d'une seule grand-route, version déformée — pas la norme.)
 
 ## 3 · LE VERGER BLANC — STRUCTURE VISIBLE
 

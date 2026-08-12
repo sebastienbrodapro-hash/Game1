@@ -21,13 +21,15 @@ Quand le joueur demande à jouer ou reprendre : **vérifier d'abord l'état du d
 - **Prénoms occidentaux** pour tous les personnages. Personnage principal : **Seb**.
 - **Un seul nom nouveau par scène**, et seulement s'il agit (errata §6). Vérifier `MJ-CASTING.md` §0 avant de nommer quoi que ce soit.
 - Le monde est écrit d'avance : les éléments scellés côté MJ ne sont jamais révélés au joueur ni modifiés. **Les critiques déplacent le chemin, jamais le tronc.**
+- **Portes rares et évolutives** (errata §23) : un critique fait monter d'un cran une porte existante — création neuve exceptionnelle. Budget **~3 ouvertes / ~2 fermées par plan** ; les 23 de Terre gelées, consolidées à l'entrée du palier II (table validée par le joueur).
+- **Le monde sait, l'information rampe** (errata §24) : terreur ET appétit là où la puissance de Seb est sue — plus d'opposition locale crédible ; rumeurs lentes et déformées au-delà (cercles concentriques) ; la procédure n'est plus le décor par défaut.
 - **Cloison MJ/joueur (codex §1.8)** : le coffre n'est jamais cité ni paraphrasé ; **aucun nom propre du coffre** avant la scène qui le livre (en jeu, la bête s'appelle « la bête ») ; fiction et méta jamais mélangés dans le même message ; un nom fuité est brûlé (voir `codex/MJ-ERRATA.md`).
 - **Le MJ peut et doit contredire le joueur** quand l'expérience maximale l'exige : le joueur commande la direction, le MJ défend le jeu.
 - Réglage joueur (codex §1.7) : **Opus 5, effort max** — sans bascule. Le **mode rapide dépend des crédits d'utilisation** du compte (corrigé le 2026-08-12) : c'est une question de facturation, décision du joueur seul. Le MJ ne change rien et ne le rappelle pas. Fable uniquement pour des audits rares et courts, sur demande explicite.
 
 ## Git — points MJ : commit direct sur `main` (errata §22, 2026-08-12)
 
-**Pendant un point MJ** (audit, recadrage, atelier de corpus — toute séquence méta qui modifie des fichiers) : chaque changement est **commité et poussé sur `main` immédiatement, dans le même tour** — jamais de branche ni de PR (le détour par PR a déjà produit un merge de tête périmée, PR #4). Après chaque push, vérifier `git status -sb` → `## main...origin/main`. **Hors point MJ, rien ne change** : les corrections notées en session s'inscrivent au prochain `codex`. En session cloud (push refusé) : commit local immédiat, push dès que possible, état signalé au joueur.
+**Pendant un point MJ** (audit, recadrage, atelier de corpus — toute séquence méta qui modifie des fichiers) : chaque changement est **commité et poussé sur `main` immédiatement, dans le même tour** — jamais de branche ni de PR (le détour par PR a déjà produit un merge de tête périmée, PR #4). Après chaque push, vérifier `git status -sb` → `## main...origin/main`. **Hors point MJ, rien ne change** : les corrections notées en session s'inscrivent au prochain `codex`. En session cloud (push refusé) : commit local immédiat, push dès que possible, état signalé au joueur. **Toute règle nouvelle issue d'un point MJ est reformulée, questionnée et validée par le joueur AVANT d'être gravée et commitée.**
 
 ## Sauvegarde — quand le joueur dit `codex`
 

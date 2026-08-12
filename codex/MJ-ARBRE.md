@@ -71,3 +71,5 @@
 - **Anselme** a bradé dix ans. Il est libre et il est ruiné dans sa victoire. **Lui donner une trajectoire propre** : il peut se refaire, se venger de lui-même, ou devenir le premier homme d'affaires de la province avec un nom qui vaut de l'or.
 - **Ligne tenue** : Seb a quinze ans — aucun registre romantique, aucune ellipse d'âge fabriquée.
 - **Bloc servi entier, une fois** (errata §20). Passe de contrôle avant chaque envoi.
+- **Portes gelées (errata §23)** : plus aucune porte neuve d'ici la fin de Terre sauf événement exceptionnel — les critiques montent les crans des 23 existantes. **Consolidation en ~3-5 lignes à l'entrée du palier II**, table soumise au joueur. Budget des plans suivants : **~3 ouvertes / ~2 fermées**.
+- **Le monde sait (errata §24)** : terreur ET appétit partout où 943 est su — plus d'opposition locale crédible ; l'opposition vient de ce qui ne procède pas, de ce qui est plus haut, de ce qui est caché. **Information en cercles concentriques** : la province sait, le continent n'a que des rumeurs tordues — la dissimulation redevient possible ailleurs. **Le papier recule** : la procédure n'est plus le décor par défaut.
