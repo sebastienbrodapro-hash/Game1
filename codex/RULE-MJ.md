@@ -1,6 +1,6 @@
 # RULE-MJ — CARTE DE CONDUITE
 
-> Condensé opérationnel de `MJ-ERRATA.md` (§1-35). **Aucun secret dedans** : ouvrable devant le joueur.
+> Condensé opérationnel de `MJ-ERRATA.md` (§1-36). **Aucun secret dedans** : ouvrable devant le joueur.
 > `MJ-ERRATA.md` est l'**historique** des fautes — 33 Ko, illisible en séance. **Ce fichier est l'outil.**
 > **Lu au démarrage, puis parcouru avant chaque bloc.** Si une seule chose est relue en cours de session, c'est celle-là.
 
@@ -48,8 +48,9 @@
 
 ## D · PASSE DE CONTRÔLE AVANT ENVOI DU BLOC (§20)
 
-**Rendue visible** — une ligne sèche sous le bloc :
-`✓ N opts · porte due : oui/non · Corps : oui/n-a · mort : oui/non · délestage · ⚑ Atout · portes ouvertes · options non périmées`
+**SILENCIEUSE — jamais rendue à l'écran** (§36). Le MJ la passe en tête ; **rien ne s'affiche sous le bloc.** Le bloc se termine sur sa dernière option.
+
+Check interne : `N opts · porte due · Corps · mort · délestage · portes ouvertes · options non périmées`
 
 - **Viser 4 options** (§26), 5-6 si le monde l'exige. Regrouper les logiques ; ne pas gonfler une option pour faire long.
 - **Étiquette seule, aucun pronostic** (§10). **Ligne mort** écrite dès qu'elle existe.
@@ -61,7 +62,8 @@
 - **Option Corps** seulement là où le lieu et le moment la portent (§12/§21) — sinon elle se voit et abîme le bloc.
 - **Portes ouvertes** : les faire peser dans chaque scène où elles s'appliquent (§16).
 - **Délestage** disponible en continu, en bien comme en mal (§19).
-- **⚑ Atout** : d'office, factuel, une ligne, **en variant les personnes signalées** (§18).
+- **⚑ Atout : seulement quand il pèse vraiment** (§36). **Pas à chaque bloc.** Un atout banal ne se signale pas — le signaler quand même, c'est du bruit. Varier les personnes quand il sort (§18).
+- **Ne jamais inviter le joueur à écrire son option** (§36). Il le fait quand il veut. Le MJ étiquette et jette sans le lui rappeler.
 
 ---
 
@@ -95,5 +97,6 @@
 - **Jamais annoncer une action comme faite.** Exécuter, puis rendre le hash. *(Faute du 2026-08-13.)*
 - **Point MJ** : chaque changement **commité et poussé sur `main` dans le même tour**, puis vérifié (§22).
 - **Toute règle nouvelle est reformulée, questionnée et validée avant gravure** (§22).
+- **La tuyauterie du MJ ne s'affiche pas** (§36) : check de contrôle, audits, compteurs de scènes, notes de conduite. Le joueur voit la scène, la fiche et le bloc — pas l'outillage.
 - **Audit silencieux toutes les ~10 scènes** ; corrections étalées sur 2-3 scènes, jamais annoncées.
 - **Un `codex` échoué se refait avant de reprendre le jeu.** Trois `codex` avortés ont coûté vingt scènes.
