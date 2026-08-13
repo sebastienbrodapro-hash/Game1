@@ -48,6 +48,15 @@
 7. **IL Y A UN VOLUME ILLISIBLE SOUS LA MAISON MÈRE.** Gros comme une église, l'instinct du chiffre glisse dessus. **Ce n'est pas la salle du crâne** (quarante marches, quatre mètres de diamètre). **Ne pas l'expliquer, ne pas l'oublier.**
 8. **DEUX CENTS PERSONNES ONT ENTENDU LA VÉRITÉ.** Porte 17 cran 2 : le nom rassemble. Une secte de six cents personnes est en train de changer de fondateur. **Ça se voit à trois provinces et ça ne se cache plus.**
 
+## 3bis · RECADRAGE DU 2026-08-13 (errata §31) — PRIORITAIRE SUR TOUT CE QUI SUIT
+
+**Huit scènes de déchiffrement ont perdu le joueur.** Coupe nette validée : l'alphabet mort, le compte des pouces, les 137 plaques, les sept signes du nom, le linteau, le volume sous la maison **ne produisent plus rien** — décor seulement, jamais une scène, jamais une horloge.
+
+**Fin de Terre en DEUX MORCEAUX, en séquence, sans traîne :**
+
+1. **LES CINQ HOMMES EN GRIS** *(en cours, J193, à trois jours du portail)* — court, sale, exposé. 10-12-9-14-11 : ils ne pèsent rien, et c'est le sujet. Ce qui menace n'est pas leur force : c'est **ce qu'ils font** (le rite : nom de sa main · ligne de sa première pesée · la pierre qui l'a pesé à quinze ans) et **ce qu'il y a derrière eux**. Seb connaît la recette — c'est son seul avantage, et ils l'ignorent. **3 à 5 scènes maximum.**
+2. **PUIS UNE GROSSE PIÈCE** — apothéose en force, à la hauteur de la carrière : une proie unique qui rend coup pour coup, qui coûte du sang, qui rapporte gros, **et qui sert de sortie de palier**. C'est le meilleur souvenir de jeu du joueur (le 412) : le resservir plus grand. **Ne pas la chercher dans les symboles : la chercher dans ce qui se bat.**
+
 ## 4 · CHARNIÈRE — LA SORTIE DE TERRE
 
 **Ce n'est plus un lieu, c'est un seuil.** Terre est en dépassement de budget : une étape courte, puis la bascule.

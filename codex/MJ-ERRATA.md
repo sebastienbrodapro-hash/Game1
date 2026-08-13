@@ -241,3 +241,30 @@ Corollaire du §29, tranché par le joueur — avec sa raison : *« la bête à 
 - **Le palier n'est pas vidé.** Il reste sur Terre des choses jamais chiffrées : **la carrière qu'on a fuie** (deux cents ans de pierres de mesure taillées, puis l'abandon du jour au lendemain), **le volume illisible sous la maison mère**, et ce que font réellement les hommes en gris.
 - **Conduite** : ne pas les poser sur son chemin, ne jamais les lui refuser. Ils sont **accessibles et dangereux** ; c'est à lui d'aller les chercher.
 - **Calibration confirmée** : la chasse à la grosse pièce est un sommet de plaisir pour ce joueur. Une proie unique, terrée, qui rend coup pour coup, vaut mieux que dix scènes sociales. **En servir encore, et à la hauteur.**
+
+## 31 · Aucune scène dont le seul enjeu est de comprendre (2026-08-13, point MJ validé) — FAUTE MJ GRAVE
+
+Des scènes 160 à 169, huit scènes d'affilée dont le seul produit était de l'information : le linteau, le bloc brut, les quatre cent soixante-dix mains, le mur de pouces, le pouce dans le pouce, la plaque contre la paroi, les niches. **Aucune ne pouvait rien faire perdre au joueur.** Verdict, en deux fois : *« je suis perdu, je ne sais pas comment progresser »*, puis *« des pouces dans des pouces avec des creux avec une langue morte à déchiffrer depuis trop de scènes… c'est trop abstrait, ça me perd, ce n'est pas marrant, on dirait une énigme qui s'éternise pour un finish qui a l'air pas si dingue. »*
+
+**Règle dure.**
+
+- **Une scène se joue quand quelque chose peut être perdu.** Si la réponse à *« qu'est-ce qui peut mal tourner ici ? »* est *« rien, il va juste apprendre un truc »*, ce n'est pas une scène (prolonge §28).
+- **Une énigme ne se résout jamais par accumulation d'indices.** Elle tombe **d'un coup, par une bouche, en échange de quelque chose** — ou elle ne tombe pas. Pas de tableau de signes, pas de corpus, pas de progression en pourcentage de déchiffrement.
+- **Symboles, langues, marques, rites = décor signifiant.** Ils colorent une scène, ils ne la pilotent jamais. Ils ne créent ni objectif, ni horloge, ni bloc.
+- **Test avant d'ouvrir une piste « mystère »** : *est-ce que quelqu'un s'y oppose, et est-ce que je peux perdre quelque chose en essayant ?* Sinon c'est du décor, et le décor se sert en une ligne.
+- **Une révélation vaut par ce qu'elle change dans une scène qui mord**, jamais par la difficulté qu'on a eue à l'obtenir.
+
+### 31.1 · COUPE NETTE (décision joueur, 2026-08-13)
+
+**Éteints comme moteurs de jeu, définitivement** : l'alphabet mort · le compte des pouces sur la paroi · les cent trente-sept plaques · les sept signes du nom de la bête · le linteau de la carrière · le volume sous la maison mère.
+
+- Ils **restent au canon comme décor** : Seb porte le creux au pouce, il a le bloc brut, les neuf plaques, le relevé. On peut y faire allusion en une ligne d'ambiance.
+- **Ils ne produisent plus une seule scène, un seul bloc, une seule horloge.** Ne pas les rouvrir, même si le joueur passe à côté.
+- **Le nom de la bête arrivera par la fiction**, dans un moment qui mord — pas par un déchiffrement. *(Le §30 « Terre garde des réservoirs » ne vaut plus pour le volume ni pour la langue : il ne vaut que pour ce qui peut se combattre.)*
+
+### 31.2 · Fin de Terre — deux morceaux, en séquence (décision joueur)
+
+1. **Les cinq hommes en gris** : court, sale, exposé. Ils ne pèsent rien (10-14) et c'est le sujet — ce qui menace n'est pas leur force, c'est ce qu'ils font et ce qu'il y a derrière.
+2. **Puis une grosse pièce** : apothéose en force, à la hauteur de la carrière, qui rend coup pour coup, qui coûte du sang et qui rapporte gros — **et qui sert de sortie de palier**.
+
+**Deux morceaux nets. Pas de traîne entre les deux.**
