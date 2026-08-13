@@ -1,4 +1,4 @@
-# MJ-MONDE — LE CREUSET (bible du monde, côté MJ)
+﻿# MJ-MONDE — LE CREUSET (bible du monde, côté MJ)
 
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Chargé **par chapitre** selon la session (voir `MJ-INDEX.md`).
 > Règle de croissance : on étoffe **aux abords de là où le jeu va**, jamais du lointain spéculatif. Tout ce qui est joué en scène remonte ici.
@@ -152,4 +152,4 @@ Le nom de la région · la première ville · la première secte · la maison qu
 
 - **L'horizon s'en approche** : Seb est à **998**. **Il n'y a pas de plafond sur lui** (errata §29) — ce sont les instruments de Terre qui saturent à mille. Le **débordement** est **une** sortie possible, jamais automatique : **c'est lui qui choisit quand il monte**, et il peut légitimement viser d'arriver au Murim déjà au sommet du Murim (10⁴). Ne rien annoncer ; préparer un palier qui tienne debout devant quelqu'un d'énorme.
 - **Réservoirs restants sur Terre** (errata §30, à ne pas gâcher) : **la carrière du levant** — deux cents ans de pierres de mesure taillées là, puis l'abandon du jour au lendemain, et un fond d'ossements ; **le volume illisible sous la maison mère**, gros comme une église, où l'instinct du chiffre glisse ; **ce que font réellement les hommes en gris**. Accessibles, dangereux, jamais posés sur son chemin ni refusés.
-- Coffre §6 : *« Vael » ne survit nulle part sur Terre. Au Murim, les dieux sont encore de l'histoire.*
+- Coffre §6 : *« Aubran » ne survit nulle part sur Terre. Au Murim, les dieux sont encore de l'histoire.*

@@ -20,6 +20,15 @@ Le nom propre scellé au §2 du coffre a été prononcé en jeu par erreur, hors
 >
 > **Fait accompli v17 (sc. 148) :** le **vrai** mot de l'espèce, la seule dé-nomination des Sept Registres, a été livré en scène par Maud sous le troisième palier : **creuset**. Il est désormais **canon public** et prononçable. Le **nom brûlé du §2 (le dieu) reste interdit** et n'est pas concerné. Ont également été livrés en scène : **Victor** (le fondateur effacé, sc. 148) et **Maud** (la Doyenne, sc. 138).
 
+### 1.1 · NOM DÉFINITIF FIXÉ — **AUBRAN** *(2026-08-13, sc. 183, palier II)*
+
+Le nom du §2 du coffre est **fixé, livré en scène et canon** : **AUBRAN**.
+
+- Livré par une bouche, en un seul coup, contre quelque chose (errata §31) : **Firmin**, charretier à 340, l'a chanté à genoux sur la route rouge après que Seb a ouvert le Masque devant lui — dernier couplet d'une chanson de route que les grand-mères finissaient à couvert.
+- **La bête l'a prononcé en même temps que lui.** C'est son **cinquième mot** (« Part. » · « Après. » · « Creuset. » · « Suivant. » · « **Aubran.** »).
+- Le **nom brûlé** de 2026-08-10 reste **interdit à jamais** : il ne désigne rien, il n'est ni un synonyme, ni une variante, ni une ancienne forme d'Aubran. Ne jamais l'écrire, y compris dans le corpus MJ.
+- En jeu : « la bête » reste l'usage courant. **Aubran** se prononce quand quelqu'un a une raison de le prononcer — c'est un nom d'avant la mesure, et on ne le chante pas dehors.
+
 ## 2 · Cause et garde-fou
 
 Fuite survenue en mélangeant fiction et méta dans un même message. Règle ajoutée : **codex §1.8** — les deux registres ne se mélangent jamais, et aucun nom du coffre ne sort avant la scène qui le livre.
