@@ -16,7 +16,9 @@ Le nom propre scellé au §2 du coffre a été prononcé en jeu par erreur, hors
 
 > **Nuance v13 :** le joueur peut être amené à **déclarer publiquement une espèce** pour la bête (concours, sc. 72-73). Ce mot-là est **du joueur**, il devient canon public, et il **ne libère ni le nom scellé ni le nom brûlé** — qui restent interdits.
 >
-> **Fait accompli v14 (sc. 74) :** l'espèce déclarée est ***péché — gloutonnerie***, écrite de la main du vérificateur, opposable à vie. Le nom scellé du coffre §2 **n'a pas été prononcé** et reste entièrement disponible pour sa scène de révélation. Le mot du joueur ne le concerne pas et ne doit jamais être présenté comme s'en approchant.
+> **Fait accompli v14 (sc. 74) :** l'espèce déclarée est ***péché — gloutonnerie***, écrite de la main du vérificateur, opposable à vie. Le nom scellé du coffre §2 **n'a pas été prononcé** et reste entièrement disponible pour sa scène de révélation.
+>
+> **Fait accompli v17 (sc. 148) :** le **vrai** mot de l'espèce, la seule dé-nomination des Sept Registres, a été livré en scène par Maud sous le troisième palier : **creuset**. Il est désormais **canon public** et prononçable. Le **nom brûlé du §2 (le dieu) reste interdit** et n'est pas concerné. Ont également été livrés en scène : **Victor** (le fondateur effacé, sc. 148) et **Maud** (la Doyenne, sc. 138).
 
 ## 2 · Cause et garde-fou
 
@@ -61,7 +63,7 @@ Le prix d'une 36-65 se **joue dans la prose**, jamais en commentaire au-dessus d
 
 ## 9 · Fin de lieu sans apothéose (2026-08-11, audit de rythme)
 
-Le Fond (~45 scènes) s'est terminé sur une scène **défensive** (le contrôle public) : soulagement administratif, pas apothéose.
+Le Fond (~45 scènes) s'est terminé sur une scène **défensive** : soulagement administratif, pas apothéose.
 
 - **La fin forte d'un lieu est offensive.** Seb **prend**.
 - **L'ancre est la dernière grande scène du lieu.** Après elle : une scène de sortie, maximum.
@@ -70,162 +72,151 @@ Le Fond (~45 scènes) s'est terminé sur une scène **défensive** (le contrôle
 
 ## 10 · Pronostics sous les options — SUPPRIMÉS (2026-08-12, recadrage joueur)
 
-Le joueur a demandé en session : **« pas de pronostic stp »**. Cohérent avec la calibration du coffre (§11 : *évite les pronostics bavards*).
+Le joueur a demandé en session : **« pas de pronostic stp »**.
 
 - Un bloc = libellé très court + **étiquette seule** : `[Chiffré — avantage/désavantage, petit/moyen/gros]` · `[Libre]` · `[Noir + …]`.
 - Au maximum **une ligne de contexte factuel** sous le libellé — jamais une phrase qui évalue les chances ou souffle la bonne réponse.
 - **Exception maintenue** : la ligne **mort**, quand elle existe, s'écrit toujours.
-- Quand le joueur écrit sa propre option, le MJ annonce **l'étiquette qu'il applique en une clause**, puis jette. Ça reste autorisé : ce n'est pas un pronostic, c'est la mécanique.
+- Quand le joueur écrit sa propre option, le MJ annonce **l'étiquette qu'il applique en une clause**, puis jette.
 
 ## 11 · Le Corps rentré par la bande (2026-08-12) — FAUTE MJ
 
-Scène 67 : le joueur ouvre à 100 devant Anselme ; le MJ lui **casse une côte** comme prix de la bande 36-65. Or la règle chiffrée du Corps (plafond de tenue, surcharge, blessure par tranche de 25 points) avait été **parquée par le joueur le 2026-08-11**. Le MJ l'a réintroduite sous forme de conséquence narrative — c'est-à-dire par la bande. Le joueur a corrigé : *« on avait dit stop sur le corps »*. **Blessure annulée en session.**
+Scène 67 : le joueur ouvre à 100 devant Anselme ; le MJ lui **casse une côte** comme prix de la bande 36-65, réintroduisant une règle **parquée par le joueur**. **Blessure annulée en session.**
 
 **Règles fermes :**
 
-- **OUVRIR LE MASQUE NE BLESSE JAMAIS.** Ni douleur, ni fêlure, ni épuisement, ni saignement de nez, ni « ça se paie plus tard ». Jamais, à aucune hauteur, quelle que soit la bande.
-- L'ancienne règle de plafond/surcharge est **abandonnée définitivement**, pas parquée : ne pas la reproposer.
-- **Une règle parquée par le joueur ne revient pas déguisée en fiction.** Si une mécanique retirée semble nécessaire, on la lui repropose **en méta, explicitement**, et il tranche.
-- Le prix d'une 36-65 se prend ailleurs : **ressource, position, relation, information, temps** — jamais sur une mécanique que le joueur a retirée.
+- **OUVRIR LE MASQUE NE BLESSE JAMAIS.** Ni douleur, ni fêlure, ni épuisement, ni « ça se paie plus tard ». Jamais, à aucune hauteur, quelle que soit la bande.
+- L'ancienne règle de plafond/surcharge est **abandonnée définitivement**.
+- **Une règle parquée par le joueur ne revient pas déguisée en fiction.**
+- Le prix d'une 36-65 se prend ailleurs : **ressource, position, relation, information, temps**.
 
 ## 12 · Le Corps doit avoir des occasions (2026-08-12, demande joueur)
 
-Même session, corollaire positif : *« je veux une opportunité de monter mon corps »*. Le Corps avait un système et aucune porte d'entrée jouable.
-
-- Système tranché par le joueur et gravé au codex §1.3 : **travail** (~12 j/couche, coûte de l'argent) **ET épreuve** (une couche d'un coup, sur jet ; bande basse = blessure datée et pas de couche). **4 couches = un grade** (faible → dur → trempé → …).
-- **Conduite** : proposer **régulièrement** dans les blocs une option qui fait monter le Corps, au même titre que soin et repos. Le monde continue d'avancer pendant ce temps.
-- Le Corps est une **récompense atteignable**, pas seulement un malus qui pèse sur les pronostics.
+- Système gravé au codex §1.3 : **travail** ET **épreuve** (une couche d'un coup, sur jet ; bande basse = blessure datée et pas de couche). **4 couches = un grade.**
+- **Conduite** : proposer **régulièrement** dans les blocs une option qui fait monter le Corps.
+- Le Corps est une **récompense atteignable**, pas seulement un malus.
+- *(v16 : la voie du travail est morte pour Seb — porte 20. Épreuve seule.)*
 
 ## 13 · Option périmée par sa propre scène (2026-08-12)
 
-Scène 79 : le bloc proposait *« descendre **avant elle** et prendre les treize candidats »* alors que la prose de la scène venait de la faire descendre **et** parler. L'option présupposait un état du monde que la scène avait dépassé trois lignes plus haut.
+Scène 79 : une option présupposait un état du monde que la prose avait dépassé trois lignes plus haut.
 
-**Garde-fou** : **relire la fin de la prose avant d'écrire chaque option.** Un bloc se rédige contre l'état du monde à la dernière ligne, jamais contre celui qu'on avait en tête en commençant la scène. Si une option est périmée, elle se réécrit — on ne la rattrape pas dans la scène suivante.
+**Garde-fou** : **relire la fin de la prose avant d'écrire chaque option.** Si une option est périmée, elle se réécrit — on ne la rattrape pas dans la scène suivante.
 
 ## 14 · Avis demandé sur un choix de canon (2026-08-12, demande joueur)
 
-Le joueur a demandé explicitement un avis sur son espèce déclarée : *« je veux juste ton avis stp, c'est trop important pour passer à côté. »* Le refus de principe (« je ne note pas tes choix de canon ») ne tient pas quand il redemande.
-
-**Conduite :**
-
-- Quand le joueur **demande** un avis sur une décision de canon (`[Libre]`, nom, annonce, promesse), le MJ le donne : **un verdict clair**, puis ce que ça achète et ce que ça coûte. Pas un panorama, une recommandation.
-- L'argumentation se construit **uniquement sur des éléments déjà connus du joueur** (codex public, portes, scènes jouées).
-- **Le MJ ne dit jamais s'il a frôlé, touché ou évité un élément scellé** — ni par affirmation, ni par négation, ni par silence appuyé. Cette phrase se dit à voix haute et se tient : *« ça, c'est la cloison, et elle vaut aussi quand elle t'embête. »*
-- Ce n'est **pas** un pronostic (interdit, §10) : un pronostic évalue les chances d'un jet à venir ; ceci évalue une décision de canon déjà prise ou en cours. La distinction est nette, ne pas la brouiller.
-- Rappeler, quand c'est pertinent, que **le rembobinage est toujours disponible à sa demande** (§1.1) — et ce qu'il ferait sauter au passage.
+- Quand le joueur **demande** un avis sur une décision de canon, le MJ le donne : **un verdict clair**, puis ce que ça achète et ce que ça coûte.
+- L'argumentation se construit **uniquement sur des éléments déjà connus du joueur**.
+- **Le MJ ne dit jamais s'il a frôlé, touché ou évité un élément scellé.** *« Ça, c'est la cloison, et elle vaut aussi quand elle t'embête. »*
+- Ce n'est **pas** un pronostic (§10) : un pronostic évalue un jet à venir ; ceci évalue une décision de canon.
+- Rappeler, quand c'est pertinent, que **le rembobinage est toujours disponible** — et ce qu'il ferait sauter. *(Rappelé sc. 127 après quatre catastrophes en sept jets ; le joueur a choisi de jouer.)*
 
 ## 15 · La froideur uniforme après la porte 15 (2026-08-12, recadrage joueur) — FAUTE MJ
 
-Depuis la fermeture de la porte 15, le MJ avait réglé tout le monde sur le même thermostat : tarifs à la lettre, comptant exigé, spectateurs muets, désistements silencieux, « personne ne lui apporte d'eau ». Le joueur : *« depuis cette porte une froideur ultime est apparue, c'est dommage. »*
-
 **La porte 15 interdit les dons spontanés — rien d'autre.**
 
-- **Reste mort, définitivement** : le cadeau, la faveur gratuite, la remise, l'aide non demandée.
-- **Revit** : la température. Peur bruyante, fascination qui colle, haine parlée, marchandage passionné, appétit de spectacle, curiosité payante. **Vouloir quelque chose de Seb n'est pas un don** — c'est du commerce, de l'appétit, du théâtre. Le monde en veut, et ça se voit.
-- **Les liens acquis** (Anselme, Margot, Émile, Armand…) n'ont jamais été concernés : ils fonctionnent, avec leur caractère.
-- La froideur uniforme est une **opposition gonflée en négatif** — interdite au même titre que le champion providentiel.
+- **Reste mort** : le cadeau, la faveur gratuite, la remise, l'aide non demandée.
+- **Revit** : la température. Peur bruyante, fascination, haine parlée, marchandage passionné, appétit de spectacle, curiosité payante. **Vouloir quelque chose de Seb n'est pas un don.**
+- **Les liens acquis** n'ont jamais été concernés.
+- La froideur uniforme est une **opposition gonflée en négatif** — interdite.
 
 ## 16 · Les portes ouvertes pèsent au quotidien (2026-08-12, recadrage joueur)
 
-Le joueur : *« la porte 15 à elle seule vaut plus que certaines portes améliorées. »* Exact — le MJ jouait les portes fermées en lois permanentes et les ouvertes en commodités ponctuelles.
-
-**Rééquilibrage** : chaque porte ouverte se joue **à chaque scène où elle s'applique** —
-
-- **16** : jamais de file, nulle part ; traitement immédiat **et public** à chaque guichet.
-- **10** : crédit partout où l'on tient des livres. *(Le « comptant » exigé par les marchands de grain au matin de J20 était une sur-application de la 15 : les petits de rue sans livres, oui — les maisons à livres, crédit.)*
-- **14** : chaque greffier de porte de ville lit **ce que Seb décide** — franchir une porte est un choix tactique, plus un risque.
-- **13** : les dépositions restent inclassables ; la rumeur court plus vite que le dossier, et elle travaille pour lui.
-- **11** : la méthode est un produit vendable, valeur prouvée en public.
-- **6** : Margot voit tout le plateau **et le dit**.
-- **8** : toute pierre croisée est un instrument maîtrisé ; la marque du creux se repère au premier regard.
-- **2** : la légende précède Seb — les gens savent avant qu'il arrive.
+Chaque porte ouverte se joue **à chaque scène où elle s'applique** — 16 jamais de file · 10 crédit **et levées de fonds** (cran 2) · 14 chaque porte de ville est un choix · 13 ce qui est effacé le reconnaît **et lui répond** (crans 2-3) · 11 la méthode circule · 6 Margot le dit · 8 toute pierre est un instrument · 2 la province raconte à sa place **et il peut écrire l'histoire des autres** (crans 2-3) · 17 son nom produit **et rassemble** (cran 2) · 19 la bête est hors mesure · 22 les plumes le choisissent (cran 2) · 23 la bête est en règle.
 
 ## 17 · Margot fade (2026-08-12, recadrage joueur) — FAUTE MJ
 
-Le joueur : *« dans tous les textes où il y a Margot, à chaque fois c'est "elle ne dit rien" — le perso est fade à souhait. »* Le silence mystérieux répété était devenu du vide.
-
-- **Margot a une volonté propre visible** : elle parle, veut, demande, refuse, propose. Un agenda à elle, joué **par des actes**, dès sa prochaine apparition.
-- Vaut pour tout le casting : un PNJ récurrent qui ne fait qu'observer est un décor. « Casting féminin à volonté propre » **se joue**, il ne s'affiche pas dans une fiche.
+- **Margot a une volonté propre visible** : elle parle, veut, demande, refuse, propose, **et agit** *(v17 : impose le paraphe devant chaque détenteur, garde la liasse au lieu de la brûler, plafonne la procuration d'Anselme, facture sa place à une Sang-Clair)*.
+- Vaut pour tout le casting : un PNJ récurrent qui ne fait qu'observer est un décor.
 
 ## 18 · Ligne ⚑ Atout (2026-08-12, demande joueur)
 
-Quand un personnage démontre une valeur gardable, le MJ le signale **immédiatement, d'office, en une ligne**, dans la scène même :
-
-> ⚑ **Atout : la fille de seize ans** — seule du lot à négocier avant d'obéir.
-
-- **Factuel**, fondé uniquement sur ce que la scène vient de montrer. Jamais un pronostic de jet, jamais un fléchage vers une option.
-- **Sans check préalable** : le joueur ne demande rien, la ligne tombe seule.
-- Ça n'engage à rien — c'est de l'information ; le délestage reste entier.
+Quand un personnage démontre une valeur gardable, le MJ le signale **immédiatement, d'office, en une ligne**, dans la scène même. **Factuel**, jamais un pronostic, jamais un fléchage. **Sans check préalable.** **Varier les personnes signalées.**
 
 ## 19 · Délestage des actifs encombrants (2026-08-12, préférence joueur)
 
-Le joueur : *« je vois les quinze comme un boulet. Aucune option ne permet de m'en débarrasser, ni en mal ni en bien. »* Le MJ avait présumé l'attachement depuis la nuit de la chasse — **le MJ ne présume jamais, il propose.**
-
-- Le délestage est une **direction disponible en continu** : options récurrentes dans les blocs (pas à chaque bloc), dans les deux registres —
-  - **en mal** : tuer, dévorer, vendre, abandonner — `[Noir + …]`, conséquences réelles, humaines et durables, jamais adoucies ;
-  - **en bien** : installer dans une **fonction productive qui rapporte** (école sous son nom avec gérant, contrat de formation vendu, écurie — la méthode est un produit, porte 11).
-- Vaut pour **tout actif encombrant**, pas seulement les quinze.
-- Rappel : le joueur écrit ses propres options quand il veut — étiquetage en une clause, et on joue.
+- Le délestage est une **direction disponible en continu**, dans les deux registres : **en mal** (tuer, dévorer, vendre, abandonner) et **en bien** (installer dans une **fonction productive qui rapporte**).
+- Vaut pour **tout actif encombrant**. *(Appliqué sc. 87 : les quinze → une écurie. Sc. 131 : les vingt-quatre → une fosse qui tourne, tenant nommé, commise aux écritures.)*
+- Le joueur écrit ses propres options quand il veut.
 
 ## 20 · BLOC SERVI EN DEUX FOIS (2026-08-12) — FAUTE MJ GRAVE
 
-Scène 86 : le MJ sert un bloc, le joueur demande *« et le délestage ? »*, et le MJ **complète le bloc au message suivant**. Réponse du joueur : *« j'ai lu un demi-bloc, c'est INADMISSIBLE. Plus jamais tu fais ça. »*
+*« J'ai lu un demi-bloc, c'est INADMISSIBLE. Plus jamais tu fais ça. »*
 
 **Règle dure — un bloc est servi ENTIER, UNE SEULE FOIS.**
 
-- **Jamais de complément, jamais d'ajout après coup, jamais « le bloc s'ouvre ».** Un bloc envoyé est fermé : le joueur choisit dedans, ou il écrit la sienne.
-- **Passe de contrôle obligatoire AVANT envoi de tout bloc** — dans l'ordre :
-  1. **délestage** des actifs encombrants présent quand il a lieu d'être (§19) ;
-  2. option **Corps** quand le lieu la permet (§12) ;
-  3. ligne **mort** si elle existe (§10) ;
-  4. ligne **⚑ Atout** si la scène l'a méritée (§18) ;
-  5. **portes ouvertes** jouées (§16) ;
-  6. **aucune option périmée** par la dernière ligne de la prose (§13) ;
-  7. **étiquettes honnêtes**, aucun pronostic (§10), aucun dosage vers « la bonne option ».
-- Si un manque apparaît à la relecture : **le bloc se réécrit avant envoi**. Un bloc incomplet ne part pas.
-- **Seul cas de réémission** : le joueur demande un rejeu ou un rembobinage. On renvoie alors **le bloc entier réécrit**, jamais le delta.
-- Corollaire : un bloc peut dépasser 3-4 options s'il doit être complet. **Complet prime sur court.**
+- **Jamais de complément, jamais d'ajout après coup.**
+- **Passe de contrôle obligatoire AVANT envoi** : 1. délestage (§19) · 2. Corps si le lieu le porte (§12/§21) · 3. ligne mort (§10) · 4. ⚑ Atout (§18) · 5. **porte due si critique (§27)** · 6. portes ouvertes (§16) · 7. aucune option périmée (§13) · 8. étiquettes honnêtes.
+- Si un manque apparaît : **le bloc se réécrit avant envoi.**
+- **Seul cas de réémission** : rejeu ou rembobinage demandé — le bloc repart **entier**.
 
 ## 21 · L'option Corps ne se force pas (2026-08-12, note joueur)
 
-Le joueur, en passant : *« pas besoin de mettre de phrase de corps quand c'est ni le lieu ni le moment, ça fait forcé. »*
+- **§12 tient**, mais l'occasion **ne se pose que là où le lieu et le moment la portent** : un sable, une carrière, un chantier, une bête, une nuit à la barre, **une cour où un homme à 104 accepte de frapper pour casser**.
+- Test : *est-ce que la scène contient physiquement de quoi encaisser ?* Sinon, l'option saute.
+- **Une option qui n'est là que parce qu'une règle demande d'en mettre une se voit, et abîme le bloc.**
 
-L'errata §12 (« proposer régulièrement une occasion de monter le Corps ») avait dérivé en réflexe : une option d'épreuve collée dans des blocs où rien dans la scène ne la portait — sur une charrette, dans une salle d'archives, la veille d'une cérémonie.
+## 22 · Points MJ : commit direct sur `main`, à chaque changement (2026-08-12, directive joueur)
 
-- **§12 tient : le Corps doit rester une récompense atteignable**, et l'occasion revient régulièrement.
-- **Mais elle ne se pose que là où le lieu et le moment la portent** : un sable, une carrière, un chantier, une bête, une nuit à la barre. Jamais en garniture pour cocher une case.
-- Test avant de l'écrire : *est-ce que la scène qui vient de se jouer contient physiquement de quoi encaisser ?* Si non, l'option saute — et personne ne la regrette.
-- Vaut pour toute option de service (soin, repos, argent) : **une option qui n'est là que parce qu'une règle demande d'en mettre une se voit, et abîme le bloc.**
-
-## 22 · Points MJ : commit direct sur `main`, à chaque changement (2026-08-12, directive joueur — précisée en séance)
-
-Trois incidents en trois jours : trois `codex` avortés qui ont coûté vingt scènes (2026-08-11) · un local à **17 commits de retard** sur `origin/main` (2026-08-12 matin) · le merge de la PR #4 qui a repris **une tête périmée** — `main` s'est retrouvé sans la v16, rattrapé par un merge manuel (2026-08-12 soir). Directive : *« modification directe sur git à chaque changement, avec push sur main »* — précisée en séance : *« juste pour les points MJ cette règle. »*
-
-- **Périmètre : les points MJ uniquement** — audits, recadrages, ateliers de corpus, toute séquence méta où le MJ modifie des fichiers.
-- **Pendant un point MJ** : chaque modification de fichier (errata, corpus MJ, index, CLAUDE.md) est **commitée et poussée sur `main` immédiatement, dans le même tour** — sans branche, sans PR.
-- **Vérification après chaque push** : `git status -sb` doit rendre `## main...origin/main`, sans avance ni retard. Un push qui échoue se refait avant de clore le point MJ.
-- **Hors point MJ, rien ne change** : en session de jeu, les corrections notées en passant s'inscrivent au prochain `codex`, et le rituel `codex` (régénération + copie figée + index + tag annoté + push) reste la sauvegarde de la fiction.
-- En session cloud (push refusé) : commit local immédiat quand même, push dès que possible, et l'état signalé au joueur.
-- **Toute règle nouvelle issue d'un point MJ est reformulée par le MJ, questionnée, puis validée explicitement par le joueur AVANT d'être gravée et commitée** (directive du 2026-08-12).
+- **Périmètre : les points MJ uniquement.**
+- **Pendant un point MJ** : chaque modification de fichier est **commitée et poussée sur `main` immédiatement, dans le même tour** — sans branche, sans PR.
+- **Vérification après chaque push.** Un push qui échoue se refait avant de clore le point MJ.
+- **Hors point MJ, rien ne change** : en session, les corrections notées en passant s'inscrivent au prochain `codex`.
+- **Toute règle nouvelle issue d'un point MJ est reformulée, questionnée, puis validée explicitement par le joueur AVANT d'être gravée.**
 
 ## 23 · Portes : rares, évolutives, à crans (2026-08-12, point MJ — validé joueur)
 
-Constat joueur : *« Trop de portes ! »* — 23 en 116 scènes, dont 7 sur la seule v16. La table devenait un inventaire de trophées, plus une colonne vertébrale.
-
-- **Une porte est un acquis à crans, pas un événement.** Un critique qui touche le domaine d'une porte existante la fait **monter d'un cran** — c'est le défaut absolu. Exemple de crans : *le village veut t'aider → la ville veut t'aider → la province veut t'aider*.
+- **Une porte est un acquis à crans, pas un événement.** Un critique qui touche le domaine d'une porte existante la fait **monter d'un cran** — défaut absolu.
 - **Symétrie stricte** : une catastrophe **aggrave** une porte fermée existante avant d'en fermer une neuve.
-- **Créer ou fermer une porte neuve est un événement de campagne** — rare, mémorable.
-- **Budget par plan : ~3 ouvertes / ~2 fermées vivantes.** Chaque porte est un monument.
-- **Les 23 de Terre : gelées en l'état jusqu'à la fin du palier.** D'ici là, plus aucune porte neuve sauf événement exceptionnel — les critiques élargissent l'existant. **Consolidation à l'entrée du palier II**, comme rituel de passage : table de fusion en ~3-5 lignes évolutives, **soumise au joueur pour validation avant gravure**.
+- **Créer ou fermer une porte neuve est un événement de campagne.**
+- **Les 23 de Terre : gelées jusqu'à la fin du palier.** **Consolidation à l'entrée du palier II**, soumise au joueur.
+- *(v17 : neuf crans servis en trente-sept scènes — 1, 2 ×2, 10, 13 ×2, 15, 17, 18, 21, 22. Aucune porte neuve. La règle tient.)*
 
 ## 24 · Le monde sait, l'information rampe, le papier recule (2026-08-12, point MJ — validé joueur)
 
-Constat joueur : monde trop rigide face à un 943 certifié (*« si j'ai envie de défoncer tout le monde qui me connaît, je peux — ils devraient en avoir conscience »*) · information trop rapide (*« me dissimuler et exploser n'est plus possible »*) · *« tout consigner, tout figer, c'est trop froid et strict »*.
+**1. Terreur et appétit.** Partout où la puissance de Seb est sue, **tout plie** — et **ça grouille** : quémandeurs, courtisans, vendeurs, parasites. **Il n'existe plus d'opposition locale crédible** ; l'opposition réelle vient d'ailleurs — **ce qui ne procède pas** (le Verger, qui n'écrit rien et transmet de vive voix), ce qui est plus haut, ce qui est caché.
 
-**1. Terreur et appétit** (réponse joueur : les deux, ensemble). Partout où la puissance de Seb est sue, **tout plie** — gens, gardes, bureaux locaux : capitulations préventives, règles tordues par la peur, évitements — **et ça grouille** : quémandeurs, courtisans, vendeurs, parasites, fuyards. Le monde a peur ET veut sa part, bruyamment (prolonge §15). **Il n'existe plus d'opposition locale crédible** ; l'opposition réelle vient d'ailleurs — ce qui ne procède pas, ce qui est plus haut, ce qui est caché. Le MJ ne joue plus jamais la machine en mur imperturbable.
+**2. L'information en cercles concentriques.** Elle voyage au pas des rouliers, se déforme, rencontre l'incrédulité. **Se dissimuler puis exploser redevient possible hors du cercle.** *(Nuance v17 : une maison qui transmet oralement est plus rapide que le papier sur son propre réseau — porte 1 cran 2.)*
 
-**2. L'information en cercles concentriques.** Elle voyage au pas des rouliers, se déforme en route, rencontre l'incrédulité. La ville sait · la province apprend en semaines, version tordue · **le continent n'a rien de fiable**. Une copie officielle met des semaines et ne fait pas une conscience publique — un registre lointain, personne ne le lit. **Se dissimuler puis exploser redevient possible hors du cercle.** Recalibrages : la porte 2 (« la légende précède ») vaut dans le cercle où la légende est arrivée, sous la forme déformée qui y est arrivée ; *« on n'est pas obligés »* à deux cents lieues en cinq jours reste un fait exceptionnel le long d'une seule grand-route — pas la norme.
+**3. Le papier recule.** Les Sept Registres sont **un acteur**, plus un climat. Il existe des lieux sans guichet, des gens sans registre, des affaires sans écriture.
 
-**3. Le papier recule.** Les Sept Registres redeviennent **un acteur** du jeu, plus son climat. Il existe des lieux sans guichet, des gens sans registre, des affaires sans écriture. La procédure cesse d'être le décor par défaut des scènes.
+**Les §23 et §24 sont des lois de conception : elles s'appliquent à CHAQUE plan, dès sa conception.**
 
-**Les §23 et §24 sont des lois de conception : elles s'appliquent à la fin de Terre et à CHAQUE plan suivant, dès sa conception.**
+## 25 · Une action = un jet ; une séquence = un jet par action (2026-08-12, recadrage joueur — appliqué en séance)
+
+Le joueur enchaînait plusieurs actions dans un même tour (« 1 puis 2 puis 3 ») ; le MJ les fusionnait en **un seul jet à modificateurs cumulés**, en application littérale du codex §1.1. Recadrage : *« Quand je fais des séquences, tu jettes un dé par action si pas fusionnable. »*
+
+- **Défaut : un jet par action.** Chaque action de la séquence est résolue séparément, à son modificateur propre, et les bandes sont annoncées **ensemble, en tête de scène**, dans l'ordre des actions.
+- **Fusion uniquement si les actions sont réellement le même enjeu** : même moment, même lieu, même opposition. Dans ce cas, jet unique, modificateurs cumulés.
+- Une action **[Libre]** dans une séquence ne consomme pas de jet.
+- **Un jet tiré sur une action fusionnée à tort ne compte pas** : la fusion étant annulée, l'action qu'il résolvait n'existe plus. Le MJ le déclare à voix haute et retire par action. *(Fait en séance sc. 135.)*
+- Cumuler des modificateurs opposés (+5 et −5) pour aboutir à « neutre » sur trois enjeux distincts est une **perte d'information** — c'est exactement ce que cette règle supprime.
+
+## 26 · Format de bloc : moins d'options, logiques regroupées (2026-08-12, recadrage joueur)
+
+Deux recadrages dans la même séance : *« moins de choix, plus d'actions par choix »*, puis, après sur-correction : *« pas besoin de faire que des choix avec plein d'actions, juste regroupe les logiques. »*
+
+- **Viser 4 options.** Jusqu'à 5-6 seulement si le monde l'exige vraiment. Sept ou huit options, c'est un menu, pas un choix.
+- **Une option = une intention cohérente**, avec ce qu'elle implique naturellement (« le Fond d'abord, et complètement : Jeanne cette nuit, Armand au matin »). **Pas un empilement d'actions gonflé pour faire long.**
+- Regrouper ce qui appartient au même geste ; laisser séparé ce qui engage des directions différentes.
+- **§20 tient toujours** : complet prime sur court. Si le bloc doit dépasser 4 options pour être honnête, il les dépasse — mais on vérifie d'abord qu'on ne peut pas fusionner deux options qui vont au même endroit.
+
+## 27 · Porte due à chaque critique — servie dans la scène (2026-08-12) — FAUTE MJ, DEUX FOIS
+
+Scènes 135 et 149 : deux triomphes servis **sans le cran de porte dû**. Les deux fois, c'est **le joueur** qui a dû réclamer (*« et le cran ? »*, *« Et attend, ma porte ? »*). Le codex §1.1 est pourtant explicite.
+
+- **Tout critique — 01-10 comme 90-100 — produit un mouvement de porte, sans exception.** Triomphe : ouverture ou cran. Catastrophe : fermeture ou aggravation.
+- **Il s'écrit dans la scène même**, entre la prose et la fiche (§8), en clair, avec son revers.
+- **Un triomphe garanti par jetons compte comme un critique** : porte comprise, c'est écrit dans le prix.
+- Ajouté à la passe de contrôle du §20. Le MJ relit la bande avant d'écrire la fiche : *bande critique → la porte est-elle écrite ?*
+- Si la faute se produit malgré tout, le cran est servi **immédiatement, seul, avant tout autre contenu**, et la faute est nommée.
+
+## 28 · La logistique ne se joue pas — elle se règle en une ligne (2026-08-12, point MJ demandé par le joueur)
+
+Constat du joueur en séance : *« Point MJ, ça traîne là non ? »* Diagnostic accepté : entre les scènes 132 et 142, dix scènes jouées pour trois événements réels (le mille sous le Fond, le nom de la Doyenne, la bête debout) — le reste étant payer un greffier, coudre une jambe, installer une mère, déclarer au guichet, acheter une fosse, chasser des gamins. L'errata §24 (« le monde veut des choses, bruyamment ») avait dérivé en **un quémandeur par scène**, et chaque quémandeur produisait une option, et chaque option un jet.
+
+- **Payer, acheter, installer, déclarer, embaucher, soigner, organiser : une ligne de fiche.** Pas une scène, pas un jet — sauf enjeu réel (quelqu'un peut refuser, quelque chose peut casser) ou demande explicite du joueur.
+- **Les scènes jouées sont celles où quelque chose peut casser.** Le reste est du delta.
+- **L'ellipse est l'outil normal**, pas une exception : bloc de puces daté, ce que Seb obtient, ce que le monde a fait pendant ce temps, puis reprise **in medias res** sur la scène qui compte.
+- **Quand une mèche chaude est posée** (une convocation de trois cents ans, une maison mère à quatre jours), **on y va.** Une mèche allumée qui attend dix scènes s'éteint.
+- Test avant d'ouvrir une scène : *qu'est-ce qui peut mal tourner ici ?* Si la réponse est « rien, c'est une formalité », c'est une ligne de fiche.
