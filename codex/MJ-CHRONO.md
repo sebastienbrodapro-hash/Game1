@@ -1,52 +1,69 @@
 # MJ-CHRONO — LE CREUSET (calendrier, mèches, hors champ)
 
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Lu en entier à chaque session ; mis à jour à chaque `codex` et à chaque ellipse.
-> **À jour au 2026-08-13 — v19, scène 184, PALIER II, M1 au crépuscule.**
+> **À jour au 2026-08-13 — v20, scène 195, PALIER II, M1 la nuit.**
 
 ## 0 · PALIER I — LA TERRE : J1 → J267, SCÈNES 1-181 — **CLOS**
 
-Le détail scène par scène est dans les copies figées `codex-006` à `codex-016`. Résumé de trajectoire, pour mémoire :
+Le détail scène par scène est dans les copies figées `codex-006` à `codex-016`. Résumé de trajectoire :
 
 | Tranche | Ce qui s'est passé | Chiffre |
 |---|---|---|
 | **J1-J8** — le Fond | La pesée, le 1, la seconde feuille · Margot · le contrat au dixième, Anselme répondant · l'escalier, la salle noyée, la salle sèche · la main gauche perdue · le contrôle public tenu à 14 | 1 → 22 |
-| **J9-J20** — Clairefont | Les fosses sous licence · le tenant du sable devant deux cents témoins · la salle d'armes · la bête prend forme · la méthode donnée · **premier concours** : *péché — gloutonnerie*, la pierre rend 100, le Fer à 44 tué, PILIER annoncé, le Verger refuse d'acheter · la chasse · la liquidation | 22 → 206 |
-| **J20-J39** — la route, Pierregarde | Le délestage : l'écurie de l'ouest · les fosses de province, *« on n'est pas obligés »* · **la pierre qui n'écrit pas**, *hors relevé* en sept copies, **« vous êtes le deuxième »** · la rue sans nom, le four, l'exemplaire unique · Margot teneuse de livres | 206 → 373 |
-| **J51-J110** — le plateau, le second concours | **La chose de la tranchée (412)** — quatre côtes, la jambe ouverte, la bête double · la voie du travail meurt · Margot chiffrée par le Verger · **l'opposition consentie accordée aux dix**, neuf retraits, le dixième dévoré · **la pierre rend 900**, onze vieux font le geste · l'espèce inscrite | 373 → 943 |
-| **J110-J129** — la dîme, la maison mère | Le dixième devenu titre coté puis racheté en une nuit · **LA DÎME** (990 → 891) · le second dixième vendu 1 452 fers · la salle sèche : **1 000 pour la bête, 908 pour Seb** · **Maud** · **sous le troisième palier : le crâne, VICTOR, CREUSET**, la bête marche et parle · Maud vidée, la cour à l'aube | 943 → 970 |
-| **J137-J196** — l'Ordre, les gris | **L'ORDRE DU CREUSET fondé** devant 470 personnes · les livres repris au gué · la carrière : 410, 655, **6 812 lu**, le bras gauche écrasé · **ROCH** rendu, onze mille fers encaissés en son nom · **les cinq hommes en gris** | 970 → 4 075 |
-| **J196-J267** — la fin de Terre | La dé-nomination **échoue en public** : *« on ne raye pas une langue vivante »* · la pierre du Fond cassée à quatre jours près · **il ne peut pas cesser de compter** · Jeanne, cent pas · **6 812 abattu devant huit mille témoins**, une heure quarante, neuvième couche · **DÉBORDEMENT** | 4 075 → **10 206** |
+| **J9-J20** — Clairefont | Les fosses sous licence · le tenant du sable devant deux cents témoins · la bête prend forme · **premier concours** : *péché — gloutonnerie*, le Fer à 44 tué, PILIER annoncé, le Verger refuse d'acheter | 22 → 206 |
+| **J20-J39** — Pierregarde | Le délestage · **la pierre qui n'écrit pas**, *hors relevé* en sept copies, **« vous êtes le deuxième »** · Margot teneuse de livres | 206 → 373 |
+| **J51-J110** — le plateau, le second concours | **La chose de la tranchée (412)** — quatre côtes, la jambe ouverte · la voie du travail meurt · **l'opposition consentie**, neuf retraits, le dixième dévoré · **la pierre rend 900**, onze vieux font le geste | 373 → 943 |
+| **J110-J129** — la dîme, la maison mère | **LA DÎME** (990 → 891) · la salle sèche : 1 000 pour la bête, 908 pour Seb · **Maud** · sous le troisième palier : le crâne, **VICTOR**, **CREUSET** ; la bête marche et parle · Maud vidée | 943 → 970 |
+| **J137-J196** — l'Ordre, les gris | **L'ORDRE DU CREUSET fondé** devant 470 personnes · la carrière : 410, 655, **6 812 lu**, le bras gauche écrasé · **ROCH** rendu · **les cinq hommes en gris** | 970 → 4 075 |
+| **J196-J267** — la fin de Terre | La dé-nomination **échoue en public** · la pierre du Fond cassée · Jeanne, cent pas · **6 812 abattu devant huit mille témoins**, neuvième couche · **DÉBORDEMENT** | 4 075 → **10 206** |
 
-**Sortie de palier** : le débordement, sur la plaine de l'est de Pierregarde, au soir du **J267**. Huit mille témoins l'ont vu s'éteindre comme une chandelle, un par un ; le maître du répertoire l'a vu quatre secondes de plus.
+---
 
-## 1 · CALENDRIER DU PALIER II — LE MURIM
+## 1 · PALIER II — LE MURIM : M1
 
-| Jour | Événements |
+**Une seule journée. Quatorze scènes (182-195). Un lieu.**
+
+| Moment | Événements |
 |---|---|
-| **M1 · matin** | **Arrivée** sur une route de terre rouge entre deux versants de bambous. **Firmin**, charretier à **340**, passe en chantant une histoire de choses qui mangeaient ce qu'on leur donnait — *il y a des noms dedans*. **Sc. 182** *(réduite)* : rattrapé, il refuse la fin — *« des noms comme ça, ça se chante pas dehors »* — et annonce qu'il devra **signaler au relais** : le val est à une maison, il y a une prime. La version entière se chante **en ville**, à couvert : **deux jours à pied, trois par la charrette** |
-| **M1 · matin** | **Sc. 183 — TRIOMPHE. LE NOM.** Seb ouvre le Masque en grand : les bœufs plient les genoux, le val se tait sur cent pas. Firmin s'assoit dans la poussière, **fait le geste des jureurs** et chante le dernier couplet à genoux. **« Celui-là s'appelle AUBRAN »** — et **la bête le dit en même temps que lui** (cinquième mot). Il donne en plus le mot de ce monde pour l'homme qui marche avec une de ces choses : **un jureur** — *et aucun jureur n'a jamais fini par mourir*. **Il ne signalera pas.** → **PORTE OUVERTE : « CE QUI SE SOUVIENT »** |
-| **M1 · jour** | **Sc. 184** *(36-65)* — **68 fers vidés** contre sandales de paille, chapeau conique, veste de toile brune, gourde, vivres 4 jours et **un hachoir à bambou**. **Prix : bourse à zéro, et l'outil sortait d'une commande de douze qui sera comptée ce soir.** **Masque réglé à 1 000.** Route descendante toute la journée : le val appartient à **LA BRAISE HAUTE** (robe grise, ceinture rouge — la route, les deux relais, le péage du pont bas, **un enfant par ferme tous les trois ans**) |
-| **M1 · crépuscule** | **Le relais.** Mur de pisé rouge, cour carrée, **six disciples à 400-620** qui répètent un mouvement en silence, et sous l'auvent **le compteur à 880**, planchette et pinceau. Firmin a onze hachoirs. Les six ont vu la bête |
+| **M1 · matin** | **Arrivée** sur une route de terre rouge entre deux versants de bambous. **Firmin**, charretier à **340**, chante une histoire de choses qui mangeaient ce qu'on leur donnait. **Sc. 182** : il refuse la fin — *« des noms comme ça, ça se chante pas dehors »* — et annonce qu'il signalera au relais |
+| **M1 · matin** | **Sc. 183 — TRIOMPHE. LE NOM.** Masque ouvert en grand : les bœufs plient, le val se tait sur cent pas. Firmin s'assoit, **fait le geste des jureurs**, chante le dernier couplet à genoux. **« Celui-là s'appelle AUBRAN »** — et **la bête le dit en même temps que lui**. Il donne aussi le mot **jureur**, et *aucun jureur n'a jamais fini par mourir*. **Il ne signale pas.** → **PORTE : CE QUI SE SOUVIENT** |
+| **M1 · jour** | **Sc. 184** — 68 fers vidés contre sandales, chapeau, veste, gourde, vivres et **un hachoir**, pris sur une commande de douze. **Bourse à zéro. Masque réglé à 1 000.** Le val appartient à **LA BRAISE HAUTE** |
+| **M1 · crépuscule** | **Sc. 185** *(36-65)* — **Entré sans rien dire.** Firmin ment pour la première fois de sa vie (*« j'en ai cassé un au gué »*), **Régis** écrit deux lignes, prend sa réglette de passage. **Le pont bas se ferme sur Firmin** |
+| **M1 · crépuscule** | **Sc. 186 — TRIOMPHE.** Il demande aux six de finir sur lui le mouvement qu'ils n'achèvent jamais. Le 620 le fait. Il tient onze secondes debout, à mille, avec neuf couches et rien d'autre. **DIXIÈME COUCHE** · **PORTE : CE QUI ME FRAPPE, JE LE GARDE** · **`LA MAIN QUI RESTE` cran 1** |
+| **M1 · nuit** | **Sc. 187** *(66-89)* — Le 400 court chercher le maître. **YVON, 2 240**, descend seul, sans escorte, **sans une seule marque sur le corps**. Lit les trois lignes avant de regarder l'homme. *« Montre. »* Puis : *« Je peux te le finir, ou je peux te le reprendre. »* |
+| **M1 · nuit** | **Sc. 188** *(66-89)* — Il tend la poitrine **en montant le Masque à 5 000**. La main d'Yvon tremble à trois mille et ne se retire pas. **Cran 2 : ça choisit où ça se pose.** De la chaleur entre pour la première fois dans l'avant-bras gauche mort |
+| **M1 · nuit** | **Sc. 189** *(nat 01-10 / total 11-35)* — *« Dis ton prix. »* Yvon commence à l'énoncer (trois jours à la maison du val, un mot pour la ville) — et **la dîme prélève au milieu de sa phrase : 2 240 → 2 016**. Il ne sait pas ce qu'il a perdu. Il retire son offre : *« hors du val au lever, et si on te demande, tu l'as volée »*. → **DÎME cran 2 : LE COMPTE S'OUVRE SUR LE PLUS PROCHE**, +2 jetons |
+| **M1 · nuit** | **Sc. 190** *(66-89)* — **LE RELEVÉ.** À voix haute : les six dans l'ordre où ils sont debout, **Régis 880** devant des garçons qui le prenaient pour un scribe, Firmin 340, puis Yvon de dos : *« 2 240 en entrant. 2 016 maintenant. »* **Personne ici n'avait jamais entendu son propre chiffre.** Deux disciples découvrent qu'on les classe à l'envers |
+| **M1 · nuit** | **Sc. 191** *(36-65)* — **Tout relâché : 10 206** dans une cour fermée. La lampe se couche, la poussière reste en l'air, cinq à terre. **Yvon reste debout, seul.** *« Et maintenant tu m'imagines à combien ? — Je n'ai pas de mot. Ici on ne dit pas les gens en chiffres. On les dit sur les Listes. »* Il donne la règle : **un compte ouvert en permanence, sinon ce sont ceux qui donnent qui paient.** **PRIX : les bœufs à travers le mur, la charrette versée, la jambe gauche de Firmin cassée sous la roue** |
+| **M1 · nuit** | **Sc. 192** *(66-89 · 66-89)* — Il lève la roue, pose **le hachoir** sur la planchette : *« Douze. »* Compte juste → réglette rendue, jambe attelée, course rendue à la lune par Yvon. Puis **Régis accepte de compter pour lui**, en connaissance de cause (deux conditions) |
+| **M1 · nuit** | **Sc. 193** *(total 90-100)* — **AUBRAN INSCRIT.** Firmin le supplie : *« chanté ça s'envole, écrit ça reste, et ça reste avec une adresse dessous. »* Personne ne sait l'orthographier : **la première forme écrite du nom depuis trois siècles est dictée lettre par lettre.** La plaque chauffe, les quinze motifs s'allument, la bête le redit. Yvon donne **VERMEIL**, la maison des Listes, **la vieille derrière la halle aux grains**, et le jeton du pont bas |
+| **M1 · nuit** | **Sc. 194** *(90-100 · 66-89 · nat 01-10/total 11-35)* — **LE CREUSET EST FONDÉ.** Yvon le reçoit à voix haute devant ses six. **Blaise** (le 540) sort du rang ; Yvon le laisse partir et interdit qu'on revienne prendre les autres. Firmin s'inscrit de lui-même. **Régis tient les livres et refuse le nom** — et ouvre une **colonne vide**. → **DÎME cran 3 : LE LIVRE**, +2 jetons |
+| **M1 · nuit** | **Sc. 195** *(total 90-100)* — Il **finit la Main sur Blaise** sans fermer les yeux, quatre doigts sous le sternum, à gauche : il **voit** où c'est logé. **540 → 631.** Le 620 fait un pas ; Yvon le retient par le bras. **`LA MAIN QUI RESTE` — cran 2, transmissible** |
 
-**→ POINT MORT : M1 au crépuscule, portail du relais. Bloc de quatre options au codex §7.**
+**→ POINT MORT : M1, la nuit, cour du relais. Bloc de quatre options au codex §7.**
+
+---
 
 ## 2 · MÈCHES ACTIVES
 
-- **LE COMPTE DE CE SOIR SERA COURT D'UN OUTIL.** Un homme honnête à 340 devra s'expliquer devant un homme à 880 qui compte tout.
-- **LA VILLE, DEUX JOURS.** La chanson entière s'y chante à couvert, chez « les gens qui gardent les vieilles choses ». *(Le nom est livré ; ce qui reste là-bas, c'est le reste du couplet — et le décor, pas une énigme, §31.)*
-- **« UN JUREUR N'A JAMAIS FINI PAR MOURIR. »** Personne ici ne sait ce que ça veut dire. **Vrai** (coffre §3). Ne pas l'expliquer.
-- **LA BÊTE MONTE — errata §34.** Cran **1/6**. Prochain cran : les mains. **Déclencheur : une grosse prise ou une réclusion.** Son registre animal se décidera à sa plus grosse prise d'ici — **ce que Seb lui donne décide de ce qu'elle devient**.
-- **Il n'a rien.** Pas de nom, pas d'art, pas de secte, **plus un sou**. Il a des chaussures et un hachoir.
-- **La dîme prélève toujours** — et **ses comptes ouverts sont vides**. Ce qui se passe quand il refuse et qu'il n'y a personne sur qui déplacer la note **n'a jamais été testé.**
-- **Les Listes** : la seule chose écrite qui compte ici, et son nom n'y est pas.
-- **Le Corps : 9 couches**, grade suivant à 12, épreuve seule, et *rien ne guérit tout à fait*.
+- **LA COLONNE VIDE.** La dîme s'inscrit désormais dans les comptes du Creuset, chiffrée et datée, dans un livre que Seb ne peut pas ouvrir, tenu par un homme qui a refusé son nom. **La première ligne n'est pas encore écrite.** Ce qui est écrit se lit.
+- **RÉGIS EST LA NOTE.** Il l'a accepté en connaissance de cause. Il paiera pour d'autres, régulièrement, sans le voir venir. **Ne jamais annoncer le montant.**
+- **YVON.** Il ignore ce qu'on lui a pris et il connaît le chiffre exact : 224. Il a reçu le Creuset à voix haute pour écrire sa version avant les autres. **Trois conditions posées, dont une seule vraiment ferme : ne pas revenir prendre ses hommes.**
+- **LE 620.** Neuf ans de maison, premier de sa cour jusqu'à cette nuit, retenu par le bras devant tout le monde. **Fissure ouverte dans la Braise Haute.**
+- **VERMEIL, deux jours.** Les Listes — la seule chose écrite qui compte ici, et son nom n'y est pas. **La vieille derrière la halle aux grains achète les vieilles chansons au vers** : *« ne va pas la voir en criant. »* Porte II, revers : ce qui reconnaît **désigne**.
+- **LE NOM A UNE FORME ÉCRITE.** Fixée à la dictée, dans un livre privé, par un homme qui ignore ce qu'il a écrit.
+- **LA BÊTE EST À 1/6.** Prochain cran : **les mains**. Déclencheur : grosse prise ou réclusion. **Son registre animal se décidera à sa plus grosse prise d'ici.**
+- **LE CORPS : 10 couches**, grade suivant à 12. Épreuve seule — et **ouvrir annule l'épreuve**.
+- **Il n'a pas un fer.** Une maison de trois, deux blessés, zéro recette.
+
+---
 
 ## 3 · HORS CHAMP — CE QUI CONTINUE SUR TERRE
 
-*(Pour mémoire et pour le poids émotionnel. Ne pas y ramener la campagne sans demande du joueur.)*
+*(Mémoire et poids émotionnel. Ne pas y ramener la campagne sans demande du joueur.)*
 
-- **Margot** tient les livres d'un homme qui n'existe plus dans aucun registre, et elle a promis de dire à Jeanne qu'il est monté.
-- **Jeanne** attend, à Clairefont, au-dessus d'une remise. *« Reviens avant qu'elle soit trop grande pour passer la porte. »* Elle l'était déjà.
+- **Margot** tient les livres d'un homme qui n'existe plus dans aucun registre, et a promis de dire à Jeanne qu'il est monté.
+- **Jeanne** attend à Clairefont. *« Reviens avant qu'elle soit trop grande pour passer la porte. »* Elle l'était déjà.
 - **Aude** tient la vallée haute et 470 personnes sous un nom que les Sept Registres ont tué et n'ont pas pu tuer deux fois.
-- **Le maître du répertoire** a donné la dernière instruction de sa carrière : *« Écrivez d'où viennent les pierres. »*
-- **Le Verger Blanc du nord** existe, avec des papiers valables · les hommes en gris ont transmis plus haut, et **ce qu'il y a plus haut ne tient pas de registre**.
+- **Le maître du répertoire** : *« Écrivez d'où viennent les pierres. »*
+- Les hommes en gris ont transmis plus haut, et **ce qu'il y a plus haut ne tient pas de registre**.
