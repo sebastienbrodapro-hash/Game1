@@ -100,7 +100,55 @@
 - Les petites bêtes des fissures se comptent entre 6 et 40. **Une bête rend nettement moins que son chiffre.** Leurs carcasses valent peu (peau nulle, viande immangeable) — les compagnies de chasse achètent quand même les os et les dents.
 - **Une compagnie de chasse y monte tous les ans** et s'y ruine. Douze hommes de 20 à 60, un capitaine à 60.
 
-## 9 · PALIER II — ESQUISSES *(ne remplir que quand l'horizon s'en approche)*
+## 9 · PALIER II — LE MURIM *(palier courant depuis le J1 du Murim, 2026-08-13)*
+
+**Registre : webtoon de Murim.** Sectes, arts nommés, réclusions, tournois, clans, armes, pilules, formations. Rythme rapide, paliers lisibles, transformations spectaculaires. *(Errata §33.)*
+
+### 9.1 · Ce qui remplace la mesure
+
+**Ici, on ne pèse pas : on nomme.** Il n'existe ni pierre publique, ni greffier de porte, ni registre d'espèces. Situer quelqu'un se fait à trois choses :
+
+1. **L'art qu'il pratique** — un art nommé place son porteur mieux qu'un chiffre. On reconnaît une forme à dix pas.
+2. **La secte dont il relève** — couleurs, insigne, rang interne.
+3. **Les Listes** — classements publics tenus par une maison neutre, affichés et discutés partout : les cent du continent, les listes de tournoi, les listes de primes. **C'est la seule chose écrite qui compte ici**, et c'est de la réputation, pas de la mesure.
+
+> **Conséquence pour Seb** : *HORS MESURE* devient un avantage d'un autre genre — personne ne peut le lire, mais **son instinct du chiffre lit tout le monde exactement** dans un monde qui ne juge qu'à l'estime. Avantage d'information écrasant. En revanche il n'a **ni art, ni secte, ni nom sur aucune Liste** : socialement il est zéro.
+
+### 9.2 · Échelle de puissance observée
+
+| Qui | Amplitude |
+|---|---|
+| Gens ordinaires, paysans, charretiers | **100 – 350** |
+| Disciples de secte, gardes, soldats | **350 – 800** |
+| Pratiquants confirmés, chefs d'escorte | **800 – 2 000** |
+| Maîtres, anciens, chefs de clan | **2 000 – 4 000** |
+| Sommets connus, noms des Listes | **4 000 – 8 000** |
+| Légendes vivantes, très rares | **8 000 – 10 000** |
+
+**Seb : 10 206.** Au-dessus de tout ce que ce palier contient. *(Errata §29 : aucun plafond. Il peut monter encore, et le palier III commence à 10³.)*
+
+### 9.3 · Ce qui peut encore le blesser
+
+**Ne jamais gonfler l'opposition** — sa puissance est ce qu'elle est. Ce qui résiste ici :
+
+- **Les arts** qu'il ne connaît pas : une technique bien faite fait plus qu'un gros chiffre mal employé. Il n'en a aucun.
+- **Les poisons et les pilules** — canon du genre, et il n'a aucune culture de ça.
+- **Les formations** : des dispositifs collectifs, gravés ou tenus par plusieurs, qui ne se battent pas mais qui contiennent.
+- **Le nombre**, quand il est organisé.
+- **La position sociale** : il est un inconnu pieds nus. Aucune secte, aucun nom, aucune Liste, et une monnaie qui ne vaut rien.
+- **Le corps** : 9 couches, et *rien ne guérit tout à fait* — les cicatrices de Terre sont définitives.
+
+### 9.4 · Les dieux, ici
+
+**Ce que Terre a oublié, le Murim le chante encore.** Les dieux d'avant la mesure sont de l'histoire ancienne, pas un secret d'État : on les met dans les chansons de charretier, dans les contes, dans les noms de cols et de temples ruinés. *(Coffre §6 : c'est ici que le nom de la bête existe encore. Il se refixe au moment où la fiction le livre — errata §1.)*
+
+**Vecteur déjà posé** : le charretier de la première scène chante une histoire de choses qui mangeaient ce qu'on leur donnait, du temps où l'on jurait au lieu d'écrire. **Il y a des noms dedans.**
+
+### 9.5 · À fixer en scène
+
+Le nom de la région · la première ville · la première secte · la maison qui tient les Listes · le premier art. **Un seul nom nouveau par scène**, prénoms occidentaux (règle joueur inchangée).
+
+## 10 · PALIER III — ESQUISSES *(ne remplir que quand l'horizon s'en approche)*
 
 - **L'horizon s'en approche** : Seb est à **998**. **Il n'y a pas de plafond sur lui** (errata §29) — ce sont les instruments de Terre qui saturent à mille. Le **débordement** est **une** sortie possible, jamais automatique : **c'est lui qui choisit quand il monte**, et il peut légitimement viser d'arriver au Murim déjà au sommet du Murim (10⁴). Ne rien annoncer ; préparer un palier qui tienne debout devant quelqu'un d'énorme.
 - **Réservoirs restants sur Terre** (errata §30, à ne pas gâcher) : **la carrière du levant** — deux cents ans de pierres de mesure taillées là, puis l'abandon du jour au lendemain, et un fond d'ossements ; **le volume illisible sous la maison mère**, gros comme une église, où l'instinct du chiffre glisse ; **ce que font réellement les hommes en gris**. Accessibles, dangereux, jamais posés sur son chemin ni refusés.

@@ -3,7 +3,27 @@
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** §0 lu à **chaque** session ; fiches chargées au besoin (voir `MJ-INDEX.md`).
 > **À jour au 2026-08-12 (v16, scène 116).**
 
-## 0 · REGISTRE DES NOMS *(vérifier AVANT de nommer quoi que ce soit en scène)*
+## 0.0 · PALIER II — LE MURIM : REGISTRE OUVERT *(2026-08-13)*
+
+**Aucun nom n'est encore fixé sur ce palier.** Tout est à nommer en scène.
+
+| À nommer | État |
+|---|---|
+| **Le charretier** | **340**, deux bœufs, une chanson où il y a des noms. **Sans nom.** Premier PNJ du palier |
+| La région · la route · la première ville · la première secte · la maison qui tient **les Listes** · le premier **art** · la première **arme** | tout à fixer en scène |
+
+**Règles inchangées** : **un seul nom nouveau par scène**, et seulement s'il agit · **prénoms occidentaux**, courts, sans doublon avec la liste de Terre ci-dessous · les visages forts peuvent rester délibérément sans nom — les nommer est un moment.
+
+**Noms de Terre à ne jamais réutiliser** : Seb · Jeanne · Margot · Berthe · Armand · Anselme · Gilles · Léon · Odile · Marcel · Émile · Aude · Maud · Victor · Roch.
+**Dé-nommés** : « Fabien », « le grand maigre ».
+**Noms scellés (coffre)** : la bête → §2, **à livrer sur ce palier** · l'autre du sang → §2.
+**Nom brûlé** : errata §1 — interdit à jamais, et **le nom définitif se fixe au moment où la fiction le livre**.
+
+---
+
+## 0 · REGISTRE DES NOMS — PALIER I, LA TERRE *(clos, sc. 181 · mémoire et leviers)*
+
+> Ces gens vivent toujours. Seb ne les reverra pas sans une raison forte — c'est du poids émotionnel, pas un lieu de jeu (ARBRE §2).
 
 **Noms publics (canonisés en jeu)** :
 
