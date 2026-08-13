@@ -102,5 +102,6 @@
 
 ## 9 · PALIER II — ESQUISSES *(ne remplir que quand l'horizon s'en approche)*
 
-- **L'horizon s'en approche** : Seb est à 943 sur un palier qui plafonne à 1 000. Le **débordement** est cité au codex public §2.2 comme sortie de palier. Ne rien annoncer ; préparer.
+- **L'horizon s'en approche** : Seb est à **998**. **Il n'y a pas de plafond sur lui** (errata §29) — ce sont les instruments de Terre qui saturent à mille. Le **débordement** est **une** sortie possible, jamais automatique : **c'est lui qui choisit quand il monte**, et il peut légitimement viser d'arriver au Murim déjà au sommet du Murim (10⁴). Ne rien annoncer ; préparer un palier qui tienne debout devant quelqu'un d'énorme.
+- **Réservoirs restants sur Terre** (errata §30, à ne pas gâcher) : **la carrière du levant** — deux cents ans de pierres de mesure taillées là, puis l'abandon du jour au lendemain, et un fond d'ossements ; **le volume illisible sous la maison mère**, gros comme une église, où l'instinct du chiffre glisse ; **ce que font réellement les hommes en gris**. Accessibles, dangereux, jamais posés sur son chemin ni refusés.
 - Coffre §6 : *« Vael » ne survit nulle part sur Terre. Au Murim, les dieux sont encore de l'histoire.*

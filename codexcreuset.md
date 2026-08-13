@@ -227,7 +227,10 @@ Onze vieux l'ont fait au second concours. **Plus de trente dans les terrasses de
 | **X** | L'Innombrable | — | plus de créancier au-dessus |
 
 **Chevauchement** : le sommet d'un palier est banal au suivant. **Sur-accumuler en bas avant de monter = stratégie assumée du joueur, le MJ ne la contrarie pas.**
-**Sorties de palier** : les Redescendus, les Effacés, les Visions des mourants, le **débordement**.
+
+**AUCUN PLAFOND SUR LE PORTEUR** *(règle validée 2026-08-13)* : une amplitude décrit **ce qu'un palier contient**, jamais ce qu'un homme a le droit de peser. Le chiffre de Seb monte sans limite sur Terre comme ailleurs. **Ce qui sature à mille, ce sont les instruments de ce palier** — au-delà, une pierre de Terre n'a plus de chiffre à donner et affiche le haut de son échelle. *(C'est ce que la pierre du creux a fait pour la bête : elle n'a pas dit « exactement mille », elle a dit « hors échelle ».)* **Être au-dessus du palier, ici, c'est devenir non mesurable — pas être expulsé.**
+
+**Sorties de palier** : les Redescendus, les Effacés, les Visions des mourants, le **débordement**. **Aucune n'est automatique** : le débordement est une porte, pas une trappe. **Le joueur choisit quand il monte.**
 
 ### 2.3 La Terre — grades
 
@@ -246,6 +249,7 @@ Onze vieux l'ont fait au second concours. **Plus de trente dans les terrasses de
 - **Tout le monde a un familier**, né à la première pesée (15 ans). Son **espèce** annonce le potentiel.
 - **LA MESURE.** Le familier donne une valeur indicative. **Seules les pierres certifient l'exact.**
 - **LE CHIFFRE** monte avec le travail. Ce qui est **impossible** : qu'il bouge à vue, qu'il **redescende**.
+- **LES INSTRUMENTS DE TERRE SATURENT À MILLE.** C'est le haut de leur échelle, pas une limite du monde. Un porteur au-dessus de mille ne déborde pas : **il cesse simplement d'être chiffrable ici**, et aucune pierre du palier ne pourra plus jamais dire de combien.
 - **IL EXISTE DES INSTRUMENTS QUI LISENT À NU** *(canon sc. 136)*. La **pierre gravée du creux** de la salle sèche a écrit **908** sur un Masque réglé à 900, sans hésiter — et **1 000** sur une bête que toutes les autres pierres refusent de mesurer. Elle a été taillée avant la fermeture de la carrière. **Le Masque n'est pas une loi de l'univers : c'est un défaut des instruments.** Il en existe peut-être d'autres.
 - **ALPHABET MORT** : la pierre du creux écrit, sous les chiffres, des signes qui ne sont ni des chiffres ni l'alphabet courant. **Quatre signes** pour la bête — les mêmes que le cachet du douzième motif. **Une ligne plus longue** quand Seb ouvre en grand.
 - **Le monde est honnête** : ce qu'on montre EST ce qu'on a. Seb est la seule exception.

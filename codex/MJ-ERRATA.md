@@ -220,3 +220,24 @@ Constat du joueur en séance : *« Point MJ, ça traîne là non ? »* Diagnosti
 - **L'ellipse est l'outil normal**, pas une exception : bloc de puces daté, ce que Seb obtient, ce que le monde a fait pendant ce temps, puis reprise **in medias res** sur la scène qui compte.
 - **Quand une mèche chaude est posée** (une convocation de trois cents ans, une maison mère à quatre jours), **on y va.** Une mèche allumée qui attend dix scènes s'éteint.
 - Test avant d'ouvrir une scène : *qu'est-ce qui peut mal tourner ici ?* Si la réponse est « rien, c'est une formalité », c'est une ligne de fiche.
+
+## 29 · Pas de plafond sur le porteur — le palier décrit ce qu'il contient (2026-08-13, point MJ validé) — FAUTE MJ
+
+Scène 159 : le MJ écrit à l'horloge *« Deux points. Le palier plafonne à mille. La prochaine prise, quelle qu'elle soit, ne tiendra pas dedans. »* Recadrage joueur immédiat : *« ça va à l'encontre de ce qui avait été décidé. Il devrait même m'être possible de commencer une strat avec déjà le max de cette nouvelle strat. Attention au bridage. »*
+
+Il a raison, et le codex §2.2 le disait déjà : *sur-accumuler en bas avant de monter est une stratégie assumée du joueur, le MJ ne la contrarie pas* — et les amplitudes de la table **se recouvrent** (Terre 1–10³, Murim 10²–10⁴).
+
+- **Une amplitude décrit ce qu'un palier CONTIENT, jamais ce qu'un porteur a le droit de peser.** Le chiffre monte sans limite.
+- **Ce qui sature, ce sont les instruments** du palier. Au-delà de mille, une pierre de Terre affiche le haut de son échelle et rien de plus. *(Relecture : la pierre du creux n'a pas dit « exactement mille » pour la bête — elle a dit « hors échelle ». Ne pas contredire, c'est mieux ainsi.)*
+- **Au-dessus du palier = non mesurable, pas expulsé.**
+- **Le débordement est une porte, pas une trappe.** Aucune sortie de palier n'est automatique. **Le joueur choisit quand il monte**, et il peut décider d'arriver au palier suivant déjà au sommet de celui-là.
+- **Ce qui limite la montée, c'est le stock, jamais la loi.** Si le gibier manque, on le dit franchement — on n'invente pas un plafond pour masquer un inventaire vide.
+- **Règle de conduite générale** : quand une contrainte arrive dans une fiche ou une horloge, vérifier qu'elle vient du canon et pas du confort du MJ. **Une limite non écrite qui apparaît juste au moment où le joueur devient trop fort est un bridage.**
+
+## 30 · Terre garde des réservoirs (2026-08-13, validé joueur)
+
+Corollaire du §29, tranché par le joueur — avec sa raison : *« la bête à 4xx était un des meilleurs passages de toute l'histoire jusqu'à présent. »*
+
+- **Le palier n'est pas vidé.** Il reste sur Terre des choses jamais chiffrées : **la carrière qu'on a fuie** (deux cents ans de pierres de mesure taillées, puis l'abandon du jour au lendemain), **le volume illisible sous la maison mère**, et ce que font réellement les hommes en gris.
+- **Conduite** : ne pas les poser sur son chemin, ne jamais les lui refuser. Ils sont **accessibles et dangereux** ; c'est à lui d'aller les chercher.
+- **Calibration confirmée** : la chasse à la grosse pièce est un sommet de plaisir pour ce joueur. Une proie unique, terrée, qui rend coup pour coup, vaut mieux que dix scènes sociales. **En servir encore, et à la hauteur.**
