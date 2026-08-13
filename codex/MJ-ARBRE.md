@@ -1,23 +1,23 @@
 # MJ-ARBRE — LE CREUSET
 
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Fichier MJ, lu en silence au démarrage avec `MJ-SECRETS.md` et `MJ-ERRATA.md`.
-> **Règles d'usage** : le tronc est intouchable. Horizon glissant : **l'ancre du lieu courant + 2-3 lieux candidats**, écrits AVANT que l'apothéose ne se joue. **Les critiques déplacent le chemin, jamais le tronc.**
-> **Toute ancre passe le test de l'apothéose (errata §9)** : offensive, dernière grande scène du lieu, spectaculaire même sur 36-65.
-> **À jour au 2026-08-12 (v16, scène 116, J110 après-midi).**
+> **Règles d'usage** : le tronc est intouchable. Horizon glissant : **l'ancre du lieu courant + 2-3 lieux candidats**. **Les critiques déplacent le chemin, jamais le tronc.**
+> **Toute ancre passe le test de l'apothéose (errata §9).**
+> **À jour au 2026-08-13 (v17, scène 153, J129 matin, cour de la maison mère).**
 
 ## 0 · RÉGLAGE DE RYTHME — SOUTENU
 
 | Type | Budget | Règle |
 |---|---|---|
-| **Ancre** | **25-30 scènes** | 1-2 par palier. Fin offensive, dernière grande scène |
+| **Ancre** | **25-30 scènes** | 1-2 par palier. Fin offensive |
 | **Étape** | **8-12** | un enjeu, une ou deux scènes fortes, on repart |
-| **Traversée** | **2-4** | une image, un incident — **jouées** |
+| **Traversée** | **2-4** | une image, un incident — **jouées ou ellipsées** |
 
 - **Cibles** : Terre ≈ 130-150 scènes · paliers suivants ≈ 50-70 · campagne ≈ 700-800.
-- **Compteur réel** : Le Fond 1-47 · Clairefont 48-85 (38) · route du nord 86-91 (6) · **Pierregarde 92-101 (10)** · plateau du levant 102-105 (4) · route du retour 106-108 (3) · **Clairefont, second concours 109-116 (8)**.
-- **Terre : 116 scènes consommées sur ~140. Il reste 15 à 35 scènes avant la sortie de palier.** Le rythme des trois derniers lieux a été excellent (étapes courtes, apothéoses nettes) : **continuer en étapes de 8-12, plus une seule ancre finale.**
-- **Ellipses scénaristiques uniquement**, jamais obligatoires, refusables, delta rendu en une fiche.
-- **Audit décennal silencieux** toutes les ~10 scènes. *Fait à ~95 et à ~105. Prochain : vers sc. 125.*
+- **Compteur réel** : Le Fond 1-47 · Clairefont 48-85 (38) · route du nord 86-91 · Pierregarde 92-101 (10) · plateau du levant 102-105 · retour 106-108 · second concours 109-116 (8) · **Clairefont, le marché du dixième 117-131 (15)** · **le Fond, retour 132-142 (11)** · **la maison mère 143-153 (11)**.
+- **TERRE : 153 SCÈNES CONSOMMÉES SUR ~140-150 CIBLÉES. LE PALIER EST EN DÉPASSEMENT.** On est dans la **sortie**, pas dans le milieu. Plus aucune ancre longue : **une étape courte, puis la charnière de palier.**
+- **ERRATA §28 EN VIGUEUR** : la logistique ne se joue plus, elle s'ellipse. *(Point MJ sc. 142 : dix scènes pour trois événements — ne pas refaire.)*
+- **Audit décennal silencieux** toutes les ~10 scènes. *Fait à ~95, ~105, ~142 (point MJ demandé par le joueur). Prochain : vers sc. 160.*
 
 ---
 
@@ -25,51 +25,62 @@
 
 → Coffre : destination finale §7 · jalons fixes §3 · ordre des révélations §9 · trame indicative Terre §8.
 
-**Où en est l'ordre des révélations (coffre §9)** : salle noyée ✅ · **Rayeurs ✅ (la rue sans nom, le four, l'exemplaire unique — livré sc. 100)** · **Maud / l'édit → C'EST LA SUITE** · « Victor » → puis · « Vael » → palier II · destination.
+**Ordre des révélations (coffre §9) — état v17** : salle noyée ✅ · Rayeurs ✅ (sc. 100) · **Maud / l'édit ✅ (sc. 138-145)** · **« Victor » ✅ (sc. 148)** · **« creuset » ✅ (sc. 148 — la dé-nomination, désormais canon public)** · **le nom brûlé du dieu → palier II, à refixer (errata §1)** · destination finale → scellée.
+
+**Il ne reste plus rien à livrer sur Terre.** Tout ce qui vient maintenant est **conséquence**, pas révélation.
 
 ## 2 · ANCRES CONSOMMÉES
 
-- **LE FOND (J1-J8, sc. 1-47)** — quitté. La salle sèche attend toujours. Armand, Berthe, Jeanne, Gilles, Odile et **un greffier salarié** y sont.
-- **CLAIREFONT (J9-J20, sc. 48-85)** — liquidée. **Rouverte sc. 109-116 pour le second concours** : c'est fini pour de bon cette fois, il n'y reste que des gens.
-- **PIERREGARDE (J38-J39, sc. 92-101)** — ancre courte et pleine. **Y restent** : la salle basse et ses volumes, le maître du répertoire à 12 qui sait qu'il y a eu un premier, la rue sans nom, la veste grise, et **l'exemplaire unique**. **Le lieu est rouvrable à tout moment et il le sera.**
-- **LE PLATEAU DU LEVANT (J51-J82, sc. 102-105)** — étape de chasse. La carrière reste : blocs de mesure à moitié dégagés, un fond d'ossements, et la question jamais posée de **pourquoi on a arrêté d'y tailler les pierres du monde**.
+- **LE FOND (J1-J8, sc. 1-47 ; retour J112-J116, sc. 132-142)** — **la salle sèche a été ouverte**. La pierre du creux a écrit 1 000 pour la bête et 908 pour Seb. Y restent : Berthe et sa dette, Gilles et son refus tenu, Odile, un greffier salarié sous contrat qui écrit chaque semaine, deux ferrailleurs qui gardent un trou, et **des gamins qui cherchent l'entrée du boyau toutes les nuits**. Jeanne n'y est plus.
+- **CLAIREFONT (sc. 48-85, 109-116, 117-131)** — **devenue une base**, pas un lieu à jouer : la fosse tourne, les vingt-quatre y vivent, Jeanne y loge, Anselme y opère sous procuration, le Cygne est répondant. **C'est le patrimoine, pas la scène.**
+- **PIERREGARDE (sc. 92-101)** — **rouvrable, et la mèche y est allumée** (voir §5.A).
+- **LE PLATEAU DU LEVANT (sc. 102-105)** — la carrière reste, et sa question a maintenant une réponse possible (§5.B).
+- **LA MAISON MÈRE DU VERGER BLANC (J117-J129, sc. 143-153)** — **consommée, et prise.** Le trophée est en poussière, le fondateur est nommé devant deux cents personnes, la Doyenne a confirmé, dix-neuf vieux ont parlé. **Il n'y a plus de secret à extraire ici — il y a une maison à prendre ou à laisser.**
 
-## 3 · CE QUE LE SECOND CONCOURS A CHANGÉ AU PLATEAU
+## 3 · ÉTAT DU PLATEAU APRÈS LA MAISON MÈRE
 
-1. **943, certifié 900.** Seuil du Ciel, seul vivant, à quinze ans. **Le palier I plafonne à 1 000 : il est à 57 points du toit du monde.** Le débordement (§2.2 public) devient une option mécanique réelle — ne jamais l'annoncer, le laisser arriver.
-2. **La provocation est morte (18), la procédure est le garde-manger (22).** Toute scène de chasse à venir doit passer par **un règlement, un contrat, une licence, une convocation, un serment écrit**. Ce qui n'est écrit nulle part lui échappe — **et le Verger, justement, ne met rien par écrit.** C'est là toute la tension de l'arc final.
-3. **La bête est en règle partout (23) et ne peut plus être saisie (19).** La machine a perdu ses deux prises. Il ne reste contre elle que ce qui ne procède pas : le Verger, et ce qui est plus haut.
-4. **Elle grandit en mangeant, et c'est public.** Six cents témoins, écrit, transmis aux sept bureaux. **Personne ne peut plus la regarder comme un familier.**
-5. **Elle a mangé un 96 sans changer, et elle a toujours faim.** Premier découplage entre la nourriture et la forme. **Ne pas expliquer. Laisser durer.**
-6. **Onze vieux, deux doigts sur la bouche, en même temps.** Le monde se souvient dans ses mains. Faire remonter ce geste — plus haut, plus souvent, jamais expliqué par un PNJ qui sait.
-7. **Margot est écrite, exposée, courtisée, et responsable devant dix-sept créanciers.** C'est le meilleur levier de pression de tout l'arc, et il ne demande aucune violence.
+1. **960, plafond du palier à 1 000. Quarante points.** Le **débordement** (§2.2 public) n'est plus une hypothèse : c'est la prochaine mécanique du jeu. **Ne jamais l'annoncer. Le laisser arriver.** Chaque prise est désormais une décision de quitter Terre.
+2. **LA DÎME (porte 21 cran 2).** Un dixième de tout, prélevé à l'instant. **Refuser ne l'affame pas** : la note se déplace sur le compte ouvert le plus proche — un proche, un allié, quelqu'un qui porte quelque chose qui n'est pas à lui. **Forcer marche** (sc. 151), et le prix monte silencieusement à chaque contrainte. Cinquième contrainte = quelque chose doit céder ailleurs.
+3. **ELLE PARLE.** Deux mots : « Part. » · « Après. » **Un mot par scène majeure, maximum, jamais sur commande, jamais une phrase.** Ce qu'elle dit est toujours **comptable**, jamais affectif.
+4. **MAUD DESCEND.** 340 → 327. Elle perd un point par prise de la bête. **À 11, elle meurt** — c'est ce qu'elle avait à dix-neuf ans. **C'est une horloge à mèche vivante, la meilleure du palier** : chaque fois que le joueur mange, une vieille femme qui lui est utile s'éteint d'un cran. Elle le sait, elle l'assume, et elle ne le lui reprochera jamais. **Ne pas la sauver. Ne pas la tuer gratuitement.**
+5. **LE SCEAU EST DANS SEPT BUREAUX.** Le douzième motif est le cachet de Victor ; un greffier a joint trois frottis et une demande d'identification, il y a dix-huit jours. **Les hommes en gris ont déjà envoyé quelqu'un lire les déclarations de Seb au greffe de village.** Quand ils identifient, ils ne procèdent pas : **ils recommencent.** C'est la seule opposition vivante qui reste sur Terre.
+6. **LA HUITIÈME COUCHE N'EXISTE PLUS ICI.** À 7 couches, plus personne dans la vallée ne peut frapper assez fort. Elle se trouvera **plus haut, ou ailleurs** — c'est un motif de départ.
+7. **IL Y A UN VOLUME ILLISIBLE SOUS LA MAISON MÈRE.** Gros comme une église, l'instinct du chiffre glisse dessus. **Ce n'est pas la salle du crâne** (quarante marches, quatre mètres de diamètre). **Ne pas l'expliquer, ne pas l'oublier.**
+8. **DEUX CENTS PERSONNES ONT ENTENDU LA VÉRITÉ.** Porte 17 cran 2 : le nom rassemble. Une secte de six cents personnes est en train de changer de fondateur. **Ça se voit à trois provinces et ça ne se cache plus.**
 
-## 4 · ANCRE SUIVANTE — LA MAISON MÈRE DU VERGER BLANC
+## 4 · CHARNIÈRE — LA SORTIE DE TERRE
 
-**Ils viennent à lui.** Un cavalier à 104 galope, Émile monte avec trois phrases, et la femme à 211 n'était pas au concours. Le mouvement est déjà parti : **ne pas le faire attendre, il tombe dans les 2 à 5 scènes.**
+**Ce n'est plus un lieu, c'est un seuil.** Terre est en dépassement de budget : une étape courte, puis la bascule.
 
-- **Test de l'apothéose** : ✅ offensive — Seb n'y va pas se défendre : il y a **un escalier de service, une marque tous les dix pas à hauteur de pouce, et un palier gardé au troisième niveau au-delà duquel personne ne descend** (livré par Émile, sc. 111). Il ira sous cette maison. ✅ spectaculaire même sur 36-65.
-- **Ce qui les rend dangereux** : ils ne procèdent pas. Rien par écrit, pas de guichet, pas de recours — la porte 22 ne mord pas sur eux, la porte 16 non plus, la 13 non plus. **C'est le seul adversaire du palier qui soit hors de la machine.** Ne pas gonfler leurs chiffres : leur force est là.
-- **Leviers déjà posés** : la dette d'Émile soldée et sa porte fermée · Armand, onze ans chez eux, avec sa clause *« je descends avec toi »* · l'offre faite à Margot, sans date · la clause de signalement qui les met en infraction s'ils cachent une bête · le nom de Seb sorti de leurs livres.
-- **Casting** : la femme à **211** · le cavalier à **104** · l'homme au carnet · **la Doyenne (coffre §4) — c'est ici qu'elle entre, ou juste après.**
+- **Test de l'apothéose** : ✅ offensive par construction — le joueur a annoncé lui-même *« je reviendrai à mille ou plus »* dans la salle sèche (sc. 137). ✅ spectaculaire même sur 36-65 : **le palier ne se quitte pas discrètement.**
+- **Les quatre routes vers le seuil**, toutes valides, aucune imposée :
+  - **le débordement par la prise** — il mange jusqu'à passer 1 000 ; la dîme le ralentit, ce qui rend le dernier repas d'autant plus gros, donc d'autant plus visible ;
+  - **la pierre du creux** — la seule qui lit à nu, la seule qui ait écrit 1 000, et qui écrit **une ligne en alphabet mort quand il ouvre en grand**. Il a promis d'y revenir ;
+  - **les Rayés** — s'ils identifient le sceau, ils viennent, et **un rituel d'éjection est littéralement une sortie de palier** (c'est ce qu'ils ont fait à Victor) ;
+  - **ce qui est sous la maison mère** — le volume illisible.
+- **Ne jamais annoncer laquelle est la vraie.** Elles peuvent converger.
 
 ## 5 · BRANCHES CANDIDATES
 
-- **A. LE FOND, PLEIN SUD.** Jeanne (jamais revue depuis J8), Armand et sa clause, Berthe et sa dette jamais réclamée, Gilles et son refus promis, Odile, le greffier salarié — et **la salle sèche sous l'eau noire**, avec sa pierre gravée du creux qui affiche instantanément. **C'est la seule pierre au monde qui n'a pas encore été mise devant la bête.** Étape de 4-8.
-- **B. PIERREGARDE, RETOUR.** L'exemplaire unique · *« vous êtes le deuxième »* · la veste grise qui connaît Margot · la vérification qui repose sur un faux. **Le fil des Rayeurs se referme là, et il se referme sur Margot.**
-- **C. LA CARRIÈRE DE L'EST.** Pourquoi on a cessé d'y tailler les pierres de la mesure. À dégainer si le joueur y revient de lui-même, ou si le Verger l'y pousse.
+- **A. PIERREGARDE — LA RUE SANS NOM.** *Mèche allumée, la plus chaude.* Le sceau de Victor est en cours d'identification, un homme en gris a lu ses déclarations, et **la vérification de Margot repose toujours sur un faux écrit de la main d'un greffier** — sauf que ce greffier a signé un dépôt scellé qui le condamne lui à sa place. **Le fil des Rayeurs se referme là.** Étape de 6-10.
+- **B. LA CARRIÈRE DE L'EST.** On y a taillé les pierres de la mesure pendant deux cents ans — dont, forcément, **celle qui est gravée du creux et qui lit à travers le Masque**. Puis on a arrêté du jour au lendemain. **Réponse possible désormais** : on a arrêté quand on a compris ce que ces pierres-là voyaient. Étape de 4-8.
+- **C. LA MAISON PRISE.** Rester : refonder le Verger Blanc sur le vrai fondateur, six cents personnes, des terrasses, des soigneurs, une Doyenne mourante, dix-neuf vieux qui savent des choses. **C'est une base de pouvoir, pas une aventure** — à traiter en fiche et en délestage (errata §19/§28), pas en scènes de gestion.
+- **D. LE SUD, LE PATRIMOINE.** Jeanne, la fosse, Anselme, les deux dixièmes, Berthe. **Ellipse par défaut** sauf crise.
 
-**Routage** : le Verger frappe le premier → **ancre §4** · Margot mise en danger par le papier → **B** · un critique touche la bête, la plaque, le creux ou la marque → **A** (la salle sèche) · catastrophe majeure → fuite vers **C**.
+**Routage** : les Rayés bougent → **A** · un critique touche la plaque, le creux, l'alphabet mort → **B** ou la salle sèche · le joueur veut asseoir sa prise → **C** en fiche · Margot menacée par le papier → **A**.
 
-## 6 · GARDE-FOUS DE L'ARC FINAL DE TERRE
+## 6 · GARDE-FOUS DE LA SORTIE DE TERRE
 
-- **Ne pas gonfler l'opposition.** À 943, personne ne le bat au chiffre — et ce n'est pas le sujet. Ce qui résiste : **ce qui ne se mesure pas et ne s'écrit pas.** Le Verger, le geste des vieux, ce que la bête veut, et la question de ce qu'il devient.
-- **Ne jamais résoudre la faim de la bête par une explication.** Elle a mangé et rien n'a changé. Laisser la question ouverte jusqu'à la scène qui la livre.
-- **La clause réciproque est un cadeau de scénario** : à chaque changement de la bête, Seb **doit** entrer dans un bureau et le déclarer. C'est un rendez-vous récurrent avec la machine, gratuit, que le joueur s'est imposé lui-même. **L'utiliser.**
-- **Margot (errata §17, §21 de fait)** : volonté propre jouée par des actes, chaque apparition. Elle a un agenda posé — être écrite debout, pas attachée — et une porte ouverte chez l'ennemi. **Ne jamais la réduire à l'assistante.** Et **varier la ligne ⚑ Atout** : elle a été signalée quatre fois ; signaler d'autres.
-- **Le Corps (errata §12 + §21)** : la voie du travail est morte, **l'épreuve seule**. Proposer une épreuve **là où le lieu et le moment la portent** — jamais en garniture. Il est à 5 couches, 3 vers trempé, et il ne les aura que par la violence.
-- **Anselme** a bradé dix ans. Il est libre et il est ruiné dans sa victoire. **Lui donner une trajectoire propre** : il peut se refaire, se venger de lui-même, ou devenir le premier homme d'affaires de la province avec un nom qui vaut de l'or.
-- **Ligne tenue** : Seb a quinze ans — aucun registre romantique, aucune ellipse d'âge fabriquée.
-- **Bloc servi entier, une fois** (errata §20). Passe de contrôle avant chaque envoi.
-- **Portes gelées (errata §23)** : plus aucune porte neuve d'ici la fin de Terre sauf événement exceptionnel — les critiques montent les crans des 23 existantes. **Consolidation en ~3-5 lignes à l'entrée du palier II**, table soumise au joueur. Budget des plans suivants : **~3 ouvertes / ~2 fermées**.
-- **Le monde sait (errata §24)** : terreur ET appétit partout où 943 est su — plus d'opposition locale crédible ; l'opposition vient de ce qui ne procède pas, de ce qui est plus haut, de ce qui est caché. **Information en cercles concentriques** : la province sait, le continent n'a que des rumeurs tordues — la dissimulation redevient possible ailleurs. **Le papier recule** : la procédure n'est plus le décor par défaut.
+- **Ne pas gonfler l'opposition.** Personne ne le bat au chiffre et ce n'est pas le sujet. Ce qui résiste : **ce qui ne se mesure pas, ce qui ne s'écrit pas, et ce qui compte ce qu'on lui doit.**
+- **ERRATA §27 — LA PORTE EST DUE À CHAQUE CRITIQUE.** Deux manquements en v17, réclamés par le joueur les deux fois. Relire la bande avant d'écrire la fiche.
+- **ERRATA §25 — un jet par action** dans les séquences. **§26 — viser 4 options**, logiques regroupées.
+- **ERRATA §28 — la logistique s'ellipse.** Test : *qu'est-ce qui peut mal tourner ici ?*
+- **Ne jamais expliquer la bête.** Elle a mangé un 96 sans changer, un crâne l'a fait grandir et parler. **Laisser le découplage ouvert.**
+- **La clause réciproque reste un cadeau de scénario** : quatre modifications non déclarées depuis le J128, échéance **J136**. Rendez-vous gratuit avec la machine, que le joueur s'est imposé lui-même.
+- **Margot** : volonté propre par des actes, chaque apparition (errata §17). Elle a un dépôt scellé, une liasse d'actes annulés, et une existence légale qui tient toujours à un encrier.
+- **Varier la ligne ⚑ Atout** (errata §18). *(v17 : le vieux du deuxième rang, Anselme, l'aubergiste du Cygne, le chirurgien, Armand, la bouche en chemise blanche, le greffier du Fond, l'homme au carnet, Maud ×2 — le régime est bon, le tenir.)*
+- **Le Corps** : 7 couches, la huitième est introuvable dans la vallée. **Ne pas la brader** : elle doit coûter un adversaire réel.
+- **Anselme a sa trajectoire** : il s'est refait en une nuit, il opère sous procuration plafonnée. **Le laisser grandir tout seul et devenir gênant.**
+- **Ligne tenue** : Seb a quinze ans.
+- **Portes gelées (errata §23)** : aucune porte neuve d'ici la fin de Terre. **Consolidation en ~3-5 lignes à l'entrée du palier II, soumise au joueur pour validation.** C'est le rituel de passage, et il arrive.
+- **Le monde sait (errata §24)** : terreur et appétit. L'opposition vient de ce qui ne procède pas — **il n'en reste qu'une : les hommes en gris.**
