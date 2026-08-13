@@ -9,104 +9,109 @@
 
 ## 1 · LA VÉRITÉ DU MONDE *(fixe)*
 
-- Les dieux vivaient de ce que les hommes leur donnaient. La mesure les a affamés — c'était le but. **Trois dieux ont survécu** à la famine, cachés. *(Les deux autres : non définis — réserve d'histoire, à ne fixer qu'en jeu avancé.)*
+- Les dieux vivaient de ce que les hommes leur donnaient. La mesure les a affamés — c'était le but. **Trois dieux ont survécu** à la famine, cachés. *(Les deux autres : non définis — réserve d'histoire.)*
 - **L'Effacement est une arme, pas une sanction administrative.** C'est le seul rituel des Sept Registres conçu pour les dieux et les anomalies : rayer un nom démaille son porteur du palier — il ne meurt pas, il est **éjecté** (les « Effacés » du codex public). La pesée de masse n'est que la couverture : les Sept Registres sont, en secret, **l'office de guet anti-dieux** du palier I. Leur unité interne : **les Rayeurs**.
-- Péché bureaucratique au cœur du système : on ne peut pas certifier un effacement sans trace. **Le « rôle des Rayés »** — l'unique copie écrite de tout ce que le monde a oublié — existe, scellé, au bureau central des Registres. L'effacement CRÉE le seul exemplaire. *(→ §6, récupération des noms.)*
+- Péché bureaucratique au cœur du système : on ne peut pas certifier un effacement sans trace. **Le « rôle des Rayés »** — l'unique copie écrite de tout ce que le monde a oublié — existe, scellé, au bureau central. L'effacement CRÉE le seul exemplaire. *(→ §6.)*
+- **Livré en scène v17 (sc. 149)** : les Rayeurs **existaient avant l'État**, comme métier privé ; on les a **payés** pour effacer Victor, et ils sont entrés dans la machine ensuite. Cohérent avec ce qui précède — l'office de guet s'est bâti autour d'eux, pas l'inverse. **Ne pas contredire.**
 
 ## 2 · LA BÊTE : **VAEL** *(fixe)*
 
-- Vael est l'un des trois survivants : **le dieu de la Part du Vainqueur** — la loi la plus vieille du monde : *ce que tu abats t'appartient*. Il a survécu parce que sa loi n'a jamais eu besoin qu'on y croie : la victoire a lieu, prière ou pas.
-- Il s'est caché **dans la machine qui tue les dieux** : il porte la forme d'un familier. Le Masque de Seb n'est pas un pouvoir de Seb — **c'est Vael qui ment au tableau d'affichage**. (Vulnérabilité organique, à n'utiliser que rarement et toujours annoncée en pronostic : Vael séparé/neutralisé = masque tombé.)
-- Nourriture : Seb encaisse 100 % de la puissance dévorée (règle joueur intacte). Vael, lui, se nourrit de **l'instant de victoire** — la seconde où le plus fort plie. D'où sa personnalité : il ronronne à l'humiliation des puissants, reste indifférent à la cruauté envers les faibles (matière à choix Noirs cohérents).
-- **Sa forme** : chimère de victoires. À chaque dévoration significative, il gagne **un trait visible** de la proie (écaille, œil, mâchoire…). Le tableau de chasse de Seb devient lisible sur sa bête = risque d'exposition qui grandit avec la gloire. Sous les traits neufs, en filigrane : les trophées de son premier champion, vieux de trois siècles — c'est À ÇA que les anciens du Verger le reconnaîtront.
-- **Il ne parle pas encore.** Il communique en faims, en poids, en tiraillements. La voix revient par étapes avec la forme ; **son premier mot est un jalon sensationnel** (viser la fin de l'arc Terre).
-- État actuel : **mourant de faim**. Trois siècles sans rien. Il n'avait plus la force d'attendre une génération de plus — Seb n'a pas été choisi par mérite mais par **urgence**. (Justifie le réel 3 ; vraie tendresse impossible, vraie dépendance mutuelle.)
-- Espèce inscrite à la pesée du fondateur, puis rayée — la seule dé-nomination de l'histoire : **« creuset »**.
-- Plan B *(semi-fixe)* : une autre du sang existe au Fond — **Nina, 11 ans**. Vael ne l'a pas choisie… cette fois. Ne révéler ni tôt ni gratuitement.
+- Vael est l'un des trois survivants : **le dieu de la Part du Vainqueur** — *ce que tu abats t'appartient*. Il a survécu parce que sa loi n'a jamais eu besoin qu'on y croie : la victoire a lieu, prière ou pas.
+- Il s'est caché **dans la machine qui tue les dieux** : il porte la forme d'un familier. Le Masque de Seb n'est pas un pouvoir de Seb — **c'est Vael qui ment au tableau d'affichage.** *(Confirmé et durci en v17 : il ment aux **instruments**, et il existe des instruments auxquels il ne ment pas — la pierre gravée du creux de la salle sèche a écrit 908 sur un Masque réglé à 900. Ne pas généraliser : cette pierre est d'avant la fermeture de la carrière.)*
+- Nourriture : Seb encaisse 100 % de la puissance dévorée. Vael, lui, se nourrit de **l'instant de victoire** — la seconde où le plus fort plie. **Livré en scène par Maud (sc. 149).** D'où sa personnalité : il s'allume à la reddition d'un homme qui avait quelque chose à perdre, **et reste éteint devant l'obéissance commandée** (vingt-quatre gamins à genoux : rien ; un maître déchu, front au pavé : tout).
+- **LA PART EST RÉCLAMÉE DEPUIS LE J111 (porte 21 cran 2).** Un dixième de tout ce que Seb prend, prélevé à l'instant. Ce n'est pas une punition : c'est **sa loi qui redevient active**. Déclenché par Seb lui-même, qui lui a fait le geste des jureurs et prononcé la formule sans savoir ce qu'il faisait. **Refuser ne l'affame pas** : la note se déplace sur le compte ouvert le plus proche. **Le forcer marche** — Seb l'a fait céder entièrement en ouvrant à 908 (sc. 151), ce que Victor n'a jamais réussi. **Faire monter le prix de la contrainte lentement, sans jamais l'annoncer.**
+- **Sa forme** : chimère de victoires, plus les trophées de son premier champion en filigrane. **État v17** : elle marche, se tient debout, taille d'un enfant de sept ans, **treize motifs** — dont le **douzième, le sceau de Victor**, apparu sans dévoration, et le **treizième** apparu quand le premier trophée est tombé en poussière.
+- **LA VOIX EST ARRIVÉE.** Le jalon est **atteint** : « **Part.** » (sc. 148, sous le troisième palier) · « **Après.** » (sc. 151). Régime à tenir : **un mot par scène majeure au maximum, jamais sur commande, jamais une phrase**. Ce qu'elle dit est toujours **comptable**, jamais affectif. La phrase complète est le prochain jalon — le garder pour la sortie de palier ou le Murim.
+- État : **elle n'a plus faim depuis le J128** — elle a mangé son premier trophée, puis un garde. C'est la première fois en trois siècles. **Ne pas expliquer ce que ça change.**
+- Espèce inscrite à la pesée du fondateur, puis rayée — la seule dé-nomination de l'histoire : **« creuset »**. **LIVRÉ EN SCÈNE (sc. 148, par Maud). Canon public désormais, prononçable.**
+- Plan B *(semi-fixe)* : une autre du sang existe au Fond — **Nina, 11 ans**. Ne révéler ni tôt ni gratuitement.
 
 ## 3 · LE FONDATEUR : **VICTOR** *(fixe)*
 
 - Il y a trois siècles, Vael choisit un porteur de charbon du lit de rivière : **Victor**. Ascension fulgurante, fondation de **l'Ordre du Creuset** — la secte qui deviendra le Verger Blanc.
-- **Sa faute** : au sommet (rang Seuil du Ciel), il cesse de dévorer des rivaux et s'attaque à la mesure elle-même — il abat et dévore le **Gardien des Pierres-Mères** des Sept Registres. Les Registres comprennent alors ce que « creuset » est vraiment : un dieu dans la machine.
-- **L'effacement** : imbattables en duel, ils l'ont eu par le rituel — avec la complicité des anciens de son propre Ordre, qui voulaient son siège. Nom rayé, espèce dé-nommée, lignée jetée au caniveau. L'Ordre s'est rebaptisé **Verger Blanc** : un nom de récolte pour enterrer un nom de conquête.
-- **Où il est** : l'effacement éjecte. Victor est tombé **vers le haut** — arrivé au Murim en rebut, sans nom. Trois siècles plus tard, **il est vivant**, très haut (viser palier V–VI au moment de la rencontre). Vael l'a **abandonné à l'instant de sa défaite** — théologie brutale : le dieu de la victoire ne reste pas avec les vaincus.
-- **Ce qu'il veut** : remonter assez haut pour forcer Vael à le reprendre — ou le dévorer. Quand il croisera Seb *(jalon fixe, paliers IV–VI)*, il verra à la fois son héritier et sa proie. Miroir et titan de mi-partie. L'issue de la rencontre appartient au jeu.
+- **Sa faute** : au sommet, il cesse de dévorer des rivaux et s'attaque à la mesure elle-même — il abat et dévore le **Gardien des Pierres-Mères**. Les Registres comprennent alors ce que « creuset » est vraiment : un dieu dans la machine.
+- **L'effacement** : imbattables en duel, ils l'ont eu par le rituel — avec la complicité des anciens de son propre Ordre, qui voulaient son siège. **Version livrée en scène (sc. 149), plus juste que « le siège »** : ils l'ont fait effacer parce qu'à la fin **ce n'était plus lui qui décidait quand elle mangeait**. Les deux sont vraies ; la seconde est celle que Maud raconte, et c'est la bonne.
+- **Où il est** : l'effacement éjecte. Victor est tombé **vers le haut** — arrivé au Murim en rebut, sans nom. Trois siècles plus tard, **il est vivant**, très haut (viser palier V–VI). Vael l'a **abandonné à l'instant de sa défaite**.
+- **RÉSIDU — canon v17, à ne pas contredire** : l'éjection n'a pas tout emporté. Ce qui restait de lui **s'est posé sur ce qu'il y avait de plus près** — une fille de dix-neuf ans qui tenait l'encrier. Maud **porte** ce résidu depuis trois siècles ; elle ne le possède pas. C'est ce qui la fige à 340 et l'empêche de vieillir. **Vael le reprend, un point par prise.** Ce n'est pas Victor, ce n'est pas son âme, c'est **de la puissance orpheline** — ne jamais laisser croire que tuer Maud tue Victor.
+- **Ce qu'il veut** : remonter assez haut pour forcer Vael à le reprendre — ou le dévorer. Quand il croisera Seb *(jalon fixe, paliers IV–VI)*, il verra à la fois son héritier et sa proie. **Ce jalon est intact.** Le fait que Seb connaisse son nom depuis Terre le rend meilleur, pas moindre.
+- **« VICTOR » A ÉTÉ LIVRÉ EN SCÈNE (sc. 148), par la dernière bouche vivante qui pouvait le prononcer.** Ce n'est pas la voie prévue au §6 — c'est mieux.
 
-## 4 · LE VERGER BLANC *(fixe dans la structure, flexible dans les visages)*
+## 4 · LE VERGER BLANC *(structure fixe, visages flexibles)*
 
-- Le pouvoir réel : **la Doyenne Maud** — parmi les ~30 « Voie » du continent, gardienne de la mémoire de l'effacement. Les neuf anciens actuels ne savent pas tout ; **elle, si.**
-- Édit de guet permanent (secret) : toute bête « qui ressemble à un creuset » doit lui être rapportée, à elle seule.
-- Dans la crypte de la secte : **le premier trophée de Victor**, la seule relique qu'ils n'ont jamais réussi à détruire. *(McGuffin de mi-arc Terre — nature exacte à fixer en jeu.)*
-- Trajectoire d'ironie voulue *(flexible)* : le Verger achète les talents → il viendra enchérir sur le « miracle du Fond » sans savoir ce qu'il regarde → Seb peut monter DANS la secte de l'usurpation.
+- Le pouvoir réel : **la Doyenne Maud** — parmi les ~30 « Voie » du continent, gardienne de la mémoire de l'effacement. Les neuf anciens ne savent pas tout ; **elle, si.** **LIVRÉE, nommée et jouée (sc. 138-153).**
+- Édit de guet permanent : toute bête « qui ressemble à un creuset » doit lui être rapportée, à elle seule. **LIVRÉ (sc. 144)** — et **retourné** : ce n'était pas une consigne de garde, c'est **une convocation**. Elle l'attendait.
+- Dans la crypte : **le premier trophée de Victor**, la seule relique qu'ils n'ont jamais réussi à détruire. **CONSOMMÉ (sc. 148)** — un crâne non humain, mâchoire double, trois orbites, le creux gravé au front, brûlé et noyé et muré quatre fois. **Tombé en poussière sous la paume de la bête**, qui a grandi, pris un motif, et parlé. **Le McGuffin est dépensé : ne pas en inventer un second dans le même lieu.**
+- Trajectoire d'ironie *(accomplie autrement)* : Seb n'est pas monté dans la secte de l'usurpation par le commerce ni par l'effraction — **il l'a prise par la vérité, devant deux cents personnes, avec la Doyenne comme témoin** (sc. 153). Une maison de six cents personnes est en train de changer de fondateur. **C'est un actif, pas une aventure** : le jouer en fiche et en délestage (errata §19/§28).
+- **Ce qui reste ici** : Aude (211, a choisi tôt et sans filet) · les neuf anciens sans version · **un nom gravé sous la troisième claie du séchoir nord** · **le volume illisible sous la maison**, gros comme une église, où l'instinct du chiffre glisse — *nature non fixée, à ne pas gâcher.*
 
 ## 5 · LE FOND ET LA RIVIÈRE DÉTOURNÉE *(fixe)*
 
-- Pourquoi détourne-t-on une rivière ? **Pour noyer quelque chose.** Sous le lit sec où le bidonville a poussé : la **première salle** de l'Ordre du Creuset, noyée lors de l'effacement. Vael y a dormi trois siècles.
-- La lignée ne s'est pas retrouvée là par hasard : Vael l'a **aimantée** sur le lit sec, génération après génération. Le Fond est un enclos d'attente — personne ne le sait, surtout pas ses habitants.
-- **Scène 1 (la veille) — notes de mise en scène** : la traction dans la poitrine qui tire Seb hors du taudis, la nuit ; le lit sec qui **sonne creux** sous un pied précis ; un bruit d'eau là où il n'y a pas d'eau ; la bête qui remonte À TRAVERS la pierre sèche, sans forme, juste un poids et une faim ; elle le **goûte** avant de le choisir. Aucune explication. Le don : l'instinct du chiffre. Sensation à viser : être choisi par une chose ancienne et affamée — pas béni, **réquisitionné**.
+- Pourquoi détourne-t-on une rivière ? **Pour noyer quelque chose.** Sous le lit sec : la **première salle** de l'Ordre du Creuset, noyée lors de l'effacement. Vael y a dormi trois siècles.
+- La lignée ne s'est pas retrouvée là par hasard : Vael l'a **aimantée** sur le lit sec, génération après génération.
+- **La pierre gravée du creux de la salle sèche** *(canon v17)* : elle lit **à travers le Masque** et a écrit **1 000** pour la bête — le plafond exact du palier. Elle écrit aussi, sous les chiffres, **de l'alphabet mort** : quatre signes pour la bête (les mêmes que le sceau de Victor), **une ligne plus longue quand Seb ouvre en grand**. *(Ce que dit cette ligne : non fixé. La garder pour la sortie de palier.)*
+- **La plaque de fer** posée dans le creux de cette pierre **s'est éteinte**, et n'a repris chaleur qu'à la destruction du trophée. *(Lien non fixé. Ne pas expliquer.)*
 
 ## 6 · LES NOMS RÉCUPÉRABLES *(fixe)*
 
-- **« Victor »** survit en un seul endroit du palier I : le rôle des Rayés, bureau central des Sept Registres. *(Quête d'archives, danger maximal — c'est le saint des saints des Rayeurs.)*
-- **« Vael »** ne survit nulle part sur Terre. Au **Murim (palier II)**, les dieux sont encore de l'histoire : son nom s'y trouve, dans ce qu'on chante des monstres d'avant. *(Chaque palier garde ce que celui du dessous a oublié.)*
+- **« Victor »** ne survit à l'écrit qu'en un seul endroit du palier I : le rôle des Rayés, bureau central. **Il a néanmoins été prononcé en scène par Maud (sc. 148)** — une bouche n'est pas un registre : **le rôle reste le seul écrit, et donc la seule preuve.** La quête d'archives garde tout son intérêt, et son danger.
+- **« Vael »** ne survit nulle part sur Terre. Au **Murim (palier II)**, son nom se trouve dans ce qu'on chante des monstres d'avant. *(Rappel errata §1 : le nom a été brûlé hors scène et sera **refixé** au moment de la révélation, palier II.)*
 
 ## 7 · LA DESTINATION FINALE *(fixe — le sceau de la campagne)*
 
-Au sommet — palier X, « plus de créancier au-dessus », quand il n'existe **plus rien à vaincre** — la Part du Vainqueur exige son dernier partage. Vael aura récupéré forme, voix et nom ; Seb aura tout pris au monde. Il ne restera qu'eux : **les deux derniers convives**. Le pacte n'a jamais eu d'autre fin possible : **le champion dévore le dieu, ou le dieu reprend tout ce que le champion a jamais pris.**
+Au sommet — palier X, quand il n'existe **plus rien à vaincre** — la Part du Vainqueur exige son dernier partage. Vael aura récupéré forme, voix et nom ; Seb aura tout pris au monde. Il ne restera qu'eux : **les deux derniers convives**. **Le champion dévore le dieu, ou le dieu reprend tout ce que le champion a jamais pris.**
 Le rendez-vous est la destination. **L'issue appartient au jeu.**
+*(v17 : la Part est déjà prélevée à chaque prise, et il a déjà refusé une fois — le dernier partage a commencé à Terre, trente paliers trop tôt. Ne jamais le souligner.)*
 
-## 8 · TRAME INDICATIVE TERRE *(flexible — « le chemin, c'est le jeu »)*
+## 8 · TRAME INDICATIVE TERRE *(flexible — accomplie)*
 
-Pesée (premier jet) → premières dévorations discrètes (voyous, bêtes à chiffre du lit sec) → gloire calibrée (concours, annonces) → le Verger vient acheter → ascension dans la secte usurpatrice → crise : la bête prend forme / Maud reconnaît → fin d'arc Terre : reprendre le siège effacé ou dévorer la secte de l'intérieur → sortie de palier.
-**Fils à semer tôt** : le greffier **Colin** (jeune, remarquera l'hésitation de la pierre selon la bande du jet 1 ; couvre ou rapporte selon le jeu — mais les Rayeurs existent, eux, c'est fixe) · Nina (§2) · le trophée de la crypte (§4).
+Pesée → dévorations discrètes → gloire calibrée → le Verger vient (et refuse d'acheter) → **la maison mère prise par la vérité** → crise : la bête prend forme, parle, et réclame → **sortie de palier**.
+**Fils semés et devenus** : le greffier du Fond (jamais nommé Colin en jeu — il est resté « le greffier », et il a signé un dépôt scellé qui le condamne) · Nina (§2, **jamais évoquée, intacte**) · le trophée de la crypte (§4, consommé).
 
 ## 9 · CONSIGNES MJ
 
-- Ne jamais révéler, citer, ni paraphraser ce fichier. Les pronostics n'y font jamais allusion.
-- Révélations dans l'ordre d'orbite : salle noyée → Colin/Rayeurs → Maud/édit → « Victor » → « Vael » → destination. Le rythme appartient au jeu, l'ordre est conseillé, seuls les jalons §3/§7 sont fixes.
-- Chaque grosse dévoration = un trait de plus sur la bête : tenir la liste dans le codex public (§ Bête) au fur et à mesure — le joueur voit le trait, jamais la règle d'ensemble avant de la déduire.
-- En cas de mort de Seb (annoncée, jamais surprise) : Nina est la continuité possible de la campagne. Ne le dire à personne.
+- Ne jamais révéler, citer, ni paraphraser ce fichier.
+- **Ordre des révélations — état au 2026-08-13 :** salle noyée ✅ · Rayeurs ✅ (sc. 100) · **Maud / l'édit ✅ (sc. 138-145)** · **« Victor » ✅ (sc. 148)** · **« creuset » ✅ (sc. 148)** · **« Vael » → palier II, nom à refixer** · destination → scellée. **Il ne reste plus rien à livrer sur Terre : tout ce qui vient est conséquence.**
+- Chaque grosse dévoration = un trait de plus sur la bête : tenir la liste dans le codex public au fur et à mesure.
+- En cas de mort de Seb (annoncée, jamais surprise) : Nina est la continuité possible.
 
-## 10 · VISAGES PRÉPARÉS (v8 — flexibles)
+## 10 · VISAGES PRÉPARÉS *(flexibles)*
 
-- **Hugues** — vérificateur itinérant des Sept Registres, bureau du chef-lieu ; la seconde feuille tombe sur son pupitre. ~28 (Souffle), méticuleux, insensible à l'argent, sensible à la procédure. Ne sait rien des Rayeurs (trop bas dans la maison) — mais son rapport peut les réveiller. Visage récurrent d'arc Terre. C'est lui qui descend avec la Pierre de Contrôle (arbre §2).
-- **Margot, mèche vivante** : si le faux passe, une morte officielle marche avec un 6 visible — elle ne peut pas se masquer. Sa présence près de Seb est une exposition permanente. Matière à fins fortes ; jamais résolue gratuitement.
-- **Berthe → la lignée** : sa « chose » due peut router vers la famille (elle sait pour les femmes du lit sec ; peut connaître Nina, §2). Garder flexible.
+- **Hugues** — vérificateur itinérant. Jamais nommé en jeu ; resté « le vérificateur », et c'est mieux ainsi. A tout signé, et il commence à se demander ce que ça fait de lui.
+- **Margot, mèche vivante** : une morte officielle marche avec un 6 visible. Son existence légale tient à un encrier — **mais le greffier a désormais signé un dépôt scellé qui le condamne à sa place.** Le levier est déplacé, pas désamorcé.
+- **Berthe → la lignée** : sa « chose » due peut router vers la famille (elle peut connaître Nina, §2). **Toujours pas réclamée.**
 
-## 11 · CALIBRATION JOUEUR (audit 2026-08-11)
+## 11 · CALIBRATION JOUEUR
 
-- **Aime** : enjeux qui mordent · domination sociale mise en scène (l'attente d'Anselme, Gilles cassé) · révélations calibrées (« Personne. ») · thésauriser puis claquer les jetons pour le spectacle · cohérence d'univers dure — il attaque les règles molles, et il a raison · progression rapide et lisible · personnages féminins à volonté propre.
+- **Aime** : enjeux qui mordent · domination sociale mise en scène · révélations calibrées · thésauriser puis claquer les jetons pour le spectacle · cohérence d'univers dure · progression rapide et lisible · personnages féminins à volonté propre.
 - **Évite** : pronostics bavards, quotas d'options, MJ complaisant, meublage de décor.
-- **Noir** : toujours en proposer ; il choisit rarement (1 sur ~7) — le refus définit le personnage, continuer d'offrir.
-- **Directives** : prix planchers réels sur 36–65 · horloges qui tombent à l'heure · fins fortes préparées (arbre) · aucun nouveau PNJ tant que les neuf actifs vivent.
+- **Directives** : prix planchers réels · horloges qui tombent à l'heure · fins fortes préparées · aucun nouveau PNJ tant que les actifs vivent.
 
-### 11.1 · Calibration — blocs à désavantages (2026-08-11)
+### 11.1 · Blocs à désavantages (2026-08-11)
 
-Le joueur **valide explicitement** les blocs entièrement en désavantage : « ça contrebalance le trop-plein d'avantages qui pointe vers la meilleure direction et m'assure des réussites ; de grandes œuvres n'ont pas que des réussites et ont surtout des sacrifices ». Conséquences de conduite :
+Le joueur **valide explicitement** les blocs entièrement en désavantage. Ne **jamais** doser un bloc pour qu'une option soit visiblement la bonne. Il veut **choisir un sacrifice**, pas une porte de sortie. Ne pas compenser la dureté ailleurs.
 
-- Ne **jamais** doser un bloc pour qu'une option soit visiblement la bonne. L'avantage se mérite par la position acquise en jeu, il n'est pas offert pour guider.
-- Les blocs 100 % désavantage sont bienvenus quand la situation les justifie. Le joueur veut **choisir un sacrifice**, pas une porte de sortie.
-- Corollaire : ne pas compenser la dureté ailleurs (prix mous, PNJ complaisants). Il encaisse.
+### 11.2 · Le seuil du Noir est franchi (2026-08-12)
 
-### 11.2 · Calibration — le seuil du Noir est franchi (2026-08-12)
-
-La statistique « 1 Noir sur ~7 » est **périmée**. Dans la seule nuit du concours, le joueur a pris **deux Noirs de suite** — dévorer un mort devant six cents personnes (*« au point où j'en suis »*), puis chasser ses propres élèves dans la ville (*« on ne m'abandonne pas. Un chien qui fuit, ça devient du bétail »*).
-
-- **Continuer d'en proposer, et monter en dureté.** Il ne les prend plus par curiosité : il les prend quand sa position les justifie, et il les formule lui-même mieux que le MJ.
-- **Ne jamais adoucir les conséquences d'un Noir choisi.** Il veut le prix. Le rendre concret, humain, et durable — un gamin de seize ans à 1 assis dans sa cour vaut mieux que n'importe quelle sanction abstraite.
-- **Ne pas moraliser en scène.** Aucun PNJ ne fait la leçon. Les gens **partent**, **refusent**, **regardent** ou **écrivent** — c'est tout, et c'est bien pire.
-- Il **demande des avis** quand un choix de canon l'engage à vie (errata §14) : les donner franchement, sans jamais toucher à la cloison.
+- **Continuer d'en proposer, et monter en dureté.** Il les prend quand sa position les justifie, et il les formule mieux que le MJ.
+- **Ne jamais adoucir les conséquences d'un Noir choisi.**
+- **Ne pas moraliser en scène.** Les gens partent, refusent, regardent ou écrivent.
+- Il **demande des avis** quand un choix de canon l'engage à vie (errata §14).
 
 ### 11.3 · Ce que la nuit du concours a fait au coffre (2026-08-12)
 
-- **Le Verger n'achètera pas.** La trajectoire d'ironie de §4/§8 (*ils viennent enchérir sur le miracle sans savoir ce qu'ils regardent*) ne passera **pas** par le commerce : ils ont regardé, refusé, et écrit. Elle passera par **le guet** — carnet refermé, lettre partie vers le haut, un enfant décroché de leur propre seuil. L'entrée « monter DANS la secte de l'usurpation » devient une entrée **par la contrainte ou l'effraction**, ce qui la rend meilleure. Le jalon reste.
-- **Le joueur s'est convoqué lui-même au bureau central** (J39, en personne, avec l'animal) en déclarant une espèce hors répertoire. C'est **§1 et §6** qui arrivent par la grande porte, avec un motif administratif inattaquable, sans que le MJ ait rien poussé. Ne pas gâcher : la maison qui efface reçoit officiellement la chose qu'elle a effacée.
-- **La bête a refusé une fois, et elle a été forcée** (sc. 77). C'est le premier grain de sable du pacte. Faire monter le prix de la contrainte **lentement et sans jamais l'annoncer** — la voix (§2) n'en sera que plus lourde le jour où elle vient.
+- **Le Verger n'a pas acheté.** L'entrée dans la secte est passée par autre chose. *(v17 : par la vérité publique. Jalon accompli.)*
+- **Le joueur s'est convoqué lui-même au bureau central** en déclarant une espèce hors répertoire.
+- **La bête a refusé une fois, et elle a été forcée.** Premier grain de sable du pacte. *(v17 : quatre contraintes, la dernière gagnée en force. Le prix monte, sans jamais être annoncé.)*
 
-### 11.4 · Calibration — point MJ du 2026-08-12 (après sc. 85)
+### 11.4 · Point MJ du 2026-08-12 (après sc. 85)
 
-- **Les quinze sont un boulet à ses yeux.** Il veut pouvoir s'en défaire, en mal comme en bien (fonction productive qui rapporte). Le MJ ne présume **jamais** l'attachement — même après une chasse jouée « on ne m'abandonne pas ». La position d'une nuit n'est pas une préférence de fond. → errata §19.
-- **Il veut de la température.** La froideur uniforme post-porte 15 l'a refroidi, lui : *« une froideur ultime est apparue, c'est dommage »*. Le monde doit vouloir des choses de Seb, bruyamment. → errata §15-16.
-- **Margot doit exister** — dit crûment : *« fade à souhait »*. → errata §17.
-- **Il veut l'information sur la valeur des personnages, immédiate et sans qu'il la demande** → ligne ⚑ Atout, errata §18.
-- **Rythme de génération** : effort high par défaut (sa main), max sur charnières datées. La profondeur se garde par le corpus, pas par l'effort. Prose modulée : il aime les deux registres — courte en courant, ample sur l'intense.
+Délestage disponible (§19) · température du monde (§15-16) · Margot doit exister (§17) · ligne ⚑ Atout (§18) · effort high par défaut, prose modulée.
+
+### 11.5 · Ce que la v17 a appris du joueur (2026-08-13)
+
+- **Il vérifie.** Quatre catastrophes sur sept jets l'ont fait tiquer et calculer la probabilité lui-même. Le MJ a répondu par un **tirage de contrôle public** (200 000 lancers, distribution, probabilité exacte) et un rappel du rembobinage. **Il a refusé le rembobinage et joué.** Conduite : quand il conteste un hasard, **on vérifie devant lui, on ne rassure pas**.
+- **Il réclame ce qui lui est dû.** Deux crans de porte oubliés, deux relances de sa part (errata §27). Il connaît la table mieux que le MJ ne la sert. **Ne jamais compter sur sa distraction.**
+- **Il corrige la mécanique en séance** et il a raison : un jet par action (errata §25), quatre options par bloc (§26), la logistique ne se joue pas (§28). **Prendre ses recadrages comme des règles, pas comme des humeurs — et les graver au codex le jour même.**
+- **Il demande de la sincérité mécanique.** *« Réponse sincère demandée — tu t'apprêtes à faire remonter ma bête en donnant au lieu d'arracher ? »* Il surveille la dérive morale du système, pas seulement du récit. Répondre **franchement, sans livrer la règle** : dire ce qu'on ne fera pas (pas de jauge de gentillesse, pas de loyauté-carburant), refuser de dire la règle elle-même, et **proposer de rejouer le bloc si l'option a été mal comprise.**
+- **Il joue la domination, pas la cruauté.** Il refuse de nourrir sa bête sur ses proches, force le refus, revendique la maîtrise (*« le maître c'est moi »*) — et paie treize points de vieille femme pour le prouver. **Les vrais choix noirs qu'il prend visent des gens qui se sont mis en travers, jamais des faibles offerts.**
+- **Il achète les grands moments aux jetons.** Trois triomphes garantis en trente-sept scènes, tous sur des charnières qu'il a identifiées lui-même (la route sans fenêtres, le second dixième, la descente sous le palier). **Servir ces scènes à pleine puissance : c'est là qu'il dépense, c'est là qu'il attend le spectacle.**
