@@ -38,7 +38,7 @@ Fini sur une plaine de terre battue devant Pierregarde : **6 812 abattu devant h
 2. **Il n'a rien** : pas de nom, pas de secte, pas d'art, pas d'arme, pas de monnaie valable, pas un visage connu. Pieds nus sur une route de terre rouge, avec un bras mort et 68 pièces d'un palier disparu.
 3. **Portes : 1 ouverte (HORS MESURE), 1 fermée (LA DÎME).** ~2 ouvertes et ~1 fermée à gagner ici (errata §32).
 4. **Systèmes neufs à servir** (errata §33) : **les arts** à crans, 2-3 actifs max · **la réclusion** qui transforme contre le temps du monde · **l'équipement**, réel et important — et **l'équipement qui évolue, quasi inconnu : événement de campagne, jamais mécanique.**
-5. **La bête est à sa taille.** Quinze motifs, cinq mots. **Elle regarde un charretier qui chante.** C'est le fil principal du palier.
+5. **La bête est à sa taille.** Quinze motifs, cinq mots — **le nom est livré (Aubran, sc. 183)**. C'est le fil principal du palier, et il a maintenant une **échelle explicite** : errata §34, six crans de forme jusqu'à l'interlocutrice anthropomorphe, gagnés à la grosse prise ou à la réclusion. **Son registre animal se décidera à sa plus grosse prise d'ici.**
 6. **Le Corps : trempé, 9 couches.** Grade suivant à 12. L'épreuve seule.
 
 ## 4 · ANCRE D'ENTRÉE — À FIXER EN SCÈNE

@@ -316,3 +316,43 @@ Demande du joueur pour le palier II : *« des compétences de combat, comprendre
 **4 · LA BÊTE.** Fil principal du palier. Elle se livre **par des bouches et par des moments qui mordent** — jamais par déchiffrement (§31). Le nom scellé du coffre §2 se refixe au moment où la fiction le livre (errata §1).
 
 **Registre général : webtoon de Murim.** Rythme rapide, paliers de puissance lisibles, transformations spectaculaires, sectes, arts nommés, réclusions, et des gens qui plient.
+
+## 34 · LA BÊTE DEVIENT UNE INTERLOCUTRICE (2026-08-13, point MJ — validé joueur)
+
+Demande du joueur, en toutes lettres : *« je ne sais pas où tu emmènes ma bête, mais je veux une vraie femme (anthropomorphe — furry accepté voire apprécié) avec qui converser à terme. »* Quatre arbitrages posés et validés.
+
+### 34.1 · L'échelle de forme — six crans, cinq à gagner sur le Murim
+
+| Cran | Ce qui change |
+|---|---|
+| **1 · Debout** | ✅ **acquis** — taille de Seb, quinze motifs, cinq mots |
+| **2 · Les mains** | la paume gauche creusée devient une vraie main : elle prend, elle tient, elle **rend**. Premier geste qui n'est pas une demande |
+| **3 · La face** | un visage se détache du reste — les yeux d'abord. Le **registre animal dominant** apparaît ici |
+| **4 · La phrase** | elle enchaîne plus d'un mot. Toujours comptable, mais une syntaxe |
+| **5 · La question** | elle demande quelque chose qu'elle ne sait pas. **C'est le vrai basculement** : jusque-là elle énonçait |
+| **6 · La conversation** | elle répond, elle argumente. **Femme anthropomorphe achevée.** |
+
+- **Déclencheur : une grosse prise** *(une proie qui se bat, au-dessus de ce qu'elle a déjà mangé)* **ou une réclusion.** Un critique lié à elle peut valoir un cran (§23/§27).
+- **Jamais deux crans dans la même scène.** Jamais annoncé à l'avance — ça s'écrit dans la scène, comme une porte.
+- **Le joueur déclenche par ce qu'il joue.** Le MJ ne pose pas l'échelle sur son chemin et ne la lui refuse jamais (§30).
+
+### 34.2 · Sa forme est faite de ce qu'elle mange — et le joueur le sait
+
+- **Le registre animal dominant vient de sa plus grosse prise.** Aujourd'hui, son grain de pierre sciée vient du 6 812 de la carrière ; le registre animal viendra de ce qu'elle mangera **ici**.
+- **Ce que Seb lui donne à manger décide de ce qu'elle devient.** **Règle ouverte, dite au joueur** — un système que le joueur doit deviner est un système mort (§31).
+- **Elle n'est jamais tout à fait finie** : chaque grosse prise se voit sur elle.
+
+### 34.3 · Ce qu'elle est en face — alliée, avec une créance *(choix joueur : « 2 avec un peu de 1 »)*
+
+- **Elle est de son côté.** Elle veut ce qu'il veut, elle le défend, l'attachement est réel et réciproque. **Le conflit ne porte jamais sur la direction.**
+- **Sauf sur la part.** La dîme est à elle. Là-dessus, et là seulement, elle réclame, argumente, et peut refuser. Le prix de la contrainte continue de monter **sans jamais être annoncé**.
+- **ELLE NE RENSEIGNE PAS, ELLE RÉAGIT.** Elle veut, refuse, prévient d'un mot, se réjouit. Elle **n'explique jamais le monde**, ne donne jamais de marche à suivre, **ne résout jamais une scène à la place du joueur**. Ce qu'elle sait d'avant la mesure ne sort que **contre quelque chose**, dans une scène qui mord (§31).
+- **Interdiction absolue** d'en faire un puits à savoir (§4) ou un distributeur d'indices.
+
+### 34.4 · Elle règle ce qu'on voit d'elle
+
+Symétrie exacte du Masque : **lui règle son chiffre, elle règle sa forme.** Le monde voit ce qu'elle laisse voir. Le scandale devient **une arme que Seb peut choisir de sortir**, jamais un accident subi.
+
+### 34.5 · Registre d'écriture
+
+**Anthropomorphe assumé, furry assumé.** Pas de pudeur qui rend la description floue, pas de contorsion pour éviter le mot. Une femme faite de victoires, avec un registre animal net, décrite franchement.

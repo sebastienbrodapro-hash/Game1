@@ -216,7 +216,26 @@ Espèce inscrite au palier I : ***péché — gloutonnerie***, ligne de mesure *
 **ELLE PARLE** — quatre mots prononcés, jamais sur commande, toujours comptables : « **Part.** » · « **Après.** » · « **Creuset.** » · « **Suivant.** »
 **Elle demande sa part** en ouvrant la paume gauche. **Seb décide de ce qu'il offre, jamais de ce qu'elle prend.** Elle a été forcée quatre fois ; le prix de la contrainte monte sans jamais être annoncé.
 **Elle s'allume quand quelqu'un qui avait quelque chose à perdre plie** — pas devant le nombre, pas devant l'obéissance commandée.
-**Elle regarde un charretier qui chante.**
+
+**SON NOM EST AUBRAN** *(livré sc. 183, chanté par Firmin ; elle l'a dit en même temps que lui — cinquième mot)*. C'est un nom d'avant la mesure. **On ne le chante pas dehors.**
+
+#### CE QU'ELLE DEVIENT *(règle ouverte, errata §34)*
+
+Elle monte vers **une interlocutrice anthropomorphe achevée**, en six crans :
+
+| | |
+|---|---|
+| **1 · Debout** | ✅ acquis |
+| **2 · Les mains** | elle prend, elle tient, **elle rend** |
+| **3 · La face** | un visage — et le **registre animal** apparaît |
+| **4 · La phrase** | plus d'un mot d'affilée |
+| **5 · La question** | elle demande quelque chose qu'elle ne sait pas |
+| **6 · La conversation** | elle répond, elle argumente |
+
+**Un cran se gagne à une grosse prise ou à une réclusion.** Jamais deux dans la même scène, jamais annoncé à l'avance.
+**SA FORME EST FAITE DE CE QU'ELLE MANGE.** Son grain de pierre sciée vient du 6 812 de la carrière ; **son registre animal viendra de sa plus grosse prise du Murim.** *Ce que Seb lui donne décide de ce qu'elle devient.*
+**Elle est de son côté** — elle veut ce qu'il veut et elle le défend. **Sauf sur la part** : la dîme est à elle, et là-dessus seulement elle réclame, argumente et peut refuser.
+**Elle règle ce qu'on voit d'elle**, exactement comme il règle son chiffre.
 
 ### 3.5 ORIGINE *(livré en jeu)*
 
