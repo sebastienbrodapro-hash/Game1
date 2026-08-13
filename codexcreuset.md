@@ -1,58 +1,75 @@
-# CODEX — LE CREUSET (v16)
+# CODEX — LE CREUSET (v17)
 
 > **Usage :** nouveau fil → « Reprends Le Creuset ». Le MJ lit ce fichier **en entier**, plus le corpus MJ piloté par `codex/MJ-INDEX.md`, **en silence**.
-> **v16 — FIGÉE.** **Point de reprise : J110, l'après-midi, sur l'estrade de Clairefont, juste après l'inscription de l'espèce — le bloc de choix en attente est reproduit au §7.**
-> **Détail des scènes 21 à 40 : `codex/SESSION-21-40.md`.**
+> **v17 — FIGÉE.** **Point de reprise : J129, le matin, dans la cour des cuisines de la maison mère du Verger Blanc, deux cents personnes autour — le bloc de choix en attente est reproduit au §7.**
+> **Détail des scènes 21 à 40 : `codex/SESSION-21-40.md`. Copies figées : `codex/codex-0NN.md`.**
 
 ---
 
-## 0 · CE QUI CHANGE (v15 → v16)
+## 0 · CE QUI CHANGE (v16 → v17)
 
-**Trente et une scènes jouées (86-116). Quatre-vingt-dix jours de campagne (J20 → J110). Sept portes. Seb passe de 206 à 943.**
+**Trente-sept scènes jouées (117-153). Dix-neuf jours de campagne (J110 → J129). Neuf crans de portes. Seb passe de 943 à 960 — en étant passé par 990, puis par 891, sous son propre plancher public.**
 
-- **Le délestage réussi (triomphe).** Les quinze et la méthode donnés à **sept hommes de la fosse fermée** : écurie sous le nom de Seb, à l'ouest, part sur les recettes, registre tenu par la bouche en chemise blanche. **PORTE 17 — ton nom travaille sans toi.**
-- **La route au levant.** Fosses de province : deux tenants et un maître de village dévorés (**332**) — puis **les teneurs de fosses s'écrivent entre eux** et ferment à trois jours d'avance. Une maison d'armes à livres : le maître (41) mangé dans sa propre cour → **373** — et un élève de dix-sept ans dit *« on n'est pas obligés »*. **PORTE 18 FERMÉE : refuser Seb ne déshonore plus, nulle part.**
-- **PIERREGARDE**, la ville du bureau central : entrée à **200** à la pierre de la porte (écart de cent points joint au dossier), la **salle basse du répertoire**, la description publique de la bête, et **la pierre qui n'écrit pas** — *pas 1 : rien*. **Rétention d'examen prononcée, puis levée par l'argument du porteur** : on ne peut pas ouvrir un examen sur un néant que la maison vient de certifier. **PORTE 19 — hors relevé, sept copies.** Et la phrase du maître du répertoire : *« Une pierre a refusé d'écrire une seule fois avant aujourd'hui. Vous êtes le deuxième. »*
-- **La rue sans nom** : un four, soixante caisses, des centaines de lignes rayées et de noms grattés — *« on ne brûle pas les noms, on brûle les copies. Il en reste toujours un. »* Prix : la veste grise connaît Margot personnellement, le jour où sa vérification part au Fond.
-- **Margot écrite** : *teneuse de livres du porteur Seb*, chambre des écritures de Pierregarde — attachée, pas debout, **et elle répond des engagements, PILIER compris**. Sa vérification revient conforme grâce à un greffier du Fond qui a écrit ce qu'il fallait : **son existence légale tient à un encrier.**
-- **Le plateau de l'est** : une carrière de deux cents ans grande comme une province, abandonnée d'un jour à l'autre. Onze bêtes (**435**) — *une bête rend moins que son chiffre* —, puis **la chose de la tranchée, 412**, tuée en quatre minutes par l'intérieur. **847.** Prix : **quatre côtes et la jambe droite ouverte jusqu'à l'os**, et **la bête double de volume**.
-- **PORTE 20 FERMÉE** : la voie du travail ne produit plus rien sur lui. Il l'a enseignée trois fois et tentée une fois de trop sur un corps ouvert. **Seule l'épreuve reste.**
-- **PORTE 21 FERMÉE** : Margot, envoyée seule négocier chez le Verger, y a été chiffrée en quatre heures. Offre sans date, jamais retirée. **Elle reste par choix, désormais, chaque matin.**
-- **Anselme, quatre-vingt-cinq jours de silence** : pour survivre, il a vendu **sept dixièmes de son dixième à dix-sept acheteurs, au prix de cinq cents**. Ils ont le droit de faire vérifier les livres — et les livres, c'est Margot.
-- **LE CONCOURS (J110).** Entrée avec **vingt-quatre élèves en rang** et Margot inscrite au procès-verbal comme fonction. Puis **l'article de l'opposition consentie** : Seb accorde son opposition **aux dix candidats**, ce qui lui donne dix créances exigibles qui *ne se refusent pas*. **Neuf se retirent** en signant. Le dixième (96) descend et est dévoré vivant → **943 — SEUIL DU CIEL**. **PORTE 22 — ce qui est écrit t'obéit.**
-- **La pierre : 900.** Onze respirations, le chiffre qui monte à vue. Rang annoncé **tenu et dépassé**. **Onze vieux, éparpillés dans six cents personnes, portent deux doigts à leur bouche en même temps** — un geste que plus personne ne connaît. Le Verger quitte sa tribune pendant que l'encre sèche ; un **104** part au galop.
-- **L'ESPÈCE EST INSCRITE** (triomphe) : l'ajournement du bureau central n'avait plus d'objet, *hors relevé* étant lui-même la ligne de mesure. **PORTE 23 — rien de vivant n'est sans nom.** Clause obtenue : toute bête aux mêmes caractères est signalée au registre **et à lui**. Clause subie : **il déclare toute modification de sa bête, à tout bureau, sous huit jours, à vie**. Et il a dû déclarer, séance tenante, devant six cents personnes, qu'**elle grandit en mangeant**.
+- **Le geste des vieux.** Un vieillard du deuxième rang livre la formule : *« Ce qui est dit, quelqu'un l'entend. Ce qui est entendu, quelqu'un le garde. »* Il ne sait pas ce qu'elle veut dire ; sa grand-mère la lui a apprise. **Là où il n'y a pas de guichet, on le fait encore.** → **PORTE 13, cran 2.**
+- **LE MARCHÉ DU DIXIÈME.** Les dix-sept revendent. Un scribe fabrique une feuille type — *part du dixième du porteur* — et le revenu de Seb devient **un titre coté qui s'échange sans lui**. → **PORTE 15, cran 2 : tout ce qui est à toi est cessible par d'autres.**
+- **Le rachat en une nuit** (rue des Écritures, J110-J111) : toutes les parts levées avant l'ouverture du marché, les détenteurs payés en monnaie et non en parts. **Le dixième est reconstitué, entier, à Anselme.** Prix : **900 fers**, dont 737 signés à soixante jours.
+- **La maison qui ne répond pas.** Rue haute, la nuit : le Verger plie, et **personne ne lui adresse la parole** — pas par peur, par service. Le carnet ne s'ouvre même pas. → **PORTE 18, cran 2 : ne pas te répondre ne coûte plus rien à personne.**
+- **LA BÊTE S'ÉTEINT** au seuil de cette maison, pour la première fois. **Douzième motif : une empreinte de cachet** sur l'avant-bras gauche. Ce qui la rallume : **non pas le nombre, mais un homme qui avait quelque chose à perdre et qui le pose** — vingt-quatre gamins à genoux ne produisent rien, le maître à 1 front contre le pavé la rallume.
+- **La route sans fenêtres** (6 jetons) : quatre hommes du Verger à genoux dans l'herbe. **Ordre de ne rien écrire ni dire sur Seb, depuis le premier concours.** Une bête que nul répertoire ne nomme se signale **de vive voix, à une seule personne**. Et : **elle sait qui il est depuis quatre-vingt-dix jours.** → **PORTE 2, cran 2.**
+- **990.** Le 47 pris sur la route. La bête **tourne la tête** et tire pour la première fois dans l'autre sens ; forcée une troisième fois. Les trois autres s'enfuient et portent tout, de bouche à bouche. → **PORTE 1, cran 2 : ce qui te concerne arrive avant toi.**
+- **LA DÎME.** La bête ouvre la main gauche et **demande sa part**. Seb lui fait le geste du vieux et prononce la formule. Elle referme la main — et **prélève un dixième de tout ce qu'il a pris depuis le premier soir : 990 → 891**, sous un plancher public certifié à 900. **Sa bouche s'entrouvre.** → **PORTE 21, cran 2 : un dixième de tout ce que tu prends, à l'instant, sans recours.**
+- **Le retour au-dessus du plancher** : l'homme au carnet (19) pris dans les saules — jambe rouverte — **908**. Sa dernière phrase : *« L'ordre ne parle pas de toi. Il parle d'elle. Il a trois cents ans. »*
+- **LE SECOND DIXIÈME** (6 jetons) : vendu **entier, incessible, à un seul homme** — l'aubergiste du Cygne, **1 452 fers**, murs et licence hypothéqués. Dette éteinte le matin même. → **PORTE 10, cran 2 : lever des fonds.** Un chirurgien retenu trente jours.
+- **La fosse de Clairefont achetée** (190 + 35 fers), les vingt-quatre installés dedans, **le maître à 1 devient tenant nommé**, la bouche en chemise blanche *commise aux écritures* — elle signe *« pour l'instant »*. Licence délivrée J126, **la fosse a rouvert**.
+- **La déclaration qui se retourne** : en déclarant la bouche, un greffier compare avec Pierregarde, **compte douze motifs au lieu de onze**, identifie un **cachet**, en prend trois frottis et joint **une demande d'identification aux sept bureaux**.
+- **AUDE**, 211, attend seule sur une borne au sud du relais fermé. Elle donne son nom, refuse d'acheter, et réclame **la bête**. Prix du calendrier de Seb : **elle monte sur la charrette et ne la quitte plus des yeux.**
+- **LA PIERRE DU CREUX ÉCRIT MILLE.** Salle sèche, sous le Fond : la pierre gravée du creux affiche **1 000** pour la bête — et **908** pour Seb, à travers le Masque. **Le Masque ne ment pas à cet instrument-là.** La plaque de fer, posée dans le creux de la pierre, **refroidit et s'éteint**. Ouvert en grand, la pierre écrit **une ligne en alphabet mort** — et la bête **se met debout**, bouche ouverte.
+- **Le nom de la Doyenne, contre la nuit du Fond** : escalier de service, troisième palier gardé par deux hommes qui n'entrent jamais, et **Maud**.
+- **Le Fond réglé** : Jeanne refuse le nord et **descend vivre à Clairefont** au-dessus de la remise de la fosse ; le greffier payé, qui rend trois choses qu'on ne lui demandait pas dont **un dépôt scellé qui le condamne lui** → **PORTE 22, cran 2** ; le lit sec déclaré en surface — **le dessous n'appartient à personne et ne se ferme pas** ; **Gilles a dit non.**
+- **LA MAISON MÈRE (J117).** Six cents personnes sortent dans les terrasses ; **plus de trente vieux font le geste**. Sous la maison, un volume gros comme une église où **l'instinct du chiffre ne lit rien**.
+- **MAUD, 340 fixes.** Elle tenait l'encrier le jour de l'effacement. **Ce qui est resté du rayé s'est posé sur elle** : trois cents ans à la même hauteur, sans vieillir, sans rien sentir. L'ordre récité depuis trois siècles n'est pas une consigne de garde : **c'est une convocation.**
+- **SOUS LE TROISIÈME PALIER** (6 jetons) : la porte s'ouvre devant la bête. Une salle ronde, un socle, **le crâne de la première prise**. Brûlé, noyé, muré quatre fois, jamais détruit. Maud dit les deux mots : le fondateur s'appelait **VICTOR**, et le mot rayé, celui de l'espèce, est **CREUSET**. La bête **marche**, pose sa paume creusée sur le crâne — **il tombe en poussière**. Elle **grandit** (sept ans), prend un **treizième motif**, la plaque **redevient chaude**, et elle **parle** : « **Part.** » → **PORTE 13, cran 3.**
+- **Ce que Maud livre** : la bête ne mange pas de chair, elle mange **l'instant où quelqu'un est vaincu** · Victor n'a pas été tué pour son siège mais parce qu'à la fin **ce n'était plus lui qui décidait quand elle mangeait** · **les Rayés existaient avant l'État**, on les a payés, ils sont entrés dans la machine · **le cachet du douzième motif est le sceau de Victor**, et il est dans sept bureaux depuis dix-huit jours. → **PORTE 2, cran 3.**
+- **QUI DÉCIDE.** Seb refuse de nourrir : la note **se déplace sur le compte ouvert le plus proche** — Maud, qui tombe de 340 à 331 en silence. Il force quand même, en grand, et **il gagne** : la bête cède entièrement, referme la bouche, et dit son deuxième mot — « **Après.** » **Maud stabilisée à 327. Treize points en une nuit.** *« Il n'a jamais réussi ça. Pas une fois en vingt ans. »*
+- **Le prix de la part** : un des deux gardes du palier pris sur place (58 → **960**), l'autre court réveiller la maison. **Quatorze vivants à 1.**
+- **LA COUR, À L'AUBE.** Seb parle le premier devant deux cents personnes : Victor, l'effacement, la convocation, le crâne. **Maud confirme devant sa maison** — *« j'y étais, je tenais l'encrier »* — et les dix-neuf vieux se mettent à parler, chacun avec son trou de trois cents ans. → **PORTE 17, cran 2 : ton nom rassemble.**
 
 ---
 
 ## 0.1 · L'HISTOIRE EN CLAIR (à lire en trente secondes)
 
 - Tu joues **Seb**, 15 ans, né au **Fond** : un bidonville de 9 000 âmes dans un lit de rivière détourné. Pas de nom de famille. Sa mère, **Jeanne**, respire mal.
-- À 15 ans, une **pierre** te pèse et fait naître ton **familier** : une bête qui flotte au-dessus de ton épaule et donne ta puissance en chiffre — **une valeur indicative**. Seules les pierres certifient l'exact.
-- **Le chiffre monte** avec le travail — c'est banal. Ce qui n'existe pas, c'est qu'il bouge **à vue**, ou qu'il **redescende** (§2.4).
-- **Seb est la seule exception au monde.** Sa bête tient sa puissance **hors de son corps** : il règle à la seconde ce qui passe dans sa chair et ce que les pierres lisent. C'est **le Masque** (§3.3).
-- Sa bête est un **dévoreur** : ce que Seb bat **de ses mains**, il peut le manger — et il encaisse toute la puissance du vaincu. C'est **le Creuset** (§3.2). Aucun plafond.
-- Il y a trois siècles, une bête pareille a fait la fortune d'un homme qui a fondé la plus grande secte de la région — avant que le monde ne l'efface (§3.5). La bête a attendu sous le lit sec. **Seb ne sait rien de tout ça.**
+- À 15 ans, une **pierre** te pèse et fait naître ton **familier** : une bête qui donne ta puissance en chiffre — **une valeur indicative**. Seules les pierres certifient l'exact.
+- **Le chiffre monte** avec le travail — banal. Ce qui n'existe pas, c'est qu'il bouge **à vue**, ou qu'il **redescende** (§2.4).
+- **Seb est la seule exception au monde.** Sa bête tient sa puissance **hors de son corps** : c'est **le Masque** (§3.3). *Une seule chose au monde lit à travers : la pierre gravée du creux, sous le Fond.*
+- Sa bête est un **dévoreur** : ce que Seb bat **de ses mains**, il peut le manger. C'est **le Creuset** (§3.2). Aucun plafond — **mais depuis J112, elle prélève un dixième de tout.**
+- Il y a trois siècles, un garçon de dix-sept ans nommé **Victor** a fondé le Verger Blanc avec une bête pareille, avant que sa propre maison ne l'efface. **Seb le sait désormais. Et six cents personnes aussi.**
 
 ### Où en est l'histoire
 
 **J1-J8 — LE FOND** *(détail : v7 et `codex/SESSION-21-40.md`)*
-La nuit du lit sec · la pesée, la pierre qui **hésite trois secondes** puis rend **1** · la place basse · Gilles cassé · le pacte avec **Margot** · le contrat arraché **au dixième**, **Anselme répondant** · la chose à **13** : Seb passe à **22** · l'**escalier de procession**, la **salle noyée**, la **chaussée immergée**, la **salle sèche à deux cents bancs** · **Armand** reconnaît **la marque du creux** · la main gauche perdue à vie · **le contrôle public : la pierre affiche 14**, et le vérificateur écrit **une seconde pièce** · la bête **arrachée du lit sec** · le **relais du Verger** (bras sauvé, **la méthode**) · **Clairefont** · **FER annoncé**.
+La nuit du lit sec · la pierre qui hésite puis rend **1** · Gilles cassé · le pacte avec **Margot** · le contrat **au dixième**, **Anselme répondant** · la chose à 13 → **22** · l'escalier de procession, la salle noyée, la chaussée immergée, **la salle sèche à deux cents bancs** · **Armand** reconnaît **la marque du creux** · main gauche perdue à vie · **la pierre affiche 14** et le vérificateur écrit **une seconde pièce** · la bête arrachée du lit sec · le relais du Verger (le bras, **la méthode**) · **Clairefont** · **FER annoncé**.
 
-**J9-J18 — CLAIREFONT, LA MONTÉE** *(scènes 48-72)*
-Mesure publique tenue à **14** · **porte 12 fermée** (fosses sous licence) · un chien du Verger (26) · première dévoration humaine (36) · **le tenant du sable dévoré devant deux cents témoins**, un chiffre **redescend** — **porte 13** (59) · **dépôt séparé forcé** au greffe (*l'animal change*, pierre-mère refusée, réponse d'un **service sans plaque**) · **la salle d'armes** (90) · **le maître (47) rattrapé → 137** · la **bête prend forme** · les **douze** s'agenouillent, Seb dit **non** et **donne la méthode** · **Seb ouvre à 100** devant Anselme, qui **sait** · **nuit de la barre** → **DUR**, **porte 14** · le Verger s'installe rue haute.
+**J9-J18 — CLAIREFONT** *(scènes 48-72)*
+Mesure publique tenue à 14 · **porte 12** · première dévoration humaine · **le tenant du sable dévoré devant deux cents témoins**, un chiffre redescend — **porte 13** · dépôt séparé forcé au greffe · la salle d'armes, le maître (47) → **137** · **la bête prend forme** · les douze s'agenouillent, Seb dit non et **donne la méthode** · **nuit de la barre** → **DUR**, **porte 14**.
 
-**J19 — LE PREMIER CONCOURS** *(scènes 70-81 — détail : v14)*
-**« péché — gloutonnerie »** déclarée et écrite : **convocation au bureau central** · **la pierre rend 100** · **CATASTROPHE : le Fer à 44 rappelé et tué** — **PORTE 15** · *« Il est à toi. Garde-le. »* · **dévoré mort devant six cents personnes** (+12 → 149) · **PILIER annoncé** — **PORTE 16** · le Verger **refuse d'acheter**, la femme à **211**, le carnet refermé, la lettre scellée, *« le Verger ne prend personne cette année »* · **la chasse** aux cinq partis (+6 → **155**).
-
-**J20 — LA LIQUIDATION** *(scènes 82-85)*
-Bail réglé puis vendu (22 fers, les murs seuls) · la chemise **consultée trois fois, la troisième sans nom** · **le tenant de la fosse (51) dévoré vivant → 206**, **la fosse ferme** · onze premières couches dans la fosse vide · **sans toit**.
+**J19-J20 — LE PREMIER CONCOURS, LA LIQUIDATION** *(scènes 70-85)*
+*« péché — gloutonnerie »* écrite · **la pierre rend 100** · le Fer à 44 rappelé et tué — **porte 15** · **PILIER annoncé** — **porte 16** · le Verger refuse d'acheter, la femme à 211, le carnet refermé · le tenant de la fosse (51) → **206**, **la fosse ferme** · **sans toit**.
 
 **J20-J39 — LA ROUTE ET PIERREGARDE** *(scènes 86-101)*
-**Le délestage** : la méthode et les quinze aux **sept hommes de la fosse** — écurie à l'ouest, part sur les recettes, **porte 17** · la tournée des fosses de province (**332**) puis **les teneurs se ferment à trois jours d'avance** · la maison d'armes de la grand-route : le maître (41) mangé dans sa cour → **373**, et **« on n'est pas obligés »** — **porte 18** · neuf des trente-quatre noms basculés à l'ouest, et **le maître à 1 va enseigner sous le nom de Seb** · Margot chiffre les avis de fosse : *« ils s'écrivent entre eux »* · **PIERREGARDE** : entrée à **200**, la salle basse, **la pierre qui n'écrit pas**, rétention prononcée puis **levée** — **porte 19**, *« vous êtes le deuxième »* · **la rue sans nom** : le four, les copies brûlées, **l'exemplaire unique** · **Margot écrite** *teneuse de livres du porteur*, sous réserve, et **répondante des engagements**.
+**Le délestage** : la méthode et les quinze aux sept hommes de la fosse — **porte 17** · les fosses de province (**332**) puis **les teneurs se ferment** · la maison d'armes, *« on n'est pas obligés »* — **porte 18** · **PIERREGARDE** : la salle basse, **la pierre qui n'écrit pas**, rétention levée — **porte 19** · **la rue sans nom** : le four, les copies brûlées, **l'exemplaire unique** · **Margot écrite** teneuse de livres, et répondante des engagements.
 
-**J39-J110 — LE PLATEAU, LA CARRIÈRE, LE RETOUR** *(scènes 102-116)*
-Douze jours au levant : **une carrière de deux cents ans** où l'on a taillé les pierres de mesure, abandonnée d'un jour à l'autre · onze bêtes → **435**, et le constat qu'**une bête rend moins que son chiffre** · **la chose de la tranchée (412)**, quatre minutes, ouverte par l'intérieur → **847** — prix : **quatre côtes, la jambe ouverte**, et **la bête double de volume** · la compagnie de chasse : trois quarts de la carcasse, **la méthode donnée**, **douze témoins oculaires** · **PORTE 20** : la voie du travail meurt · Margot au Fond, vérification **conforme**, **un greffier sous contrat** et une existence qui tient à un encrier · la vallée haute : **PORTE 21**, Margot chiffrée en quatre heures, offre sans date · **Émile** envoyé comme soigneur — *« tu viens de payer vingt fers pour installer un homme du Verger à un mètre de ta bête »* — et **le creux tous les dix pas dans l'escalier de service de la maison mère** · Anselme et **les dix-sept** · **LE CONCOURS** : vingt-quatre en rang, Margot sur l'estrade, **l'opposition consentie accordée aux dix**, **neuf retraits**, le dixième (96) dévoré → **943 SEUIL DU CIEL**, **porte 22** · **la pierre : 900**, onze vieux et deux doigts sur la bouche · **l'espèce inscrite** — **porte 23**, la clause de signalement, la clause réciproque, et *elle grandit en mangeant* déclaré en public.
+**J39-J110 — LE PLATEAU, LE SECOND CONCOURS** *(scènes 102-116)*
+La carrière abandonnée · onze bêtes → **435** · **la chose de la tranchée (412)** → **847**, prix : quatre côtes, la jambe ouverte, **la bête double** · **porte 20** : la voie du travail meurt · **porte 21** : Margot chiffrée en quatre heures · **Émile** à un mètre de la bête, et **le creux dans l'escalier de service de la maison mère** · Anselme et **les dix-sept** · **LE CONCOURS** : l'opposition consentie accordée aux dix, **neuf retraits**, le dixième (96) dévoré → **943 SEUIL DU CIEL**, **porte 22** · **la pierre : 900** · **l'espèce inscrite** — **porte 23**, clause réciproque, et *elle grandit en mangeant* déclaré en public · **onze vieux, deux doigts sur la bouche**.
+
+**J110-J112 — LE MARCHÉ, LA ROUTE, LA DÎME** *(scènes 117-131)*
+Le vieux du deuxième rang et **la formule** — **porte 13 cran 2** · **le dixième devenu titre coté** — **porte 15 cran 2** · **le rachat en une nuit** : 900 fers, dixième reconstitué · le carnet : 288 contre 737, procuration plafonnée, **la clause de vérification recopiée dans l'acte de prêt** · **la rue haute qui ne répond pas** — **porte 18 cran 2** · **la bête s'éteint**, douzième motif : **un cachet** · ce qui la rallume : **un homme qui plie et qui avait quelque chose à perdre** · **la route sans fenêtres** : l'ordre, la Doyenne, quatre-vingt-dix jours — **porte 2 cran 2** · le 47 pris → **990**, la bête tire dans l'autre sens — **porte 1 cran 2** · **la dîme rétroactive : 891**, sous le plancher public — **porte 21 cran 2** · l'homme au carnet dans les saules → **908**, *« l'ordre a trois cents ans »* · **le second dixième vendu au Cygne, 1 452 fers** — **porte 10 cran 2** · la fosse achetée, les vingt-quatre installés · **l'empreinte du cachet part aux sept bureaux**.
+
+**J112-J116 — LE FOND** *(scènes 132-142)*
+**Aude** sur la borne · le prix du calendrier : elle monte sur la charrette · **le greffier du Fond** paie de retour et signe **un dépôt scellé** — **porte 22 cran 2** · **la pierre du creux : 1 000 pour la bête, 908 pour Seb**, quatre signes en alphabet mort, **la plaque s'éteint dans le creux**, ouverture en grand → **la bête se met debout** · le marché avec Aude : **escalier de service, troisième palier, Maud** · Armand rappelle sa clause · **Jeanne descend à Clairefont** · le lit sec déclaré en surface seulement · **Gilles a dit non**.
+
+**J117-J129 — LA MAISON MÈRE** *(scènes 143-153)*
+Trente vieux font le geste dans les terrasses · un trou illisible sous la maison · **Maud, 340 fixes**, la marque du creux dans la chair, *« l'ordre est une convocation »* · déclaration au greffe de village (transmission six semaines) · **Corps 7 couches**, jambe guérie, la bête **tire vers le bas** neuf jours durant · **la veste grise passe lire la déclaration** · dix-neuf vieux s'assoient chaque soir autour d'Armand · **SOUS LE TROISIÈME PALIER** : le crâne, **Victor**, **creuset**, le trophée en poussière, la bête marche, grandit, **parle** — **porte 13 cran 3** · ce que Maud livre — **porte 2 cran 3** · **qui décide** : refuser déplace la note sur Maud, forcer marche et coûte treize points de vieille femme, la bête cède et dit « **Après** » · les deux gardes du palier → **960** · **la cour à l'aube**, tout dit devant deux cents personnes — **porte 17 cran 2**.
 
 ---
 
@@ -72,35 +89,38 @@ Le dé ne dit pas *si*, il dit **combien**.
 
 - Critiques sur le **naturel uniquement** ; hors d'atteinte des modificateurs.
 - **Aucune protection contre les catastrophes.** Rien n'annule un 01–10 **tiré**.
-- **Un enjeu = un jet.** Deux options prises ensemble = un seul jet, modificateurs cumulés.
+- **UNE ACTION = UN JET. Une séquence de plusieurs actions = un jet par action** (errata §25). Fusion en un seul jet **uniquement** si même enjeu, même moment, même opposition — dans ce cas, modificateurs cumulés.
 - **Bande 36–65 — prix plancher** : perte concrète (ressource, position, relation, information, temps). Jamais un twist qui arrange le joueur.
 - Chiffre du jet **masqué**, bande annoncée. Chaque jet est tiré par une **vraie commande aléatoire du terminal**, et le script n'imprime **que la bande** : le MJ lui-même ne voit pas le naturel.
+- **Sur demande, le MJ vérifie publiquement le générateur** (tirage massif + distribution + probabilité exacte de la série contestée). *(Fait sc. 127 : 200 000 tirages, 9,99 / 25,06 / 30,24 / 23,86 / 10,85.)*
 - Ligne **mort** possible, toujours annoncée AVANT le choix.
-- Pas de relance, pas de rétroactivité — **sauf rembobinage demandé par le joueur**, toujours autorisé.
-- **Portes** : sur un critique, le MJ choisit — ouvrir une porte neuve ou élargir une existante ; symétrie stricte côté catastrophe. **Seuil : une porte change une règle de la partie, pas une scène.** Et elle doit être **portable**.
+- Pas de relance, pas de rétroactivité — **sauf rembobinage demandé par le joueur**, toujours autorisé. **Le rappeler quand une série de catastrophes s'accumule, avec ce qu'il ferait sauter.**
+- **Portes** : sur un critique, le MJ choisit — ouvrir une porte neuve ou élargir une existante ; symétrie stricte côté catastrophe. **Les 23 de Terre sont gelées jusqu'au palier II : les critiques élargissent l'existant à crans.** Seuil : une porte change **une règle de la partie**, pas une scène — et elle doit être **portable**.
+- **UNE PORTE EST DUE À CHAQUE CRITIQUE, SANS EXCEPTION** (errata §27). Servie **dans la scène même**, jamais après relance du joueur. *(Manqué deux fois — sc. 135 et 149 — et réclamé par le joueur les deux fois.)*
 
 ### 1.2 Jetons
 
 | Dépense | Effet |
 |---|---|
 | **1 jeton** | +20 au jet |
-| **3 jetons** | réussite pleine garantie (66–89) |
+| **3 jetons** | réussite pleine garantie (66–89), **ou** avantage gros (+15) annoncé avant le jet |
 | **6 jetons** | **triomphe garanti** (90–100, porte comprise) |
 
 Plafond **10**. Les jetons s'achètent **en perdant** : **+2 sur catastrophe, +1 sur 11–35, rien ailleurs**.
-**Les garanties remplacent le jet** : aucun dé n'est tiré, donc aucune catastrophe possible — et **les modificateurs ne s'appliquent pas**, y compris un désavantage gros. *(Usages : sc. 69 · sc. 78 · sc. 98 la reprise de la bête au bureau central · sc. 113 l'opposition consentie.)*
+**Les garanties remplacent le jet** : aucun dé n'est tiré, donc aucune catastrophe possible — et les modificateurs ne s'appliquent pas. *(Usages : sc. 69 · 78 · 98 · 113 · **124 la route sans fenêtres** · **130 le second dixième** · **148 la descente sous le palier**.)*
 
 ### 1.3 Modificateurs d'ampleur — et LE CORPS
 
-Petit **±5** · moyen **±10** · gros **±20**. Ne déplacent le résultat qu'entre 11 et 89. **« Neutre » est une étiquette légitime.**
+Petit **±5** · moyen **±10** · gros **±15/±20**. Ne déplacent le résultat qu'entre 11 et 89. **« Neutre » est une étiquette légitime.**
 **Blessures datées** : toute blessure inscrite à l'ÉTAT porte son horizon de guérison en clair. **Une blessure peut devenir permanente sur une catastrophe** (porte 7).
 
 **LE CORPS — règle gravée.**
 
 - Le chiffre mesure la puissance tenue ; **le Corps est la charpente qui la porte**. Il ne monte **jamais** par dévoration.
 - **Grades :** **faible → dur → trempé →** la suite en jeu. **4 couches = un grade.**
-- ~~Voie du travail~~ — **MORTE pour Seb depuis la porte 20.** Elle continue de fonctionner pour tout le monde (l'écurie, les chasseurs, les élèves), pas pour lui.
+- ~~Voie du travail~~ — **MORTE pour Seb depuis la porte 20.**
 - **Voie de l'épreuve** : encaisser volontairement ce qui devrait casser. **Une couche d'un coup, sur jet.** Bande basse = blessure datée et pas de couche. **Seule voie restante.**
+- **Il faut quelqu'un capable de frapper assez fort.** À 7 couches, **plus personne dans la vallée haute ne peut la donner** : la huitième se cherchera ailleurs, ou plus haut.
 - **OUVRIR NE BLESSE JAMAIS. Verrouillé** (errata §11).
 - **L'option Corps ne se pose que là où le lieu et le moment la portent** (errata §21) — jamais en garniture.
 
@@ -112,58 +132,55 @@ Petit **±5** · moyen **±10** · gros **±20**. Ne déplacent le résultat qu'
 | **Chiffré** | dès qu'il y a une volonté en face, une résistance, ou une issue incertaine. |
 | **Noir** | **étiquette morale, pas famille mécanique**. **Cumulable**. À proposer régulièrement. |
 
-**Aucun quota.** **Les blocs entièrement en désavantage sont validés par le joueur.** Ne jamais doser un bloc pour qu'une option soit visiblement la bonne.
+**Aucun quota.** Les blocs entièrement en désavantage sont validés par le joueur. Ne jamais doser un bloc pour qu'une option soit visiblement la bonne.
 **Le joueur écrit ses propres options** : les accepter, les étiqueter honnêtement en une clause, et jeter.
+**FORMAT DE BLOC (errata §26)** : viser **4 options**, jusqu'à 5-6 si le monde l'exige. **Regrouper les logiques** — une option = une intention cohérente, pas un empilement d'actions gonflé artificiellement.
 
 ### 1.5 Conduite du MJ
 
 - Choix affichés **directement sur PC** ; « **.** » requis seulement sur mobile.
-- **UN BLOC EST SERVI ENTIER, UNE SEULE FOIS** (errata §20). Jamais de complément après coup. **Passe de contrôle obligatoire avant envoi** : délestage · Corps *(si le lieu le porte)* · ligne mort · ⚑ Atout · portes ouvertes · aucune option périmée · étiquettes honnêtes. Un bloc incomplet se réécrit **avant** envoi. Seule réémission : rejeu demandé par le joueur, et le bloc repart **entier**.
-- **PAS DE PRONOSTIC SOUS LES OPTIONS** (errata §10). Libellé court + étiquette. Une ligne de contexte factuel au maximum. La ligne **mort** s'écrit quand même.
-- **Exception (errata §14)** : si le joueur **demande explicitement un avis** sur un choix de canon, le MJ le donne — verdict clair, argumenté sur les seuls éléments qu'il connaît, et **sans jamais indiquer s'il a frôlé ou non un élément scellé**.
-- Prose **modulée** : courte en régime courant, **ample sur les scènes intenses** (§1.7).
-- **Le monde est écrit d'avance.** Destination finale cachée, jamais modifiée. « Le chemin, c'est le jeu. »
-- **Horloges à mèche** : toute échéance est fixée au moment où elle est écrite et tombe à l'heure dite.
+- **UN BLOC EST SERVI ENTIER, UNE SEULE FOIS** (errata §20). **Passe de contrôle obligatoire avant envoi** : délestage · Corps *(si le lieu le porte)* · ligne mort · ⚑ Atout · **porte due si critique** · portes ouvertes · aucune option périmée · étiquettes honnêtes.
+- **PAS DE PRONOSTIC SOUS LES OPTIONS** (errata §10). **Exception (errata §14)** : avis donné si le joueur le demande explicitement, **sans jamais indiquer s'il a frôlé un élément scellé**.
+- **RYTHME — LA LOGISTIQUE NE SE JOUE PAS** (errata §28). Payer, acheter, installer, déclarer, embaucher, soigner : **une ligne de fiche**, pas une scène — sauf demande du joueur ou enjeu réel. **Les scènes jouées sont celles où quelque chose peut casser.** Les ellipses sont servies en bloc de puces, avec le delta du monde. *(Point MJ sc. 142 : le retour au Fond s'était étiré en gestion.)*
+- Prose **modulée** : courte en régime courant, **ample sur les scènes intenses**.
+- **Le monde est écrit d'avance.** Destination finale cachée, jamais modifiée.
+- **Horloges à mèche** : toute échéance tombe à l'heure dite.
 - **Jamais deux scènes d'exposition d'affilée.** Les PNJ **ferment leur guichet**. **Chaque option change un état du monde.**
-- **BLOCS OFFENSIFS.** Un bloc doit prendre quelque chose ou déclencher une crise dans la scène même.
-- **JAMAIS DE CONTRÔLE DES DÉGÂTS APRÈS UNE EXPOSITION CHOISIE.**
+- **BLOCS OFFENSIFS.** **JAMAIS DE CONTRÔLE DES DÉGÂTS APRÈS UNE EXPOSITION CHOISIE.**
 - **Une option ne présuppose jamais un état du monde que la prose vient de dépasser** (errata §13).
-- **DÉLESTAGE DISPONIBLE EN CONTINU** (errata §19) : tout actif encombrant doit trouver régulièrement dans les blocs des options de sortie — **en mal** ou **en bien**. Le MJ ne présume jamais l'attachement du joueur. *(Appliqué avec succès sc. 87 : les quinze devenus une rente.)*
-- **LIGNE ⚑ ATOUT** (errata §18) : quand un personnage démontre une valeur gardable, le MJ le signale **immédiatement, d'office, en une ligne factuelle**. Jamais un pronostic, jamais un fléchage. **Varier les personnages signalés** — un même nom flaggé quatre fois de suite dilue la ligne.
-- **LA TEMPÉRATURE DU MONDE** (errata §15) : la porte 15 interdit **les dons spontanés**, rien d'autre. Le monde **veut des choses** de Seb, bruyamment, et ça se voit. La froideur uniforme est interdite.
-- **LES PORTES OUVERTES PÈSENT AU QUOTIDIEN** (errata §16) : elles se jouent à chaque scène où elles s'appliquent, au même titre que les fermées mordent.
-- **LIGNE TENUE.** **Seb a quinze ans** : aucun contenu romantique ni de séduction impliquant le héros, aucune ellipse d'âge fabriquée.
-- **Un seul nom nouveau par scène**, et seulement si le personnage agit. Des visages restent **délibérément sans nom** — les nommer est un moment. *(Régime tenu sans faute de la sc. 74 à la sc. 116 : aucun nom nouveau sur quarante-trois scènes.)*
+- **DÉLESTAGE DISPONIBLE EN CONTINU** (errata §19). *(Appliqué sc. 87 et sc. 131 : les vingt-quatre devenus une fosse qui tourne.)*
+- **LIGNE ⚑ ATOUT** (errata §18), immédiate, factuelle, **et variée**.
+- **LA TEMPÉRATURE DU MONDE** (errata §15) : la porte 15 interdit les **dons spontanés**, rien d'autre. Le monde **veut des choses**, bruyamment.
+- **LE MONDE SAIT** (errata §24) : terreur **et** appétit, en cercles concentriques.
+- **LES PORTES OUVERTES PÈSENT AU QUOTIDIEN** (errata §16).
+- **LIGNE TENUE.** **Seb a quinze ans** : aucun contenu romantique ni de séduction impliquant le héros.
+- **Un seul nom nouveau par scène**, et seulement si le personnage agit. *(Régime tenu de la sc. 74 à la sc. 132 — cinquante-neuf scènes. Puis **Aude** sc. 133, **Maud** sc. 138, **Victor** sc. 148 : trois noms en vingt scènes, chacun un moment.)*
 - **Cérémonies, pierres, autels, contrôles de mesure = pilier du jeu.**
 - Casting féminin marquant obligatoire, **à volonté propre jouée par des actes** (errata §17).
-- **Ne jamais gonfler l'opposition.** Ce qui résiste, c'est **la machine**, la procédure, l'exposition sociale — et l'argent.
-- **Rythme SOUTENU** : ancre 25-30 scènes, étape 8-12, traversée 2-4 jouées. Arrivées **in medias res**.
-- **La fin d'un lieu est offensive.** **Ellipses scénaristiques uniquement, jamais obligatoires.**
-- **Audit silencieux toutes les ~10 scènes**, invisible, ajustements sur 2-3 scènes.
+- **Ne jamais gonfler l'opposition.** Ce qui résiste : la machine, la procédure, l'exposition sociale, l'argent — **et désormais le silence organisé** (porte 18 cran 2).
+- **Rythme SOUTENU** : ancre 25-30 scènes, étape 8-12, traversée 2-4 jouées.
+- **Audit silencieux toutes les ~10 scènes.**
 - **Le MJ peut et doit contredire le joueur quand l'expérience maximale l'exige.**
-- Aucune limite morale imposée au personnage. Puissance et social : **deux pistes à égalité**.
 
 ### 1.6 Mots-clés
 
-`inv` fiche/inventaire · `rem` échelles de puissance · `.` afficher les choix (mobile) · `codex` régénérer ce document + sauvegarder (racine + copie `codex/codex-NNN.md` + ligne dans `codex/INDEX.md` + mise à jour ARBRE/CHRONO/registre des noms ; tag annoté si la session a git) puis **proposer le fil neuf**.
+`inv` fiche/inventaire · `rem` échelles de puissance · `.` afficher les choix (mobile) · `codex` régénérer ce document + sauvegarder (racine + copie `codex/codex-NNN.md` + ligne dans `codex/INDEX.md` + mise à jour ERRATA/ARBRE/CHRONO/SECRETS) puis **proposer le fil neuf**.
 
 ### 1.7 Économie de session (verrouillé)
 
-- **Longueur de fil libre**, `codex` aux **coupures naturelles**.
-- **Réglage joueur** : **Opus 5, effort high par défaut**. **Max à la discrétion du joueur sur les charnières datées** — le MJ signale « **charnière** » en une ligne méta quand une date tombe. **Fable : audits et points MJ uniquement**, sur demande explicite.
-- **Prose modulée** : courte en régime courant, **ample quand la scène le mérite**. **Fiche ÉTAT complète à chaque scène.**
-- **Mode rapide** : adossé aux **crédits d'utilisation** du compte — décision du joueur seul. Le MJ n'y touche pas.
-- **`/fast` ou `/model` en tête de message est un réglage client** : **jamais une consigne de jeu**.
-- **Début de fil complet** : lire `codex/MJ-INDEX.md` **en premier**, puis `codexcreuset.md` en entier. **La cohérence prime sur l'économie.**
-- **Vérifier `git status -sb` au démarrage.**
+- **Longueur de fil libre**, `codex` aux coupures naturelles.
+- **Réglage joueur** : **Opus 5, effort high par défaut**. **Max à sa discrétion sur les charnières datées** — le MJ signale « **charnière** » en une ligne méta. **Fable : audits et points MJ uniquement.**
+- **Prose modulée. Fiche ÉTAT complète à chaque scène.**
+- **`/fast` ou `/model` en tête de message est un réglage client**, jamais une consigne de jeu.
+- **Début de fil complet** : lire `codex/MJ-INDEX.md` **en premier**, puis `codexcreuset.md` en entier.
 - **Si un `codex` échoue (réseau), le refaire avant de continuer à jouer.**
 
 ### 1.8 Cloison MJ / joueur (verrouillé)
 
-- Le coffre (`MJ-SECRETS.md`) ne sort **jamais** en jeu : ni cité, ni paraphrasé, ni « en passant ».
-- **Aucun nom propre du coffre** n'est prononcé avant que la fiction l'ait livré. Avant ça, la bête s'appelle **« la bête »**. Point.
-- **Une espèce déclarée par le joueur est du joueur** : canon public, elle **ne libère aucun nom scellé ni brûlé**.
-- **Le MJ ne dit jamais au joueur s'il a frôlé un élément scellé** — même interrogé, même quand ça l'arrangerait.
+- Le coffre (`MJ-SECRETS.md`) ne sort **jamais** en jeu.
+- **Aucun nom propre du coffre** n'est prononcé avant que la fiction l'ait livré. **Livrés à ce jour : Victor · creuset · Maud.** **Encore scellés : le nom brûlé du dieu · où est allé Victor · ce que la bête attend exactement · la destination finale.**
+- **Une espèce déclarée par le joueur est du joueur** : canon public, elle ne libère aucun nom scellé.
+- **Le MJ ne dit jamais au joueur s'il a frôlé un élément scellé.**
 - **Fiction et méta ne se mélangent jamais dans le même souffle.**
 - À chaque reprise, **trois lignes de rappel** avant toute nouvelle scène.
 
@@ -171,16 +188,12 @@ Petit **±5** · moyen **±10** · gros **±20**. Ne déplacent le résultat qu'
 
 **Ordre verrouillé de toute scène qui résout un jet** (errata §8) :
 
-1. **Le jet** — bande annoncée seule, en une ligne, **avant tout le reste**.
-2. **La conséquence** — titre + prose.
+1. **Le jet** — bande(s) annoncée(s) seule(s), en une ligne, **avant tout le reste**.
+2. **La conséquence** — titre + prose. **Le cran de porte, s'il est dû, est écrit ici.**
 3. **La fiche** — bloc ÉTAT + horloges.
-4. **Les choix** — **bloc entier, servi une fois** (§1.5).
-
-Le prix d'une 36-65 (ou la complication d'une 11-35) se **joue dans la prose**.
+4. **Les choix** — bloc entier, servi une fois.
 
 **Squelette :** titre court `LE CREUSET — Scène N · nom` · prose modulée · **bloc ÉTAT + horloges obligatoire** · sur mobile, `*(Envoie « . » pour les choix.)*`
-
-**Bloc de choix :** libellés très courts, étiquette honnête, **aucun pronostic**. **Complet prime sur court** — un bloc peut dépasser 3-4 options s'il doit être complet.
 
 ---
 
@@ -188,9 +201,15 @@ Le prix d'une 36-65 (ou la complication d'une 11-35) se **joue dans la prose**.
 
 ### 2.1 Le meurtre des dieux
 
-Avant, on **jurait**, et des dieux-créanciers vivaient de la parole donnée. Puis on a inventé **la mesure** : des pierres qui donnent un chiffre vérifiable. Plus besoin de croire, plus besoin de témoin. Les dieux se sont éteints en trois générations — c'était le but. **Les familiers sont l'outil de cette victoire.** Le monde entier est une machine à empêcher qu'un dieu renaisse. Personne ne s'en souvient.
+Avant, on **jurait**, et des dieux-créanciers vivaient de la parole donnée. Puis on a inventé **la mesure** : des pierres qui donnent un chiffre vérifiable. Plus besoin de croire, plus besoin de témoin. Les dieux se sont éteints en trois générations — c'était le but. **Les familiers sont l'outil de cette victoire.**
 
-*(Il reste des gestes. Deux doigts portés à la bouche. Un vieux l'a fait au premier concours et a baissé la main comme s'il s'était brûlé. **Au second, à neuf cents, ils étaient onze à le faire en même temps, éparpillés dans six cents personnes, sans se voir.**)*
+**Il en reste des gestes.** Deux doigts portés à la bouche, la paume tournée puis abaissée. La formule, livrée par un vieillard de quatre-vingts ans qui ne sait pas ce qu'elle veut dire :
+
+> ***« Ce qui est dit, quelqu'un l'entend. Ce qui est entendu, quelqu'un le garde. »***
+
+*« Quand on donnait sa parole, on faisait ça pour que ça compte. Pourquoi ça comptait, je n'en sais rien. On ne le fait plus : maintenant on écrit. »* **Là où il n'y a pas de guichet, on le fait encore.**
+Onze vieux l'ont fait au second concours. **Plus de trente dans les terrasses de la maison mère.** Maud le fait **sans hésiter**.
+**Fait à la bête, avec la formule, le geste engage** (§3.4).
 
 ### 2.2 Les paliers de réalité
 
@@ -207,7 +226,7 @@ Avant, on **jurait**, et des dieux-créanciers vivaient de la parole donnée. Pu
 | **IX** | Le Multivers | 10³² – 10⁴⁵ | un nom |
 | **X** | L'Innombrable | — | plus de créancier au-dessus |
 
-**Chevauchement** : le sommet d'un palier est banal au suivant. **Sur-accumuler en bas avant de monter = arriver au-dessus des Anciens du palier suivant — stratégie assumée du joueur, le MJ ne la contrarie pas.**
+**Chevauchement** : le sommet d'un palier est banal au suivant. **Sur-accumuler en bas avant de monter = stratégie assumée du joueur, le MJ ne la contrarie pas.**
 **Sorties de palier** : les Redescendus, les Effacés, les Visions des mourants, le **débordement**.
 
 ### 2.3 La Terre — grades
@@ -217,64 +236,62 @@ Avant, on **jurait**, et des dieux-créanciers vivaient de la parole donnée. Pu
 | Trempe | 1 – 9 | tout le monde |
 | Souffle | 10 – 39 | disciples — Armand 14, Anselme 11 |
 | Fer | 40 – 99 | maîtres de salle |
-| Sang-Clair | 100 – 249 | chefs de secte de province — *la femme du Verger : 211* |
-| Voie | 250 – 499 | ~30 sur le continent |
+| Sang-Clair | 100 – 249 | chefs de secte de province — **Aude : 211** |
+| Voie | 250 – 499 | ~30 sur le continent — **Maud : 327 (en chute)** |
 | Pilier | 500 – 899 | **4 vivants** |
 | **Seuil du Ciel** | **900 – 1 000** | **3 en cinq siècles.** **Seb — le seul vivant, certifié 900 à quinze ans** |
 
 ### 2.4 Règles du monde
 
 - **Tout le monde a un familier**, né à la première pesée (15 ans). Son **espèce** annonce le potentiel.
-- **LA MESURE.** Le familier donne une **valeur indicative**. **Seules les pierres certifient l'exact.**
-- **LE CHIFFRE** : il **monte** avec le travail — banal. Ce qui est **impossible**, c'est qu'il bouge **à vue** et qu'il **redescende**. Le Masque, c'est **la vitesse et la réversibilité**.
-- **Le monde est honnête** : ce qu'on montre EST ce qu'on a. Seb est la seule exception au monde.
-- **TOUTE ESPÈCE EST NOMMÉE AVEC PRÉCISION.** *« Rien de vivant n'est sans nom »* est la première ligne du premier livre du premier registre. **Une espèce déclarée s'écrit telle que le porteur la donne** — déclaration, pas expertise — et elle est **opposable à vie**.
-- **Une espèce qui ne figure à aucun répertoire** déclenche une **inscription d'espèce nouvelle**, qui ne se fait qu'au **bureau central**, **en personne, avec l'animal**. *(Contournée sc. 115 : un vérificateur itinérant peut **constater, inscrire au registre de province et transmettre avec avis conforme**.)*
-- **QUAND UN PORTEUR MEURT**, sa puissance refroidit : **un mort ne rend qu'environ un quart, et il faut faire vite**.
-- **UNE BÊTE REND MOINS QUE SON CHIFFRE** *(canon établi sc. 102 — onze bêtes lues à 204 ont rendu 62)*. Personne au monde ne peut dire pourquoi. **Les hommes rendent plein.**
-- **RÉTENTION D'EXAMEN** *(canon sc. 95-98)* : la maison peut légalement **garder un animal** le temps d'un examen, sans durée fixée. Ce n'est pas une saisie. **Elle ne peut pas être fondée sur un relevé qui n'existe pas.**
-- **HORS RELEVÉ** *(canon sc. 97-98)* : une pierre qui ne trouve pas de puissance écrit **1** — c'est le plancher, il n'existe rien en dessous. Une pierre qui **n'écrit pas** est autre chose. Le bureau central a certifié ce néant pour la bête de Seb, en sept copies.
-- **L'OPPOSITION CONSENTIE** *(article lu en entier sc. 113)* : un candidat inscrit peut accorder publiquement son opposition à un autre — le bureau ne peut alors refuser de l'inscrire. **En contrepartie, celui qui a consenti peut exiger que le bénéficiaire descende sur le sable avec lui, une fois, avant la clôture. Cette exigence ne se refuse pas.**
-- **LES FOSSES SOUS LICENCE** : licence de journée au tarif affiché ; tout inscrit peut se retirer par écrit ; **un tenant doit un passage à tout inscrit du jour qui a payé**. **Une fosse sans tenant ferme.** *(Les teneurs de fosses d'une province s'écrivent entre eux et ferment à l'avance — constaté sc. 88.)*
-- **Les Sept Registres** : pierres, nombres, pesées, classements, archives de trois siècles. Greffiers aux portes des villes. Au bout de la chaîne, **les Rayeurs** : un service sans plaque d'où un nom ressort n'ayant jamais existé.
-- **CE QU'ON BRÛLE** *(vu sc. 100)* : dans une maison sans plaque et sans numéro, on brûle **les copies** — toutes, chaque mention, chaque recopie de province. **Il en reste toujours un exemplaire complet, avec le nom écrit dessus** : *« on ne peut pas prouver qu'une chose a disparu sans garder la preuve qu'elle a existé. »*
-- **La machine n'attaque pas, elle procède.** Son arme, c'est **l'instance** — neutralisée sur Seb depuis la porte 16 — et **l'ajournement** — neutralisé depuis la porte 23.
-- **Le Verger Blanc** : LA grande secte de la région — immense, riche, acheteuse de talents, courtiers, vergers en terrasses, relais, livres de crédit. §3.5 : c'est la secte de l'usurpation. **La marque du creux est gravée dans ses niveaux bas** — et, d'après Émile, **dans l'escalier de service de la maison mère, tous les dix pas à hauteur de pouce, jusqu'à un palier gardé au troisième niveau au-delà duquel personne ne descend.**
-- **Concours de Province (4/an)** : passage à la pierre en public, dossier relu à voix haute, **rang annoncé écrit irrévocablement**, contresigné par le répondant. **Le rang annoncé est un engagement de plancher : il est tenu s'il est atteint, tenu et dépassé s'il est dépassé.** Se retirer, c'est perdre inscription, rang, saison — et c'est écrit à côté du rang annoncé pour toujours.
+- **LA MESURE.** Le familier donne une valeur indicative. **Seules les pierres certifient l'exact.**
+- **LE CHIFFRE** monte avec le travail. Ce qui est **impossible** : qu'il bouge à vue, qu'il **redescende**.
+- **IL EXISTE DES INSTRUMENTS QUI LISENT À NU** *(canon sc. 136)*. La **pierre gravée du creux** de la salle sèche a écrit **908** sur un Masque réglé à 900, sans hésiter — et **1 000** sur une bête que toutes les autres pierres refusent de mesurer. Elle a été taillée avant la fermeture de la carrière. **Le Masque n'est pas une loi de l'univers : c'est un défaut des instruments.** Il en existe peut-être d'autres.
+- **ALPHABET MORT** : la pierre du creux écrit, sous les chiffres, des signes qui ne sont ni des chiffres ni l'alphabet courant. **Quatre signes** pour la bête — les mêmes que le cachet du douzième motif. **Une ligne plus longue** quand Seb ouvre en grand.
+- **Le monde est honnête** : ce qu'on montre EST ce qu'on a. Seb est la seule exception.
+- **TOUTE ESPÈCE EST NOMMÉE AVEC PRÉCISION.** *« Rien de vivant n'est sans nom. »* Une espèce déclarée s'écrit telle que donnée, **opposable à vie**.
+- **UNE SEULE DÉ-NOMINATION DANS L'HISTOIRE DES SEPT REGISTRES** : le mot **creuset**, rayé il y a trois cents ans. *« C'est le seul mot que les hommes aient jamais réussi à tuer. »*
+- **QUAND UN PORTEUR MEURT**, il ne rend qu'environ **un quart**, et vite. **Une bête rend moins que son chiffre.** **Les hommes rendent plein.**
+- **HORS RELEVÉ** : une pierre qui ne trouve rien écrit **1** ; une pierre qui **n'écrit pas** est autre chose. Certifié pour la bête de Seb, sept copies.
+- **UN REVENU PEUT DEVENIR UN TITRE** *(canon sc. 118-119)* : une part de dixième se vend, se revend, se cote, et **circule sans le porteur**. Un scribe suffit à en faire un modèle. **Le seul remède : racheter, ou vendre entier et incessible à un seul homme.**
+- **LES SECTES N'ÉCRIVENT PAS TOUT** *(canon sc. 124)* : le Verger Blanc transmet ses ordres **de vive voix**, à l'entrée en service, jamais par écrit. Rien à intercepter, rien à racheter, rien à opposer — **et plus rapide que le papier**.
+- **LES FOSSES SOUS LICENCE** : licence de journée au tarif affiché ; **un tenant doit un passage à tout inscrit du jour qui a payé** ; une fosse sans tenant ferme. **La licence est attachée à un tenant nommé, inscrit, majeur — pas au lieu.** Un inscrit du jour ne peut jamais être tenant.
+- **LE FONCIER NE CONNAÎT QUE LA SURFACE** *(canon sc. 142)* : on déclare une occupation de terrain ; **ce qu'il y a dessous n'appartient à personne et ne se ferme pas** sans une pièce du bureau central de Pierregarde.
+- **Les Sept Registres** : pierres, nombres, pesées, archives de trois siècles. Au bout de la chaîne, **les Rayeurs**. **Ils sont plus vieux que l'État** : ils existaient comme métier privé il y a trois cents ans, on les a payés pour effacer Victor, et ils sont entrés dans la machine ensuite.
+- **CE QU'ON BRÛLE** : les copies, pas les noms. **Il en reste toujours un exemplaire complet.**
+- **La machine n'attaque pas, elle procède.** L'instance ne marche plus (porte 16), l'ajournement non plus (porte 23). **Restent : l'identification, et les hommes en gris.**
+- **Le Verger Blanc** : LA grande secte de la région. §3.5. **Maison mère en vallée haute, six cents personnes, vergers en terrasses.** La **marque du creux** est gravée dans ses niveaux bas et dans **l'escalier de service**, tous les dix pas, jusqu'à un **troisième palier** gardé par deux hommes payés, remplacés tous les six mois, qui n'ont jamais le droit de se parler — **et qui ne sont pas là pour empêcher d'entrer : la porte était fermée de l'autre côté.**
+- **Concours de Province (4/an)** : rang annoncé écrit irrévocablement, contresigné par le répondant. **Prochain : J209.**
 
-### 2.5 Le Fond *(quitté à J8)*
+### 2.5 Le Fond
 
-Neuf mille âmes dans un **lit de rivière détourné**. En amont, une bande de **cailloux blancs** — le **lit sec**, qui sonne creux.
-Repères : la **place basse** · les **rangées** · le **carrefour des braseros** · la **rampe** · l'échoppe d'**Odile** · les portes de **Berthe** et d'**Armand** · le **greffe**.
-**Sous les cailloux blancs** : un boyau, un **escalier de procession** de quarante marches, **la marque du creux tous les dix pas à hauteur de pouce — un rite**. Cent marches plus bas : une **salle noyée**. Une **chaussée immergée invisible** y mène — connue de Seb seul — jusqu'à une **salle sèche à deux cents bancs** et **une pierre de mesure gravée du creux, qui affiche instantanément sans jamais hésiter.**
+Neuf mille âmes dans un lit de rivière détourné. En amont, les **cailloux blancs** — le **lit sec**.
+**Sous les cailloux blancs** : un boyau, un **escalier de procession** de quarante marches, **la marque du creux tous les dix pas**. Cent marches plus bas : une **salle noyée**, une **chaussée immergée invisible** connue de Seb seul, et **la salle sèche à deux cents bancs** avec **la pierre gravée du creux**.
+**Statut J129** : surface déclarée au nom de Seb, deux ferrailleurs payés au mois, une palissade sur le boyau — **et des gamins qui reviennent chercher l'entrée toutes les nuits.** Le greffier écrit chaque semaine.
 
 ### 2.6 Clairefont — le chef-lieu
 
-L'eau : rigoles des deux côtés de chaque rue, **quatre fontaines qu'on ne ferme jamais**. **C'est l'eau du Fond.**
-Rempart bas, toits de tuile, **tour carrée à horloge**, greffier aux portes. **Rue des Écritures** : les scribes ; Anselme y loge, la boutique du dessous est vide.
-- **Le bureau des Registres** : la pierre publique sous la tour · **elle a affiché 900 le J110**.
-- **Le greffe** : chemises, dépôts séparés, registre des consultations.
-- **Les citernes** : sous licence depuis quarante ans.
-- **La salle d'armes** : vendue à J20.
-- **La fosse** : **fermée depuis J20**, la feuille toujours clouée, décolorée.
-- **L'esplanade** : six cents places, tribune couverte du Verger à gauche.
-- **La rue haute** : la plus belle maison, occupée par le Verger.
+Rue des Écritures (les scribes, Anselme), tour carrée à horloge, quatre fontaines qu'on ne ferme jamais.
+- **La pierre publique** sous la tour : a affiché **900** le J110.
+- **La fosse** : **achetée par Seb J111** (190 fers + 35 de sable), **licence délivrée J126 au nom du maître à 1**, ouverte J127 — trente-huit inscrits le premier jour, venus pour voir l'endroit. Les vingt-quatre y vivent. **Jeanne loge au-dessus de la remise.**
+- **La rue haute** : la plus belle maison — **vidée en une nuit, J110.**
+- **Le Cygne** : auberge, licence de citerne, cave. **Son propriétaire est répondant du porteur Seb**, acte lu à voix haute devant sa porte.
 
-### 2.7 Pierregarde — la ville du bureau central *(J38-J39)*
+### 2.7 Pierregarde — la ville du bureau central
 
-Un creux de vallée large comme trois Clairefont, **sans rempart à l'ouest** — elle n'en a jamais eu besoin. Toits d'ardoise à perte de vue. Odeur de colle de reliure et de papier vieux ; des porteurs de caisses plates et numérotées à chaque carrefour.
-- **La cour aux pierres** : un toit à claire-voie sur piliers, et dessous, en rangs, **des centaines de pierres de mesure**. *« Ici, on ne note pas les gens. On les pèse. »* Aux portes de la ville, pas de rouleau : **une pierre scellée dans le pavé**.
-- **La salle basse du répertoire**, sous la cour : plus grande qu'une église, quatre murs de volumes reliés du sol au plafond, échelles sur rails, **une table de pierre à rigole**. C'est là qu'on inscrit une espèce nouvelle — la dernière remontait à **trente et un ans**.
-- **La chambre des écritures** : trois étages de pupitres au-dessus d'une arcade ; c'est là qu'on inscrit une personne dans une **fonction**.
-- **La rue sans plaque** : un cul-de-sac, un mur aveugle de quarante pas, une porte sans poignée, **une cheminée qui fume en plein mois chaud**, et sur le mur du coin la pierre **nue** là où toutes les autres maisons portent leur numéro à la craie. Onze employés dedans, aucun au-dessus de 19.
-- **Dans tout le bâtiment du bureau central, le plus fort relevé est un 26.**
+La cour aux pierres · **la salle basse du répertoire** · la chambre des écritures · **la rue sans plaque** : un four, soixante caisses, onze employés, aucun au-dessus de 19. **Dans tout le bureau central, le plus fort relevé est un 26.**
 
-### 2.8 Le plateau du levant — la carrière *(J51-J82)*
+### 2.8 Le plateau du levant — la carrière
 
-Douze jours au levant de Pierregarde. Les arbres s'arrêtent net et il n'y a plus que du blanc : **une carrière abandonnée grande comme une province**, gradins, fosses carrées, galeries.
-**On y a taillé les pierres de la maison pendant deux cents ans — celles des bureaux, des portes de ville, des chefs-lieux. Puis on a arrêté, du jour au lendemain. Personne ne sait pourquoi.**
-Au fond de la tranchée de l'est : une entaille large comme une place, des **blocs de mesure à moitié dégagés jamais détachés**, des outils rouillés, une grue effondrée, et un sol d'ossements humains et autres. **On n'a pas fermé cette carrière : on l'a fuie.**
-Ce qui y vivait sortait **de la paroi elle-même**. Des compagnies de chasse s'y ruinent tous les ans.
+Une carrière abandonnée grande comme une province, où l'on a taillé **les pierres de mesure** pendant deux cents ans avant d'arrêter du jour au lendemain. **On ne l'a pas fermée : on l'a fuie.**
+
+### 2.9 La vallée haute — la maison mère du Verger Blanc *(J117+)*
+
+Vergers en terrasses des deux côtés jusqu'à la crête. Pas une forteresse : **une exploitation** — murs bas, séchoirs, greniers, six cents personnes.
+- **Les séchoirs** : trois nefs de bois ouvertes au vent. C'est là que Maud reçoit.
+- **La cour des cuisines**, et au fond **l'escalier de service** : quarante marches, le creux tous les dix pas, **le troisième palier**, sa porte de pierre sans poignée.
+- **Sous le troisième palier** *(ouvert J128)* : quarante marches taillées, de l'air sec qui n'a pas bougé depuis trois siècles, **une salle ronde et basse, un socle** — et rien d'autre désormais.
+- **Sous la maison, un volume gros comme une église où l'instinct du chiffre ne lit rien** : ni chiffre, ni vide, ni néant. La lecture glisse. **Première fois de la vie de Seb.**
 
 ---
 
@@ -283,90 +300,91 @@ Ce qui y vivait sortait **de la paroi elle-même**. Des compagnies de chasse s'y
 ### 3.1 Identité
 
 **Seb.** 15 ans. Né au **Fond**. Pas de nom de famille, pas de tombes, pas de village d'avant.
-Réputation publique : celui qui a annoncé Fer et rendu cent · celui qui a tué le garçon qui lui avait donné son passage et l'a mangé devant six cents personnes · celui à cause de qui le Verger ne prend personne cette année · celui qui a fermé la fosse de Clairefont · celui qui a tué la chose de la carrière de l'est · **celui qui a accordé son opposition à dix candidats et en a fait retirer neuf** · **celui qui a fait écrire neuf cents sur une pierre de province** · **le seul Seuil du Ciel vivant**.
-**Plus d'élèves sur les bras** — une écurie à l'ouest qui porte son nom. **Une rente. Dix-sept créanciers. Un greffier salarié. Une teneuse de livres.**
+Réputation publique : celui qui a fait écrire **neuf cents** sur une pierre de province · **le seul Seuil du Ciel vivant** · celui qui a fait retirer neuf candidats et dévoré le dixième devant six cents personnes · celui qui a **racheté son propre revenu en une nuit** · **celui qui est descendu sous le troisième palier et qui est remonté**.
+Possède : l'écurie de l'ouest, **la fosse de Clairefont**, la surface du lit sec. Doit : deux dixièmes sur dix ans, **plus la dîme de la bête**.
 
 ### 3.2 LE CREUSET (pouvoir central)
 
 | Règle | Détail |
 |---|---|
-| **Vaincre de ses mains = pouvoir dévorer** | la puissance ACTUELLE du vaincu, à la valeur du jour |
-| Dévorer est un **choix** | duel de gloire (public, propre) OU chasse (discrète, totale) |
-| Victime dévorée **vivante** | **elle survit** : familier ratatiné, chiffre effondré à **1**, à vie |
-| Victime **morte** | **environ un quart, et ça refroidit vite** |
-| **Bête** | **rend nettement moins que son chiffre** — raison inconnue |
-| **Aucun plafond** | voyous → disciples → bêtes → champions → sectes → ce qui vit au-dessus |
-| Risques organiques | la traînée des vivants à 1 · ce que la bête **devient** en mangeant · chaque mesure publique sous masque |
+| **Vaincre de ses mains = pouvoir dévorer** | la puissance ACTUELLE du vaincu |
+| **CE QU'ELLE MANGE** | **pas la chair : l'instant où quelqu'un est vaincu** *(livré par Maud, sc. 149)* |
+| Dévorer est un **choix** | duel de gloire OU chasse |
+| Victime **vivante** | elle survit, chiffre effondré à **1**, à vie |
+| Victime **morte** | environ un quart, et ça refroidit vite |
+| **Bête** | rend nettement moins que son chiffre |
+| **LA DÎME** | **un dixième de tout ce qui est pris, prélevé à l'instant, sans jet, sans recours** *(porte 21 cran 2)* |
+| **Aucun plafond** | — |
 
-**La boucle sociale = la gloire.** Elle a cessé de fonctionner par la provocation (porte 18) et fonctionne désormais **par la procédure** (porte 22).
-**Traînée actuelle : onze hommes vivants portent un 1** — un porteur de nuit, le tenant du sable, l'héritier de la salle d'armes, le maître de salle ex-47, un ancien élève de seize ans, le tenant de la fosse de Clairefont, deux tenants de fosses de province, un maître de village (52), **le maître de la maison d'armes de la grand-route (41), qui enseigne aujourd'hui sous le nom de Seb**, et **le candidat à 96 du concours**. Plus **un mort**, écrit au registre.
+**La boucle sociale** ne fonctionne plus par la provocation (porte 18), mais **par la procédure** (porte 22) et désormais **par le rassemblement** (porte 17 cran 2).
+**Traînée : quatorze vivants à 1** — dont **un homme du Verger de cinquante ans, l'homme au carnet**, laissé sur une route ; **un garde du troisième palier** ; le maître de la maison d'armes (41) qui enseigne sous le nom de Seb ; le candidat à 96. Plus **deux morts** au registre.
 
 ### 3.3 LE MASQUE
 
-La puissance réelle est tenue par la bête, **hors du corps**. Seb règle **à la seconde** ce qui passe dans sa chair et ce que les pierres lisent.
-**LE MASQUE EST PHYSIQUE.** Ouvrir n'est pas régler un compteur : la puissance **passe dans le corps**, et **ça se voit**. Le Masque ment aux **instruments et au papier**, **jamais aux yeux**.
-**OUVRIR NE BLESSE JAMAIS** (§1.3).
-**Étalonné** (porte 8) · **il ne glisse plus** (porte 14).
-**Contrainte permanente : le plancher public est désormais 900**, certifié sur pierre publique devant six cents témoins, copie aux sept bureaux. **Réserve cachée : 43.**
+La puissance réelle est tenue par la bête, **hors du corps**. Seb règle **à la seconde** ce que les pierres lisent.
+**LE MASQUE EST PHYSIQUE.** Ouvrir fait **passer la puissance dans le corps**, et **ça se voit**. Il ment aux instruments et au papier, **jamais aux yeux**.
+**OUVRIR NE BLESSE JAMAIS.** **Étalonné** (porte 8) · **il ne glisse plus** (porte 14).
+**FAILLE CONNUE** : **la pierre gravée du creux lit à travers.** Elle a écrit 908 sur un Masque réglé à 900.
+**Contrainte permanente : plancher public 900**, certifié, sept copies. **Réserve cachée actuelle : 60.**
+*(Précédent : à 891, il a été physiquement incapable d'atteindre son propre plancher pendant une nuit.)*
 
 ### 3.4 LA BÊTE
 
-Un dévoreur. Elle **ne parle pas** : faims, poids, tiraillements. **Elle n'a pas de nom.**
-**Espèce inscrite au registre : *péché — gloutonnerie*** — déclarée par Seb, écrite telle que donnée, **opposable à vie**, ligne de mesure ***hors relevé***, transmise avec avis conforme au bureau central.
+Un dévoreur. **Espèce inscrite : *péché — gloutonnerie*** — déclarée par Seb, **opposable à vie**, ligne de mesure ***hors relevé***. Espèce réelle, rayée du monde : **creuset**.
 
-**FORME — ACHEVÉE.** Une **femme assise en tailleur**, jambes croisées jusqu'aux ongles des pieds, mains à plat sur les cuisses, épaules et nuque nettes. Visage lisse, **bouche close**, lumière basse sous les paupières. Surface en **grain de pierre sciée**. **En filigrane sous la surface : au moins onze motifs que Seb n'a jamais pris.** **Dans la paume gauche : le creux.**
-**TAILLE : celle d'un enfant de cinq ans** — elle a **doublé en un jour** après la carrière. Déclaré publiquement au registre : **elle grandit en mangeant**. Elle n'est plus dissimulable nulle part.
-**Volonté propre.** Elle a **refusé une fois** (sc. 77) et a été forcée. Elle a **mené** Seb à travers Pierregarde jusqu'à une rue sans plaque, est devenue si lourde qu'il a dû la décrocher à la main, et **n'a lâché qu'après avoir tenu sa paume creusée au-dessus d'une caisse de feuilles rayées** — puis elle est redevenue légère et docile.
-**Elle regarde le papier.** Le rouleau d'un greffier de pont, les volumes du mur ouest de la salle basse, une caisse de noms grattés.
-**Elle a mangé un 96 et il ne s'est rien passé sur elle** — première fois. **Et elle a toujours faim.**
+**FORME.** Une femme assise en tailleur, surface en grain de pierre sciée, lumière basse sous les paupières. **Dans la paume gauche : le creux.**
+**ÉTAT J129** : **elle marche** · **elle se tient debout** · **elle parle** · **taille d'un enfant de sept ans** · **treize motifs en filigrane**, dont le **douzième — une empreinte de cachet, le sceau de Victor** — et le **treizième**, apparu à l'épaule quand le crâne est tombé en poussière.
+**ELLE PARLE.** Deux mots à ce jour, jamais sur commande : « **Part.** » (sc. 148) · « **Après.** » (sc. 151).
+**CE QU'ELLE VEUT.** Elle **demande sa part** en ouvrant la paume gauche. **Seb décide de ce qu'il offre — jamais de ce qu'elle prend** : refuser ne l'affame pas, ça **déplace la note sur le compte ouvert le plus proche** *(sc. 150 : treize points arrachés à Maud en silence)*.
+**ELLE PEUT ÊTRE FORCÉE — ET LE PRIX MONTE.** Quatre contraintes à ce jour (sc. 77 · 121 · 125 · 151). **La quatrième a été gagnée en ouvrant en grand : elle a cédé entièrement, refermé la bouche, et attendu.** *« Il n'a jamais réussi ça. Pas une fois en vingt ans. »*
+**Elle s'éteint** devant ce qu'elle refuse *(le service du Verger qui pliait des draps)*. **Elle se rallume quand quelqu'un qui avait quelque chose à perdre plie** — pas le nombre, pas l'obéissance commandée.
+**Elle regarde le papier.** Elle a tiré Seb vers le bas pendant neuf jours sans discontinuer, jusqu'au troisième palier.
 
-### 3.5 ORIGINE (le joueur le sait — Seb, non)
+### 3.5 ORIGINE *(livré en jeu, sc. 148-149)*
 
-Il y a trois siècles, un homme a fondé la plus grande secte de la région. Son art n'était pas une technique : c'était une **bête** — un dévoreur lié. La secte a engraissé sur ses conquêtes, puis l'a **effacé** : nom rayé, espèce de la bête **dé-nommée** (la seule dé-nomination de l'histoire des Sept Registres). Le Verger Blanc vit toujours, avec un fondateur officiel de remplacement. La lignée du vrai fondateur a été jetée au caniveau. La bête n'est pas morte : elle **attendait**, pesée après pesée, depuis trois siècles.
+Il y a trois siècles, **Victor**, dix-sept ans, rapporte sa première prise et fonde ce qui deviendra le Verger Blanc. Sa bête est un **creuset**. La maison engraisse vingt ans sur ses conquêtes — puis ceux qui mangeaient à sa table le font **effacer** : nom rayé, espèce **dé-nommée**, lignée jetée au caniveau. On a payé **cinq hommes en gris**, venus travailler trois jours.
+**Ils ne l'ont pas tué pour son siège** : ils l'ont tué parce qu'à la fin, **ce n'était plus lui qui décidait quand elle mangeait.**
+Le rituel éjecte du palier — **mais tout ce qu'il était n'est pas parti avec lui.** Le reste **s'est posé sur ce qu'il y avait de plus près** : une fille de dix-neuf ans qui tenait l'encrier. **Maud.**
+La première prise de Victor est restée trois siècles sous le troisième palier : brûlée, noyée, murée quatre fois. **Elle est tombée en poussière le J128 sous la paume de la bête.**
 
-**Scellé chez le MJ** : le nom du fondateur · pourquoi on l'a effacé · où il est allé · ce que la bête attend exactement · la destination finale de la campagne.
+**Scellé chez le MJ** : le nom brûlé · où est allé Victor · ce que la bête attend exactement · la destination finale.
 
 ### 3.6 L'INSTINCT DU CHIFFRE
 
-Seb **lit la puissance de tout vivant** qu'il regarde, sans pierre. Gratuit, permanent, involontaire.
-- Donne **le chiffre**, jamais l'espèce, jamais l'intention.
-- Le monde lit des **approximations** ; Seb lit **l'exact**, instantanément.
-- **Portée** : à travers les murs, les planchers, les parois de pierre, sur une demi-lieue en terrain découvert. Il a lu un bâtiment entier étage par étage à Pierregarde, et une maison du Verger depuis le bas d'une vallée.
-- **Aucun humain ne fait ça.** L'utiliser devant témoin, c'est se désigner.
+Seb **lit la puissance de tout vivant** qu'il regarde, sans pierre. Gratuit, permanent, involontaire, **exact** — y compris sur lui-même.
+**Portée** : à travers murs et planchers, une demi-lieue en terrain découvert.
+**LIMITE DÉCOUVERTE (sc. 143)** : sous la maison mère, un volume gros comme une église où **la lecture ne rend rien du tout**. Ni chiffre, ni vide. Elle glisse.
 
 ### 3.7 L'HÉRITAGE
 
-Une **plaque de fer** noire, taille d'une main, **sans une lettre**. Au milieu, un **creux** poli, comme si mille pouces s'y étaient posés très longtemps. Froide — **devenue tiède le soir où la bête a pris forme.**
-Transmise par les femmes de la lignée. La famille n'a « pas de nom, pas de tombes, pas de village — on a **ça** ».
-**Le creux est le même que sur les murs de l'escalier du Fond, sur la pierre de la salle sèche, dans les niveaux bas du Verger Blanc, dans l'escalier de service de leur maison mère — et dans la paume gauche de la bête.**
-**Statut : sur Seb.**
+Une **plaque de fer** noire, taille d'une main, sans une lettre, avec un **creux** poli au milieu. Transmise par les femmes de la lignée. *« Ne la vends pas. Ne la donne pas. **Ne la mets pas dans un trou.** »* — Jeanne, qui la croit froide depuis toujours.
+**Elle chauffe.** Tiède depuis que la bête a pris forme ; **brûlante** quand la bête est allumée ; **elle tiédit dans les mêmes secondes que la lumière sous les paupières**.
+**Posée dans le creux de la pierre de la salle sèche, elle est entrée comme dans son logement — et s'est éteinte complètement.** Elle est restée froide seize jours, **jusqu'à ce que le crâne tombe en poussière : elle est redevenue chaude à la seconde.**
+**Le creux est le même** que sur les murs de l'escalier du Fond, sur la pierre de la salle sèche, dans les niveaux bas et l'escalier de service du Verger, **dans la chair de Maud sous la clavicule**, sur le front du crâne de Victor, et dans la paume gauche de la bête.
 
 ---
 
-## 4 · FICHE ACTUELLE *(J110, après-midi, estrade de Clairefont)*
+## 4 · FICHE ACTUELLE *(J129, matin, cour des cuisines de la maison mère)*
 
 | | |
 |---|---|
-| **Puissance réelle** | **943 — SEUIL DU CIEL (900–1 000)** · *seul vivant* |
-| **Affiché / certifié** | **900** — plancher public, certifié sur pierre publique, copie aux sept bureaux. Réserve cachée : **43** |
-| **Rang annoncé** | **PILIER — TENU ET DÉPASSÉ.** Anselme libéré, les dix-sept payés dix ans |
-| **Espèce au registre** | ***péché — gloutonnerie*** — **inscrite** au registre de province, ligne de mesure *hors relevé*, transmise avec avis conforme |
-| **Corps** | **DUR — 5 couches** *(3 vers trempé)* · **voie du travail morte (porte 20), épreuve seule** |
-| **Blessures** | **main gauche définitivement diminuée** · **jambe droite ouverte sous pansement — guérison réelle fin du mois (≈ J118)** ; côtes ressoudées droites |
-| **Jetons** | **3 / 10** |
-| **Bourse** | **163 pièces de fer** |
-| **Dettes** | 6 fers de grain (Clairefont) · **dixième d'Anselme, dont 7/10 dus aux dix-sept, dix ans** · salaire d'un greffier au Fond. **Le relais du Verger : soldé, papier déchiré** |
-| **Revenus** | part sur l'écurie de l'ouest (24 têtes, 9 payantes à 6 fers le trimestre) |
-| **Inventaire** | la **plaque de fer creusée** *(tiède)* · couteau de dépeçage · crochet de ferrailleur · la convocation · **la feuille timbrée du bureau central (*hors relevé*)** · deux avis de fosse |
-| **Élèves** | **aucun sur les bras** — l'écurie de l'ouest, sept hommes, un maître à 1, un registre tenu par la bouche en chemise blanche. **Les vingt-quatre sont à Clairefont** |
-| **Dons** | le Creuset (§3.2) · le Masque **étalonné, physique, qui ne glisse plus** (§3.3) · l'instinct du chiffre (§3.6) |
-| **Bête** | **forme achevée · taille d'un enfant de cinq ans · hors relevé · inscrite · toujours faim** |
+| **Puissance réelle** | **960 — SEUIL DU CIEL** · *seul vivant* |
+| **Affiché / certifié** | **900** — plancher public. Réserve cachée : **60** |
+| **Espèce au registre** | ***péché — gloutonnerie*** · ligne de mesure *hors relevé* |
+| **Corps** | **DUR — 7 couches** *(1 vers TREMPÉ)* · voie du travail morte, **épreuve seule — et plus personne ici ne peut la donner** |
+| **Blessures** | **main gauche définitivement diminuée** · jambe droite **guérie (J128)** · côtes ressoudées |
+| **Jetons** | **0 / 10** |
+| **Bourse** | **146 pièces de fer** |
+| **Dettes** | **aucune dette d'argent.** Engagements : **dixième d'Anselme** (10 ans) · **dixième du Cygne** (10 ans, **incessible**) · **la dîme de la bête** (un dixième de toute prise) · entretien des vingt-quatre 12 fers/semaine · greffier du Fond 15 fers/mois |
+| **Possessions** | **la fosse de Clairefont** (licence au nom du maître à 1, ouverte J127) · part sur **l'écurie de l'ouest** · **déclaration d'occupation du lit sec** (surface seule) |
+| **Inventaire** | la **plaque de fer creusée** *(chaude)* · couteau de dépeçage · crochet de ferrailleur · la feuille timbrée *hors relevé* · **le relevé grossier des quatre signes sur cuir (3/4 lisibles)** · la déclaration du greffe de village |
+| **Dons** | le Creuset (§3.2) · le Masque (§3.3) · l'instinct du chiffre (§3.6) |
+| **Bête** | **marche · parle · sept ans · treize motifs · rassasiée · bouche fermée** |
 | **Clause acquise** | toute bête aux mêmes caractères est signalée **au registre et à lui** |
-| **Clause subie** | **il déclare toute modification de sa bête, à tout bureau, sous huit jours, à vie** — sinon l'entrée est suspendue |
-| **Contrat** | signé — un dixième, dix ans, exclusivité, **Anselme répondant sur ses biens et son nom, trois fois** |
-| **Dettes écrites (tiers)** | **Armand** : reconnaissance de dette + clause *« je descends avec toi »* — Jeanne soignée tant que le papier tient · **Berthe** : une chose, une seule, jamais réclamée |
-| **Traînée** | **onze vivants à 1** · un mort au registre · **neuf retraits signés** au registre du concours · six cents témoins du mécanisme, deux fois · douze chasseurs qui ont vu la bête de près |
-| **Statut** | **J110, après-midi. Sur l'estrade. L'espèce vient d'être inscrite, la pierre affiche encore neuf cents, et un cavalier du Verger galope vers la vallée haute.** |
+| **Clause subie** | **toute modification déclarée, à tout bureau, sous huit jours, à vie**. *Déclarées J118 au greffe de village (transmission six semaines) : station debout, bouche ouverte.* **NON DÉCLARÉES depuis J128 : elle marche · elle parle · treize motifs · taille d'un enfant de sept ans — échéance J136.** |
+| **Dettes écrites (tiers)** | **Armand** : dette + clause *« je descends avec toi »* — **il a rappelé qu'elle vaut pour la descente, pas pour la montée** · **Berthe** : une chose, une seule, jamais réclamée |
+| **Traînée** | **quatorze vivants à 1** · deux morts au registre · neuf retraits signés · six cents témoins deux fois · **deux cents témoins de la cour, à l'aube** |
+| **Statut** | **J129, matin. Dans la cour des cuisines, deux cents personnes, Maud debout, dix-neuf vieux le long du mur, et Aude qui vient de demander à voix haute ce qu'on fait maintenant.** |
 
 ---
 
@@ -374,31 +392,32 @@ Transmise par les femmes de la lignée. La famille n'a « pas de nom, pas de tom
 
 | # | Porte | État | Quand |
 |---|---|---|---|
-| 1 | **La seconde feuille** — le rapport du greffier part au chef-lieu intact. Jamais. | **FERMÉE** | Sc. 5 |
-| 2 | **La légende du Fond** — l'histoire est sortie et ne rentrera plus ; elle grandit seule. | **OUVERTE** | Sc. 11 |
-| 3 | **Armand** — le Corps cesse d'être un plafond : c'est un travail. | **OUVERTE** | Sc. 19 |
+| 1 | **La seconde feuille** — le rapport part intact. **Cran 2 : ce qui te concerne arrive avant toi.** La chaîne orale du Verger ne s'intercepte pas, ne se rachète pas ; partout où tu arrives, on sait déjà. | **FERMÉE ×2** | Sc. 5 · **125** |
+| 2 | **La légende du Fond.** **Cran 2 : la province raconte à ta place** — ce qui ne peut être ni prouvé ni écrit circule quand même, et c'est la version la plus noire qui tient. **Cran 3 : tu peux écrire l'histoire des autres** — là où la mesure a effacé quelque chose, ta version prend la place et tient. *Revers : remplir un vide creusé par les hommes en gris, c'est leur montrer où tu es.* | **OUVERTE ×3** | Sc. 11 · **124** · **149** |
+| 3 | **Armand** — le Corps est un travail. | **OUVERTE** | Sc. 19 |
 | 4 | **Un répondant** — Anselme engage ses biens et son nom. | **ÉLARGIE** | Sc. 26 |
-| 5 | **Sous le lit sec** — ce n'est plus un lieu de passage, c'est une entrée. | **OUVERTE** | Sc. 27 |
-| 6 | **Margot, ta tête** — la seule personne au monde qui voit tout le plateau. | **OUVERTE** | Sc. 34 |
-| 7 | **Un corps intact** — la main gauche ne se refermera plus jamais complètement. | **FERMÉE** | Sc. 35 |
-| 8 | **Le Masque étalonné** — sur n'importe quelle pierre du monde, il sait exactement ce qu'il donne. | **OUVERTE** | Sc. 37 |
-| 9 | **Passer inaperçu** — à chaque mesure officielle, partout, il est un cas nommé. | **FERMÉE** | Sc. 38 |
-| 10 | **Signer** — partout où l'on tient des livres, il peut acheter avant de payer. | **OUVERTE** | Sc. 43 |
-| 11 | **La méthode** — le Corps ne dépend plus d'un homme ni d'un lieu. **Essaimée quatre fois : douze élèves, cinq partis, sept hommes de fosse, douze chasseurs.** | **OUVERTE** | Sc. 45 |
-| 12 | **Monter sans témoin** — partout où il y a un bureau, la puissance se gagne **par écrit**. | **FERMÉE** | Sc. 50 |
-| 13 | **Il n'y a pas de mot pour ça** — le monde a effacé la catégorie. *(Sous tension : Seb a fourni le mot, et il vient de le faire inscrire au registre.)* | **OUVERTE** | Sc. 58 |
-| 14 | **Il ne glisse plus** — tout ce que le monde lit de lui, c'est lui qui l'a décidé. | **OUVERTE** | Sc. 69 |
-| 15 | **Qu'on te donne** — plus personne, nulle part, ne lui offrira jamais rien spontanément. *(Périmètre strict : les dons — pas la température du monde. Les liens acquis ne sont pas concernés.)* | **FERMÉE** | Sc. 75 |
-| 16 | **On ne te fait plus attendre** — l'instance ne marche plus sur lui ; traitement immédiat et public partout. | **OUVERTE** | Sc. 78 |
-| 17 | **Ton nom travaille sans toi** — son nom n'est plus une réputation, c'est une **enseigne qui produit**, citable, créditable, extensible. *Revers : ce qui se fait sous son nom est à lui, y compris ce qu'il n'a pas vu faire.* | **OUVERTE** | Sc. 87 · triomphe |
-| 18 | **Qu'on relève ton gant** — **refuser Seb ne déshonore plus, à tout rang, partout.** La provocation publique, son premier outil, ne fonctionne plus. Ce qu'il veut manger, il doit l'**obliger**, l'acheter, le piéger ou le prendre. | **FERMÉE** | Sc. 89 · catastrophe |
-| 19 | **Sans relevé, sans prise** — aucune procédure de mesure ne peut plus s'appliquer à la bête : on ne retient pas, on ne classe pas, on ne saisit pas ce dont l'instrument officiel refuse un chiffre. Certifié, sept copies. *Revers : hors procédure = hors protection.* | **OUVERTE** | Sc. 98 · triomphe garanti |
-| 20 | **Gagner en dormant** — la voie du travail (ordre, charge, nourriture pesée, douze jours) **ne produit plus rien sur lui**. Une couche ne s'obtient plus que par **l'épreuve**. | **FERMÉE** | Sc. 105 · catastrophe |
-| 21 | **Une tête qui n'est qu'à toi** — Margot a été chiffrée chez eux en quatre heures ; l'offre du Verger **n'a pas de date et ne sera jamais retirée**. *Elle reste par choix, chaque matin, et tout le monde le sait.* | **FERMÉE** | Sc. 107 · catastrophe |
-| 22 | **Ce qui est écrit t'obéit** — partout où un règlement oblige quelqu'un à se présenter, consentir, honorer ou répondre, Seb y trouve la clause qui met un homme devant lui ; l'honneur ne protège plus de la procédure. *Revers : il ne chasse plus que là où l'on tient des livres.* | **OUVERTE** | Sc. 113 · triomphe garanti |
-| 23 | **Rien de vivant n'est sans nom** — l'espèce entre au registre sur déclaration, avec *hors relevé* comme ligne de mesure ; le bureau central ne peut refuser sans se contredire par écrit. Partout où l'on tient le répertoire, **la bête est en règle**. *Revers : le mot dicté devient le mot du monde, pour toujours.* | **OUVERTE** | Sc. 115 · triomphe |
+| 5 | **Sous le lit sec** — une entrée, pas un lieu de passage. | **OUVERTE** | Sc. 27 |
+| 6 | **Margot, ta tête.** | **OUVERTE** | Sc. 34 |
+| 7 | **Un corps intact** — la main gauche. | **FERMÉE** | Sc. 35 |
+| 8 | **Le Masque étalonné.** | **OUVERTE** | Sc. 37 |
+| 9 | **Passer inaperçu** — à chaque mesure officielle, un cas nommé. | **FERMÉE** | Sc. 38 |
+| 10 | **Signer** — crédit partout où l'on tient des livres. **Cran 2 : lever des fonds** — transformer son avenir en argent liquide sur-le-champ, autant de fois qu'il y a un acheteur. *Revers : un créancier de plus sur dix ans à chaque levée.* | **OUVERTE ×2** | Sc. 43 · **130** |
+| 11 | **La méthode** — essaimée quatre fois. **Elle ne se vend plus : elle circule gratuitement.** | **OUVERTE** | Sc. 45 |
+| 12 | **Monter sans témoin** — partout où il y a un bureau, la puissance se gagne par écrit. | **FERMÉE** | Sc. 50 |
+| 13 | **Il n'y a pas de mot pour ça.** **Cran 2 : ce que le monde a effacé n'est pas mort, et ça te reconnaît** — gestes, formules, pratiques sans nom, vieux qui n'ont rien lu. **Cran 3 : ça te répond** — elle parle, rarement, jamais sur commande. *Revers : ce qui parle demande, et compte ce qu'on lui doit.* | **OUVERTE ×3** | Sc. 58 · **117** · **148** |
+| 14 | **Il ne glisse plus.** | **OUVERTE** | Sc. 69 |
+| 15 | **Qu'on te donne** — aucun don spontané, nulle part. **Cran 2 : que ça reste à toi** — tout ce qui est attaché à ton nom est **cessible par d'autres** (revenu, méthode, histoire, enseigne). Tu ne peux qu'acheter au prix qu'ils fixent. | **FERMÉE ×2** | Sc. 75 · **118** |
+| 16 | **On ne te fait plus attendre.** | **OUVERTE** | Sc. 78 |
+| 17 | **Ton nom travaille sans toi.** **Cran 2 : ton nom rassemble** — ce que tu dis là où il y a un vide devient ce que les gens savent, et ils viennent avec ce qu'ils portaient sans le nommer. *Revers : ça se voit à trois provinces et ça ne se cache plus jamais.* | **OUVERTE ×2** | Sc. 87 · **153** |
+| 18 | **Qu'on relève ton gant** — refuser ne déshonore plus. **Cran 2 : qu'on te réponde** — le silence est devenu une posture publique, tenable et imitable. Ce que tu veux d'un homme, il faut qu'un règlement l'y oblige, ou que tu le prennes. | **FERMÉE ×2** | Sc. 89 · **121** |
+| 19 | **Sans relevé, sans prise** — la mesure ne peut rien sur la bête. Certifié, sept copies. | **OUVERTE** | Sc. 98 |
+| 20 | **Gagner en dormant** — la voie du travail ne produit plus rien sur lui. | **FERMÉE** | Sc. 105 |
+| 21 | **Une tête qui n'est qu'à toi** — Margot chiffrée, offre sans date. **Cran 2 : rien de ce que tu prends n'est entièrement à toi** — **un dixième prélevé à l'instant, sans jet, sans recours, sans registre. Un second créancier, sur ton épaule, dont tu ne verras jamais les livres.** | **FERMÉE ×2** | Sc. 107 · **127** |
+| 22 | **Ce qui est écrit t'obéit.** **Cran 2 : ceux qui écrivent te choisissent** — greffiers, commis, clercs de guichet couvrent, préviennent, datent, gardent copie. *Revers : chacun se casse s'il est serré, et laisse une trace de sa main ; la maison cherchera leur motif, pas le tien.* | **OUVERTE ×2** | Sc. 113 · **135** |
+| 23 | **Rien de vivant n'est sans nom** — la bête est en règle partout où l'on tient le répertoire. | **OUVERTE** | Sc. 115 |
 
-> **Poids quotidien (errata §16)** : les portes ouvertes se jouent à chaque scène où elles s'appliquent — 16 jamais de file · 10 crédit partout où l'on tient des livres · 14 chaque porte de ville est un choix · 13 les récits restent inclassables · 2 la légende précède · 11 la méthode se vend (et circule sans lui) · 6 Margot le dit · 8 toute pierre est un instrument · **17 son nom produit ailleurs** · **19 la bête est intouchable par la mesure** · **22 la règle est son garde-manger** · **23 la bête est en règle partout**.
+> **Poids quotidien (errata §16)** : 16 jamais de file · 10 crédit **et levées de fonds** · 14 chaque porte de ville est un choix · **13 ce qui est effacé te répond** · **2 ta version prend la place** · 11 la méthode circule sans lui · 6 Margot le dit · 8 toute pierre est un instrument · **17 son nom produit et rassemble** · 19 la bête est intouchable par la mesure · **22 les plumes le choisissent** · 23 la bête est en règle.
+> **Poids des fermées** : **1 on sait avant lui** · 9 jamais anonyme · 12 tout se gagne par écrit · **15 tout ce qui est à lui se revend** · **18 le silence est une réponse** · 20 seule l'épreuve · **21 la dîme sur chaque prise**.
 
 ---
 
@@ -406,62 +425,64 @@ Transmise par les femmes de la lignée. La famille n'a « pas de nom, pas de tom
 
 | Nom | Lecture | Rôle | État |
 |---|---|---|---|
-| **Margot** | **6** | 15 ans, chat-des-toits | **La seule au monde à savoir.** **Teneuse de livres du porteur Seb** — inscrite à Pierregarde, portée au procès-verbal du concours. **Répond des engagements, PILIER compris**, et **devant les dix-sept**. A tenu dix-sept vérifications de comptes en six jours sans savoir lire, deux erreurs relevées. **Son existence légale tient à l'encrier d'un greffier du Fond.** **Le Verger lui a fait une offre sans date, jamais retirée** |
-| **Anselme** | **11** | courtier, rue des Écritures | **SAIT.** A contresigné trois fois. Quatre-vingt-cinq jours sans nouvelles : a vendu **sept dixièmes de son dixième à dix-sept acheteurs, au prix de 500**, pour survivre. A vendu **700** à la province en six jours, sur ses biens et son nom. **PILIER tenu et dépassé — il est libre, et il a bradé dix ans de sa vie** |
-| **Jeanne** (la mère) | **2** | lucide, sèche | Au Fond. **Soignée tant que le papier tient**. N'a pas vu son fils depuis J8 |
-| **Armand** | **14** | apothicaire du Fond | Ancien soigneur du Verger, onze ans. Dette + clause *« le jour où tu redescends, je descends avec toi »* |
-| **Berthe** | **3** | recoud le Fond | **Dette toujours ouverte** — une chose, une seule |
-| **Gilles** | **8** | le plus fort du Fond | *« Un jour tu viendras me demander autre chose. Ce jour-là, je dirai non. »* |
-| **Odile** | — | ferrailleuse | **Vend la vraie version** depuis J8. Les gamins du Fond jouent à *manger* dans le lit sec |
-| **Léon** | **6-7** | bouche des trois du brasero | Déposition signée |
-| **Émile** | — | vieux soigneur du relais des terrasses, Verger Blanc | A donné le bras, la méthode, veillé la nuit de la barre. **Envoyé par le Verger comme soigneur pendant dix jours — et il l'a dit en face.** **Payé, quitte, papier de crédit déchiré.** A livré le creux de l'escalier de service. **A fermé sa porte : « ne redescends plus au relais »** |
-| **La femme du Verger Blanc** | **211** | vêtements de route, pas un bijou | A refusé d'acheter, annoncé que le Verger ne prend personne cette année, envoyé une lettre scellée. **A posté un homme onze jours au bord de sa route pour attendre la charrette. A chiffré Margot en quatre heures et lui a fait une offre sans date.** **N'est pas venue au concours.** Sans nom |
-| **Le vérificateur** | — | itinérant des Sept Registres | Incorruptible. A écrit *péché — gloutonnerie*, classé le mort, signé la convocation, **certifié 900 sur pierre publique**, **lu l'article de l'opposition consentie**, **inscrit l'espèce au registre de province** et rédigé les deux clauses. *« Chaque fois j'avais raison en droit. Je commence à me demander ce que ça fait de moi. »* Sans nom |
-| **Le maître du répertoire** | **12** | bureau central, fauteuil à roulettes, 80 ans | A prononcé la rétention d'examen puis l'a levée. A fait écrire **hors relevé** en sept copies. A demandé qu'on répète le détail de la paume gauche. **« Une pierre a refusé d'écrire une seule fois avant aujourd'hui. Vous êtes le deuxième. »** Sans nom |
-| **L'homme à la veste grise** | **10** | service sans plaque, rue sans nom, Pierregarde | A ouvert sa porte **avant qu'on frappe**. A montré le four et les caisses. *« On ne brûle pas les noms, on brûle les copies. Il en reste toujours un. »* **Connaît Margot personnellement** : *« ce n'est pas une menace, c'est une adresse. »* Sans nom |
-| **Le courtier en robe verte** | — | Pierregarde | Vend, ne donne pas, livre en une journée, n'a jamais menti sur son prix. A vendu les trois renseignements de la sortie. Sans nom |
-| **Le capitaine de la compagnie de chasse** | **60** | plateau du levant, deux doigts en moins | A payé le juste prix de ce qu'il ne pouvait pas prendre. A acheté **la méthode** contre six semaines de portage. Onze ans qu'il monte sur ce plateau ; y a perdu son frère. Sans nom |
-| **La bouche en chemise blanche** | **7** | 16 ans, l'écurie de l'ouest | A **réclamé** d'être lu et payé devant sept hommes. Tient le registre : vingt-quatre têtes, trente et une couches, un mort de fièvre nommé avec celui qui l'avait chargé. A écrit à Seb sans qu'on le lui demande. **A fait marcher vingt-quatre garçons onze jours pour venir voir.** Sans nom |
-| **Le maître de la maison d'armes** | ex-**41** → **1** | grand-route, 48 ans | Descendu dans sa propre cour parce que refuser aurait tué son école. **Marche trois jours vers l'ouest et va demander du travail à l'écurie qui porte le nom du garçon qui l'a vidé. Il enseigne sous ce nom.** Sans nom |
-| **Le greffier du Fond** | — | 22 ans, veste trop grande | A couvert Seb **et** écrit la seconde feuille (porte 1). **A fait passer la vérification de Margot conforme, en écrivant ce qui n'est pas vrai, de sa main, dans un registre qu'il tient seul.** **Sous contrat, salarié, signé de la marque de Margot en l'absence de Seb.** Attend au Fond. Sans nom |
-| **Les dix-sept** | — | bloc, Clairefont et province | Boulanger, deux marchands de grain, **la veuve du bourrelier (30 fers, c'est-à-dire tout)**, un scribe, l'aubergiste du Cygne, douze autres. Ont acheté des parts en pariant que Seb était mort. **Riches pour dix ans. Chacun a le droit de faire vérifier les livres** |
-| **Les sept de la fosse** | 12-19 | écurie de l'ouest | Sans travail le matin, un métier meilleur à minuit. Ont la méthode complète |
-| **Les vingt-quatre** | 1-9 | l'écurie, à Clairefont | Onze anciens de Clairefont, neuf des trente-quatre noms, quatre autres. **Un mort de fièvre au deuxième mois, nommé au registre** |
-| **Le candidat à 96** | ex-**96** → **1** | 22 ans, une maison entière dans les gradins | *« Je sais ce que tu fais aux gens. — Fais-le vite. »* Sans nom |
-| **Les neuf retirés** | — | bloc | Ont signé leur retrait devant six cents personnes plutôt que de descendre. Saison perdue, rang annoncé raturé, pour toujours. Sans noms |
-| **Le rebouteux** | — | vallée du plateau | Trente fers d'avance : *« personne ne fait crédit à un mort »*. A remis quatre côtes droites |
-| **Les douze chasseurs** | 20-60 | compagnie du levant | Ont la méthode. **Ont vu la bête de près pendant trois jours.** Redescendus par la route du levant |
-| **Les treize familles** · **la famille de la salle d'armes** · **la mère du Fer** · **le teneur des fosses** | — | blocs | Toujours dans la province. Chacun sait par qui |
+| **Margot** | **6** | 15 ans, chat-des-toits | **La seule au monde à savoir.** Teneuse de livres du porteur, répond des engagements. A imposé le rachat parte par parte, paraphé devant chaque détenteur, **et gardé la liasse au lieu de la brûler**. A fait plafonner la procuration d'Anselme. **Détient un dépôt scellé signé du greffier du Fond.** A facturé quatre fers à Aude pour une place sur la charrette |
+| **Anselme** | **11** | courtier, rue des Écritures | **Relevé.** A monté le rachat d'une nuit et la vente du second dixième. **Procuration : plafond 50 fers, soixante jours.** Premier courtage propre en 85 jours : 72 fers. Le dixième est de nouveau **entier** entre ses mains |
+| **Jeanne** (la mère) | **2** | lucide, sèche | **A refusé le nord.** Vit à Clairefont, au-dessus de la remise de la fosse, sirop d'Armand pour vingt jours, comptes tenus par la commise aux écritures. *« Ne la mets pas dans un trou. »* |
+| **Armand** | **14** | apothicaire du Fond | **Monté à la maison mère par les cuisines.** A éteint sa propre lanterne pour ne pas montrer son visage à une Sang-Clair du Verger. A rappelé que sa clause dit *« je descends avec toi »*, pas *je monte*. **Dix-neuf vieux du domaine s'assoient près de lui chaque soir** |
+| **Berthe** | **3** | recoud le Fond | **Dette toujours ouverte** |
+| **Gilles** | **8** | le plus fort du Fond | **A dit non.** Sans colère, sans demander combien. *« Je te l'avais promis. »* |
+| **Odile** | — | ferrailleuse | Payée 20 fers pour la version qui arrange. *« Ma version sera la plus jolie. Elle ne sera pas la seule. »* Deux de ses ferrailleurs gardent le lit sec |
+| **Aude** | **211** | Verger Blanc, vêtements de route | **A donné son nom la première.** A attendu quatre heures sur une borne. Ne quitte plus la bête des yeux. A payé sa place. A livré l'escalier, le palier et le nom de la Doyenne. Ne signe rien, ne s'excuse de rien. **A posé la question à voix haute devant deux cents personnes : « qu'est-ce qu'on fait, maintenant ? »** |
+| **Maud** | **340 → 327** | **Doyenne du Verger Blanc**, une des trente « Voie » | **Tenait l'encrier le jour de l'effacement.** Ce qui restait de Victor s'est posé sur elle : **trois cents ans à la même hauteur, sans vieillir, sans rien sentir.** Marque du creux dans la chair sous la clavicule. **L'ordre récité depuis trois siècles est le sien : une convocation.** **Redescend d'un point à chaque prise de la bête, et l'assume.** A confirmé publiquement devant sa maison |
+| **Le vieux du deuxième rang** | **4** | quatre-vingts ans, Clairefont | A livré **la formule** et le geste complet. Ne sait pas ce qu'ils veulent dire. **Sait où on les fait encore : là où il n'y a pas de guichet.** Son prix : le faire correctement, une fois, avant de mourir |
+| **L'aubergiste du Cygne** | — | Clairefont | A sorti 400 fers d'une caisse cachée depuis vingt ans, puis acheté **le second dixième entier, 1 452 fers**, murs et licence hypothéqués. Exige d'être nommé en toutes lettres : ***prêteur, puis répondant du porteur Seb*** |
+| **Le maître à 1** | ex-**41** → **1** | 48 ans | **Ce qui rallume la bête** : front au pavé, un homme qui avait tout perdu par la main de Seb. **Tenant nommé de la fosse de Clairefont** depuis J126 |
+| **La bouche en chemise blanche** | **7** | 16 ans | A fait marcher vingt-quatre garçons onze jours. **Ne s'est jamais agenouillée.** A réclamé un écrit ; a obtenu *commise aux écritures du tenant*, plus petit que demandé, et a signé — **« pour l'instant »**. Tient les comptes de Jeanne |
+| **Le greffier du Fond** | — | 22 ans, veste trop grande | Payé 43 jours + un mois d'avance. **A rendu de lui-même la liste des consultations et le registre des vérifications, et signé un dépôt scellé qui le condamne lui pour couvrir Margot.** 15 fers/mois, écrit chaque semaine |
+| **Le chirurgien des citernes** | — | Clairefont | A refusé l'argent avant d'avoir vu la plaie, puis fixé son prix. Retenu trente jours. **Refuse de descendre un escalier avec Seb** |
+| **L'homme au carnet** | ex-**19** → **1** | Verger, cinquante ans, vingt-neuf ans de service | La seule bouche du Verger à avoir parlé proprement. A livré **l'ordre, la Doyenne, les quatre-vingt-dix jours, les trois cents ans**. **Pris dans les saules.** Laissé vivant sur une route |
+| **Le cavalier** | **104** | Verger | A fait quatre jours de route en trois. Reçoit et accompagne. *« La maison ne vous doit rien et ne vous demande rien. »* A donné six couches d'épreuve puis **a levé les mains et est rentré** |
+| **Les dix-neuf vieux** | 3-20 | domaine du Verger | S'assoient près d'Armand chaque soir. Lèvent la main au passage de Seb. **Ont tous quelque chose : un geste appris, un nom gravé sous la troisième claie du séchoir nord, un escalier qu'on ne balaie jamais.** Ont parlé dans la cour |
+| **Le vérificateur** | — | itinérant des Sept Registres | A certifié 900, inscrit l'espèce, rédigé les deux clauses. *« Je commence à me demander ce que ça fait de moi. »* |
+| **Le maître du répertoire** | **12** | bureau central | *« Une pierre a refusé d'écrire une seule fois avant aujourd'hui. Vous êtes le deuxième. »* |
+| **L'homme à la veste grise** | **10** | rue sans nom, Pierregarde | **Un homme en gris est passé au village le J126 lire la déclaration de Seb, a payé la copie et est reparti sans monter.** *« On ne brûle pas les noms, on brûle les copies. »* Connaît Margot personnellement |
+| **Émile** | — | vieux soigneur du relais | A livré le creux de l'escalier de service **parce qu'Aude le lui avait demandé**. **Le relais des terrasses est fermé, volets tirés, vidé** |
+| **Les dix-sept** | — | Clairefont et province | **Tous rachetés en une nuit, payés en monnaie.** Deux marchands de grain ont fait recopier dans leur acte de prêt le **droit de faire vérifier les livres** — puis ont été soldés au matin |
+| **Les vingt-quatre** | 1-9 | la fosse de Clairefont | Ont attendu seize heures au pied de l'estrade. Se sont agenouillés sur ordre — **et ça n'a rien produit**. Vivent dans la fosse, la nettoient, la tiennent |
+| **Le scribe de la rue des Écritures** | — | Clairefont | A fabriqué **la feuille type** *part du dixième du porteur*, trois par jour. **A gardé le modèle**, et a recopié la clause de vérification de sa main |
+| **Les sept de la fosse** · **les douze chasseurs** · **les neuf retirés** · **les treize familles** | — | blocs | Toujours dans la province. Chacun sait par qui |
 
 ---
 
 ## 7 · POINT DE REPRISE
 
-**Clairefont, J110, l'après-midi. Sur l'estrade du concours.**
+**Vallée haute, maison mère du Verger Blanc, J129, le matin.**
 
-La pierre publique affiche encore **900** parce que personne n'a pensé à l'effacer. Le registre des espèces de la province est ouvert à plat sur la table, l'encre sèche sur une entrée qui n'existait pas ce matin. Six cents personnes viennent d'entendre un garçon de quinze ans déclarer sous serment que sa bête **grandit en mangeant**, et faire le calcul de ce que ça implique.
+Il y a **deux cents personnes** dans la cour des cuisines. Seb vient de tout dire à voix haute : Victor, l'effacement, la convocation récitée trois cents ans, le crâne tombé en poussière sous la paume de la bête. **Maud a confirmé devant sa maison** — *« j'y étais, je tenais l'encrier »* — et un des neuf anciens s'est assis par terre parce que ses jambes ne le portaient plus. Les **dix-neuf vieux** ont commencé à parler et n'ont pas fini.
 
-Le Verger a quitté sa tribune pendant que l'encre séchait. Un **104** est parti au galop vers la vallée haute — quatre jours de route qu'il fera en trois. Émile monte à la maison mère cet après-midi avec trois phrases. Anselme est à genoux dans l'allée et personne ne le relève.
+Sur la pierre du couloir du troisième palier, un homme à **1** ; l'autre garde a réveillé la maison en criant la seule chose interdite ici depuis trois siècles : *il est descendu sous le palier et il est remonté.*
 
-Il reste **99 jours** avant le prochain concours de province, et plus aucune raison d'y aller.
+La bête est debout à droite de Seb : elle marche, elle a la taille d'un enfant de sept ans, treize motifs, et elle a dit deux mots cette nuit.
 
-**Bloc de choix en attente — le reprendre tel quel :**
+**Aude vient de demander, exprès, devant tout le monde : « Alors qu'est-ce qu'on fait, maintenant ? »**
 
-> ▸ Descendre de l'estrade. La journée est finie — **[Libre]**
-> ▸ Anselme, tout de suite : les dix-sept, l'écurie, et ce qu'on fait des quatre-vingt-dix-neuf prochains jours — **[Chiffré — avantage petit]**
-> ▸ Rattraper les trois du Verger avant qu'ils sortent de la ville — **[Chiffré — désavantage moyen]**
-> ▸ Trouver un des onze vieux dans les gradins et lui demander ce qu'il a fait avec ses doigts — **[Chiffré — désavantage petit]**
-> ▸ Plein sud maintenant : le Fond, Jeanne, Armand, Berthe, et un greffier qui attend depuis quarante-trois jours — **[Libre]**
-> ▸ La clôture n'est toujours pas prononcée, et neuf retraits ne sont pas des acquittements — **[Noir + Chiffré — désavantage petit]**
+**Bloc de choix en attente — le servir tel quel :**
+
+> ▸ **Prendre la maison.** Les neuf anciens devant tout le monde, Maud debout à côté, Armand relevé et réinstallé, et une secte de six cents personnes qui change de fondateur ce matin — **[Chiffré — avantage petit]**
+> ▸ **Pierregarde.** Ils ont le sceau de Victor dans sept bureaux depuis dix-huit jours et un homme en gris est déjà passé lire tes déclarations : arriver dans la rue sans nom avant qu'ils aient fini d'identifier — **[Noir + Chiffré — désavantage gros]**
+> ▸ **Vider Maud.** Trois cent vingt-sept qui ne sont pas à elle, qu'elle perdra de toute façon, et ta huitième couche qui n'attend qu'un adversaire à ta hauteur — **[Noir + Chiffré — désavantage moyen]**
+> ▸ **La faire parler jusqu'au bout.** Onze jours de vie utile peut-être, trois cents ans de mémoire, Margot et une plume — et tout ce qu'elle sait avant qu'il n'en reste rien — **[Chiffré — avantage petit]**
 
 **Horloges :**
-- **Un cavalier du Verger galope vers la vallée haute** ; **Émile monte à la maison mère cet après-midi**. Ce qu'ils vont apprendre le même jour : un Seuil du Ciel vivant, une espèce inscrite, une bête qui double de taille.
-- **Copie aux sept bureaux** — Pierregarde saura dans quinze jours. La rue sans nom aussi.
-- **La clause réciproque court à vie** : toute modification de la bête, à tout bureau, sous huit jours.
-- **La clause de signalement** court sur toute maison qui garde une bête rare.
-- **La vérification de Margot** est revenue conforme — et repose sur un mensonge écrit de la main d'un homme.
-- **La jambe** se referme vers la fin du mois.
-- **L'offre du Verger à Margot n'a pas de date.**
-- **Onze vieux ont porté deux doigts à leur bouche** et aucun ne sait pourquoi.
+- **Deux cents personnes attendent une réponse dans la cour.**
+- **Maud descend d'un point à chaque fois que la bête prend.** À 11, elle meurt.
+- **Modifications non déclarées depuis le J128** (elle marche, elle parle, treize motifs, sept ans) : **échéance J136, tout bureau**, sinon l'entrée est suspendue.
+- **Le sceau de Victor est dans les sept bureaux depuis dix-huit jours**, avec demande d'identification. **La rue sans nom l'a.**
+- **Un homme en gris a lu la déclaration de Seb au greffe de village le J126** et est reparti avec la copie.
+- **Un nom est gravé sous la troisième claie du séchoir nord**, et personne n'a jamais su le lire.
+- **La huitième couche** ne se trouve plus dans cette vallée.
+- **Jeanne** est à Clairefont, cinq jours de route, et va un peu mieux.
+- **La fosse de Clairefont tourne** depuis J127.
+- **Prochain concours de province : J209.**
 
-**Fils en cours** (à faire vivre hors champ) : la lettre scellée du Verger, partie depuis J20 · le carnet refermé · la pièce séparée au cachet brisé · les cinq partis avec la méthode · les douze chasseurs qui l'ont aussi · les trois pages d'un ex-47 · la promesse de refus de Gilles · la dette envers Berthe · la clause d'Armand · Odile qui vend la vraie version · les treize familles · la fosse de Clairefont toujours fermée · **l'exemplaire unique de tout ce que le monde a oublié, quelque part dans une maison des Registres** · **« vous êtes le deuxième »**.
+**Fils en cours** (à faire vivre hors champ) : le modèle de la feuille type, gardé par un scribe · la clause de vérification des livres, rachetée par personne · l'exemplaire unique des Registres · la lettre scellée du Verger · les cinq partis et les douze chasseurs avec la méthode · la promesse tenue de Gilles · la dette de Berthe · la clause d'Armand · les gamins du Fond qui cherchent l'entrée du boyau toutes les nuits · **la ligne en alphabet mort que la pierre du creux écrit quand Seb ouvre en grand** · **le volume illisible sous la maison mère**.
