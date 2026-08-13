@@ -4,7 +4,7 @@
 
 ## Protocole de lecture (début de fil)
 
-1. Lire **en entier** : ce fichier → **`RULE-MJ.md`** → `MJ-SECRETS.md` → `MJ-ERRATA.md` → `MJ-ERRATA-35.md` → `MJ-ARBRE.md` → `MJ-CHRONO.md`.
+1. Lire **en entier** : ce fichier → **`RULE-MJ.md`** → `MJ-SECRETS.md` → `MJ-ERRATA.md` → `MJ-ARBRE.md` → `MJ-CHRONO.md`.
 2. Charger **par chapitre**, selon le besoin de la session (table ci-dessous) : `MJ-MONDE.md`, `MJ-CASTING.md`.
 3. **Avant de nommer ou canoniser quoi que ce soit en scène** : vérifier le registre des noms (`MJ-CASTING.md` §0) — source n°1 d'incohérence entre sessions.
 4. Puis lecture publique : `codexcreuset.md` en entier, INDEX des sauvegardes, git log récent.
@@ -19,7 +19,6 @@
 | `RULE-MJ.md` | **carte de conduite condensée** (errata §1-35) : les 4 fautes majeures, jets, ordre de rendu, passe de contrôle, interdits, conduite en cas de doute | **entière au démarrage + avant chaque bloc** |
 | `MJ-SECRETS.md` | vérités du monde, la bête, l'origine, destination, visages préparés, calibration joueur | entière, chaque session |
 | `MJ-ERRATA.md` | corrections de conduite, noms brûlés — **historique**, pas outil de séance | entière, chaque session |
-| `MJ-ERRATA-35.md` | amendement de la table des jets (naturel / total / dosage) — à fusionner dans `MJ-ERRATA.md` et `codexcreuset.md` §1.1 au prochain `codex`, puis supprimer | entière, chaque session |
 | `MJ-ARBRE.md` | ancre du lieu courant + branches candidates + routage des critiques | entière, chaque session |
 | `MJ-CHRONO.md` | calendrier de campagne, mèches actives, mouvements hors champ | entière, chaque session |
 | `MJ-MONDE.md` | le monde au-delà de la scène : chef-lieu, Registres, Verger, province, prix, paliers | par chapitre |

@@ -17,7 +17,7 @@
 - **LE NOM EST DEVENU LE SIEN.** Il s'est fait inscrire **AUBRAN** sur la première ligne d'un livre neuf. Firmin l'a supplié de ne pas le faire — *« chanté, ça s'envole ; écrit, ça reste, et ça reste avec une adresse dessous »*. **Ce nom n'avait aucune forme écrite depuis trois siècles : elle a été fixée cette nuit-là, à la dictée.**
 - **LE CREUSET EST FONDÉ**, dans la cour d'un autre, avec deux blessés et zéro fer — et **reçu à voix haute par la Braise Haute**. Trois inscrits : Aubran, **Firmin** (l'homme de la route), **Blaise** (premier disciple, pris chez Yvon). **Régis, 880, tient les livres et refuse le nom** : *« un homme qui paie pour les autres n'est pas un frère, c'est un poste. »*
 - **L'ART EST TRANSMISSIBLE.** Il a fini la Main sur Blaise lui-même — sans tâtonner, parce qu'il **voit** où poser. **540 → 631.** Le premier de la cour d'Yvon a fait un pas vers la table ; il a fallu le retenir par le bras.
-- **RÈGLE DES JETS AMENDÉE** (§1.1) — tranchée par le joueur après une faute MJ : le naturel décide seul du critique, le total décide de la bande, et un dosage joue aux extrêmes. Détail : `codex/MJ-ERRATA-35.md`.
+- **RÈGLE DES JETS AMENDÉE** (§1.1) — tranchée par le joueur après une faute MJ : le naturel décide seul du critique, le total décide de la bande, et un dosage joue aux extrêmes. Détail : `codex/MJ-ERRATA.md` §35.
 - **NOUVEL OUTIL MJ : `codex/RULE-MJ.md`** — carte de conduite condensée, relue avant chaque bloc.
 
 ---
@@ -46,7 +46,7 @@
 | **66–89** | pleinement, sans prix | — |
 | **90–100** | au-delà · **une porte s'ouvre, ou une ouverte s'élargit** | — |
 
-**NATUREL ET TOTAL** *(amendement du 2026-08-13, tranché par le joueur — `codex/MJ-ERRATA-35.md`)* :
+**NATUREL ET TOTAL** *(amendement du 2026-08-13, tranché par le joueur — errata §35)* :
 
 - **Le naturel décide seul du critique.** `01-10` → catastrophe : porte fermée ou aggravée, **+2 jetons**. `90-100` → triomphe : porte ouverte ou cran. **Aucun modificateur ne protège d'un critique ni n'en fabrique un.**
 - **Le total décide de la bande de résultat**, toujours.
