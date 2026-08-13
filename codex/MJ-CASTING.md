@@ -3,21 +3,29 @@
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** §0 lu à **chaque** session ; fiches chargées au besoin (voir `MJ-INDEX.md`).
 > **À jour au 2026-08-12 (v16, scène 116).**
 
-## 0.0 · PALIER II — LE MURIM : REGISTRE OUVERT *(2026-08-13)*
+## 0.0 · PALIER II — LE MURIM : REGISTRE *(à jour sc. 184)*
 
-**Aucun nom n'est encore fixé sur ce palier.** Tout est à nommer en scène.
+**Noms fixés en jeu :**
 
-| À nommer | État |
+| Nom | Qui | Depuis |
+|---|---|---|
+| **AUBRAN** | **le nom de la bête** — livré par la chanson de Firmin, dit par elle en même temps que lui (cinquième mot). Nom d'avant la mesure : **on ne le chante pas dehors.** Errata §1.1 | sc. 183 |
+| **Firmin** | charretier, **340**, deux bœufs, la route deux fois par mois depuis vingt ans. A livré le nom à genoux, a vendu à Seb ses premières chaussures et son premier outil, et **ne signalera pas**. ⚑ Atout : connaît tous les relais et toutes les chansons d'ici à la ville | sc. 182 |
+| **LA BRAISE HAUTE** | la maison qui tient le val : robe grise, ceinture rouge, la route, les deux relais, le péage du pont bas, **un enfant par ferme tous les trois ans**. Son art se reconnaît à dix pas | sc. 184 |
+
+**Visages actifs sans nom** : **le compteur du relais** (880, planchette et pinceau, compte tout ce qui monte et descend) · **six disciples** (400-620, robe grise ceinture rouge).
+
+| Encore à nommer | État |
 |---|---|
-| **Le charretier** | **340**, deux bœufs, une chanson où il y a des noms. **Sans nom.** Premier PNJ du palier |
-| La région · la route · la première ville · la première secte · la maison qui tient **les Listes** · le premier **art** · la première **arme** | tout à fixer en scène |
+| La région · **la première ville** · la maison qui tient **les Listes** · le premier **art** · la première vraie **arme** | à fixer en scène |
 
-**Règles inchangées** : **un seul nom nouveau par scène**, et seulement s'il agit · **prénoms occidentaux**, courts, sans doublon avec la liste de Terre ci-dessous · les visages forts peuvent rester délibérément sans nom — les nommer est un moment.
+**Règles inchangées** : **un seul nom nouveau par scène**, et seulement s'il agit · **prénoms occidentaux**, courts, sans doublon · les visages forts peuvent rester délibérément sans nom — les nommer est un moment.
 
 **Noms de Terre à ne jamais réutiliser** : Seb · Jeanne · Margot · Berthe · Armand · Anselme · Gilles · Léon · Odile · Marcel · Émile · Aude · Maud · Victor · Roch.
+**Noms du Murim déjà pris** : Firmin · Aubran.
 **Dé-nommés** : « Fabien », « le grand maigre ».
-**Noms scellés (coffre)** : la bête → §2, **à livrer sur ce palier** · l'autre du sang → §2.
-**Nom brûlé** : errata §1 — interdit à jamais, et **le nom définitif se fixe au moment où la fiction le livre**.
+**Nom scellé restant (coffre §2)** : l'autre du sang.
+**Nom brûlé** : errata §1 — **interdit à jamais**, et il ne désigne rien : le nom définitif de la bête est **Aubran** (errata §1.1).
 
 ---
 

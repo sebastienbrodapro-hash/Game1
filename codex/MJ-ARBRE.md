@@ -2,7 +2,7 @@
 
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Lu en silence au démarrage avec `MJ-SECRETS.md` et `MJ-ERRATA.md`.
 > **Règles d'usage** : le tronc est intouchable. Horizon glissant : l'ancre du lieu courant + 2-3 candidats. **Les critiques déplacent le chemin, jamais le tronc.**
-> **À jour au 2026-08-13 — PALIER II, LE MURIM, premier jour (v18, scène 181).**
+> **À jour au 2026-08-13 — PALIER II, LE MURIM, M1 au crépuscule (v19, scène 184).**
 
 ## 0 · RÉGLAGE DE RYTHME
 
@@ -41,21 +41,30 @@ Fini sur une plaine de terre battue devant Pierregarde : **6 812 abattu devant h
 5. **La bête est à sa taille.** Quinze motifs, cinq mots — **le nom est livré (Aubran, sc. 183)**. C'est le fil principal du palier, et il a maintenant une **échelle explicite** : errata §34, six crans de forme jusqu'à l'interlocutrice anthropomorphe, gagnés à la grosse prise ou à la réclusion. **Son registre animal se décidera à sa plus grosse prise d'ici.**
 6. **Le Corps : trempé, 9 couches.** Grade suivant à 12. L'épreuve seule.
 
-## 4 · ANCRE D'ENTRÉE — À FIXER EN SCÈNE
+## 3bis · CE QUI EST FAIT (sc. 182-184, M1)
 
-**La première ville**, celle où sont les plus gros chiffres du pays (4 000 lus à des lieues). C'est là que se trouvent : les Listes, une secte, des armes, des arts, et de quoi manger.
+**Branche A consommée en trois scènes, comme prévu.** Le nom est livré (**AUBRAN**, sc. 183, par Firmin), la porte **CE QUI SE SOUVIENT** est ouverte, le premier équipement est acheté, la bourse est vide, et le Masque est réglé à **1 000**.
 
-- **Test de l'apothéose** : ✅ offensive par construction — un inconnu pieds nus qui vaut deux fois et demie le sommet local **prend** quelque chose que ce monde croyait hors d'atteinte.
-- **Ce qu'il lui faut, dans l'ordre de la faim** : de quoi manger *(argent)* · **un art** · **une arme** · un nom sur une Liste.
-- **Budget : étape de 8-12 scènes**, puis une ancre.
+**Ce que ça a créé, à jouer maintenant :**
+- **Le relais de la Braise Haute** (étape courante) — un compteur à 880, six disciples à 400-620, et **un outil manquant au compte**.
+- **La ville, deux jours** — les Listes, les arts, les armes, et « les gens qui gardent les vieilles choses ».
+- **L'échelle §34** : la bête est à **1/6**. Le prochain cran demande **une grosse prise ou une réclusion** — c'est le vrai moteur du palier, et le joueur le sait.
+
+## 4 · ANCRE — LA VILLE
+
+**La première ville**, celle où sont les plus gros chiffres du pays (4 000 lus à des lieues) : les Listes, les sectes, les armes, les arts.
+
+- **Test de l'apothéose** : ✅ offensive par construction — un inconnu sans nom qui vaut deux fois et demie le sommet local **prend** quelque chose que ce monde croyait hors d'atteinte.
+- **Ce qu'il lui faut, dans l'ordre de la faim** : **de quoi manger** *(bourse à zéro)* · **un art** · **une grosse pièce à donner à la bête** · un nom sur une Liste.
+- **Budget : étape de 8-12 scènes** (le val + la route), puis l'ancre en ville.
 
 ## 5 · BRANCHES CANDIDATES
 
-- **A. LE CHARRETIER ET LA CHANSON.** *Mèche allumée, la plus chaude et la plus courte.* Il chante des noms de choses d'avant la mesure. **C'est le vecteur du nom de la bête** (coffre §6). Ne pas le faire attendre : 1 à 3 scènes.
-- **B. LA SECTE.** Il n'a ni art ni maître. Entrer quelque part — par le bas, par l'effraction, ou en écrasant — pour prendre un art nommé. C'est la voie webtoon classique et le joueur l'a demandée.
-- **C. LES LISTES.** La seule chose écrite qui compte ici. Un inconnu qui n'y figure pas peut y entrer par la porte du tournoi, de la prime, ou du scandale. Registre de domination sociale = son meilleur registre (coffre §11).
+- **A. LE RELAIS ET LA BRAISE HAUTE.** *Étape courante, allumée.* Une maison qui possède une route et prend un enfant par ferme. Un compteur à 880, six disciples, un art qui se reconnaît à dix pas. **C'est la porte d'entrée la plus courte vers un premier art** — donné, volé, ou arraché.
+- **B. LES LISTES.** La seule chose écrite qui compte ici. Un inconnu qui n'y figure pas y entre par le tournoi, la prime, ou le scandale. **Registre de domination sociale = son meilleur registre** (coffre §11).
+- **C. LA GROSSE PIÈCE.** Le joueur l'a dit lui-même : la chasse à la grosse proie est un sommet de plaisir (errata §30). **Et c'est désormais le carburant explicite de la bête (§34).** Prévoir, dans ce palier, une chose terrée qui rend coup pour coup et qui **décide de son registre animal**.
 
-**Routage** : premier critique lié à la bête → **A** · premier critique lié au combat ou au Corps → **B** · premier critique social ou public → **C**.
+**Routage** : premier critique lié au combat ou au Corps → **A** · premier critique social ou public → **B** · premier critique lié à la bête → **C**.
 
 ## 6 · GARDE-FOUS DU PALIER II
 

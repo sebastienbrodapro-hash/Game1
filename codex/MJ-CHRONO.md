@@ -1,7 +1,7 @@
 # MJ-CHRONO — LE CREUSET (calendrier, mèches, hors champ)
 
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Lu en entier à chaque session ; mis à jour à chaque `codex` et à chaque ellipse.
-> **À jour au 2026-08-13 — v18, scène 181, PALIER II, premier jour du Murim.**
+> **À jour au 2026-08-13 — v19, scène 184, PALIER II, M1 au crépuscule.**
 
 ## 0 · PALIER I — LA TERRE : J1 → J267, SCÈNES 1-181 — **CLOS**
 
@@ -23,16 +23,21 @@ Le détail scène par scène est dans les copies figées `codex-006` à `codex-0
 
 | Jour | Événements |
 |---|---|
-| **M1** | Arrivée. Une route de terre rouge entre deux versants de bambous. Un charretier à **340** qui mène deux bœufs et **qui chante une histoire de choses qui mangeaient ce qu'on leur donnait, du temps où l'on jurait au lieu d'écrire** — *il y a des noms dedans* · la bête tourne la tête vers lui et ne la détourne plus |
+| **M1 · matin** | **Arrivée** sur une route de terre rouge entre deux versants de bambous. **Firmin**, charretier à **340**, passe en chantant une histoire de choses qui mangeaient ce qu'on leur donnait — *il y a des noms dedans*. **Sc. 182** *(réduite)* : rattrapé, il refuse la fin — *« des noms comme ça, ça se chante pas dehors »* — et annonce qu'il devra **signaler au relais** : le val est à une maison, il y a une prime. La version entière se chante **en ville**, à couvert : **deux jours à pied, trois par la charrette** |
+| **M1 · matin** | **Sc. 183 — TRIOMPHE. LE NOM.** Seb ouvre le Masque en grand : les bœufs plient les genoux, le val se tait sur cent pas. Firmin s'assoit dans la poussière, **fait le geste des jureurs** et chante le dernier couplet à genoux. **« Celui-là s'appelle AUBRAN »** — et **la bête le dit en même temps que lui** (cinquième mot). Il donne en plus le mot de ce monde pour l'homme qui marche avec une de ces choses : **un jureur** — *et aucun jureur n'a jamais fini par mourir*. **Il ne signalera pas.** → **PORTE OUVERTE : « CE QUI SE SOUVIENT »** |
+| **M1 · jour** | **Sc. 184** *(36-65)* — **68 fers vidés** contre sandales de paille, chapeau conique, veste de toile brune, gourde, vivres 4 jours et **un hachoir à bambou**. **Prix : bourse à zéro, et l'outil sortait d'une commande de douze qui sera comptée ce soir.** **Masque réglé à 1 000.** Route descendante toute la journée : le val appartient à **LA BRAISE HAUTE** (robe grise, ceinture rouge — la route, les deux relais, le péage du pont bas, **un enfant par ferme tous les trois ans**) |
+| **M1 · crépuscule** | **Le relais.** Mur de pisé rouge, cour carrée, **six disciples à 400-620** qui répètent un mouvement en silence, et sous l'auvent **le compteur à 880**, planchette et pinceau. Firmin a onze hachoirs. Les six ont vu la bête |
 
-**→ POINT MORT : M1, au bord de la route rouge. Bloc de trois options au codex §7.**
+**→ POINT MORT : M1 au crépuscule, portail du relais. Bloc de quatre options au codex §7.**
 
 ## 2 · MÈCHES ACTIVES
 
-- **LA CHANSON DU CHARRETIER.** Mèche la plus courte du palier : c'est le vecteur du nom de la bête (coffre §6). **Ne pas la faire attendre.**
-- **Il n'a rien.** Pas de nom, pas d'art, pas d'arme, pas de secte, pas de monnaie valable, pas un visage connu. Premier vrai dénuement depuis la scène 1.
-- **La dîme prélève toujours** — et **ses comptes ouverts sont vides** : plus de Maud, plus de proches à portée. Ce qui se passe quand il refuse et qu'il n'y a personne sur qui déplacer la note **n'a jamais été testé.**
-- **La bête est à sa taille**, quinze motifs, cinq mots (« Part. » · « Après. » · « Creuset. » · « Suivant. » — quatre prononcés, le cinquième compté à la scène 148).
+- **LE COMPTE DE CE SOIR SERA COURT D'UN OUTIL.** Un homme honnête à 340 devra s'expliquer devant un homme à 880 qui compte tout.
+- **LA VILLE, DEUX JOURS.** La chanson entière s'y chante à couvert, chez « les gens qui gardent les vieilles choses ». *(Le nom est livré ; ce qui reste là-bas, c'est le reste du couplet — et le décor, pas une énigme, §31.)*
+- **« UN JUREUR N'A JAMAIS FINI PAR MOURIR. »** Personne ici ne sait ce que ça veut dire. **Vrai** (coffre §3). Ne pas l'expliquer.
+- **LA BÊTE MONTE — errata §34.** Cran **1/6**. Prochain cran : les mains. **Déclencheur : une grosse prise ou une réclusion.** Son registre animal se décidera à sa plus grosse prise d'ici — **ce que Seb lui donne décide de ce qu'elle devient**.
+- **Il n'a rien.** Pas de nom, pas d'art, pas de secte, **plus un sou**. Il a des chaussures et un hachoir.
+- **La dîme prélève toujours** — et **ses comptes ouverts sont vides**. Ce qui se passe quand il refuse et qu'il n'y a personne sur qui déplacer la note **n'a jamais été testé.**
 - **Les Listes** : la seule chose écrite qui compte ici, et son nom n'y est pas.
 - **Le Corps : 9 couches**, grade suivant à 12, épreuve seule, et *rien ne guérit tout à fait*.
 
