@@ -268,3 +268,42 @@ Des scènes 160 à 169, huit scènes d'affilée dont le seul produit était de l
 2. **Puis une grosse pièce** : apothéose en force, à la hauteur de la carrière, qui rend coup pour coup, qui coûte du sang et qui rapporte gros — **et qui sert de sortie de palier**.
 
 **Deux morceaux nets. Pas de traîne entre les deux.**
+
+### 31.3 · Une énigme administrative est une énigme (2026-08-13)
+
+Après la coupe nette, le MJ a immédiatement reconstruit le même piège en paperasse : trois objets à réunir, des copies, des transmissions, des dates, qui était où au J202 — plus **deux erreurs de calendrier** qui ont fait servir des options impossibles (errata §13). Verdict : *« tu me reperds là. »*
+
+- **Les dates, les copies, les procédures et les courses contre la montre administrative comptent comme énigme** et tombent sous le §31.
+- **Le MJ tient le calendrier lui-même, et il le vérifie avant d'écrire une option** — jamais après. Une distance canon (Fond → Clairefont : une demi-journée · Fond → vallée haute : quatre jours) ne se réinvente pas en cours de scène.
+- **Quand le joueur dit qu'il est perdu : on ne réexplique pas, on coupe.** Trois faits, deux directions, et on joue.
+
+## 32 · CONSOLIDATION DES PORTES AU PASSAGE DE PALIER (2026-08-13, validé joueur)
+
+Directive du joueur au seuil du Murim : *« plus serré : 1 - 1 de base. Tu peux clôturer tout ce qui ne convient plus à ces niveaux de puissance et en fonction de mes préférences. »*
+
+**Les 23 portes de Terre sont clôturées. Deux survivent, et elles passent au palier II :**
+
+| | Porte | Contenu |
+|---|---|---|
+| **OUVERTE** | **HORS MESURE** *(ex-8, 14, 19, 23)* | Il décide de ce que le monde lit de lui ; rien ne peut le mesurer, le classer, le retenir ni le saisir — lui ou sa bête |
+| **FERMÉE** | **LA DÎME** *(ex-21 cran 2)* | Un dixième de tout ce qu'il prend, prélevé à l'instant, sans jet, sans recours |
+
+- **Éteintes** : 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 15, 16, 17, 18, 20, 22. Elles étaient attachées à des greffiers, des registres, une province et des gens qu'il vient de quitter. **Elles restent au canon comme histoire, plus jamais comme règles.**
+- **Les cicatrices ne sont pas des portes** : bras gauche mort, main gauche diminuée, dos labouré, creux au pouce droit — acquis physiques, conservés.
+- **Règle générale gravée** : **à chaque passage de palier, les portes se consolident à ~1 ouverte / 1 fermée**, table soumise au joueur avant gravure. Budget du nouveau plan : **~2 ouvertes / ~1 fermée à gagner sur place.**
+
+## 33 · LES SYSTÈMES DU MURIM (2026-08-13, validé joueur)
+
+Demande du joueur pour le palier II : *« des compétences de combat, comprendre ma bête, réclusion possible… vraiment comme un webtoon dans le Murim. Des armes, équipement — l'évolution et la transformation c'est TROP BIEN. »*
+
+**1 · LES ARTS.** Sur Terre, Seb frappait. Ici les techniques existent, portent des noms, s'apprennent, se volent, se pratiquent. **Un art = une ligne à crans**, acquise d'un maître, d'un manuel, d'un cadavre — elle **monte d'un cran** par l'usage marquant et par la réclusion. **Deux ou trois arts actifs au maximum** : au-delà, ça redevient un tableau (§31).
+
+**2 · L'ÉQUIPEMENT.** Réel, présent, important : armes, armures, pilules, objets de secte. Ça s'achète, se gagne, s'arrache, et **ça change ce qu'on peut faire**. Le joueur en veut et il faut lui en servir.
+
+> **⚠️ Nuance capitale, posée par le joueur : « l'équipement qui évolue est exceptionnellement rare, voire inconnu. »** Ce n'est **pas** une catégorie du monde. Aucune arme ordinaire ne monte de cran. Si un objet évolutif apparaît un jour, c'est **un événement de campagne** — une relique, une forge perdue, une rumeur que trois personnes portent — jamais un mécanisme distribué. *(Note MJ : Seb en possède déjà un sans le savoir — la plaque de fer, qui a chauffé, s'est éteinte, a repris, et s'est clavetée sur son pouce.)*
+
+**3 · LA RÉCLUSION.** Il s'enferme : semaines, mois. Il ressort **transformé** — un cran d'art, une couche de Corps, parfois deux choses. **Prix invariable et réel : le monde bouge sans lui**, et il rouvre la porte sur un pays qui a changé. Un jet, un gros delta, une fiche.
+
+**4 · LA BÊTE.** Fil principal du palier. Elle se livre **par des bouches et par des moments qui mordent** — jamais par déchiffrement (§31). Le nom scellé du coffre §2 se refixe au moment où la fiction le livre (errata §1).
+
+**Registre général : webtoon de Murim.** Rythme rapide, paliers de puissance lisibles, transformations spectaculaires, sectes, arts nommés, réclusions, et des gens qui plient.
