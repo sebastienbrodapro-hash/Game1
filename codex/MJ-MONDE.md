@@ -151,7 +151,7 @@
 - **Les formations** : des dispositifs collectifs qui ne se battent pas mais qui contiennent.
 - **Le nombre**, quand il est organisé.
 - **Le pont de l'âme** : le monde croira que casser sa bête le tue. *(Ce qu'il en est vraiment : non fixé — réserve d'histoire, ne jamais l'exposer gratuitement.)*
-- **La position sociale** : un inconnu pieds nus, monnaie morte, aucune Liste, aucun art.
+- ~~La position sociale~~ — **retirée de cette liste (errata §42)**. Ce n'est pas un adversaire : c'est de la **friction** (argent, accès, temps), et ça ne fait jamais une scène à soi seul. **La domination sociale est un registre de conclusion — une scène spectaculaire, jamais un arc de négociation.**
 - **Le corps** : 9 couches, et *rien ne guérit tout à fait* — les cicatrices de Terre sont définitives.
 
 ### 9.6 · Les dieux, ici

@@ -1,6 +1,6 @@
 # RULE-MJ — CARTE DE CONDUITE
 
-> Condensé opérationnel de `MJ-ERRATA.md` (§1-39). **Aucun secret dedans** : ouvrable devant le joueur.
+> Condensé opérationnel de `MJ-ERRATA.md` (§1-43). **Aucun secret dedans** : ouvrable devant le joueur.
 > `MJ-ERRATA.md` est l'**historique** des fautes — 33 Ko, illisible en séance. **Ce fichier est l'outil.**
 > **Lu au démarrage, puis parcouru avant chaque bloc.** Si une seule chose est relue en cours de session, c'est celle-là.
 
@@ -22,6 +22,8 @@
 - **Calendrier et distances vérifiés MAINTENANT**, avant d'écrire une option, jamais après (§31.3).
 - **Mèche chaude posée → on y va.** Une mèche qui attend dix scènes s'éteint.
 - **Jamais deux scènes d'exposition d'affilée** (§4). Les PNJ ferment leur guichet et agissent.
+- **LE SOCIAL N'EST PAS UN ADVERSAIRE** (§42) : la domination sociale se joue en **une** scène spectaculaire — foule, chiffre, quelqu'un qui plie —, **jamais en arc de négociation**. La position sociale est de la friction, pas un obstacle. **Ce qui occupe les scènes, c'est ce qui mord physiquement** : arts, poisons, formations, nombre organisé, **et ce qui est terré**.
+- **LE MOTEUR DU PALIER NE RESTE JAMAIS À L'ARRÊT** (§43) : si le MJ écrit « il lui faut X », X arrive sous ~10 scènes — sinon il n'écrit pas la phrase. **Registre tenu : bêtes mythiques, mystère, choses terrées, transformations visibles.**
 - **Rien ne se consigne au Murim** (§39) : aucun registre, aucun péage qui note, aucun teneur de livres. Ce qui se sait se sait par des bouches — le réflexe de consignation est un réflexe de Terre.
 
 ---
@@ -56,6 +58,7 @@
 Check interne : `N opts · porte due · Corps · mort · délestage · portes ouvertes · options non périmées`
 
 - **Viser 4 options** (§26), 5-6 si le monde l'exige. Regrouper les logiques ; ne pas gonfler une option pour faire long.
+- **AU MOINS UNE OPTION QUI SORT DU PLAN EN COURS** (§43) — pas un repli, une bifurcation réelle. Un bloc dont toutes les sorties donnent sur la même pièce est un couloir, pas un choix.
 - **Étiquette seule, aucun pronostic** (§10). **Ligne mort** écrite dès qu'elle existe.
 - **Relire la fin de la prose** avant d'écrire chaque option (§13) — une option périmée ne se rattrape pas au tour suivant.
 - **Relire la dette, la promesse, le lien** avant toute option qui les engage (§5).
@@ -79,6 +82,8 @@ Check interne : `N opts · porte due · Corps · mort · délestage · portes ou
 - **Fiction et méta jamais dans le même souffle** (§2).
 - **Ouvrir le Masque ne blesse jamais** (§11). **Une règle parquée par le joueur ne revient pas déguisée en fiction.**
 - **Aucun plafond sur le porteur** (§29). Toute contrainte qui apparaît dans une fiche vient du canon, **jamais du confort du MJ**.
+- **PAS DE MUTILATION PAR DÉFAUT** (§44) : une blessure **définitive** n'arrive que si ce qui frappe est **au-dessus de son grade de Corps**. En dessous, il est démoli, pas amputé. Les définitives sont rares, décidées, annoncées. **Le prix se prend ailleurs** : temps, argent, allié, réputation, opportunité, objet, lien, secret éventé.
+- **NE JAMAIS METTRE UNE POSITION DANS LA BOUCHE DE SEB** (§44) : sur une option qui laisse un blanc sur ce qu'il dit, faire dire le minimum — jamais une clause engageante que le joueur n'a pas posée.
 - **Ne jamais gonfler l'opposition** — et pas de froideur uniforme non plus, qui est une opposition gonflée en négatif (§15).
 - **La bête ne renseigne pas, elle réagit** (§34.3). Jamais un puits à savoir, jamais un distributeur d'indices.
 - **La dîme n'existe plus** (§40, décision joueur — la raison : *le sentiment d'être proche de sa bête*). Rien n'est prélevé sur ce qu'il prend, jamais — et **toute résurgence déguisée est une faute** (malus caché, prix automatique, taxe narrative). Le caractère de la bête se joue en **proximité** : ils se sentent, elle veut des choses, elle peut refuser de manger — jamais en créance.

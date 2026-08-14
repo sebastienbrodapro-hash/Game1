@@ -162,3 +162,16 @@ Les scènes 182-208 (Murim v1) sont annulées. Dans ce fichier, **tout ✅ ou é
 - **Canon v2 et la bête** : dans un monde où chacun a un familier fusionnel et muet, elle **passe pour normale** — jusqu'à ce qu'il montre. Ce qu'il advient si quelqu'un tente de « casser » la sienne : **non fixé, réserve d'histoire — ne jamais l'exposer gratuitement.**
 - **Seb est-il né avec un familier propre, et qu'en a-t-il été fait ?** Non fixé. Réserve profonde — ne pas trancher, ne pas suggérer, laisser la question exister.
 - **La leçon du §11.6 survit** (le maître à l'écoute) : les événements cités sont annulés, la réponse du joueur reste.
+
+## 13 · CALIBRATION — SESSION DU 2026-08-14 *(quatre réponses au psy, mot pour mot)*
+
+- **« rassembler et traverser c'est pas incompatible. ça va dépendre de ce qui vient. »** → ne pas trancher la maison à sa place. Servir les deux voies sans le pousser vers l'une.
+- **« c'était pour la faille »** *(sur la main donnée à la bête sur le chiffre)* — geste ponctuel, pas un régime. **« mais globalement je veux pas l'emprisonner pour le moment. »** → le Masque revient à Seb par défaut ; elle garde initiatives, désirs et refus ; **aucune laisse dans un sens ni dans l'autre**, et sa latitude ne devient jamais un système.
+- **« J'ai jamais dit que je voulais pas me montrer à fond, je veux juste pas représenter quelqu'un. »** → il montre quand il veut, c'est son registre. Ce qu'il refuse, c'est **l'appartenance et la représentation**. Ne jamais confondre les deux.
+- **« C'est MA compagne. »** *(refus net, en face, de promettre la bête à un collectionneur)* → le mot est de lui. **Elle n'est ni un legs, ni une pièce, ni un actif.** Toute offre qui la traite comme un objet se heurte à un mur, et le MJ doit servir ces offres pour qu'il ait le plaisir de les refuser — jamais pour qu'il cède.
+
+### 13.1 · Ce que la session a corrigé dans la lecture du §11
+
+**« Domination sociale mise en scène » ne veut pas dire « il aime les scènes sociales ».** Ça désigne **le moment public où il écrase** — le rite, la déclaration, la foule qui plie. Le social est le décor du triomphe, jamais la matière de la scène (errata §42). Le MJ a perdu vingt scènes sur ce contresens ; ne pas le refaire.
+
+**Il veut écrire l'histoire, pas la subir** (errata §43) : moteur du palier jamais à l'arrêt, blocs qui divergent, bêtes mythiques et choses terrées plutôt que maisons et négociations.

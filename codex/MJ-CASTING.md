@@ -4,28 +4,38 @@
 > **À jour au 2026-08-14 (v21, scène 198).**
 > **Règle d'or : avant de nommer quoi que ce soit en scène, vérifier ce fichier.** Source n°1 d'incohérence entre sessions.
 
-## 0.0 · PALIER II — LE MURIM v2 : REGISTRE *(page neuve, errata §39 — sc. 209 à jouer)*
+## 0.0 · PALIER II v2 — REGISTRE *(à jour sc. 254)*
 
-**Noms fixés en jeu : aucun. Le monde v2 n'a pas encore commencé.**
+**LA BÊTE** : nom fixé au canon (errata §1.1), connu du joueur, **NON LIVRÉ en fiction v2**. En scène : « la bête », toujours. Ne jamais l'écrire dans la prose avant la scène qui le rend.
 
-**LA BÊTE** : son nom est fixé au canon (errata §1.1) et connu du joueur — **NON LIVRÉ en fiction v2**. En scène : « la bête », toujours, jusqu'à relivraison par une bouche. Ne jamais l'écrire dans la prose d'une scène avant ce jour-là.
+| Nom | Qui | Depuis |
+|---|---|---|
+| **Lucien** | **2 690** *(2 900 avant la faille, 2 540 après)*. Maître d'arts de la ville, la cinquantaine, **côté gauche gelé et fouet amputé de deux tresses** — le suif de la faille les lui a pris en sortant. Trente jours enfermé avec Seb. **Le *sept* de la Pile il y a vingt-deux ans** — record effacé par le quinze de Seb, devant sa maison. **A rendu ses quatorze élèves et s'est retiré de l'enseignement** pour pouvoir l'enseigner hors de sa maison. A demandé devant témoin : *« d'où tu sors, exactement ? »* | sc. 225 |
+| **Irène** | **6 550** *(6 300 avant)*. Soixante-dix ans, une **chaîne de cinquante pas** posée en cercle sur un toit de tanneries. **Le *neuf* d'il y a vingt-huit ans, fait seul dans une cour vide** parce qu'elle savait ce qui arriverait sinon. Vit seule depuis : aucune maison ne peut enseigner à qui elle dépasse. **A vu en vingt secondes que la bête n'en est pas une**, et lui a demandé son nom. Enseigne `L'ESPACE`. **Sa chaîne s'est redressée après vingt-huit ans, en enseignant à Seb.** **DISPARUE — sc. 254, le quartier nord brûle et la terrasse est vide** | sc. 232 |
+| **Gaspard** | **7 400**. Vingt-neuf ans de collection de **familiers orphelins** : quarante derrière des vitres, de 210 à 5 200 — **et il sait s'en servir à distance**. Maison ouverte dans un pli de montagne, aucune porte fermée, quarante employés sous 900. **Voulait la bête après la mort de Seb ; refus net, et il n'a rien retiré.** *« Quatre ont dit oui »* avant lui. A donné le nom du séparateur ; **refuse d'en nommer un troisième — le dire attire son attention** | sc. 249 |
+| **La maîtresse de la maison des arts** | **4 800**, tunique grise, quelque chose de long et sombre roulé au creux du bras. A refusé de prendre Seb autrement qu'au rite, puis après le quinze : *« on n'a pas de rang pour ça »*. A fait écrire **QUINZE** avec une ligne vide au-dessus. Sans nom | sc. 228 |
+| **Adèle** | **morte.** Tenait une école de lutte à main nue à onze jours d'ici ; morte en défendant sa cour contre des gens venus prendre ses élèves — **quatre tués, le cinquième l'a eue par-derrière, les mains engagées.** C'est pour ça que ses gants sont restés allumés. **Son école existe : dix-neuf personnes, cour fermée, et elle cherche ces gants depuis onze ans** | sc. 252, évoquée |
+| **LES GANTS** | **1 900**, cuir usé. Berceau dix-sept de Gaspard. **Venus d'eux-mêmes aux mains de la bête** (porte II cran 3). Premier équipement de la campagne — **et il est à elle** | sc. 251 |
+| **LA MAISON DES LISTES** | tient les classements de la ville. **Paie quatre hommes depuis onze ans sur la cour de la vieille aux chansons** — pas pour la garder : **pour être les premiers sur la chaîne d'Irène le jour de sa mort.** A cessé d'attendre. **Emploie un homme qui sait séparer un vivant de son familier** | sc. 250-252 |
+| **La vieille aux chansons** | achète les vieux vers derrière la halle aux grains, quatre hommes de 840 à 1 100 payés sur sa cour. Sans nom — *à ne pas confondre avec la réserve v1* | sc. 229 |
+| **La maison du Grès** | trois vallées à l'est. **Élevait quinze bêtes de fosse dans une mine sous un verger**, une descente par saison. A trouvé son trou vide | sc. 245 |
 
-### Réserve v1 — la ligne annulée (sc. 182-208)
-
-Ces visages et lieux ont existé dans la ligne rembobinée. **Ils ne sont pas canon.** Par défaut ils ne reviennent pas ; le jeu peut en rappeler certains, transformés, si une scène le demande vraiment. **Leurs prénoms ne se réutilisent pas sur d'autres visages** :
-Firmin (charretier) · Yvon (maître du val) · Régis (compteur) · Blaise (disciple) · Rémy (disciple) · Colette (la vieille de la halle) · l'homme du péage · la Braise Haute (maison) · la Cuve · Vermeil (ville) · la Main qui reste (art) · **le Creuset** *(le nom de la maison appartient au joueur — il refondera s'il veut, où il veut)*.
+**Visages actifs sans nom** : le vieux paysan à **310** *(a tout vu, a parlé)* · les trois payés qui l'ont invité *(1 800 · 1 550 · 1 200)* · **5 600**, immobile au centre du quartier en feu.
 
 | Encore à nommer | État |
 |---|---|
-| Le point d'entrée v2 · la région · la première ville · la première secte · le premier art · le premier autel · la première chance · la première arme · la grosse pièce du palier | à fixer en scène |
+| **La ville** *(jamais nommée !)* · la région · **le séparateur** *(Gaspard a donné son nom hors champ — à fixer)* · **la grosse pièce du palier** · le troisième séparateur, qu'on ne prononce pas | à fixer en scène |
+
+### Réserve v1 — la ligne annulée (sc. 182-208)
+
+**Pas canon.** Prénoms **non réutilisables sur d'autres visages** : Firmin · Yvon · Régis · Blaise · Rémy · Colette · la Braise Haute · la Cuve · Vermeil · la Main qui reste. *(Le nom **le Creuset** appartient au joueur : il refondera où et quand il veut.)*
 
 **Noms de Terre à ne jamais réutiliser** : Seb · Jeanne · Margot · Berthe · Armand · Anselme · Gilles · Léon · Odile · Marcel · Émile · Aude · Maud · Victor · Roch.
-**Dé-nommés** : « Fabien », « le grand maigre ».
-**Nom scellé restant (coffre §2)** : l'autre du sang.
-**Nom brûlé** : errata §1 — **interdit à jamais**, il ne désigne rien.
+**Noms v2 pris** : Lucien · Irène · Gaspard · Adèle.
+**Dé-nommés** : « Fabien », « le grand maigre ». **Nom brûlé** : errata §1, interdit à jamais.
 
-**Règle prénoms** : occidentaux, courts, sans doublon. **Un seul nom nouveau par scène**, et seulement s'il agit. Les visages forts peuvent rester délibérément sans nom — **les nommer est un moment**.
-**Ligne ⚑ Atout (errata §18, amendé §36)** : seulement quand l'atout pèse vraiment ; varier les personnes. *(Compteur v2 : personne encore.)*
+**Règle prénoms** : occidentaux, courts, sans doublon. **Un seul nom nouveau par scène**, et seulement s'il agit.
+**Ligne ⚑ Atout** : seulement quand il pèse vraiment ; varier les personnes.
 
 ---
 
@@ -66,4 +76,7 @@ Firmin (charretier) · Yvon (maître du val) · Régis (compteur) · Blaise (dis
 
 ### À faire en priorité — palier II v2
 
-- **Personne encore.** Les fiches naissent des visages que la v2 posera. *(Les priorités v1 — Rémy, Régis, Yvon, la vieille, Blaise — sont tombées avec la ligne, errata §39.)*
+- **Irène** — **le plus urgent.** Elle a disparu, sa terrasse est vide, le quartier brûle. Ce qu'elle est vraiment décide de tout l'arc : morte, prise, ou partie d'elle-même.
+- **Le séparateur** — l'adversaire technique du palier. Il ne se bat pas au chiffre : il fait ce que personne ne sait contrer. **Ce qu'il utilise pour séparer n'est pas un homme** (ARBRE §4).
+- **Gaspard** — droit, généreux, et il veut quand même la bête. Que fait un homme comme lui quand on lui a dit non ?
+

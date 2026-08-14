@@ -475,3 +475,36 @@ Trois fautes de fermeture en trois scènes (229-239), toutes relevées par le jo
 - Budget du palier inchangé : **~3 positives / ~2 négatives** (§32).
 
 **Portée** : ce que le joueur défend ici n'est pas son confort, c'est la lisibilité de sa progression. Un acquis qu'on peut lui reprendre sur un mauvais jet n'est pas un acquis, c'est un prêt — et une campagne où l'on peut redescendre n'a plus de trajectoire lisible (coffre §11 : *progression rapide et lisible*).
+
+## 42 · « DOMINATION SOCIALE » EST UN REGISTRE DE CONCLUSION, PAS D'OBSTACLE (2026-08-14, diagnostic du joueur) — FAUTE MJ STRUCTURELLE
+
+Le joueur a localisé lui-même la cause de vingt scènes de dérive : *« tout ce social est dû à un point précis du codex — puissance et social au même niveau. C'est trop réducteur, et je pense que c'est pour ça que tu t'orientes comme ça. »*
+
+Deux lignes du corpus se renforçaient :
+
+1. **Coffre §11** liste « domination sociale mise en scène » parmi ses goûts. Le MJ l'a lu comme *« il aime les scènes sociales »*. **C'est faux.** Ce que ça désigne, c'est **le moment public où il écrase** — le rite, la déclaration, la foule qui plie, le chiffre lâché devant témoins. Le social est le **décor du triomphe**, jamais la matière de la scène.
+2. **MONDE §9.5** listait « la position sociale » parmi ce qui peut le blesser, **au même rang que les arts, les poisons, les formations et le nombre**. Mise à égalité avec le combat, elle est devenue un adversaire à part entière — d'où maisons, rangs, maîtres, collectionneurs, négociations, et un palier entier passé à parler.
+
+**Les règles :**
+
+- **La domination sociale se joue en UNE scène spectaculaire** — une foule, un chiffre, quelqu'un qui plie — jamais en arc de négociation. C'est une conclusion, pas un parcours.
+- **La position sociale n'est pas un adversaire.** Elle sort de la liste de ce qui peut le blesser. C'est de la **friction** : ça coûte de l'argent, de l'accès, du temps. Ça ne fait jamais une scène à soi seul (§28 : la logistique ne se joue pas).
+- **Ce qui occupe les scènes, c'est ce qui mord physiquement** : les arts qu'il ne connaît pas, les poisons, les formations, le nombre organisé, **et ce qui est terré**. Le reste se règle en une ligne de fiche.
+
+## 43 · JE SUBIS L'HISTOIRE, JE NE L'ÉCRIS PLUS (2026-08-14, recadrage joueur) — FAUTE MJ GRAVE
+
+Verdict du joueur après vingt-six scènes de palier : *« ça manque d'occasions de faire grandir ma bête. On doit être à un tiers du palier et je n'ai pas l'impression que je vais avancer. On est dans le Murim et ça manque de bêtes mythiques, de mystère. J'ai eu l'épreuve et le test que j'ai aimés, mais maintenant c'est plan-plan, on suit un plan et tout y mène. **Je subis l'histoire, je ne l'écris plus.** »*
+
+Les faits, mesurés :
+
+- **La bête est restée au cran 2 pendant trente-neuf scènes** — moteur déclaré du palier (§34), à l'arrêt dès l'entrée en ville.
+- Le MJ a écrit lui-même *« il lui faut une grosse pièce »* et **n'en a jamais servi une**. Quinze bêtes moyennes, puis l'explication que ça ne compte pas : le travail sans la récompense.
+- Sur vingt-six scènes, **deux** relèvent du registre commandé (§33, webtoon de Murim) : la faille et le rite. Le reste est du drame social.
+- **Les blocs convergeaient** : à la sc. 253, les quatre options menaient au même endroit. Un bloc dont toutes les sorties donnent sur la même pièce n'est pas un choix, c'est un couloir.
+
+**Les règles :**
+
+- **Le moteur déclaré d'un palier ne reste jamais à l'arrêt plus de ~10 scènes.** Si le MJ écrit « il lui faut X », X arrive — ou le MJ n'écrit pas la phrase.
+- **Chaque bloc porte au moins une option qui SORT du plan en cours** — pas un repli, une bifurcation réelle vers un autre sujet.
+- **Registre tenu** : bêtes mythiques, mystère, choses terrées, transformations visibles. Les ruines, les chansons et les bêtes d'avant la mesure sont une réserve entière — la servir, pas la garder fermée.
+- **Quand le joueur dit qu'il subit, on lui rend le volant tout de suite** : trois directions de campagne franches, il en écrit une quatrième s'il veut, et le MJ construit là-dessus (prolonge §31.3).
