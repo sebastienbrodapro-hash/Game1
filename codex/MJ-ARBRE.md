@@ -35,7 +35,7 @@ Fini sur une plaine devant Pierregarde : **6 812 abattu devant huit mille témoi
 
 1. **10 206 dans un monde dont le sommet visible fait 4 000** — et où **chacun marche avec son familier**. Ne pas gonfler l'opposition : ce qui résiste, ce sont les arts, les poisons, les formations, le nombre organisé, ce qui est terré — et ce que le monde croira du pont de l'âme.
 2. **Il n'a rien** : pas d'art, pas d'équipement, pas de rang, 68 fers morts, pieds nus. **Sa bête passe pour un familier normal — sa silhouette intrigue, c'est tout, tant qu'il ne montre pas.** Quand il montre, quelqu'un paie en réaction, toujours (§39).
-3. **Porte : I ouverte, seule** *(dîme supprimée — errata §40)*. **Budget rendu : ~3 ouvertures / ~2 fermetures.**
+3. **Portes** : positives **I·II·III·IV** ouvertes · négative **V — LE REMONTÉ**. Budget du palier : **~3 positives / ~2 négatives** — *positives dépensées*. Les critiques font monter d'un cran ce qui existe (§23), **et une catastrophe n'enlève jamais une positive** (§41).
 4. **Systèmes à servir** : les arts · la réclusion · l'équipement · **les autels** · **les chances**. La demande du joueur (§33) : arts, réclusion, équipement, transformations visibles — *« comme un webtoon dans le Murim »*.
 5. **La bête est à 1/6.** Cran 2 à la grosse prise ou réclusion. **Son registre animal viendra de sa plus grosse prise d'ici** — moteur du palier, le joueur le sait. **En scène : « la bête », jamais le nom** (§39).
 6. **Le Corps : trempé, 9 couches**, grade suivant à 12. Épreuve seule ; ouvrir annule l'épreuve.

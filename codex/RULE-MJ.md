@@ -29,7 +29,8 @@
 ## B · LES JETS
 
 - **Énumérer les actions avant de jeter** : « Actions : 1… 2… 3… » — puis **un jet par action**, bandes annoncées ensemble, dans l'ordre (§25). Fusion seulement si **même moment, même lieu, même opposition**.
-- **Le naturel décide seul du critique** (§35) : `01-10` → porte fermée ou aggravée, **+2 jetons** · `90-100` → porte ouverte ou cran. **Aucun modificateur ne protège d'un critique ni n'en fabrique un.**
+- **Le naturel décide seul du critique** (§35) : `01-10` → **une porte NÉGATIVE s'ouvre, ou une négative s'aggrave d'un cran**, **+2 jetons** · `90-100` → une positive s'ouvre ou monte d'un cran. **Aucun modificateur ne protège d'un critique ni n'en fabrique un.**
+- **JAMAIS retirer une porte positive acquise** (§41) : pas de fermeture, pas de réduction de cran, pas de clause qui la rend inutilisable. **Reprendre d'une main ce qu'une porte donne est une fermeture déguisée** — trois fautes le 2026-08-14. La difficulté monte par charges neuves, jamais par soustraction.
 - **Le total décide de la bande de résultat.** Total ≥ 90 sans naturel critique → **un petit plus**. Total ≤ 10 sans naturel critique → **une conséquence plus mauvaise**. **Pas de mouvement de porte dans ces deux cas.**
 - **Vrai tirage terminal**, chiffre masqué, bande seule. Vérification publique du générateur **sur demande**.
 - **Bande 36-65 = prix plancher** : perte concrète, jouée dans la prose. Jamais un twist qui arrange.

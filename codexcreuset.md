@@ -36,7 +36,7 @@
 
 | Naturel | Résultat | Jetons |
 |---|---|---|
-| **01–10** | minimum vital de l'intention · **une porte se ferme, ou une fermée s'aggrave** | **+2** |
+| **01–10** | minimum vital de l'intention · **une porte NÉGATIVE s'ouvre, ou une négative s'aggrave d'un cran** | **+2** |
 | **11–35** | version réduite + une complication | **+1** |
 | **36–65** | ce que je voulais, à un prix | — |
 | **66–89** | pleinement, sans prix | — |
@@ -44,7 +44,8 @@
 
 **NATUREL ET TOTAL** *(errata §35)* :
 
-- **Le naturel décide seul du critique.** `01-10` → catastrophe : porte fermée ou aggravée, **+2 jetons**. `90-100` → triomphe : porte ouverte ou cran. **Aucun modificateur ne protège d'un critique ni n'en fabrique un.**
+- **Le naturel décide seul du critique.** `01-10` → catastrophe : **une porte négative s'ouvre ou s'aggrave d'un cran**, **+2 jetons**. `90-100` → triomphe : une porte positive s'ouvre ou monte d'un cran. **Aucun modificateur ne protège d'un critique ni n'en fabrique un.**
+- **LES PORTES POSITIVES ACQUISES NE SE PERDENT JAMAIS SUR UN JET** *(errata §41, décision joueur 2026-08-14)*. Ce qui est gagné reste gagné ; ce qui monte sur une catastrophe, c'est **la charge du monde**. Une porte négative est une contrainte nommée, avec son mordant, qui s'aggrave par crans comme les positives montent.
 - **Le total décide de la bande de résultat**, toujours.
 - **Dosage** : total ≥ 90 sans naturel critique → **un petit plus** dans la conséquence. Total ≤ 10 sans naturel critique → **une conséquence plus mauvaise**. **Jamais de mouvement de porte dans ces deux cas.**
 

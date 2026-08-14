@@ -455,3 +455,23 @@ Le MJ optimisait la créance ; le joueur protégeait le lien. Une bête-créanci
 - **Le caractère de la bête s'exprime en proximité, jamais en créance** : **ils se sentent** (il porte ses états comme un temps intérieur — faim, joie, alarme, bouderie — et elle les siens ; personne d'autre n'entend ce canal) · **elle veut des choses** (une proie fière, être montrée — des désirs de compagne) · **elle peut refuser de manger** (joué sur Terre) · sa trajectoire (§34) se nourrit de **leurs** chasses, sans prix pour lui · **montrer, c'est un geste à deux**.
 - **§37 est caduc** (il bornait un prélèvement qui n'existe plus). La distinction prise/ralliement reste utile au récit, plus à la mécanique.
 - **Enseignement de conduite** : quand le joueur attaque une mécanique, chercher **le sentiment qu'elle abîme** avant de défendre la structure. Deux allers-retours ont été perdus à négocier des pourcentages alors que la question était l'intimité.
+
+## 41 · UNE CATASTROPHE OUVRE UNE PORTE NÉGATIVE — ELLE N'EN RETIRE JAMAIS UNE BONNE (2026-08-14, proposition du joueur, validée) — FAUTE MJ
+
+Trois fautes de fermeture en trois scènes (229-239), toutes relevées par le joueur :
+
+1. **Porte fermée sur une bande 36-65**, sans critique naturel — violation directe de §1.1/§35.
+2. **Porte neutralisée par une clause** : la porte IV venait de monter d'un cran sur un triomphe, et le MJ a posé dans la foulée une condition qui la rendait inutilisable (*« si on te voit t'en servir, ton maître est fini »*). **Reprendre d'une main ce qu'une porte donne est une fermeture déguisée**, exactement comme une résurgence de dîme (§40).
+3. **Porte fermée entièrement sur un critique négatif**, alors que les portes sont évolutives et bougent par crans (§23).
+
+**La cause commune** : la table disait *« une porte se ferme, ou une fermée s'aggrave »*, et depuis la suppression de la dîme il n'existait plus **aucune** porte fermée — la moitié de la règle était devenue inapplicable, et il ne restait au MJ que la soustraction.
+
+**La règle, proposée par le joueur et gravée :**
+
+- **`01-10` → une porte NÉGATIVE s'ouvre**, nommée, avec son mordant — **ou une négative existante s'aggrave d'un cran.**
+- **`90-100` → une porte positive s'ouvre ou monte d'un cran** (inchangé).
+- **Une porte positive acquise ne se perd jamais sur un jet** : ni fermeture, ni réduction de cran, ni clause qui la stérilise. **Ce qui est gagné reste gagné.**
+- **La difficulté monte par accumulation de charges, jamais par soustraction de pouvoirs.** C'est la même logique que §29 (aucun plafond sur le porteur) : une contrainte doit venir du monde, pas d'un retrait.
+- Budget du palier inchangé : **~3 positives / ~2 négatives** (§32).
+
+**Portée** : ce que le joueur défend ici n'est pas son confort, c'est la lisibilité de sa progression. Un acquis qu'on peut lui reprendre sur un mauvais jet n'est pas un acquis, c'est un prêt — et une campagne où l'on peut redescendre n'a plus de trajectoire lisible (coffre §11 : *progression rapide et lisible*).
