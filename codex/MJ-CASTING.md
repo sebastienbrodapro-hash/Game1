@@ -1,12 +1,14 @@
 # MJ-CASTING — LE CREUSET (registre des noms + fiches profondes)
 
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** §0.0 lu à **chaque** session ; fiches chargées au besoin.
-> **À jour au 2026-08-14 (v21, scène 198).**
+> **À jour au 2026-08-15 (v24, scène 283).**
 > **Règle d'or : avant de nommer quoi que ce soit en scène, vérifier ce fichier.** Source n°1 d'incohérence entre sessions.
 
-## 0.0 · PALIER II v2 — REGISTRE *(à jour sc. 254)*
+## 0.0 · PALIER II v2 — REGISTRE *(à jour sc. 283)*
 
-**LA BÊTE** : nom fixé au canon (errata §1.1), connu du joueur, **NON LIVRÉ en fiction v2**. En scène : « la bête », toujours. Ne jamais l'écrire dans la prose avant la scène qui le rend.
+**LA BÊTE** : **le nom a été RELIVRÉ en fiction à la sc. 262** — Hélène a chanté huit dieux morts de faim et s'est arrêtée au neuvième, et c'est *elle* qui a fini le vers. Usage courant en scène : **« la bête »** ; le nom se prononce quand quelqu'un a une raison de le prononcer, et **jamais dehors** sans le savoir.
+
+**Elle est CRAN 3 depuis la sc. 283** : une **femme anthropomorphe félin des neiges**, corps mi-pierre sciée mi-fourrure rayée, yeux à pupille verticale, **et plus aucun bruit**. Décrite franchement (§34.5).
 
 | Nom | Qui | Depuis |
 |---|---|---|
@@ -31,7 +33,7 @@
 **Pas canon.** Prénoms **non réutilisables sur d'autres visages** : Firmin · Yvon · Régis · Blaise · Rémy · Colette · la Braise Haute · la Cuve · Vermeil · la Main qui reste. *(Le nom **le Creuset** appartient au joueur : il refondera où et quand il veut.)*
 
 **Noms de Terre à ne jamais réutiliser** : Seb · Jeanne · Margot · Berthe · Armand · Anselme · Gilles · Léon · Odile · Marcel · Émile · Aude · Maud · Victor · Roch.
-**Noms v2 pris** : Lucien · Irène · Gaspard · Adèle.
+**Noms v2 pris** : Lucien · Irène · Gaspard · Adèle · **Hélène** · **Martin** · **Basile**.
 **Dé-nommés** : « Fabien », « le grand maigre ». **Nom brûlé** : errata §1, interdit à jamais.
 
 **Règle prénoms** : occidentaux, courts, sans doublon. **Un seul nom nouveau par scène**, et seulement s'il agit.

@@ -1,7 +1,7 @@
 # MJ-CHRONO — LE CREUSET (calendrier, mèches, hors champ)
 
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Lu en entier à chaque session ; mis à jour à chaque `codex` et à chaque ellipse.
-> **À jour au 2026-08-14 — v23, PALIER II v2, scène 254. La v1 du Murim (sc. 182-208) est annulée — errata §39.**
+> **À jour au 2026-08-15 — v24, PALIER II v2, scène 283. La v1 du Murim (sc. 182-208) est annulée — errata §39.**
 
 ## 0 · PALIER I — LA TERRE : J1 → J267, SCÈNES 1-181 — **CLOS**
 
@@ -24,7 +24,7 @@ Détail dans les copies figées `codex-006` à `codex-016`. Trajectoire :
 Vingt-sept scènes (182-208), du val de la Braise Haute aux abords de Vermeil — rembobinées le 2026-08-14. Détail dans `codex-018` à `codex-020`.
 **Ces événements n'ont pas eu lieu.** Visages et lieux en réserve : `MJ-CASTING` §0.0.
 
-## 2 · PALIER II v2 — M1 → M142, SCÈNES 209-254
+## 2 · PALIER II v2 — M1 → M155, SCÈNES 209-283
 
 | Moment | Événements | Chiffre |
 |---|---|---|
@@ -48,20 +48,31 @@ Vingt-sept scènes (182-208), du val de la Braise Haute aux abords de Vermeil �
 | **M134** — le nom | Miroir rendu spontanément contre un nom. **La maison des Listes ne garde pas Irène : elle attend sa chaîne**, et depuis qu'Irène progresse, **elle a cessé d'attendre**. Un homme qui **sépare les vivants de leur familier** travaille pour eux |
 | **M134** — le plat | Message envoyé à Irène par un orphelin : **onze jours par le meilleur chemin**, et **parler ainsi s'entend des deux côtés**. **PORTE V cran 3 : on ne te cherche plus, on t'attend** |
 | **M142** — le retour | Huit jours au lieu de onze, deux postes évités. **Du haut du lacet : le quartier nord brûle. La terrasse est vide — plus de chaîne, plus d'Irène.** Dans la ville : 2 800 · 3 100 · 3 400 · 4 900, et **5 600 immobile au centre du feu**. **Lucien monte en courant.** *Elle est en colère* |
+| **M142** — le lacet | **Masque réglé à 25 000 sur la cuvette entière.** La chaîne des seaux se brise, les familiers rentrent dans leurs porteurs par centaines. **Personne ne reprend les seaux** | 36 096 |
+| **M142** — les cuves | **Martin, 5 600**, séparateur, l'attendait. Sous les tanneries : une **aberration de coutures** nourrie de couples séparés depuis onze ans — **trente vivants à 1**, leurs familiers au plafond. **CATASTROPHE → PORTE NÉGATIVE VI, LA COUTURE.** Quatre heures encaissées → **13ᵉ couche, PORTE III cran 2**. Elle en mange **un quart (+5 200)** ; la chose se découd, file à **6 200** et emporte les orphelins. **Un seul reste et la suit (290)** | 41 296 |
+| **M142** — la cour | Il lui laisse la route : **elle va à la cour aux chansons, pas vers Irène**. `LE SOCLE` fait envoler quarante et un ans de vers ; il les rattrape sur les toits → **PORTE II cran 4**. **HÉLÈNE, 310**, chante huit dieux morts et s'arrête au neuvième — **la bête finit le vers : LE NOM EST RELIVRÉ.** Elle donne **« jureur »** sans la ligne *(brûlée le matin même)*, et le **relevé des trente feuilles** → **PORTE IV cran 4** | — |
+| **M142** — l'est | Départ à midi. **La ville passe de trois rues en feu à huit.** Trois rabatteurs pris puis **dévorés froid (+6 900)** ; Irène arrive : *« il m'en fallait deux debout »* — **elle se faisait pousser pour remonter la ligne, le fil est coupé** | 48 196 |
+| **M142-M143** — Irène | **Il lui dit tout.** Prix : plus de secret au monde. Les trois bouches livrent **les Verreries** et **la commande a changé — c'est lui, plus la chaîne** ; l'oiseau de fer s'échappe et prévient | — |
+| **M143** — la combe | **BASILE, 7 900** : son **familier est une formation** dépliée sur quatre jours. Quatre heures d'anneau → **14ᵉ couche, PORTE III cran 3**. **Elle refuse de monter dessus : « Petit. »** Il le lui donne quand même, **plein** → 23ᵉ motif, lignes de verre. **Irène demande à être rendue inutile ; il dit oui**, et reçoit **le Pas d'Hiver** | **56 096** |
+| **M143-M152** — l'ouest | Neuf jours au lieu de six *(porte V en friction : pas de villages, zéro fer)*. Au col : **26 000 posés sous quarante générations de cairns**. **Le Masque ne suffit pas — le Corps fend la pierre à chaque pas** | — |
+| **M152-M155** — l'appât | **Elle monte seule**, réglée au plus bas, trois jours. Il descend **réveiller les 26 000** en ouvrant en grand dans leur salle : la chose répond, cent cairns s'effondrent. **Elle refuse le dragon endormi — *ce qui dort ne plie pas* — et montre du doigt celui qui la jauge** | — |
+| **M155** — **LA FACE** | Il lui donne la main sur le chiffre : **elle se règle à 12 900 au point près** pour qu'il y ait une victoire à manger. `LES TRENTE-HUIT` lui enlèvent ses appuis un par un ; il plie. **CRAN 3 — LA FACE**, registre **félin des neiges**, 24ᵉ motif, **et le silence** | **68 996** |
 
-**→ POINT MORT : M142, matin, au-dessus de la ville qui brûle. Bloc servi, non choisi.**
+**→ POINT MORT : M155, nuit, au-dessus du Pas d'Hiver. Bloc servi, non choisi.**
 
 ---
 
 ## 3 · MÈCHES ACTIVES
 
-- **IRÈNE A DISPARU AVEC SA CHAÎNE**, et le quartier nord brûle depuis la nuit. **5 600 ne bouge pas au milieu du feu.**
-- **L'HOMME QUI SÉPARE** travaille pour la maison des Listes. Gaspard a donné son nom. Trois autres existent sur ce continent ; **un troisième que Gaspard refuse de nommer, parce que le dire attire son attention.**
-- **LES GANTS ÉTAIENT À ADÈLE.** Son école existe : dix-neuf personnes, la plus vieille a vingt-trois ans, cour fermée depuis onze ans. **Un jour, ils sauront.**
-- **GASPARD** n'a rien obtenu et n'a rien retiré. **Quatre ont dit oui avant Seb.** Il reste joignable.
-- **LE MOT** — *le Remonté* — est devant lui, pas derrière.
-- **LA MAISON DU GRÈS** a trouvé son élevage vide.
-- **LE CRAN 3 DE LA BÊTE** attend une vraie grosse pièce : **plus de 7 650 en une seule prise.** C'est ce qui fixera son registre animal.
+- **26 000 SONT DEBOUT SOUS LE COL** après quatre cents ans d'arrêt. Ce qu'il fait maintenant : **non fixé**.
+- **LE CRAN 4 — LA PHRASE** : une prise **au-dessus de 12 900**, **ou une réclusion** *(jamais servie de tout le palier)*.
+- **IRÈNE RENTRE SEULE**, avec tout ce qu'elle sait de lui, et **il a promis de la rendre inutile le jour où elle le dira**.
+- **LA VILLE BRÛLE SUR HUIT RUES** parce que la chaîne des seaux s'est arrêtée pour le regarder. **Trente porteurs à 1** sous les cuves, **6 200** dans la roche avec onze ans d'orphelins.
+- **UN GAMIN A ENTENDU LE NOM** dans la cour aux chansons et il est parti en courant.
+- **LA MAISON DES LISTES** a perdu ses deux séparateurs. **Pas sa commande** — et il en reste deux sur ce continent, dont **un troisième que Gaspard refuse de nommer**.
+- **LES GANTS ÉTAIENT À ADÈLE.** Son école : dix-neuf personnes, cour fermée depuis onze ans. **Un jour, ils sauront.**
+- **HÉLÈNE SAIT** à qui elle a parlé, et il lui manque un vers qu'il a brûlé lui-même.
+- **GASPARD** reste joignable. **LA MAISON DU GRÈS** a trouvé son élevage vide.
 
 ---
 
