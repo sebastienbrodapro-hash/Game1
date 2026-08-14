@@ -1,7 +1,7 @@
 # MJ-CHRONO — LE CREUSET (calendrier, mèches, hors champ)
 
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Lu en entier à chaque session ; mis à jour à chaque `codex` et à chaque ellipse.
-> **À jour au 2026-08-13 — v20, scène 195, PALIER II, M1 la nuit.**
+> **À jour au 2026-08-14 — v21, scène 198, PALIER II, fin de la nuit du M1, sur la route de Vermeil.**
 
 ## 0 · PALIER I — LA TERRE : J1 → J267, SCÈNES 1-181 — **CLOS**
 
@@ -21,7 +21,7 @@ Le détail scène par scène est dans les copies figées `codex-006` à `codex-0
 
 ## 1 · PALIER II — LE MURIM : M1
 
-**Une seule journée. Quatorze scènes (182-195). Un lieu.**
+**Un jour et une nuit. Dix-sept scènes (182-198). Deux lieux : la cour du relais, puis la route.**
 
 | Moment | Événements |
 |---|---|
@@ -39,22 +39,28 @@ Le détail scène par scène est dans les copies figées `codex-006` à `codex-0
 | **M1 · nuit** | **Sc. 193** *(total 90-100)* — **AUBRAN INSCRIT.** Firmin le supplie : *« chanté ça s'envole, écrit ça reste, et ça reste avec une adresse dessous. »* Personne ne sait l'orthographier : **la première forme écrite du nom depuis trois siècles est dictée lettre par lettre.** La plaque chauffe, les quinze motifs s'allument, la bête le redit. Yvon donne **VERMEIL**, la maison des Listes, **la vieille derrière la halle aux grains**, et le jeton du pont bas |
 | **M1 · nuit** | **Sc. 194** *(90-100 · 66-89 · nat 01-10/total 11-35)* — **LE CREUSET EST FONDÉ.** Yvon le reçoit à voix haute devant ses six. **Blaise** (le 540) sort du rang ; Yvon le laisse partir et interdit qu'on revienne prendre les autres. Firmin s'inscrit de lui-même. **Régis tient les livres et refuse le nom** — et ouvre une **colonne vide**. → **DÎME cran 3 : LE LIVRE**, +2 jetons |
 | **M1 · nuit** | **Sc. 195** *(total 90-100)* — Il **finit la Main sur Blaise** sans fermer les yeux, quatre doigts sous le sternum, à gauche : il **voit** où c'est logé. **540 → 631.** Le 620 fait un pas ; Yvon le retient par le bras. **`LA MAIN QUI RESTE` — cran 2, transmissible** |
+| **M1 · nuit tardive** | **Sc. 196** *(11-35)* — **DÉPART DU VAL.** Yvon regarde partir le brancard sans un mot et rentre ; Régis reste sous sa lampe et ne lève pas la main. **Réduite : la descente prend le double du temps prévu** — attelle reliée deux fois, Blaise porte l'avant avec des côtes fraîches. **Vermeil recule du matin au soir du M3.** **Complication : au pont bas, le 620 attend, assis dans la terre rouge**, parti seul une heure plus tôt, bloqué par **l'homme du péage (510)** qu'il pouvait écarter et qu'il n'a pas touché. **Un jeton, quatre corps** |
+| **M1 · nuit tardive** | **Sc. 197** *(36-65 · 36-65)* — **RÉMY.** Seb ne lui demande pas de venir : il lui dit ce qu'il pèse, puis ce que pèse Blaise (631, 540 trois heures plus tôt). Le garçon pose sa ceinture rouge et sa robe grise sur le registre et **donne son prénom lui-même** : *« Rémy. Personne ne me l'a demandé depuis neuf ans. »* Puis **le registre forcé** : l'homme du péage écrit **LE CREUSET** — et tout le reste, parce que c'est son métier : *quatre corps, un jeton signé Yvon, trois passages dus, un homme de la maison parti sans quittance.* **PRIX : la première trace écrite de la maison hors du val est une dette, sur le papier d'une autre maison — et ce registre remonte à la Braise Haute.** Quatre bouches dans des vivres prévus pour trois |
+| **M1 · fin de nuit** | **Sc. 198** *(11-35 · 36-65)* — **LA CUVE.** *Réduite* : Firmin ne connaît rien **à prendre**, seulement des endroits où on ne passe pas ; il donne le lieu et **ne peut rien dire de ce qu'il y a dedans, personne n'étant jamais remonté**. *Complication* : pour l'empêcher d'y aller il en dit trop — *« la Braise Haute la nourrit. Une bête par saison, depuis toujours. Et une année sur trois, c'est pas une bête »* — **devant Rémy, neuf ans de robe grise.** Seb descend **seul, sans arme** dans vingt pieds de pierre, lit **3 100** du bord. **PRIX : index et majeur de la main droite cassés net, trois semaines.** Finie au poignet, **dévorée pleine** — **dîme 310 inscrite toute seule dans le livre de Régis, à une lieue de là. 10 206 → 12 996.** **LA BÊTE PASSE CRAN 2 — LES MAINS** : seizième motif, paumes puis doigts. Elle remonte du fond **des décennies d'os et de ferraille**, le pose devant lui, et dit : « **Suivant.** » |
 
-**→ POINT MORT : M1, la nuit, cour du relais. Bloc de quatre options au codex §7.**
+**→ POINT MORT : fin de la nuit du M1, au bord de la Cuve, une demi-lieue hors de la route. Bloc à écrire.**
 
 ---
 
 ## 2 · MÈCHES ACTIVES
 
-- **LA COLONNE VIDE.** La dîme s'inscrit désormais dans les comptes du Creuset, chiffrée et datée, dans un livre que Seb ne peut pas ouvrir, tenu par un homme qui a refusé son nom. **La première ligne n'est pas encore écrite.** Ce qui est écrit se lit.
-- **RÉGIS EST LA NOTE.** Il l'a accepté en connaissance de cause. Il paiera pour d'autres, régulièrement, sans le voir venir. **Ne jamais annoncer le montant.**
-- **YVON.** Il ignore ce qu'on lui a pris et il connaît le chiffre exact : 224. Il a reçu le Creuset à voix haute pour écrire sa version avant les autres. **Trois conditions posées, dont une seule vraiment ferme : ne pas revenir prendre ses hommes.**
-- **LE 620.** Neuf ans de maison, premier de sa cour jusqu'à cette nuit, retenu par le bras devant tout le monde. **Fissure ouverte dans la Braise Haute.**
-- **VERMEIL, deux jours.** Les Listes — la seule chose écrite qui compte ici, et son nom n'y est pas. **La vieille derrière la halle aux grains achète les vieilles chansons au vers** : *« ne va pas la voir en criant. »* Porte II, revers : ce qui reconnaît **désigne**.
-- **LE NOM A UNE FORME ÉCRITE.** Fixée à la dictée, dans un livre privé, par un homme qui ignore ce qu'il a écrit.
-- **LA BÊTE EST À 1/6.** Prochain cran : **les mains**. Déclencheur : grosse prise ou réclusion. **Son registre animal se décidera à sa plus grosse prise d'ici.**
+- **LA COLONNE N'EST PLUS VIDE. Première ligne : 310**, chiffrée, datée, écrite pendant que Seb était au fond d'un trou à une lieue de là. Il ne l'a pas vue et ne peut pas ouvrir le livre. **Ce qui est écrit se lit** — et Régis lit tout ce qu'il écrit.
+- **RÉGIS EST RESTÉ AU VAL.** Le compte ouvert du Creuset est physiquement **derrière** Seb, chez la Braise Haute, tenu par un homme qui a refusé le nom de la maison. **Il paiera pour d'autres, sans le voir venir. Ne jamais annoncer le montant.**
+- **LE REGISTRE DU PÉAGE.** Le nom de la maison est écrit sur le papier de la Braise Haute, avec une dette de trois passages et une désertion. **Ce registre remonte à la maison, pas à Vermeil** : la Braise Haute saura son nom avant de voir sa figure. **L'homme du péage (510) note tout ce qui franchit ce pont depuis des années.**
+- **YVON.** Il ignore ce qu'on lui a pris (224). Trois conditions : **hors du val au lever ✔** · dire que la Main a été volée · **ne jamais revenir prendre ses hommes** — *Rémy est parti de lui-même : la lettre tient, l'esprit non.* Yvon devra choisir comment le raconter.
+- **RÉMY SAIT.** Neuf ans de robe grise, et il a appris cette nuit, par la bouche d'un charretier, ce que sa maison nourrissait à la Cuve. **Il n'a rien dit depuis.** Il entre aussi **derrière Blaise** pour la première fois de sa vie.
+- **LA CUVE EST VIDE.** Pour la première fois depuis qu'on y jette quelque chose. **La Braise Haute viendra la nourrir à la saison** et trouvera un bassin propre. Personne ne sait encore.
+- **LA FERRAILLE.** Un sac d'os et de fer remonté du fond, **non compté** — et l'homme qui compte est resté au val.
+- **VERMEIL, soir du M3.** Les Listes, et son nom n'y est pas. **La vieille derrière la halle aux grains achète les vieilles chansons au vers** : *« ne va pas la voir en criant. »* Porte II, revers : ce qui reconnaît **désigne**.
+- **LA BÊTE EST À 2/6.** Prochain cran : **la face — et le registre animal apparaît**. Déclencheur : grosse prise ou réclusion. **3 100 n'a pas suffi à fixer le registre : il viendra de sa plus grosse prise d'ici.**
 - **LE CORPS : 10 couches**, grade suivant à 12. Épreuve seule — et **ouvrir annule l'épreuve**.
-- **Il n'a pas un fer.** Une maison de trois, deux blessés, zéro recette.
+- **MAIN DROITE : deux doigts, trois semaines.** Bras gauche mort, main gauche diminuée. **Il entre dans une ville avec deux mains diminuées.**
+- **Il n'a toujours pas un fer.** Quatre hommes, deux blessés, une dette écrite.
 
 ---
 
