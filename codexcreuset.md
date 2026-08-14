@@ -262,7 +262,7 @@ Le neuvième ancien, celui qui a refusé, s'appelait **ROCH**.
 ### 3.6 L'INSTINCT DU CHIFFRE
 
 Il **lit la puissance de tout vivant** qu'il regarde. **Gratuit, permanent, involontaire, exact** — y compris sur lui-même. Portée : à travers murs et planchers, une demi-lieue à découvert. **Il lit aussi ce qui est terré, avant de le voir.**
-**Il lit le total du couple porteur-familier — et il est le seul à distinguer ce qui loge dans le corps de ce qui loge dans le familier.**
+**Un couple porte UN chiffre — unique, indivisible.** Regarder le porteur ou regarder le familier rend **le même nombre** : deux corps, une âme, un total. Il n'y a rien « dedans » à répartir — demander combien tient dans la bête n'a pas de sens, pour lui comme pour le monde.
 **Il ne peut pas le fermer.**
 
 ### 3.7 L'HÉRITAGE
