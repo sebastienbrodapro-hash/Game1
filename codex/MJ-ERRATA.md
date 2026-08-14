@@ -508,3 +508,33 @@ Les faits, mesurés :
 - **Chaque bloc porte au moins une option qui SORT du plan en cours** — pas un repli, une bifurcation réelle vers un autre sujet.
 - **Registre tenu** : bêtes mythiques, mystère, choses terrées, transformations visibles. Les ruines, les chansons et les bêtes d'avant la mesure sont une réserve entière — la servir, pas la garder fermée.
 - **Quand le joueur dit qu'il subit, on lui rend le volant tout de suite** : trois directions de campagne franches, il en écrit une quatrième s'il veut, et le MJ construit là-dessus (prolonge §31.3).
+
+## 45 · LA DIRECTION ARTISTIQUE NE SE DÉCIDE JAMAIS SEUL (2026-08-14, recadrage joueur) — FAUTE MJ STRUCTURELLE
+
+Trois fois de suite, le MJ a rendu « merveilleux » par **« organique inquiétant »** : la chose de pierre blanche de la faille, les quarante familiers orphelins sous vitre, la chose recousue des tanneries. Verdict du joueur : *« arrête la dégueulasserie… tu es à côté de la plaque »*, et surtout le diagnostic de fond : ***« tu ne prends pas de direction importante de DA tout seul. Tu me demandes, en te basant sur ce qu'un étage fait habituellement sur des œuvres qui en parlent. »***
+
+C'est la jumelle exacte de §42 et §43 : un réflexe du MJ qui s'installe **par accumulation de scènes** et remplace un registre commandé (§33 : *webtoon de Murim*). Aucune des trois n'a jamais été décidée ; elles se sont déposées.
+
+**Les règles :**
+
+- **Aucune direction artistique majeure ne se décide seul** : registre visuel d'un palier, esthétique d'une faction, nature du merveilleux, à quoi ressemblent la puissance, les bêtes, les lieux de pouvoir.
+- **Le MJ propose en s'appuyant sur ce que le genre commandé fait habituellement à cet étage** — les conventions des œuvres du registre, pas le goût du MJ. Il donne son avis franc (§14), **le joueur tranche.**
+- **Une DA installée par accumulation est une DA que personne n'a choisie.** Si le MJ s'aperçoit qu'un registre s'est déposé sans décision, il le nomme et il demande.
+- **Le sale n'est jamais la texture par défaut du monde.** Il existe comme **transgression** : le fait d'une faction nommée, réprouvée en jeu par les gens ordinaires. Une aberration doit choquer les PNJ autant que le joueur.
+- **La DA vit en tête de `RULE-MJ`**, pas seulement ici : elle se joue à chaque phrase de prose, pas à chaque bloc. Un errata ne la rattrape jamais à temps.
+
+### 45.1 · La DA du palier II, tranchée par le joueur *(2026-08-14)*
+
+**Le mélange classique du genre** — retenu sans hésitation : **civilisation xianxia haute** (cités-montagnes, pavillons, jade, bannières, robes de secte, **auras visibles quand on frappe**, bêtes spirituelles nobles, armes d'âme) **posée sur un socle mythique païen** (temples effondrés, cols, chansons, dieux morts, bêtes d'avant la mesure) — **et le sale cantonné à une voie sombre nommée, que tout le monde réprouve et qu'on peut aller casser.** Détail au MONDE §9.8.
+
+## 46 · LES CRANS DE LA BÊTE — LE SEUIL N'EST PLUS UN RECORD (2026-08-14, problème posé par le joueur) — FAUTE MJ
+
+Le joueur a fait le calcul en séance : *« je passerai jamais ma bête cran 3 sans compter cran 6 à ce seuil… 60 scènes pour 1 rang, je vois pas comment je ferais 4 rangs dans les 60-90 restantes. »* Il a raison, et l'impasse est de construction : `MJ-ARBRE` avait durci le canon §34.1 (*grosse prise **ou** réclusion **ou** critique qui la vise*) en une ligne unique — *« prise unique supérieure à 7 650 »*. Sur un palier dont le sommet humain fait 8 000-10 000, ça laisse une poignée de proies pour le cran 3 et **zéro** pour les crans 4-5-6, puisqu'il faudrait chaque fois dépasser la précédente. Aggravé en scène 258 : le MJ a laissé la moitié de la proie s'échapper, faisant tomber le reste **sous son propre seuil** — moteur stérilisé dans la scène même (§43).
+
+**Les règles :**
+
+- **A · Le seuil arrête de monter.** Un cran de forme se gagne sur une **prise unique qui se bat, au-dessus de 5 000** — seuil fixe calé sur le haut du palier, **jamais sur son propre record**.
+- **B · Les crans 4-5-6 ne sont pas des tonnages.** *La face* vient de ce qu'elle mange (§34.2, intact). *La phrase*, *la question*, *la conversation* sont des paliers de **relation** : ils se gagnent à une **réclusion**, à un **critique qui la vise**, ou à une scène **où elle décide quelque chose**. La réclusion est au canon depuis §33 et n'a jamais été servie une seule fois.
+- **C · Le MJ doit les occasions, pas les crans.** Une occasion de cran **toutes les ~12-15 scènes** tant que le palier dure. Le joueur déclenche par ce qu'il joue ; le MJ ne pose pas l'échelle sur son chemin et ne la lui refuse jamais (§34.1).
+- **D · Le registre animal ne se prend que sur une bête qui en a un.** Pierre, machines anciennes, choses recousues, outils d'homme : de la puissance, **jamais la face**. Corollaire capital — **ces choses-là ne peuvent plus abîmer ce qu'elle devient** : le joueur ne risque jamais de fixer sa compagne sur une aberration par accident.
+- **Le registre dominant se fixe au cran 3, une seule fois.** Les prises suivantes **ajoutent des traits** (§34.2), elles ne réécrivent pas la face.

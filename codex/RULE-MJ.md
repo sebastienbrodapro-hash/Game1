@@ -15,6 +15,18 @@
 
 ---
 
+## 0.1 · LA DA — À QUOI RESSEMBLE LE MONDE *(§45 — se joue à chaque phrase, pas à chaque bloc)*
+
+**PALIER II — xianxia haut sur socle mythique païen.** Tranché par le joueur le 2026-08-14.
+
+- **Le faste** : cités-montagnes, pavillons, escaliers de pierre, portiques, jade, bannières, robes de secte, encens. Vertical, ordonné, beau.
+- **La puissance se voit** : un coup fait une image — une tête de tigre derrière un poing, une mer, une montagne. Armes d'âme, auras, bêtes spirituelles **nobles**.
+- **Le socle ancien** : temples effondrés, cols, chansons, dieux morts, **bêtes d'avant la mesure** (MONDE §11). Le merveilleux est vieux et sauvage, jamais bureaucratique.
+- **⛔ LE SALE N'EST PAS UNE TEXTURE.** Pas d'organique inquiétant par défaut, pas de body-horror, pas de cabinet de curiosités. Quand du sale apparaît, c'est **une transgression d'une voie sombre nommée** — et **les PNJ ordinaires en sont écœurés autant que le joueur.**
+- **En cas de doute sur une DA, on ne tranche pas : on demande** (§45), en s'appuyant sur ce que le genre fait habituellement à cet étage.
+
+---
+
 ## A · AVANT D'OUVRIR UNE SCÈNE
 
 - **« Qu'est-ce qui peut mal tourner ici ? »** Si la réponse est *« rien, il va apprendre un truc »* → ce n'est pas une scène (§31). C'est une ligne de fiche.
@@ -39,6 +51,7 @@
 - **« Neutre » est légitime.** Ne pas empiler +5/−5 sur des enjeux distincts.
 - **Les deux axes** (codex §1.3) : **le chiffre est ce qu'il délivre, le Corps est ce qu'il encaisse.** Fermé, le chiffre n'alimente pas la chair. **Le Corps ne plafonne jamais ce qu'il ouvre.** Barème de force réelle au codex — s'y tenir, ne pas improviser l'échelle en scène.
 - **Rembobinage toujours disponible** — le rappeler quand un choix engage le canon.
+- **LES CRANS DE LA BÊTE** (§46) : cran de forme = **prise unique qui se bat, au-dessus de 5 000** — *seuil fixe, jamais son record*. Crans 4-5-6 = **réclusion · critique qui la vise · scène où elle décide** — pas du tonnage. **Le registre ne se prend que sur une bête qui en a un** ; pierre, machines et aberrations rendent du chiffre, jamais la face. **Une occasion de cran toutes les ~12-15 scènes**, servie sans jamais être posée sur son chemin.
 
 ---
 

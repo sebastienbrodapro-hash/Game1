@@ -159,6 +159,16 @@
 **Ce que Terre a oublié, le Murim le chante encore.** Les dieux d'avant la mesure sont de l'histoire ancienne, pas un secret d'État : on les met dans les chansons, dans les contes, dans les noms de cols et de temples ruinés. *(Coffre §6 : c'est ici que le nom de la bête existe encore. Il se refixe au moment où la fiction le livre — errata §1. La livraison v1 est annulée : le nom est redevenu non-livré, sa relivraison est un jalon majeur.)*
 **« Jureur » et la ligne des chansons** (*aucun jureur n'a jamais fini par mourir*) **retournent en réserve** : le mot existe dans ce monde, Seb ne l'a plus entendu.
 
+### 9.8 · LA DIRECTION ARTISTIQUE — tranchée par le joueur *(2026-08-14, errata §45)*
+
+**Xianxia haut posé sur un socle mythique païen.** Le mélange classique du genre, choisi sans hésitation.
+
+- **La civilisation est haute et belle.** Cités accrochées aux montagnes, pavillons à toitures relevées, escaliers de pierre de mille marches, portiques, cours à bassins, jade, bannières, robes de secte, encens, cloches. Les maisons d'arts ont des noms et des couleurs. **Vertical, ordonné, spectaculaire.**
+- **La puissance se voit.** Un coup abouti **fait une image** : une gueule derrière un poing, une vague, une montagne, un vent qui n'existait pas. Les auras montent quand on force. Les familiers-outils volent, chantent, s'allument. **Rien de tout ça ne se mesure — ça s'admire, et ça se raconte.**
+- **Le socle est ancien et païen.** Sous les sectes : des temples effondrés, des cols que personne ne passe, des chansons plus vieilles que la mesure, des dieux morts de faim, et les **bêtes d'avant la mesure** (§11). Le merveilleux vient de là — jamais d'une administration, jamais d'un laboratoire.
+- **⛔ Le sale n'est pas une couleur de ce monde.** Pas d'organique inquiétant par défaut, pas de chairs recousues, pas de collections en bocaux comme décor. Quand ça apparaît, c'est **une voie sombre** : nommée, minoritaire, réprouvée — les gens ordinaires en sont écœurés, et **on peut aller la casser**. Ce qui est sous les tanneries et ce qu'il y a derrière les vitres de Gaspard relèvent de ça : des infamies d'hommes, pas la texture du Murim.
+- **Conduite** : en cas de doute sur un registre, **on demande** (§45). Un MJ qui tranche seul une DA la fait dériver en trois scènes.
+
 ### 9.7 · À fixer en scène
 
 **Le point d'entrée v2** · la région · la première ville · la première secte · le premier art · **le premier autel** · **la première chance**. **Un seul nom nouveau par scène**, prénoms occidentaux (règle joueur inchangée).
