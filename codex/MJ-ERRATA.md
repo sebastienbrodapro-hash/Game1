@@ -419,3 +419,25 @@ Pendant le point MJ qui a construit l'outillage, le MJ a listé la structure de 
 **Portée** : la faute n'est pas d'avoir voulu connaître la structure du coffre — c'est de l'avoir obtenue par un canal qui traverse l'écran. L'information était légitime, le tuyau ne l'était pas.
 
 > *Publié à part le 2026-08-13 (`codex/MJ-ERRATA-35.md`) pour ne pas réécrire ce fichier de mémoire. **Fusionné ici et fichier supprimé le 2026-08-13.***
+
+## 39 · LE REMBOBINAGE DU MURIM — UN PALIER SE CONSTRUIT AVANT D'Y JOUER (2026-08-14, décision joueur) — FAUTE MJ
+
+Vingt-sept scènes (182-208) annulées sur demande du joueur, pour deux incohérences de construction qu'il a nommées lui-même :
+
+1. **« Où sont passés les familiers ? »** Sur Terre, chacun en avait un. Au Murim v1 : plus un seul, sans explication — et sa bête, visible à son côté, ne faisait réagir personne. Jouée comme un décor.
+2. **Le réflexe de consignation.** « Ni pierre, ni greffier, ni registre » était écrit — et le palier s'est rempli de péages qui notent, de teneurs de livres et de colonnes de comptes. C'était la Terre, réimportée par habitude.
+
+**Règles :**
+
+- **Un palier se construit avant d'y jouer** : systèmes de puissance, familiers, mesure, économie — vérifiés contre le canon des paliers précédents ET contre le registre demandé par le joueur (§33).
+- **Un rembobinage large redépose la fiche à la dernière charnière** (ici : fin de Terre, codex-017) **et rend le budget de portes du palier. Les règles survivent, jamais les événements** — plafond de jetons 15, §36-§38, §11.6 du coffre : tenus. Le nom de la bête reste fixé (§1.1) mais **redevient non livré en fiction** : sa relivraison est un jalon à rejouer, par une bouche, contre quelque chose.
+- **Page neuve** : les visages et lieux annulés retournent en réserve (registre CASTING §0.0). Leurs prénoms ne se réutilisent pas sur d'autres visages.
+- **Le canon v2 du palier** — familiers universels nés minuscules, deux formes (bête/outil), fusion par l'âme et total unique, **pont de l'âme : casser un familier tue le porteur**, dévorer ≠ casser, **rien ne se consigne**, autels volontaires sans écrit, jauge à vue, Listes-rumeur, **chances à gain propre** — est au codex §2.3 et à MONDE §9, **validé pièce par pièce par le joueur avant gravure.**
+
+### 38.1 · Le coffre ne se modifie pas en cours de session (2026-08-14) — FAUTE MJ
+
+En ajoutant la section §12 au coffre pendant la session du rembobinage, **le harnais a réaffiché de lui-même une partie du coffre source en clair** dans le contexte du MJ — plusieurs étiquettes scellées y sont entrées, sans aucun affichage en jeu. Le canal : modifier un fichier suivi fait écho ; ni le hook ni la conduite de lecture ne couvrent ce chemin, parce que ce n'est pas une lecture.
+
+**Décision joueur appliquée : pas de brûlage** (précédent du §38 — une étiquette sans sa scène ne livre rien). Le dispositif sur disque est intact ; la session suivante repart propre.
+
+**La règle** : `MJ-SECRETS.md` ne se modifie **jamais en cours de session**. Les ajouts au coffre s'écrivent **au `codex` de clôture, en dernier geste avant le commit** — l'écho tombe alors dans un contexte qui meurt. En séance, tout ce qui devrait entrer au coffre se note en une ligne neutre (sans nom, sans contenu scellé) et attend la clôture.

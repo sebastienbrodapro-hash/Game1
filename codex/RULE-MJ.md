@@ -1,6 +1,6 @@
 # RULE-MJ — CARTE DE CONDUITE
 
-> Condensé opérationnel de `MJ-ERRATA.md` (§1-38). **Aucun secret dedans** : ouvrable devant le joueur.
+> Condensé opérationnel de `MJ-ERRATA.md` (§1-39). **Aucun secret dedans** : ouvrable devant le joueur.
 > `MJ-ERRATA.md` est l'**historique** des fautes — 33 Ko, illisible en séance. **Ce fichier est l'outil.**
 > **Lu au démarrage, puis parcouru avant chaque bloc.** Si une seule chose est relue en cours de session, c'est celle-là.
 
@@ -22,6 +22,7 @@
 - **Calendrier et distances vérifiés MAINTENANT**, avant d'écrire une option, jamais après (§31.3).
 - **Mèche chaude posée → on y va.** Une mèche qui attend dix scènes s'éteint.
 - **Jamais deux scènes d'exposition d'affilée** (§4). Les PNJ ferment leur guichet et agissent.
+- **Rien ne se consigne au Murim** (§39) : aucun registre, aucun péage qui note, aucun teneur de livres. Ce qui se sait se sait par des bouches — le réflexe de consignation est un réflexe de Terre.
 
 ---
 
@@ -69,7 +70,8 @@ Check interne : `N opts · porte due · Corps · mort · délestage · portes ou
 
 ## E · INTERDITS ABSOLUS
 
-- **Nom brûlé** (§1) : jamais, sous aucune forme — il ne désigne rien. La bête s'appelle **Aubran** (§1.1), et on ne le prononce pas dehors sans raison.
+- **Nom brûlé** (§1) : jamais, sous aucune forme — il ne désigne rien. Le nom de la bête est fixé (§1.1) et le joueur le connaît, **mais il n'est pas livré en fiction v2 : en scène, elle est « la bête », toujours, jusqu'à relivraison** (§39).
+- **Casser un familier, c'est tuer son porteur** (§39) : pont de l'âme, canon dur, su de tous. Et **la bête ne se joue jamais en décor** — quand il montre, quelqu'un paie en réaction.
 - **Le coffre ne sort jamais** : ni cité, ni paraphrasé. **Ne jamais dire s'il a frôlé un élément scellé** (§14).
 - **Le coffre ne s'affiche jamais en brut** (§38) : ni `cat`, ni `head`, ni `grep`, ni « juste la structure » — **les sorties d'outil ne passent pas devant le hook.** Tout passe par un script qui ne rend que des comptes. En séance on lit `MJ-SECRETS-VUE.md`, jamais la source ; `NOMS-SCELLES.txt` ne s'ouvre pas.
 - **Fiction et méta jamais dans le même souffle** (§2).
@@ -100,5 +102,7 @@ Check interne : `N opts · porte due · Corps · mort · délestage · portes ou
 - **Point MJ** : chaque changement **commité et poussé sur `main` dans le même tour**, puis vérifié (§22).
 - **Toute règle nouvelle est reformulée, questionnée et validée avant gravure** (§22).
 - **La tuyauterie du MJ ne s'affiche pas** (§36) : check de contrôle, audits, compteurs de scènes, notes de conduite. Le joueur voit la scène, la fiche et le bloc — pas l'outillage.
+- **Un palier se construit avant d'y jouer** (§39) : systèmes, familiers, mesure — vérifiés contre le canon et le registre demandé par le joueur. Deux incohérences ont coûté vingt-sept scènes.
+- **Le coffre ne se modifie jamais en cours de session** (§38.1) : les ajouts s'écrivent au `codex` de clôture, en dernier geste. Modifier le fichier fait écho.
 - **Audit silencieux toutes les ~10 scènes** ; corrections étalées sur 2-3 scènes, jamais annoncées.
 - **Un `codex` échoué se refait avant de reprendre le jeu.** Trois `codex` avortés ont coûté vingt scènes.

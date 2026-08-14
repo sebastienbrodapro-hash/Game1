@@ -2,7 +2,7 @@
 
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Chargé **par chapitre** selon la session (voir `MJ-INDEX.md`).
 > Règle de croissance : on étoffe **aux abords de là où le jeu va**, jamais du lointain spéculatif. Tout ce qui est joué en scène remonte ici.
-> **À jour au 2026-08-12 (v16, scène 116).**
+> **À jour au 2026-08-14 (v22, scène 209 à jouer — Murim v2, errata §39).**
 
 ## 1 · CLAIREFONT — LE CHEF-LIEU *(consommé deux fois)*
 
@@ -100,21 +100,35 @@
 - Les petites bêtes des fissures se comptent entre 6 et 40. **Une bête rend nettement moins que son chiffre.** Leurs carcasses valent peu (peau nulle, viande immangeable) — les compagnies de chasse achètent quand même les os et les dents.
 - **Une compagnie de chasse y monte tous les ans** et s'y ruine. Douze hommes de 20 à 60, un capitaine à 60.
 
-## 9 · PALIER II — LE MURIM *(palier courant depuis le J1 du Murim, 2026-08-13)*
+## 9 · PALIER II — LE MURIM v2 *(rembobiné et reconstruit le 2026-08-14, errata §39 — la v1, sc. 182-208, est annulée)*
 
-**Registre : webtoon de Murim.** Sectes, arts nommés, réclusions, tournois, clans, armes, pilules, formations. Rythme rapide, paliers lisibles, transformations spectaculaires. *(Errata §33.)*
+**Registre : webtoon de Murim.** Sectes, arts nommés, réclusions, tournois, familiers, armes d'âme, épreuves. Rythme rapide, paliers lisibles, transformations spectaculaires. *(Erratas §33, §39.)*
 
-### 9.1 · Ce qui remplace la mesure
+### 9.1 · LES FAMILIERS — le socle du monde *(canon joueur, 2026-08-14, validé pièce par pièce)*
 
-**Ici, on ne pèse pas : on nomme.** Il n'existe ni pierre publique, ni greffier de porte, ni registre d'espèces. Situer quelqu'un se fait à trois choses :
+- **Chacun naît avec le sien.** Minuscule à la naissance — personne ne commence dragon. Il grandit avec son porteur, toute la vie.
+- **Deux formes : la bête et l'outil.** Certains marchent au côté de leur porteur ; d'autres se portent — lame, anneau, robe. La forme évolue avec la puissance.
+- **Fusion par l'âme, un seul total.** Les statistiques du porteur et du familier sont liées ; ce que l'un gagne, l'autre le porte. **Vrai pour tout le monde, Seb compris.**
+- **LE PONT DE L'ÂME : casser ou tuer un familier tue le porteur.** Su de tous. Tabou absolu des duels, arme des assassins — viser le familier d'un homme, c'est annoncer un meurtre.
+- **Dévorer ≠ casser.** Seb prend le total du couple : la victime tombe à 1, vivante, son familier réduit à une veilleuse. Le monde connaît la mort par pont brisé ; **il ne connaît pas la dévoration.**
+- **Ce qui reste unique à Seb** : le Masque (personne d'autre ne règle ce qu'on lit de lui) · sa bête a une voix, une volonté, une créance — les familiers du monde sont des **prolongements muets de l'âme** · il mange.
+- *Conduite : sa silhouette anthropomorphe est illisible à la jauge — **intrigante**, pas alarmante. Ce qui le rend anormal ne se voit que quand il le montre — et là, quelqu'un le paie en réaction, toujours. La bête jouée comme décor est la faute qui a coûté la v1.*
 
-1. **L'art qu'il pratique** — un art nommé place son porteur mieux qu'un chiffre. On reconnaît une forme à dix pas.
-2. **La secte dont il relève** — couleurs, insigne, rang interne.
-3. **Les Listes** — classements publics tenus par une maison neutre, affichés et discutés partout : les cent du continent, les listes de tournoi, les listes de primes. **C'est la seule chose écrite qui compte ici**, et c'est de la réputation, pas de la mesure.
+### 9.2 · LA MESURE ICI — rien ne se consigne
 
-> **Conséquence pour Seb** : *HORS MESURE* devient un avantage d'un autre genre — personne ne peut le lire, mais **son instinct du chiffre lit tout le monde exactement** dans un monde qui ne juge qu'à l'estime. Avantage d'information écrasant. En revanche il n'a **ni art, ni secte, ni nom sur aucune Liste** : socialement il est zéro.
+- **Aucune consignation.** Pas de registres, pas de péages qui notent, pas de teneurs de livres, pas de « tout est noté ». C'était la Terre — la v1 l'avait réimporté par réflexe (§39). **Ce qui se sait ici se sait par des bouches.**
+- **Les autels à mesurer.** Rares, anciens, volontaires. On y monte, le chiffre se montre — à soi et à ceux qui sont là. **Rien ne s'écrit nulle part.** Se mesurer en public, c'est déclarer ; seul, c'est savoir. Beaucoup ne se mesurent jamais et s'en vantent.
+- **La jauge à vue.** Taille et forme du familier, art reconnu, réputation. Un dragon de cent mètres n'a rien à prouver — mais entre 600 et 900, l'œil se trompe. **Seb seul lit exact.**
+- **Les Listes : de la rumeur organisée.** Des classements que les villes se répètent et s'affichent — portés par ce qu'on a vu ou cru voir. **Pas des archives** : aucune inscription, aucune trace obligatoire sur personne.
 
-### 9.2 · Échelle de puissance observée
+### 9.3 · LES CHANCES — épreuves à gain propre *(demande joueur, 2026-08-14)*
+
+- Le palier est troué d'**épreuves** : héritages laissés par des morts puissants, lieux qui testent, occasions qui ne passent qu'une fois. Le monde les appelle **les chances**. La plupart des grands ont commencé par une.
+- **Ce qui s'y gagne est propre à chacun** : la même épreuve ne rend jamais deux fois la même chose — elle donne selon ce qu'on est, ce qu'on porte, ce qu'on a fait. Deux entrent ; l'un ressort avec un cran d'art, l'autre avec une cicatrice.
+- **Toutes mordent ou coûtent** (§31 : une chance qui ne peut pas mal tourner n'est pas une scène).
+- *Conduite : pour Seb, une chance répond à ce qu'il EST — et ce qu'il est n'a d'équivalent nulle part. Réserve large. Ne jamais en faire un distributeur.*
+
+### 9.4 · Échelle de puissance observée
 
 | Qui | Amplitude |
 |---|---|
@@ -125,28 +139,29 @@
 | Sommets connus, noms des Listes | **4 000 – 8 000** |
 | Légendes vivantes, très rares | **8 000 – 10 000** |
 
-**Seb : 10 206.** Au-dessus de tout ce que ce palier contient. *(Errata §29 : aucun plafond. Il peut monter encore, et le palier III commence à 10³.)*
+**Seb : 10 206.** Au-dessus de tout ce que ce palier contient. *(Errata §29 : aucun plafond — et le familier grandit avec le porteur : les grands d'ici ont des familiers à leur hauteur, visibles.)*
+**On monte par l'art, la réclusion, l'épreuve** — dix ans pour passer de disciple à confirmé, trente ans pour un maître. Le familier monte avec.
 
-### 9.3 · Ce qui peut encore le blesser
+### 9.5 · Ce qui peut encore le blesser
 
 **Ne jamais gonfler l'opposition** — sa puissance est ce qu'elle est. Ce qui résiste ici :
 
 - **Les arts** qu'il ne connaît pas : une technique bien faite fait plus qu'un gros chiffre mal employé. Il n'en a aucun.
 - **Les poisons et les pilules** — canon du genre, et il n'a aucune culture de ça.
-- **Les formations** : des dispositifs collectifs, gravés ou tenus par plusieurs, qui ne se battent pas mais qui contiennent.
+- **Les formations** : des dispositifs collectifs qui ne se battent pas mais qui contiennent.
 - **Le nombre**, quand il est organisé.
-- **La position sociale** : il est un inconnu pieds nus. Aucune secte, aucun nom, aucune Liste, et une monnaie qui ne vaut rien.
+- **Le pont de l'âme** : le monde croira que casser sa bête le tue. *(Ce qu'il en est vraiment : non fixé — réserve d'histoire, ne jamais l'exposer gratuitement.)*
+- **La position sociale** : un inconnu pieds nus, monnaie morte, aucune Liste, aucun art.
 - **Le corps** : 9 couches, et *rien ne guérit tout à fait* — les cicatrices de Terre sont définitives.
 
-### 9.4 · Les dieux, ici
+### 9.6 · Les dieux, ici
 
-**Ce que Terre a oublié, le Murim le chante encore.** Les dieux d'avant la mesure sont de l'histoire ancienne, pas un secret d'État : on les met dans les chansons de charretier, dans les contes, dans les noms de cols et de temples ruinés. *(Coffre §6 : c'est ici que le nom de la bête existe encore. Il se refixe au moment où la fiction le livre — errata §1.)*
+**Ce que Terre a oublié, le Murim le chante encore.** Les dieux d'avant la mesure sont de l'histoire ancienne, pas un secret d'État : on les met dans les chansons, dans les contes, dans les noms de cols et de temples ruinés. *(Coffre §6 : c'est ici que le nom de la bête existe encore. Il se refixe au moment où la fiction le livre — errata §1. La livraison v1 est annulée : le nom est redevenu non-livré, sa relivraison est un jalon majeur.)*
+**« Jureur » et la ligne des chansons** (*aucun jureur n'a jamais fini par mourir*) **retournent en réserve** : le mot existe dans ce monde, Seb ne l'a plus entendu.
 
-**Vecteur déjà posé** : le charretier de la première scène chante une histoire de choses qui mangeaient ce qu'on leur donnait, du temps où l'on jurait au lieu d'écrire. **Il y a des noms dedans.**
+### 9.7 · À fixer en scène
 
-### 9.5 · À fixer en scène
-
-Le nom de la région · la première ville · la première secte · la maison qui tient les Listes · le premier art. **Un seul nom nouveau par scène**, prénoms occidentaux (règle joueur inchangée).
+**Le point d'entrée v2** · la région · la première ville · la première secte · le premier art · **le premier autel** · **la première chance**. **Un seul nom nouveau par scène**, prénoms occidentaux (règle joueur inchangée).
 
 ## 10 · PALIER III — ESQUISSES *(ne remplir que quand l'horizon s'en approche)*
 

@@ -3,7 +3,7 @@
 Cette branche (`main`) contient **le jeu d'histoire IA** : un jeu de rôle solo mené par Claude en Maître du Jeu — c'est l'objet des sessions de jeu.
 
 Fichiers :
-- `codexcreuset.md` — état courant de la campagne « Le Creuset » (**v21**).
+- `codexcreuset.md` — état courant de la campagne « Le Creuset » (**v22**).
 - `codex/` — corpus MJ : `MJ-INDEX`, `MJ-SECRETS`, `MJ-ERRATA` (historique des fautes), **`RULE-MJ` (le condensé opérationnel — c'est lui qu'on relit avant chaque bloc)**, `MJ-ARBRE`, `MJ-CHRONO`, `MJ-MONDE`, `MJ-CASTING` ; sauvegardes numérotées `codex-NNN.md` + `INDEX.md` ; `SESSION-21-40.md` (archive scène par scène du 2026-08-11) ; **`MJ-SECRETS-VUE.md`** (la vue expurgée, **c'est elle qu'on lit**) ; `NOMS-SCELLES.txt` (généré, **ne se lit pas**).
 - `codexjiwen.md` — ancienne campagne « Le Parieur », close.
 
@@ -35,7 +35,7 @@ Quand le joueur demande à jouer ou reprendre : **vérifier d'abord l'état du d
 
 **Livrer un nom en scène** : `python .claude/hooks/livrer-nom.py N` — acte délibéré, le jour où on l'écrit. Sans shell : lire **la ligne N** de `NOMS-SCELLES.txt`, pas le fichier. Puis inscrire au registre `MJ-CASTING` §0.0 et à l'errata.
 
-**Écrire dans le coffre** : toujours dans `MJ-SECRETS.md`, puis `python .claude/hooks/generer-vue.py` — à relancer aussi à chaque `codex`.
+**Écrire dans le coffre** : toujours dans `MJ-SECRETS.md`, puis `python .claude/hooks/generer-vue.py` — à relancer aussi à chaque `codex`. **Mais jamais en cours de session** (errata §38.1) : modifier le fichier fait écho — le harnais peut réafficher le coffre source en clair dans le contexte du MJ. Les ajouts s'écrivent **au `codex` de clôture, en dernier geste avant le commit** ; en séance, une ligne neutre en attente suffit.
 
 **Le coffre ne s'affiche jamais en brut** (errata §38) : ni `cat`, ni `head`, ni `grep`, ni « juste la structure », y compris en point MJ. **Les sorties d'outil ne passent pas devant le hook** — ce chemin n'est couvert que par la conduite. Tout passe par un script qui ne rend que des comptes.
 

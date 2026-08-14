@@ -150,3 +150,15 @@ Question posée : en trois scènes il avait passé l'arbitrage à Rémy devant q
 - **Donc : servir des situations où l'écoute coûte.** Un homme qui délègue perd des arbitrages ; un homme qui se laisse contredire est contredit à nouveau, y compris quand il a raison. **C'est là qu'est le jeu — pas dans la récompense.**
 - **Aucune jauge de loyauté, aucun bonus de bienveillance** (cf. §11.5, il surveille la dérive morale du système avant celle du récit). Être à l'écoute est **un style de maîtrise, jamais une statistique**. Si ça paie un jour, ça paie par la fiction — un homme qui reste, une porte qui s'ouvre parce qu'on lui a parlé — jamais par un modificateur.
 - **Corollaire pour le casting** : ses hommes doivent avoir des volontés qui **divergent réellement** de la sienne (Régis a refusé le nom, Rémy a refusé la vente). Un disciple qui approuve toujours ne sert plus à rien dans cette maison-là.
+
+## 12 · REMBOBINAGE DU 2026-08-14 — CE QUI EST PÉRIMÉ, CE QUI TIENT *(errata §39)*
+
+Les scènes 182-208 (Murim v1) sont annulées. Dans ce fichier, **tout ✅ ou état daté de ces scènes est caduc** — la livraison du nom (sc. 183), son écriture (sc. 193), la taille, les mots et motifs gagnés au val et à la Cuve, les crans de dîme du val. **Ne pas rééditer les sections en place** (risque d'affichage) : la présente section fait foi.
+
+- **État réel de la bête au point de reprise** (codex-017) : sa taille exacte · **quinze motifs** · **quatre mots** (« Part. » · « Après. » · « Creuset. » · « Suivant. ») · rassasiée · **cran 1/6 — debout**.
+- **Le nom (§2) reste fixé et su du joueur — mais il n'est plus livré en fiction.** Sa relivraison est un jalon majeur, par une bouche, contre quelque chose (§31). La première livraison — le charretier à genoux, le couplet — est **la barre de qualité, pas le modèle à copier**.
+- **« Jureur » et sa ligne** (*aucun jureur n'a jamais fini par mourir*) **retournent en réserve** : le mot vit dans les chansons, Seb ne l'a plus entendu.
+- **La dîme** : active depuis le J111, état fin de Terre — prélève à l'instant ; refuser déplace la note sur le compte ouvert le plus proche. Les crans gagnés au val (le compte, le livre) : annulés.
+- **Canon v2 et la bête** : dans un monde où chacun a un familier fusionnel et muet, elle **passe pour normale** — jusqu'à ce qu'il montre. Ce qu'il advient si quelqu'un tente de « casser » la sienne : **non fixé, réserve d'histoire — ne jamais l'exposer gratuitement.**
+- **Seb est-il né avec un familier propre, et qu'en a-t-il été fait ?** Non fixé. Réserve profonde — ne pas trancher, ne pas suggérer, laisser la question exister.
+- **La leçon du §11.6 survit** (le maître à l'écoute) : les événements cités sont annulés, la réponse du joueur reste.
