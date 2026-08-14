@@ -51,7 +51,7 @@
 - **Sa faute** : au sommet, il cesse de dévorer des rivaux et s'attaque à la mesure elle-même — il abat et dévore le **⟦SCELLE-7⟧ des Pierres-Mères**. Les Registres comprennent alors ce que « creuset » est vraiment : un dieu dans la machine.
 - **L'effacement** : imbattables en duel, ils l'ont eu par le rituel — avec la complicité des anciens de son propre Ordre, qui voulaient son siège. **Version livrée en scène (sc. 149), plus juste que « le siège »** : ils l'ont fait effacer parce qu'à la fin **ce n'était plus lui qui décidait quand elle mangeait**. Les deux sont vraies ; la seconde est celle que Maud raconte, et c'est la bonne.
 - **Où il est** : l'effacement éjecte. Victor est tombé **vers le haut** — arrivé au Murim en rebut, sans nom. Trois siècles plus tard, **il est vivant**, très haut (viser palier V–VI). Aubran l'a **abandonné à l'instant de sa défaite**.
-- **⟦SCELLE-11⟧ — canon v17, à ne pas contredire** : l'éjection n'a pas tout emporté. Ce qui restait de lui **s'est posé sur ce qu'il y avait de plus près** — une fille de dix-neuf ans qui tenait l'encrier. Maud **porte** ce résidu depuis trois siècles ; elle ne le possède pas. C'est ce qui la fige à 340 et l'empêche de vieillir. **Aubran le reprend, un point par prise.** Ce n'est pas Victor, ce n'est pas son âme, c'est **de la puissance orpheline** — ne jamais laisser croire que tuer Maud tue Victor.
+- **⟦SCELLE-11⟧ — canon v17, à ne pas contredire** : l'éjection n'a pas tout emporté. Ce qui restait de lui **s'est posé sur ce qu'il y avait de plus près** — une fille de dix-neuf ans qui tenait l'encrier. Maud **porte** ce ⟦SCELLE-11⟧ depuis trois siècles ; elle ne le possède pas. C'est ce qui la fige à 340 et l'empêche de vieillir. **Aubran le reprend, un point par prise.** Ce n'est pas Victor, ce n'est pas son âme, c'est **de la puissance orpheline** — ne jamais laisser croire que tuer Maud tue Victor.
 - **Ce qu'il veut** : remonter assez haut pour forcer Aubran à le reprendre — ou le dévorer. Quand il croisera Seb *(jalon fixe, paliers IV–VI)*, il verra à la fois son héritier et sa proie. **Ce jalon est intact.** Le fait que Seb connaisse son nom depuis Terre le rend meilleur, pas moindre.
 - **« VICTOR » A ÉTÉ LIVRÉ EN SCÈNE (sc. 148), par la dernière bouche vivante qui pouvait le prononcer.** Ce n'est pas la voie prévue au §6 — c'est mieux.
 
@@ -81,7 +81,7 @@ Au sommet — palier X, quand il n'existe **plus rien à vaincre** — la Part d
 Le rendez-vous est la destination. **L'issue appartient au jeu.**
 *(v17 : la Part est déjà prélevée à chaque prise, et il a déjà refusé une fois — le dernier partage a commencé à Terre, trente paliers trop tôt. Ne jamais le souligner.)*
 
-## 8 · ⟦SCELLE-12⟧ INDICATIVE TERRE *(flexible — accomplie)*
+## 8 · ⟦SCELLE-12⟧ INDICATIVE TERRE *(⟦SCELLE-6⟧ — accomplie)*
 
 Pesée → dévorations discrètes → gloire calibrée → le Verger vient (et refuse d'acheter) → **la maison mère prise par la vérité** → crise : la bête prend forme, parle, et réclame → **sortie de palier**.
 **Fils semés et devenus** : le greffier du Fond (jamais nommé ⟦SCELLE-4⟧ en jeu — il est resté « le greffier », et il a signé un dépôt scellé qui le condamne) · ⟦SCELLE-9⟧ (§2, **jamais évoquée, intacte**) · le trophée de la crypte (§4, consommé).
@@ -93,7 +93,7 @@ Pesée → dévorations discrètes → gloire calibrée → le Verger vient (et 
 - Chaque grosse dévoration = un trait de plus sur la bête : tenir la liste dans le codex public au fur et à mesure.
 - En cas de mort de Seb (annoncée, jamais surprise) : ⟦SCELLE-9⟧ est la continuité possible.
 
-## 10 · VISAGES PRÉPARÉS *(flexibles)*
+## 10 · VISAGES ⟦SCELLE-15⟧ *(flexibles)*
 
 - **⟦SCELLE-8⟧** — vérificateur itinérant. Jamais nommé en jeu ; resté « le vérificateur », et c'est mieux ainsi. A tout signé, et il commence à se demander ce que ça fait de lui.
 - **Margot, mèche vivante** : une morte officielle marche avec un 6 visible. Son existence légale tient à un encrier — **mais le greffier a désormais signé un dépôt scellé qui le condamne à sa place.** Le levier est déplacé, pas désamorcé.
@@ -101,9 +101,9 @@ Pesée → dévorations discrètes → gloire calibrée → le Verger vient (et 
 
 ## 11 · CALIBRATION JOUEUR
 
-- **⟦SCELLE-1⟧** : enjeux qui mordent · domination sociale mise en scène · révélations calibrées · thésauriser puis claquer les jetons pour le spectacle · cohérence d'univers dure · progression rapide et lisible · personnages féminins à volonté propre.
-- **⟦SCELLE-14⟧** : pronostics bavards, quotas d'options, MJ complaisant, meublage de décor.
-- **⟦SCELLE-5⟧** : prix planchers réels · horloges qui tombent à l'heure · fins fortes préparées · aucun nouveau PNJ tant que les actifs vivent.
+- **Aime** : enjeux qui mordent · domination sociale mise en scène · révélations calibrées · thésauriser puis claquer les jetons pour le spectacle · cohérence d'univers dure · progression rapide et lisible · personnages féminins à volonté propre.
+- **Évite** : pronostics bavards, quotas d'options, MJ complaisant, meublage de décor.
+- **Directives** : prix planchers réels · horloges qui tombent à l'heure · fins fortes préparées · aucun nouveau PNJ tant que les actifs vivent.
 
 ### 11.1 · Blocs à désavantages (2026-08-11)
 
@@ -139,3 +139,14 @@ Délestage disponible (§19) · température du monde (§15-16) · Margot doit e
 - **Ce qu'il veut au Murim, dit de sa bouche (2026-08-13)** : *« des compétences de combat, comprendre ma bête, réclusion possible… vraiment comme un webtoon dans le Murim. Des armes, équipement — l'évolution et la transformation c'est TROP BIEN. »* → **arts, réclusion, équipement, transformations visibles.** Et la nuance qu'il a posée lui-même : **l'équipement qui évolue est quasi inconnu dans ce monde** — il en veut l'idée, pas la distribution.
 - **Il simplifie quand on lui donne le choix.** Au seuil du palier : *« plus serré : 1 - 1 de base, clôture tout ce qui ne convient plus. »* Il préfère **peu de lignes qui pèsent** à beaucoup de lignes qui décorent. Vaut pour les portes, les arts, les blocs, tout.
 - **Il achète les grands moments aux jetons.** Trois triomphes garantis en trente-sept scènes, tous sur des charnières qu'il a identifiées lui-même (la route sans fenêtres, le second dixième, la descente sous le palier). **Servir ces scènes à pleine puissance : c'est là qu'il dépense, c'est là qu'il attend le spectacle.**
+
+### 11.6 · Le maître de maison qu'il joue — réponse au psy (2026-08-14, sc. 205)
+
+Question posée : en trois scènes il avait passé l'arbitrage à Rémy devant quatre hommes de la Braise Haute, plié quand Rémy l'avait contredit en public, et verrouillé cinquante-huit fers contre lui-même — puis fait marcher sa maison deux jours à jeun à côté d'une bourse qu'elle portait. Dérive de conduite, ou intention ?
+
+**Réponse, de sa bouche : *« c'est le maître que je voulais être, à l'écoute. »***
+
+- **Ce n'était pas une dérive. Ne rien corriger.** Ne pas ramener Seb vers le tyran par petites touches sous prétexte qu'il joue la domination ailleurs — **il domine le monde, pas sa maison.** Les deux tiennent ensemble et c'est délibéré.
+- **Donc : servir des situations où l'écoute coûte.** Un homme qui délègue perd des arbitrages ; un homme qui se laisse contredire est contredit à nouveau, y compris quand il a raison. **C'est là qu'est le jeu — pas dans la récompense.**
+- **Aucune jauge de loyauté, aucun bonus de bienveillance** (cf. §11.5, il surveille la dérive morale du système avant celle du récit). Être à l'écoute est **un style de maîtrise, jamais une statistique**. Si ça paie un jour, ça paie par la fiction — un homme qui reste, une porte qui s'ouvre parce qu'on lui a parlé — jamais par un modificateur.
+- **Corollaire pour le casting** : ses hommes doivent avoir des volontés qui **divergent réellement** de la sienne (Régis a refusé le nom, Rémy a refusé la vente). Un disciple qui approuve toujours ne sert plus à rien dans cette maison-là.

@@ -14,3 +14,4 @@ reflexion/
 !.claude/agents/
 !.claude/hooks/
 !.claude/settings.json
+.claude/hooks/__pycache__/

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Hook Stop — LE CREUSET. Deux métiers, à chaque fin de tour du MJ.
+Hook Stop — LE CREUSET. Trois métiers, à chaque fin de tour du MJ.
 
 1. GARDE-FOU  : cherche un nom scellé dans la sortie joueur. Si touche,
                 sort en code 2 — le MJ est repris avant de rendre la main.
@@ -9,6 +9,11 @@ Hook Stop — LE CREUSET. Deux métiers, à chaque fin de tour du MJ.
                 C'est la source des sous-agents (relevé d'état, psy) : ils
                 ne voient pas la conversation, et le MJ ne choisit pas ce
                 qu'ils auditent.
+3. CADENCE PSY: compte les scènes jouées et reprend le MJ quand le psy est
+                dû. Raison d'être : une cadence que le MJ tient lui-même
+                n'est pas une cadence — le MJ qui dérive est exactement
+                celui qui n'appelle pas son audit. Ici il ne compte plus.
+                *(Validé par le joueur le 2026-08-14, option C'.)*
 
 Le garde-fou est un filet, pas la ligne de défense : quand il sonne, le
 message est déjà affiché. Il garantit qu'on le sait dans la seconde.
@@ -25,6 +30,10 @@ sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 RACINE = Path(__file__).resolve().parents[2]
 NOMS = RACINE / "codex" / "NOMS-SCELLES.txt"
 DEPOT = RACINE / ".claude" / "derniere-scene.md"
+ETAT = RACINE / ".claude" / "psy-etat.txt"
+
+SEUIL_PSY = 8
+TITRE_SCENE = re.compile(r"^##\s*(\d{1,4})\s*·", re.MULTILINE)
 
 
 def charger_noms() -> list[str]:
@@ -84,6 +93,28 @@ def dernier_tour(transcript: Path) -> str:
     return "\n\n".join(reversed(morceaux)).strip()
 
 
+def lire_etat() -> tuple[int, int]:
+    """(numéro de la dernière scène vue, numéro du dernier passage du psy)."""
+    derniere = dernier_psy = 0
+    if ETAT.exists():
+        for l in ETAT.read_text(encoding="utf-8").splitlines():
+            cle, _, val = l.partition("=")
+            val = val.strip()
+            if not val.isdigit():
+                continue
+            if cle.strip() == "derniere_scene":
+                derniere = int(val)
+            elif cle.strip() == "dernier_psy":
+                dernier_psy = int(val)
+    return derniere, dernier_psy
+
+
+def ecrire_etat(derniere: int, dernier_psy: int) -> None:
+    ETAT.write_text(
+        f"derniere_scene={derniere}\ndernier_psy={dernier_psy}\n", encoding="utf-8"
+    )
+
+
 def main() -> int:
     try:
         payload = json.load(sys.stdin)
@@ -103,11 +134,21 @@ def main() -> int:
     if deja or not texte:
         return 0
 
+    # Cadence : on suit le numéro de scène, pas un compteur de tours — un
+    # point MJ ne fait pas avancer le jeu, et une scène ne recule jamais.
+    derniere, dernier_psy = lire_etat()
+    vus = [int(n) for n in TITRE_SCENE.findall(texte)]
+    if vus and max(vus) > derniere:
+        derniere = max(vus)
+    if dernier_psy == 0:  # première initialisation : pas d'alerte au démarrage
+        dernier_psy = derniere
+
     touches = [
         n for n in charger_noms()
         if re.search(rf"\b{re.escape(n)}\b", texte, re.IGNORECASE)
     ]
     if touches:
+        ecrire_etat(derniere, dernier_psy)
         print(
             "GARDE-FOU COFFRE — un nom scellé est apparu dans la sortie joueur : "
             + ", ".join(touches)
@@ -120,6 +161,23 @@ def main() -> int:
         )
         return 2
 
+    if derniere - dernier_psy >= SEUIL_PSY:
+        # L'alerte est consommée tout de suite : un hook qui redemande à
+        # chaque tour est un hook qu'on éteint.
+        ecrire_etat(derniere, derniere)
+        print(
+            f"CADENCE PSY — {derniere - dernier_psy} scènes depuis le dernier "
+            f"passage (sc. {dernier_psy} -> sc. {derniere}).\n"
+            "Lancer le sous-agent `psy` maintenant, en arrière-plan, avant de "
+            "rendre la main.\n"
+            "Sa sortie se relaie MOT POUR MOT dans un message méta séparé de la "
+            "fiction (codex §1.8) — la reformuler, c'est éditer son propre audit. "
+            "SILENCE ne s'affiche pas.",
+            file=sys.stderr,
+        )
+        return 2
+
+    ecrire_etat(derniere, dernier_psy)
     return 0
 
 

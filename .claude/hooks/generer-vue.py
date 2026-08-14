@@ -57,11 +57,24 @@ def _corpus() -> str:
     return "\n".join(p.read_text(encoding="utf-8") for p in fichiers if p.exists())
 
 
+CALIBRATION = re.compile(r"^##\s*11\s*·", re.MULTILINE)
+
+
 def noms_sceles(secrets: str) -> list[str]:
-    """Est scellé ce qui est dans le coffre et nulle part ailleurs."""
+    """Est scellé ce qui est dans le coffre et nulle part ailleurs.
+
+    La section 11 — calibration joueur — est retirée de l'extraction : c'est
+    de la méta sur le joueur, jamais de la fiction, et aucun nom scellé n'y
+    naît. Sa prose, elle, fabriquait des faux scellés à chaque ajout : un mot
+    capitalisé inédit = un jeton de plus dans la vue (matière perdue) et une
+    fausse alerte de plus dans le hook. Le remplacement, lui, continue de
+    couvrir tout le fichier, §11 comprise.
+    """
+    m = CALIBRATION.search(secrets)
+    fiction = secrets[: m.start()] if m else secrets
     corpus = _corpus()
     trouves = {
-        c for c in re.findall(MOT, secrets)
+        c for c in re.findall(MOT, fiction)
         if not re.search(rf"\b{re.escape(c)}\b", corpus, re.IGNORECASE)
     }
     return sorted(trouves)
@@ -138,9 +151,22 @@ def main() -> int:
             remplacements.append((ident, n))
 
     # Les noms déjà livrés en scène restent en clair dans la vue.
+    # IGNORECASE, comme le hook : un nom extrait en capitales laissait sa
+    # variante capitalisée en clair dans la vue — exactement ce que le
+    # dispositif doit rendre impossible. La vue vise le rappel, pas la
+    # précision : sur-expurger ne coûte qu'une gêne de lecture.
     vue = secrets
     for ident, n in sorted(remplacements, key=lambda x: -len(x[1])):
-        vue = re.sub(rf"\b{re.escape(n)}\b", f"⟦SCELLE-{ident}⟧", vue)
+        vue = re.sub(rf"\b{re.escape(n)}\b", f"⟦SCELLE-{ident}⟧", vue,
+                     flags=re.IGNORECASE)
+
+    # Contrôle avant écriture : la vue ne sort que si elle est propre.
+    restes = sum(1 for _, n in remplacements
+                 if re.search(rf"\b{re.escape(n)}\b", vue, re.IGNORECASE))
+    if restes:
+        print(f"ERREUR : {restes} nom(s) scellé(s) subsistent dans la vue.\n"
+              "VUE NON ÉCRITE — l'ancienne est conservée.", file=sys.stderr)
+        return 1
 
     VUE.write_text(
         "> **VUE EXPURGÉE DU COFFRE — c'est ce fichier qui se lit en séance,\n"

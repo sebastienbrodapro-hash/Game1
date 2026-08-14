@@ -128,3 +128,14 @@ Délestage disponible (§19) · température du monde (§15-16) · Margot doit e
 - **Ce qu'il veut au Murim, dit de sa bouche (2026-08-13)** : *« des compétences de combat, comprendre ma bête, réclusion possible… vraiment comme un webtoon dans le Murim. Des armes, équipement — l'évolution et la transformation c'est TROP BIEN. »* → **arts, réclusion, équipement, transformations visibles.** Et la nuance qu'il a posée lui-même : **l'équipement qui évolue est quasi inconnu dans ce monde** — il en veut l'idée, pas la distribution.
 - **Il simplifie quand on lui donne le choix.** Au seuil du palier : *« plus serré : 1 - 1 de base, clôture tout ce qui ne convient plus. »* Il préfère **peu de lignes qui pèsent** à beaucoup de lignes qui décorent. Vaut pour les portes, les arts, les blocs, tout.
 - **Il achète les grands moments aux jetons.** Trois triomphes garantis en trente-sept scènes, tous sur des charnières qu'il a identifiées lui-même (la route sans fenêtres, le second dixième, la descente sous le palier). **Servir ces scènes à pleine puissance : c'est là qu'il dépense, c'est là qu'il attend le spectacle.**
+
+### 11.6 · Le maître de maison qu'il joue — réponse au psy (2026-08-14, sc. 205)
+
+Question posée : en trois scènes il avait passé l'arbitrage à Rémy devant quatre hommes de la Braise Haute, plié quand Rémy l'avait contredit en public, et verrouillé cinquante-huit fers contre lui-même — puis fait marcher sa maison deux jours à jeun à côté d'une bourse qu'elle portait. Dérive de conduite, ou intention ?
+
+**Réponse, de sa bouche : *« c'est le maître que je voulais être, à l'écoute. »***
+
+- **Ce n'était pas une dérive. Ne rien corriger.** Ne pas ramener Seb vers le tyran par petites touches sous prétexte qu'il joue la domination ailleurs — **il domine le monde, pas sa maison.** Les deux tiennent ensemble et c'est délibéré.
+- **Donc : servir des situations où l'écoute coûte.** Un homme qui délègue perd des arbitrages ; un homme qui se laisse contredire est contredit à nouveau, y compris quand il a raison. **C'est là qu'est le jeu — pas dans la récompense.**
+- **Aucune jauge de loyauté, aucun bonus de bienveillance** (cf. §11.5, il surveille la dérive morale du système avant celle du récit). Être à l'écoute est **un style de maîtrise, jamais une statistique**. Si ça paie un jour, ça paie par la fiction — un homme qui reste, une porte qui s'ouvre parce qu'on lui a parlé — jamais par un modificateur.
+- **Corollaire pour le casting** : ses hommes doivent avoir des volontés qui **divergent réellement** de la sienne (Régis a refusé le nom, Rémy a refusé la vente). Un disciple qui approuve toujours ne sert plus à rien dans cette maison-là.
