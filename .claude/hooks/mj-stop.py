@@ -6,9 +6,8 @@ Hook Stop — LE CREUSET. Trois métiers, à chaque fin de tour du MJ.
 1. GARDE-FOU  : cherche un nom scellé dans la sortie joueur. Si touche,
                 sort en code 2 — le MJ est repris avant de rendre la main.
 2. DÉPÔT      : écrit le dernier tour dans .claude/derniere-scene.md, brut.
-                C'est la source des sous-agents (relevé d'état, psy) : ils
-                ne voient pas la conversation, et le MJ ne choisit pas ce
-                qu'ils auditent.
+                C'est la source du psy : il ne voit pas la conversation, et
+                le MJ ne choisit pas ce qu'il lui donne à auditer.
 3. CADENCE PSY: compte les scènes jouées et reprend le MJ quand le psy est
                 dû. Raison d'être : une cadence que le MJ tient lui-même
                 n'est pas une cadence — le MJ qui dérive est exactement
