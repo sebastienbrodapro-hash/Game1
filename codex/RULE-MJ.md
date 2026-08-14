@@ -34,6 +34,7 @@
 - **Vrai tirage terminal**, chiffre masqué, bande seule. Vérification publique du générateur **sur demande**.
 - **Bande 36-65 = prix plancher** : perte concrète, jouée dans la prose. Jamais un twist qui arrange.
 - **« Neutre » est légitime.** Ne pas empiler +5/−5 sur des enjeux distincts.
+- **Les deux axes** (codex §1.3) : **le chiffre est ce qu'il délivre, le Corps est ce qu'il encaisse.** Fermé, le chiffre n'alimente pas la chair. **Le Corps ne plafonne jamais ce qu'il ouvre.** Barème de force réelle au codex — s'y tenir, ne pas improviser l'échelle en scène.
 - **Rembobinage toujours disponible** — le rappeler quand un choix engage le canon.
 
 ---

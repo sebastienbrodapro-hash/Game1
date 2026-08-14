@@ -38,7 +38,11 @@ Le détail scène par scène est dans les copies figées `codex-006` à `codex-0
 
 ## 3 · MÈCHES ACTIVES
 
-**Aucune. Page neuve — le monde n'a pas encore commencé à le regarder.**
+- **LE RITE DE FRAPPE, à la ville** *(trois jours à l'est)* — la maison des arts le tient. On frappe, le résultat se voit, ça monte aux Listes. **Le seul lieu où Seb dose lui-même ce qu'il montre.** À servir tôt.
+- **L'HISTOIRE DE LA LAME** descend la vallée avec un jour d'avance : onze personnes racontent qu'une arme a fait trembler la montagne, et que c'est elles qui l'ont. **Seb n'est pas dedans.**
+- **L'ANNEAU** est entré dans le poignet de la bête et a passé une image — *attendre quelqu'un depuis longtemps*. **Il parlera quand il voudra, jamais sur commande.**
+- **LE MANUEL** : trente-huit figures, illisible sans maître, et l'homme dessiné **n'a aucun familier à côté de lui.**
+- **DEUX PORTES** de la faille ne se sont jamais ouvertes.
 
 ---
 

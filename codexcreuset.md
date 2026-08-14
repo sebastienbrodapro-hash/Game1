@@ -72,8 +72,20 @@ Plafond **15** *(porté de 10 à 15 par le joueur, 2026-08-14)*. Ils s'achètent
 Petit **±5** · moyen **±10** · gros **±15/±20**. **« Neutre » est légitime.**
 **Blessures datées**, horizon en clair. Les cicatrices de Seb sont définitives.
 
+#### LES DEUX AXES — ce que chacun fait *(gravé le 2026-08-14, à la demande du joueur)*
+
+**Le chiffre est ce qu'il DÉLIVRE. Le Corps est ce qu'il ENCAISSE.** Indépendants.
+Fermé, le chiffre ne passe pas dans la chair : il ment aux instruments et n'alimente rien. **Ouvrir le fait entrer dans le corps, et ça se voit.**
+**Le Corps ne plafonne jamais ce qu'il peut ouvrir** (§29) — *ouvrir ne blesse jamais.*
+
+| Réglage | Force réelle — repères canon |
+|---|---|
+| **Fermé — Corps seul** *(corroyé, 12 couches)* | plie du fer à la main, **marque la pierre en marchant** ; un poing ouvre un pan de mur en pierre sèche ; une masse en pleine poitrine ne le met pas à terre. **Déjà plus dur que tout maître de ce palier, sans rien ouvrir.** |
+| **À moitié — ~8 900** | le mur de bloc taillé ne résiste pas : le poing passe au travers et emmène ce qu'il y a derrière. Registre où il a abattu la chose de la carrière. |
+| **Tout — 17 856** | ce n'est plus un coup, c'est de la démolition. La salle du socle a craqué **parce qu'il a ouvert**, sans frapper. |
+
 **LE CORPS.** Le chiffre mesure la puissance ; le Corps est la charpente qui la porte. Il ne monte **jamais** par dévoration.
-**Grades : faible → dur → trempé → la suite en jeu. 4 couches = un grade.**
+**Grades : faible → dur → trempé → CORROYÉ → la suite en jeu. 4 couches = un grade.**
 **Voie de l'épreuve uniquement** : encaisser volontairement ce qui devrait casser, **une couche d'un coup, sur jet**. Il faut quelqu'un — ou quelque chose — capable de frapper assez fort. *Ouvrir le Masque annule l'épreuve : ce qui ne pouvait pas casser ne fait pas de couche.*
 **OUVRIR NE BLESSE JAMAIS.** L'option Corps ne se pose que **là où le lieu et le moment la portent**.
 

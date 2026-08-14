@@ -51,6 +51,7 @@ Fini sur une plaine devant Pierregarde : **6 812 abattu devant huit mille témoi
 
 ## 5 · BRANCHES CANDIDATES *(à affiner après l'arrivée)*
 
+- **A0. LE RITE DE FRAPPE — priorité, à la ville (demandé par le joueur, 2026-08-14).** Ce monde ne consigne rien mais **regarde** : la maison des arts tient un rite public où l'on **frappe**, et où le résultat se voit et se raconte. Alimente les Listes, donne un rang, **et on y perd la face devant tout le monde**. Pour Seb : le seul endroit du palier où **il dose lui-même** ce qu'il montre (codex §1.3, les deux axes). Registre de domination sociale = son meilleur (coffre §11). **Le nommer en scène le jour où il y est** ; jamais une procédure, jamais une file d'attente — un coup, du public, un enjeu.
 - **A. LA PREMIÈRE CHANCE.** Une épreuve à gain propre, tôt, qui mord — et qui répond à ce qu'il est. *(Réserve large : ne jamais en faire un distributeur.)*
 - **B. LA PREMIÈRE VILLE.** Les Listes-rumeur, les maisons, un autel public. Registre de domination sociale = son meilleur registre (coffre §11).
 - **C. LA GROSSE PIÈCE.** Une chose terrée qui rend coup pour coup — carburant de la bête (§34) et sommet de plaisir du joueur (§30). À la hauteur de 10 206.
