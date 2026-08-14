@@ -175,3 +175,49 @@ Les scènes 182-208 (Murim v1) sont annulées. Dans ce fichier, **tout ✅ ou é
 **« Domination sociale mise en scène » ne veut pas dire « il aime les scènes sociales ».** Ça désigne **le moment public où il écrase** — le rite, la déclaration, la foule qui plie. Le social est le décor du triomphe, jamais la matière de la scène (errata §42). Le MJ a perdu vingt scènes sur ce contresens ; ne pas le refaire.
 
 **Il veut écrire l'histoire, pas la subir** (errata §43) : moteur du palier jamais à l'arrêt, blocs qui divergent, bêtes mythiques et choses terrées plutôt que maisons et négociations.
+
+
+## 14 · CALIBRATION — SESSION DU 2026-08-15 *(scènes 255-283, quatre réponses au psy et six recadrages)*
+
+### 14.1 · Réponses au psy, mot pour mot
+
+- **« je comptais y aller, mais elle m'a emmené ailleurs »** *(sc. 262, sur Irène laissée huit scènes)*
+  → Une mèche qu'il porte n'est pas abandonnée quand il s'en écarte : elle est **reportée**, et le report
+  vient d'elle. **Un détour coûte du temps, jamais un objectif.** Le MJ tient le calendrier à voix haute.
+- **« je veux pas la contraindre pour l'instant, c'est juste que j'ai rien d'autre sous la main »** *(sc. 271)*
+  → Aucune laisse, confirmé — **et le froid qu'elle mangeait venait de l'inventaire du MJ**, pas de sa
+  conduite à lui. **Une proie chaude doit être accessible en permanence.** C'est §45 en une phrase.
+- **« décider ensemble ? je sais pas là… désaccord possible ? »** *(sc. 279)*
+  → A produit l'errata **§47**, tranché par lui : son corps, son veto — et sa clause exacte,
+  ***« elle ne devient pas un second joueur qui bride le premier »***.
+- **« elle peut changer le chiffre elle-même sans que je lui autorise »** *(sc. 283, proposition de lui)*
+  → Errata **§48**. Il **offre** de perdre le contrôle exclusif du Masque parce que ça la rend vivante.
+  Retenir la direction : **il paie volontiers en pouvoir ce qui achète de la présence.**
+
+### 14.2 · Ce que les recadrages ont appris
+
+- **« arrête la dégueulasserie »** — trois fois de suite le MJ avait rendu *merveilleux* par *organique
+  inquiétant*. Il a exigé qu'on lui **demande** la DA au lieu de l'installer (§45), et tranché :
+  **xianxia haut sur socle mythique païen, le sale cantonné à une voie sombre nommée.**
+- **« tu l'as déjà gravé plein de fois »** — il refuse qu'on réécrive une règle pour compenser du
+  contenu manquant. **§46 créé puis supprimé en entier sur sa décision.** Quand le jeu coince,
+  **chercher ce que le MJ n'a pas servi.**
+- **« l'option 2 et 4 c'est drama vioque »** — la ville brûlée, les trente à 1, les commanditaires :
+  **horloges du monde, jamais options de bloc.**
+- **« qu'est-ce que j'en ai à faire sérieux »** *(une maison qui met sa tête à prix)* — à 56 000 dans un
+  monde qui plafonne à 10 000, une menace sociale est un **gonflement**. La porte V se joue en
+  **friction** : routes fermées, pas de ravitaillement, du temps perdu.
+- **« je veux avoir un choix de la bête à traquer pour elle. Sinon c'est tracé par toi. »**
+  → **Il choisit sa proie de cran lui-même.** Le MJ sert le bestiaire, jamais l'itinéraire.
+- **Sur l'illustration** : il attendait **une femme anthropomorphe franche**, pas un fauve bipède.
+  **§34.5 vaut aussi pour l'image** — anthropomorphe assumé, furry assumé, aucune pudeur qui rende
+  la description floue.
+
+### 14.3 · Ce qui marche, mesuré
+
+**Spectacle public + volonté propre de la bête + monde beau.** Les trois pics validés de sa bouche :
+l'ouverture **calibrée à 25 000** sur une ville entière · **la bête qui choisit sa route contre son plan**
+(*« j'ai cru que sa colère c'était pour Irène et ça c'est bien ! »*) · et le cran 3, où **elle se règle au
+chiffre exact de sa proie** pour qu'il y ait une victoire à manger.
+**Corollaire** : ce qui le fait vibrer n'est pas la puissance, c'est **la présence** — qu'elle veuille,
+qu'elle refuse, qu'elle surprenne. Servir ça avant tout le reste.

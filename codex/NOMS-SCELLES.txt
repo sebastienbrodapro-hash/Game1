@@ -2,15 +2,15 @@
 # ⛔ NE PAS LIRE. Ni le joueur, ni le MJ. Généré par generer-vue.py.
 # id <TAB> nom <TAB> statut(scelle|livre) <TAB> alerte(oui|non)
 # alerte=non : expurgé de la vue, mais trop bruyant pour le hook.
-2	Ascension	scelle	oui
+2	Ascension	scelle	non
 3	CRÉE	scelle	oui
-4	Colin	scelle	oui
-6	Flexible	scelle	oui
+4	Colin	scelle	non
+6	Flexible	scelle	non
 7	Gardien	scelle	non
-8	Hugues	scelle	oui
-9	Nina	scelle	oui
+8	Hugues	scelle	non
+9	Nina	scelle	non
 10	RÉCUPÉRABLES	scelle	oui
-11	RÉSIDU	scelle	non
+11	RÉSIDU	scelle	oui
 12	TRAME	scelle	oui
 13	Vainqueur	scelle	non
 15	PRÉPARÉS	scelle	oui
