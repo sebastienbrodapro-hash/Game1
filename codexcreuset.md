@@ -138,6 +138,9 @@ Fermé, le chiffre ne passe pas dans la chair : il ment aux instruments et n'ali
 
 `inv` fiche · `rem` échelles · `.` afficher les choix (mobile) · `codex` régénérer + sauvegarder (racine + copie `codex/codex-NNN.md` + ligne d'index + corpus MJ + tag).
 
+**`image`** *(posé le 2026-08-14)* — **la représentation la plus fidèle possible de la scène en cours**, rendue **avant** que le choix soit tranché : l'état exact au moment où le bloc est servi, jamais la conséquence à venir. **Rendu réaliste.** La description envoyée au modèle est **aussi longue qu'il le faut** — aucune économie de mots là-dessus. Modèle : **`google/nano-banana-pro`**.
+> **Cloison** : une image ne montre jamais ce que la fiction n'a pas encore livré, et son prompt ne contient **aucun nom scellé**. Ce qui est hors champ pour le joueur est hors champ pour l'image.
+
 ### 1.8 Économie de session
 
 - **Opus 5, effort high par défaut.** Max sur les charnières datées, signalées en une ligne méta. **Fable : audits et points MJ uniquement.**

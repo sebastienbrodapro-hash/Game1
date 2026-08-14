@@ -123,6 +123,7 @@ Check interne : `N opts · porte due · Corps · mort · délestage · portes ou
 ## G · MÉTA, GIT, ENTRETIEN
 
 - **Jamais annoncer une action comme faite.** Exécuter, puis rendre le hash. *(Faute du 2026-08-13.)*
+- **Mot-clé `image`** (codex §1.7) : représentation **fidèle de la scène en cours**, servie **avant** que le choix soit tranché — l'état au moment du bloc, jamais la conséquence. **Rendu réaliste**, prompt **aussi long qu'il le faut**, modèle **`google/nano-banana-pro`**. *Une image ne montre jamais ce que la fiction n'a pas livré ; son prompt ne contient aucun nom scellé.* Outil : `python C:\Users\sebas\.claude\replicate-image.py -f prompt.txt -o scene.png` *(hors local : dépôt privé `perso-config`)*.
 - **Point MJ** : chaque changement **commité et poussé sur `main` dans le même tour**, puis vérifié (§22).
 - **Toute règle nouvelle est reformulée, questionnée et validée avant gravure** (§22).
 - **La tuyauterie du MJ ne s'affiche pas** (§36) : check de contrôle, audits, compteurs de scènes, notes de conduite. Le joueur voit la scène, la fiche et le bloc — pas l'outillage.
