@@ -1,8 +1,18 @@
 # NOMS SCELLÉS — LE CREUSET
-# ⛔ NE PAS LIRE. Ni le joueur, ni le MJ. Seul mj-stop.py ouvre ce fichier.
-# Généré par .claude/hooks/extraire-noms.py — ne pas éditer à la main.
-# Un nom par ligne. Tout ce qui a touché le jeu (casting, chrono, monde,
-# arbre, codex racine) est retiré automatiquement : relancer le script
-# après chaque nom livré en scène, et à chaque codex.
-CRÉE
-RÉSIDU
+# ⛔ NE PAS LIRE. Ni le joueur, ni le MJ. Généré par generer-vue.py.
+# id <TAB> nom <TAB> statut(scelle|livre) <TAB> alerte(oui|non)
+# alerte=non : expurgé de la vue, mais trop bruyant pour le hook.
+1	Aime	scelle	non
+2	Ascension	scelle	oui
+3	CRÉE	scelle	oui
+4	Colin	scelle	oui
+5	Directives	scelle	oui
+6	Flexible	scelle	oui
+7	Gardien	scelle	non
+8	Hugues	scelle	oui
+9	Nina	scelle	oui
+10	RÉCUPÉRABLES	scelle	oui
+11	RÉSIDU	scelle	non
+12	TRAME	scelle	oui
+13	Vainqueur	scelle	non
+14	Évite	scelle	non

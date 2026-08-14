@@ -28,13 +28,22 @@ DEPOT = RACINE / ".claude" / "derniere-scene.md"
 
 
 def charger_noms() -> list[str]:
+    """Noms encore scellés ET assez rares pour ne pas faire sonner à tort.
+
+    Format : id <TAB> nom <TAB> statut <TAB> alerte — voir generer-vue.py.
+    Les entrées alerte=non sont expurgées de la vue du coffre mais pas
+    surveillées ici : elles apparaissent en jeu, elles feraient du bruit.
+    """
     if not NOMS.exists():
         return []
-    return [
-        l.strip()
-        for l in NOMS.read_text(encoding="utf-8").splitlines()
-        if l.strip() and not l.startswith("#")
-    ]
+    noms = []
+    for l in NOMS.read_text(encoding="utf-8").splitlines():
+        if not l.strip() or l.startswith("#"):
+            continue
+        parts = l.split("\t")
+        if len(parts) >= 4 and parts[2] == "scelle" and parts[3] == "oui":
+            noms.append(parts[1])
+    return noms
 
 
 def dernier_tour(transcript: Path) -> str:

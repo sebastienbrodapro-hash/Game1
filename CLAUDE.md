@@ -4,14 +4,14 @@ Cette branche (`main`) contient **le jeu d'histoire IA** : un jeu de rôle solo 
 
 Fichiers :
 - `codexcreuset.md` — état courant de la campagne « Le Creuset » (**v21**).
-- `codex/` — corpus MJ : `MJ-INDEX`, `MJ-SECRETS`, `MJ-ERRATA` (historique des fautes), **`RULE-MJ` (le condensé opérationnel — c'est lui qu'on relit avant chaque bloc)**, `MJ-ARBRE`, `MJ-CHRONO`, `MJ-MONDE`, `MJ-CASTING` ; sauvegardes numérotées `codex-NNN.md` + `INDEX.md` ; `SESSION-21-40.md` (archive scène par scène du 2026-08-11) ; `NOMS-SCELLES.txt` (généré, **ne se lit pas**).
+- `codex/` — corpus MJ : `MJ-INDEX`, `MJ-SECRETS`, `MJ-ERRATA` (historique des fautes), **`RULE-MJ` (le condensé opérationnel — c'est lui qu'on relit avant chaque bloc)**, `MJ-ARBRE`, `MJ-CHRONO`, `MJ-MONDE`, `MJ-CASTING` ; sauvegardes numérotées `codex-NNN.md` + `INDEX.md` ; `SESSION-21-40.md` (archive scène par scène du 2026-08-11) ; **`MJ-SECRETS-VUE.md`** (la vue expurgée, **c'est elle qu'on lit**) ; `NOMS-SCELLES.txt` (généré, **ne se lit pas**).
 - `codexjiwen.md` — ancienne campagne « Le Parieur », close.
 
 Le jeu incrémental JS (`game.js`, `index.html`, `styles.css`) vit sur la branche **`chronique-incrementale`** — sans rapport avec les sessions de jeu de rôle, ne pas y toucher.
 
 ## Reprendre la partie
 
-Quand le joueur demande à jouer ou reprendre : **vérifier d'abord l'état du dépôt** (`git status -sb`) et se resynchroniser si le local est en retard sur `origin/main` — c'est arrivé le 2026-08-12 avec **17 commits de retard**, soit cinq sauvegardes entières. Puis lire `codex/MJ-INDEX.md` **en premier** — il pilote la lecture du corpus MJ **en silence** (SECRETS, ERRATA, ARBRE, CHRONO en entier ; MONDE, CASTING par chapitres) — puis `codexcreuset.md` **en entier**, l'INDEX des sauvegardes et le git log récent — **la cohérence prime sur l'économie**. Reprendre au « Point de reprise » (§7), en respectant strictement le méta (§1). Tout se joue **en français**, répliques courtes, rythme soutenu.
+Quand le joueur demande à jouer ou reprendre : **vérifier d'abord l'état du dépôt** (`git status -sb`) et se resynchroniser si le local est en retard sur `origin/main` — c'est arrivé le 2026-08-12 avec **17 commits de retard**, soit cinq sauvegardes entières. Puis lire `codex/MJ-INDEX.md` **en premier** — il pilote la lecture du corpus MJ **en silence** (**`MJ-SECRETS-VUE`** — la vue expurgée, jamais la source —, ERRATA, ARBRE, CHRONO en entier ; MONDE, CASTING par chapitres) — puis `codexcreuset.md` **en entier**, l'INDEX des sauvegardes et le git log récent — **la cohérence prime sur l'économie**. Reprendre au « Point de reprise » (§7), en respectant strictement le méta (§1). Tout se joue **en français**, répliques courtes, rythme soutenu.
 
 ## Rappels méta critiques (détail complet dans le codex §1)
 
@@ -27,6 +27,16 @@ Quand le joueur demande à jouer ou reprendre : **vérifier d'abord l'état du d
 - **Le MJ peut et doit contredire le joueur** quand l'expérience maximale l'exige : le joueur commande la direction, le MJ défend le jeu.
 - Réglage joueur (codex §1.7) : **Opus 5, effort max** — sans bascule. Le **mode rapide dépend des crédits d'utilisation** du compte (corrigé le 2026-08-12) : c'est une question de facturation, décision du joueur seul. Le MJ ne change rien et ne le rappelle pas. Fable uniquement pour des audits rares et courts, sur demande explicite.
 
+## Coffre expurgé — la seule protection qui marche partout (validé le 2026-08-14)
+
+**Le MJ lit `codex/MJ-SECRETS-VUE.md`, jamais `codex/MJ-SECRETS.md`.** La vue porte la matière intégrale du coffre, avec les noms propres non encore livrés remplacés par `⟦SCELLE-N⟧`. Le MJ garde donc de quoi préfigurer, et **n'a pas les étiquettes** : un nom scellé ne peut plus fuiter puisqu'il n'est pas là. Ce n'est pas une règle qu'on respecte, c'est un fait.
+
+Ça ne dépend d'aucun outil — juste d'un fichier commité. **C'est donc le seul dispositif actif en session connecteur seul**, où il n'y a ni hook ni sous-agent.
+
+**Livrer un nom en scène** : `python .claude/hooks/livrer-nom.py N` — acte délibéré, le jour où on l'écrit. Sans shell : lire **la ligne N** de `NOMS-SCELLES.txt`, pas le fichier. Puis inscrire au registre `MJ-CASTING` §0.0 et à l'errata.
+
+**Écrire dans le coffre** : toujours dans `MJ-SECRETS.md`, puis `python .claude/hooks/generer-vue.py` — à relancer aussi à chaque `codex`.
+
 ## Outillage MJ — hook et sous-agents (validé par le joueur le 2026-08-14)
 
 Trois pièces dans `.claude/`, versionnées. **Elles ne remplacent aucune règle** : le MJ passe toujours sa propre passe de contrôle (`RULE-MJ` §D), écrit toujours ses propres options.
@@ -35,7 +45,7 @@ Trois pièces dans `.claude/`, versionnées. **Elles ne remplacent aucune règle
 - **`releve-etat`** (Sonnet 5) — **avant chaque bloc**, en arrière-plan. Rend une ligne : portes applicables, dettes vives, promesses, horloges. Vise la faute « porte due non servie ». **Ne propose jamais d'option.**
 - **`psy`** (Opus 5) — **toutes les ~8 scènes et à chaque `codex`**, en arrière-plan, à la cadence et **jamais sur l'initiative du MJ** (sinon le MJ qui dérive est aussi celui qui ne l'appelle pas). Rend une question ou `SILENCE`. Une question se relaie **mot pour mot**, dans un message méta séparé de la fiction (§1.8) — la reformuler, c'est éditer son propre audit.
 
-**Après chaque nom livré en scène, et à chaque `codex`** : relancer `python .claude/hooks/extraire-noms.py`. Le MJ **n'ouvre jamais** `codex/NOMS-SCELLES.txt` — le script ne rend que des comptes, et cette liste ne se lit pas plus que le coffre.
+Le hook ne surveille qu'une **partie** des noms scellés — ceux restés muets sur les 218 000 mots de sortie MJ passée. Les autres sont expurgés de la vue mais pas alertés : ils apparaissent en jeu, ils feraient sonner à tort. Un hook qui sonne à tort est un hook qu'on éteint.
 
 > **Ne fonctionne que sous Claude Code** (local ou cloud). **En session connecteur seul** — l'app avec l'accès GitHub, sans harnais — il n'y a ni hook, ni sous-agent, ni système de fichiers : rien de tout ça n'existe. Le MJ **le dit en une ligne au démarrage** et joue sans, plutôt que de faire comme si.
 

@@ -4,7 +4,11 @@
 
 ## Protocole de lecture (début de fil)
 
-1. Lire **en entier** : ce fichier → **`RULE-MJ.md`** → `MJ-SECRETS.md` → `MJ-ERRATA.md` → `MJ-ARBRE.md` → `MJ-CHRONO.md`.
+1. Lire **en entier** : ce fichier → **`RULE-MJ.md`** → **`MJ-SECRETS-VUE.md`** → `MJ-ERRATA.md` → `MJ-ARBRE.md` → `MJ-CHRONO.md`.
+
+> ⚠️ **La VUE, jamais `MJ-SECRETS.md`.** Le coffre source contient les noms propres non encore livrés ; la vue porte la même matière avec ces noms remplacés par `⟦SCELLE-N⟧`. Le MJ garde donc tout ce qu'il lui faut pour préfigurer, et **n'a pas les étiquettes qu'il pourrait faire fuiter**. Ouvrir la source annule le dispositif — ne le faire pour aucune raison.
+>
+> **Le jour où la fiction livre un nom** : `python .claude/hooks/livrer-nom.py N`. En session connecteur seul (pas de shell), lire la ligne `N` de `NOMS-SCELLES.txt` — **cette ligne-là, pas le fichier**. Puis inscrire au registre `MJ-CASTING` §0.0 et à l'errata.
 2. Charger **par chapitre**, selon le besoin de la session (table ci-dessous) : `MJ-MONDE.md`, `MJ-CASTING.md`.
 3. **Avant de nommer ou canoniser quoi que ce soit en scène** : vérifier le registre des noms (`MJ-CASTING.md` §0) — source n°1 d'incohérence entre sessions.
 4. Puis lecture publique : `codexcreuset.md` en entier, INDEX des sauvegardes, git log récent.
@@ -17,7 +21,9 @@
 | Fichier | Contenu | Lecture |
 |---|---|---|
 | `RULE-MJ.md` | **carte de conduite condensée** (errata §1-35) : les 4 fautes majeures, jets, ordre de rendu, passe de contrôle, interdits, conduite en cas de doute | **entière au démarrage + avant chaque bloc** |
-| `MJ-SECRETS.md` | vérités du monde, la bête, l'origine, destination, visages préparés, calibration joueur | entière, chaque session |
+| **`MJ-SECRETS-VUE.md`** | **le coffre tel qu'il se lit en séance** : matière intégrale, noms scellés remplacés par `⟦SCELLE-N⟧` | **entière, chaque session** |
+| `MJ-SECRETS.md` | la source du coffre, avec les noms en clair. **Généré vers la VUE — ne se lit jamais en séance.** N'écrire que là, puis relancer `generer-vue.py` | jamais |
+| `NOMS-SCELLES.txt` | correspondance `⟦SCELLE-N⟧` → nom. ⛔ **ne se lit pas** — une ligne, le jour d'une livraison | jamais |
 | `MJ-ERRATA.md` | corrections de conduite, noms brûlés — **historique**, pas outil de séance | entière, chaque session |
 | `MJ-ARBRE.md` | ancre du lieu courant + branches candidates + routage des critiques | entière, chaque session |
 | `MJ-CHRONO.md` | calendrier de campagne, mèches actives, mouvements hors champ | entière, chaque session |
