@@ -165,6 +165,46 @@
 
 ## 10 · PALIER III — ESQUISSES *(ne remplir que quand l'horizon s'en approche)*
 
-- **L'horizon s'en approche** : Seb est à **998**. **Il n'y a pas de plafond sur lui** (errata §29) — ce sont les instruments de Terre qui saturent à mille. Le **débordement** est **une** sortie possible, jamais automatique : **c'est lui qui choisit quand il monte**, et il peut légitimement viser d'arriver au Murim déjà au sommet du Murim (10⁴). Ne rien annoncer ; préparer un palier qui tienne debout devant quelqu'un d'énorme.
-- **Réservoirs restants sur Terre** (errata §30, à ne pas gâcher) : **la carrière du levant** — deux cents ans de pierres de mesure taillées là, puis l'abandon du jour au lendemain, et un fond d'ossements ; **le volume illisible sous la maison mère**, gros comme une église, où l'instinct du chiffre glisse ; **ce que font réellement les hommes en gris**. Accessibles, dangereux, jamais posés sur son chemin ni refusés.
-- Coffre §6 : *« Aubran » ne survit nulle part sur Terre. Au Murim, les dieux sont encore de l'histoire.*
+- **Ne rien annoncer** ; préparer un palier qui tienne debout devant quelqu'un d'énorme. **Aucun plafond sur le porteur** (errata §29) : ce sont les instruments qui saturent, jamais l'homme. Le **débordement** est une porte, pas une trappe — **c'est lui qui choisit quand il monte**, et il peut légitimement viser d'arriver au palier III déjà au sommet du II.
+- **Réservoirs laissés sur Terre** (errata §30, à ne pas gâcher) : **la carrière du levant** · **le volume illisible sous la maison mère** · **ce que font réellement les hommes en gris**. Accessibles, dangereux, jamais posés sur son chemin ni refusés. *(Le palier I est clos — n'y ramener la campagne que sur demande du joueur.)*
+
+## 11 · LE VIEUX MONDE — LES BÊTES D'AVANT LA MESURE *(2026-08-14, réserve ouverte sur recadrage joueur — errata §43, §45)*
+
+> **C'est le cœur du palier, et il est resté fermé pendant quarante-six scènes.** Le joueur a commandé le registre en toutes lettres (§33, §43) : *bêtes mythiques, transformations visibles*. Ce chapitre est là pour qu'aucune session n'ait plus à improviser une proie.
+
+### 11.1 · Ce que c'est
+
+- **Elles n'ont pas de porteur.** Ce ne sont pas des familiers : elles étaient là **avant qu'on compte**. La mesure a affamé les dieux (§2.1) ; elle n'a pas tué les bêtes — **elle les a rendues illisibles.**
+- **Aucun autel ne les lit. La jauge à vue ne rend rien sur elles.** Le monde ne les mesure pas : il les **chante**. Chaque région a les siennes, et chaque version est fausse d'un tiers.
+- **SEB LES LIT EXACTEMENT. Personne d'autre au monde.** *C'est le levier du palier : son instinct devient l'outil de chasse que personne ne possède. Le servir — un chiffre exact posé sur une légende que tout le monde raconte de travers vaut dix scènes d'exposition.*
+- Elles dorment, longtemps. On les chasse **en confrérie, une fois par génération**, et les confréries reviennent à trois sur douze. Les Listes ne les classent pas : on ne classe pas ce qui n'a pas de rang.
+- **Ce qu'on en tire** : de la puissance pour qui sait dévorer — et, pour lui seul, **le registre de sa bête** (§34.2, règle §45-D).
+
+### 11.2 · Le bestiaire *(chiffres MJ — jamais annoncés, lus par l'instinct en scène)*
+
+| Ce qu'en disent les chansons | Registre | Où | Ce qui la protège | Chiffre |
+|---|---|---|---|---|
+| **CE QUI DORT SOUS LE COL** | écailles, cornes, longueur | temple écroulé, col de l'ouest, 6 jours | le froid, l'altitude, quatre générations sans retour | **26 000** |
+| **CE QUI REMONTE EN BRÛLANT** | plumes, feu, envergure | trois vallées au sud — tuée trois fois en quatre-vingt-dix ans | **elle ne meurt pas** : il faut trouver par quoi elle recommence | **18 400** |
+| **CELLE QUI PORTE PLUSIEURS QUEUES** | fourrure, queues, ruse | **parmi les gens**, sous un visage — une des Listes est à elle | on ne frappe pas ce qu'on n'a pas identifié | **31 500** |
+| **LA MÈRE SOUS LE LAC** | carapace, lenteur, patience | un lac qui n'a pas d'écoulement, deux vallées à l'est | elle ne se bat pas : elle **attend**, et le lac est à elle | **44 000** |
+| **CELUI QUI MARCHE SANS TRACE** | fourrure rayée, silence, détente | les neiges hautes, au-dessus du col | il chasse **le chasseur**, et il choisit son jour | **12 900** |
+| **LE CORBEAU QUI COMPTE** | plumes noires, œil, présage | partout et nulle part — il suit les armées et les concours | **il compte, lui aussi** : il sait ce que vaut qui il regarde | **9 800** |
+| **LES NEUF DE LA RIVIÈRE** | serpent, têtes, venin | un delta de roseaux, quatre jours au nord | neuf têtes, un seul corps : on n'en tue jamais assez | **21 000** |
+| **LE SINGE DE FER** | poil roux, mains, bâton | un mont à escaliers, enchaîné par une secte morte | **il a un art**, et il l'a volé à des hommes | **16 200** |
+| **CELUI QUI PORTE UNE FORÊT** | bois immenses, sabots, brume | les hauts bois, sept jours au nord-ouest | il ne combat pas, il **s'en va** — et la forêt s'en va avec lui | **14 500** |
+| **LE LOUP QUI SUIT** | fourrure grise, meute, endurance | les routes du nord, l'hiver | il ne se montre qu'au dixième jour, et il n'est jamais seul | **11 700** |
+| **LA GRUE DE L'AUBE** | plumes blanches, cou, envergure | les marais de sel, une fois tous les onze ans | elle est **belle**, et personne n'a jamais voulu la tuer | **8 900** |
+| **CE QUI CHANTE SOUS LA GLACE** | écailles pâles, nageoires, chant | le lac gelé du nord — **hors d'atteinte pour l'instant** | on n'a jamais vu que son dos | **~90 000** |
+
+### 11.3 · Conduite
+
+- **Trois paliers d'accès.** Maintenant : 8 900 – 21 000. Après un cran ou deux : 26 000 – 44 000. **Sortie de palier** : ce qui chante sous la glace.
+- **Ne jamais les poser sur son chemin, ne jamais les lui refuser** (§30). Elles existent, elles se racontent, on lui en parle dans les auberges et les cours d'arts. **Il y va quand il veut.**
+- **Une occasion tous les ~12-15 scènes minimum** tant que le palier dure (§45-C). Une occasion, pas un cran : c'est lui qui prend.
+- **Chacune rend coup pour coup** (§30) : ce que le joueur a aimé le plus dans toute la campagne, c'est une proie unique, terrée, qui lui a coûté quatre côtes. **Aucune ne doit tomber sans prix.**
+- **Ce qui n'a pas de registre animal ne fixe pas la face** (§45-D) : la pierre, les machines anciennes, les choses recousues, les outils d'homme. Ça rend de la puissance, jamais la forme.
+- **Le registre dominant se fixe au cran 3, une seule fois.** Les prises suivantes **ajoutent des traits** (§34.2 : *elle n'est jamais tout à fait finie*), elles ne réécrivent pas la face.
+- **Réserve ouverte** : ce bestiaire n'est pas fermé. Une région neuve amène les siennes ; les chansons en nomment toujours une de plus que ce qu'on a vu.
+
+> Coffre §6 : sur Terre, le nom de la bête ne survivait nulle part. **Ici, les dieux sont encore de l'histoire** — c'est dans ce chapitre-là que vit sa relivraison (errata §39).
