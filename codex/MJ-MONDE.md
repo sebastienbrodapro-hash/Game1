@@ -213,7 +213,7 @@
 - **Ne jamais les poser sur son chemin, ne jamais les lui refuser** (§30). Elles existent, elles se racontent, on lui en parle dans les auberges et les cours d'arts. **Il y va quand il veut.**
 - **Une occasion tous les ~12-15 scènes minimum** tant que le palier dure (§45-C). Une occasion, pas un cran : c'est lui qui prend.
 - **Chacune rend coup pour coup** (§30) : ce que le joueur a aimé le plus dans toute la campagne, c'est une proie unique, terrée, qui lui a coûté quatre côtes. **Aucune ne doit tomber sans prix.**
-- **Ce qui n'a pas de registre animal ne fixe pas la face** (§45-D) : la pierre, les machines anciennes, les choses recousues, les outils d'homme. Ça rend de la puissance, jamais la forme.
+- **Sa forme est faite de ce qu'elle mange, sans filet** (§46-D). Le registre vient de sa première grosse prise, **quelle qu'elle soit** — mythique ou immonde. **Le MJ ne protège jamais le joueur de ce qu'il donne à manger** : son travail est ce chapitre-ci, pas un garde-fou.
 - **Le registre dominant se fixe au cran 3, une seule fois.** Les prises suivantes **ajoutent des traits** (§34.2 : *elle n'est jamais tout à fait finie*), elles ne réécrivent pas la face.
 - **Réserve ouverte** : ce bestiaire n'est pas fermé. Une région neuve amène les siennes ; les chansons en nomment toujours une de plus que ce qu'on a vu.
 

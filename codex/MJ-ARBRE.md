@@ -23,7 +23,7 @@
 → Coffre : destination finale §7 · jalons fixes §3 (**Victor, paliers IV-VI, intact**) · ordre des révélations §9 · rembobinage §12 · calibration §13.
 
 **Ordre des révélations** : salle noyée ✅ · Rayeurs ✅ · Maud/l'édit ✅ · « Victor » ✅ · « creuset » ✅ · **le nom de la bête : fixé, connu du joueur — NON LIVRÉ en fiction v2** · destination → **scellée**.
-**Prochain jalon de la bête : CRAN 3 — LA FACE, et son registre animal.** Déclencheur *(errata §46)* : **une prise unique qui se bat, au-dessus de 5 000** — seuil fixe, jamais son record — **et qui possède un registre animal** (bestiaire : MONDE §11). Pierre, machines et aberrations : du chiffre, jamais la face.
+**Prochain jalon de la bête : CRAN 3 — LA FACE, et son registre animal.** Déclencheur *(errata §46)* : **une prise unique qui se bat, au-dessus de 5 000** — seuil fixe, jamais son record. **Ce qu'elle mange décide de ce qu'elle devient, sans filet** : le MJ sert un monde plein de proies dignes (MONDE §11) et ne protège jamais le joueur de son choix.
 
 ## 2 · PALIER I — LA TERRE (sc. 1-181) — CLOS
 
