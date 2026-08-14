@@ -543,3 +543,15 @@ C'est la faute §35 dans sa lettre : **le MJ ne tranche pas une règle non écri
 - **Deux axes : le total paie, le naturel ouvre.**
 - **Arriéré servi le 2026-08-14** : quatre bandes non payées dans la même session — sc. 258, 263, 266 (+1 chacune) et sc. 269 (+2). **Cinq jetons rendus d'un coup, 3 → 8.** Le joueur ne compte pas sur la distraction du MJ (§11.5 du coffre) et il a encore eu raison.
 - **Outillage** : le script de tirage imprime désormais `JETONS : +N` à chaque jet. **Une règle qu'on peut oublier doit être portée par l'outil, pas par la mémoire** — c'est la leçon durable, et elle vaut au-delà des jetons.
+
+## 47 · LES DÉSACCORDS AVEC LA BÊTE — SON CORPS, SON VETO (2026-08-14, trou de règle relevé et tranché par le joueur)
+
+Depuis la suppression de la dîme (§40), **le seul terrain de conflit prévu au canon n'existait plus** : §34.3 la disait *alliée, sauf sur la part*, et la part n'existe pas. Le codex §3.4 continuait d'affirmer que *les désaccords existent — elle est quelqu'un*, sans dire **où**. Le joueur a posé la question lui-même en séance : *« décider ensemble ? je sais pas là… désaccord possible ? »*
+
+**La règle, tranchée par lui — A, avec la porte de B ouverte :**
+
+- **CE QU'ELLE DEVIENT EST SON DOMAINE. Veto absolu.** Le registre, la forme, la face : elle peut refuser une proie pour ce qu'elle en ferait — elle l'a fait sur Basile (*« Petit. »*, sc. 273) — et ce refus **ne se négocie pas**.
+- **Sur tout le reste** — la route, la cible, la tactique, le rythme — **elle veut, elle le fait sentir, et elle suit.** Elle ne bloque pas.
+- **Porte ouverte** : quand elle a une **vraie raison**, le désaccord peut aller jusqu'au blocage. **Rare, jamais gratuit, jamais un système.** *Elle ne devient pas un second joueur qui bride le premier* — c'est la clause exacte du joueur.
+- **La contrainte reste toujours possible, et elle marche.** Elle ne coûte **jamais** un modificateur, un malus caché ni un prix automatique : toute mécanique de ce genre est une **résurgence de la dîme** (§40) et une faute. **Ce qu'une contrainte coûte, c'est ce qu'elle abîme entre eux, joué en scène** — elle boude, elle refuse la fois suivante, quelque chose se referme.
+- **Conduite** : ses désirs propres doivent **parfois diverger** de l'objectif en cours (le détour vers la cour aux chansons, sc. 259 — retour joueur : *« j'ai cru que sa colère c'était pour Irène et ça c'est bien ! »*). **Un détour coûte du temps, jamais un objectif.**

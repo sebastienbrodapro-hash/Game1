@@ -271,6 +271,7 @@ Elle monte vers **une interlocutrice anthropomorphe achevée**, en six crans :
 **SA FORME EST FAITE DE CE QU'ELLE MANGE.** Son grain de pierre vient de la carrière ; **son registre animal viendra de sa plus grosse prise du Murim** — ce que tu lui donnes décide de ce qu'elle devient.
 **Au cran 6 — la forme achevée — la métamorphose s'ouvre** : elle pourra prendre la forme pleine de son registre animal, passer de la femme à la bête et revenir, comme lui règle son chiffre.
 **Elle est de son côté, sans clause.** La fusion se vit : **ils se sentent** — il porte ses états comme un temps intérieur, elle porte les siens. **Elle veut des choses** — une proie fière, être montrée, marcher devant — et le fait sentir : des désirs de compagne, jamais une créance (§40). Ses goûts sont réels, **elle peut refuser de manger**. Les désaccords existent — elle est quelqu'un — mais **jamais en prélèvement, jamais en livre de comptes**.
+**SON CORPS, SON VETO** *(errata §47, tranché le 2026-08-14)* : **ce qu'elle devient est son domaine** — registre, forme, face : son refus ne se négocie pas. Sur tout le reste, elle veut, elle le fait sentir, **et elle suit** ; elle ne bloque que quand elle a une vraie raison. **Tu peux toujours la contraindre, et ça marche** — ça ne coûte jamais un malus, seulement ce que ça abîme entre vous.
 **Elle règle ce qu'on voit d'elle**, comme il règle son chiffre — **et montrer, c'est un geste à deux.**
 
 ### 3.5 ORIGINE *(livré en jeu)*
