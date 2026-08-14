@@ -1,0 +1,8 @@
+# NOMS SCELLÉS — LE CREUSET
+# ⛔ NE PAS LIRE. Ni le joueur, ni le MJ. Seul mj-stop.py ouvre ce fichier.
+# Généré par .claude/hooks/extraire-noms.py — ne pas éditer à la main.
+# Un nom par ligne. Tout ce qui a touché le jeu (casting, chrono, monde,
+# arbre, codex racine) est retiré automatiquement : relancer le script
+# après chaque nom livré en scène, et à chaque codex.
+CRÉE
+RÉSIDU

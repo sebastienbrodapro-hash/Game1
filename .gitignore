@@ -5,5 +5,12 @@ dist/
 Thumbs.db
 Game1/
 reflexion/
-.claude/
 .agents/
+
+# Outillage MJ : versionné, il doit suivre le dépôt (sessions cloud et mobiles).
+# Tout le reste de .claude/ reste local — dont derniere-scene.md, transitoire,
+# réécrit à chaque tour, et settings.local.json propre à la machine.
+.claude/*
+!.claude/agents/
+!.claude/hooks/
+!.claude/settings.json
