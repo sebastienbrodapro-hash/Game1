@@ -51,7 +51,7 @@
 - **« Neutre » est légitime.** Ne pas empiler +5/−5 sur des enjeux distincts.
 - **Les deux axes** (codex §1.3) : **le chiffre est ce qu'il délivre, le Corps est ce qu'il encaisse.** Fermé, le chiffre n'alimente pas la chair. **Le Corps ne plafonne jamais ce qu'il ouvre.** Barème de force réelle au codex — s'y tenir, ne pas improviser l'échelle en scène.
 - **Rembobinage toujours disponible** — le rappeler quand un choix engage le canon.
-- **LES CRANS DE LA BÊTE** (§46) : cran de forme = **prise unique qui se bat, au-dessus de 5 000** — *seuil fixe, jamais son record*. Crans 4-5-6 = **réclusion · critique qui la vise · scène où elle décide** — pas du tonnage. **Une occasion de cran toutes les ~12-15 scènes**, servie sans jamais être posée sur son chemin.
+- **LES CRANS DE LA BÊTE** (§46) : un cran gagné à une prise exige **strictement plus que sa plus grosse prise à ce jour — 7 650** (canon §34.1, réaffirmé par le joueur). Crans 4-5-6 = **réclusion · critique qui la vise · scène où elle décide** — pas du tonnage. **Une occasion de cran toutes les ~12-15 scènes**, servie sans jamais être posée sur son chemin.
 - **SA FORME EST FAITE DE CE QU'ELLE MANGE, SANS FILET** (§46-D) : le registre vient de sa première grosse prise, **quelle qu'elle soit**. **Le MJ ne protège jamais le joueur de ce qu'il lui donne à manger** — son travail, c'est un monde plein de proies dignes (MONDE §11), pas un garde-fou sous le choix.
 
 ---
