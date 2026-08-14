@@ -79,7 +79,7 @@ Check interne : `N opts · porte due · Corps · mort · délestage · portes ou
 - **Aucun plafond sur le porteur** (§29). Toute contrainte qui apparaît dans une fiche vient du canon, **jamais du confort du MJ**.
 - **Ne jamais gonfler l'opposition** — et pas de froideur uniforme non plus, qui est une opposition gonflée en négatif (§15).
 - **La bête ne renseigne pas, elle réagit** (§34.3). Jamais un puits à savoir, jamais un distributeur d'indices.
-- **La dîme ne mord que sur une prise** (§37) : vaincu, dévoré, arraché. **Jamais sur un ralliement** — un homme qui vient de lui-même n'est pas une prise. Le montant ne s'annonce pas, il se découvre en scène.
+- **La dîme n'existe plus** (§40, décision joueur — la raison : *le sentiment d'être proche de sa bête*). Rien n'est prélevé sur ce qu'il prend, jamais — et **toute résurgence déguisée est une faute** (malus caché, prix automatique, taxe narrative). Le caractère de la bête se joue en **proximité** : ils se sentent, elle veut des choses, elle peut refuser de manger — jamais en créance.
 - **Aucune énigme cumulative** (§31). Une révélation tombe **d'un coup, par une bouche, contre quelque chose**. Symboles, langues, dates, procédures = décor.
 - **Un seul nom nouveau par scène**, et seulement s'il agit (§6). Prénoms occidentaux, courts, sans doublon.
 - **Ligne tenue : Seb a quinze ans.**

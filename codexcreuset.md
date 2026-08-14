@@ -12,7 +12,7 @@
 
 - **La fiche est redéposée à la fin de Terre** (codex-017) : 10 206, 9 couches, aucun art, pieds nus, 68 fers morts. **Jetons 3/15** — le plafond 15 est une règle de table, il survit.
 - **Le canon v2 du monde est gravé au §2.3** : chacun naît avec son familier (bête ou outil), fusion par l'âme, un seul total pour deux, **le pont de l'âme** — casser un familier tue le porteur —, **rien ne se consigne**, des autels à mesurer volontaires, la jauge à vue, les Listes-rumeur, **les chances** (épreuves à gain propre).
-- **Les portes sont refondues depuis la liste finale de Terre** : I HORS MESURE ouverte · II LA DÎME fermée. **Budget du palier rendu : ~3 ouvertures / ~2 fermetures.**
+- **Les portes sont refondues depuis la liste finale de Terre — puis LA DÎME EST SUPPRIMÉE** (décision joueur, errata §40) : **une seule porte, I HORS MESURE, ouverte. Rien n'est prélevé sur ce qu'il prend, jamais.** Budget du palier rendu : ~3 ouvertures / ~2 fermetures.
 - **Le nom de la bête** : fixé au canon (errata §1.1), le joueur le connaît — **non livré en fiction dans cette ligne**. En scène, elle est « la bête », jusqu'au jour où une bouche le rendra.
 - **Page neuve** : arrivée par un autre point d'entrée. Les visages de la v1 sont en réserve MJ et ne reviennent pas par défaut.
 
@@ -23,7 +23,7 @@
 - Tu joues **Seb**, 15 ans, né au **Fond** : un bidonville dans un lit de rivière détourné, sur le palier de la Terre. Pas de nom de famille.
 - Une pierre l'a pesé à quinze ans et a révélé son **familier** : une bête qui tient sa puissance **hors de son corps**. C'est **le Masque** — il décide de ce que le monde lit de lui (§3.3).
 - Sa bête est un **dévoreur** : ce qu'il bat de ses mains, il peut le manger. C'est **le Creuset** (§3.2). **Elle ne mange pas la chair : elle mange l'instant où quelqu'un est vaincu.**
-- **Depuis le J112, elle prélève un dixième de tout**, à l'instant, sans recours.
+- **Elle a ses goûts et sa voix** : la vraie reddition l'allume, l'obéissance commandée la laisse éteinte — et **elle peut refuser de manger**. Rien n'est prélevé sur ce qu'il prend *(dîme supprimée — errata §40)*.
 - Il y a trois siècles, un garçon nommé **Victor** a fondé un ordre avec une bête pareille, avant que sa propre maison ne la lui fasse effacer. L'espèce s'appelait **creuset**.
 - **En 267 jours, il est passé de 1 à 10 206**, a vidé la Doyenne du Verger Blanc, abattu ce dans quoi on taillait les pierres du monde, et **quitté son palier**.
 - **Il arrive au Murim** — un monde où chacun marche avec son familier, où rien ne se consigne, et où personne ne peut le lire. **Première scène : à jouer.**
@@ -197,8 +197,9 @@ Sur Terre, il n'en restait que des gestes : deux doigts portés à la bouche, et
 
 - **Vaincre de ses mains = pouvoir dévorer.** La puissance actuelle du vaincu.
 - **CE QU'ELLE MANGE : pas la chair, l'instant où quelqu'un est vaincu.** **Ce qui se bat rend plein ; ce qui se laisse prendre ne rend presque rien.** Un mort ne rend qu'un quart.
-- **LA DÎME** : un dixième de tout ce qui est **pris**, prélevé à l'instant, sans jet, sans recours. Voir §5, porte II.
-- **CE QUI COMPTE COMME « PRIS »** *(errata §37)* : vaincu, dévoré, arraché. **Un homme qui vient de lui-même n'est pas une prise — la dîme ne mord pas sur un ralliement.**
+- **PAS DE DÎME, PAS DE CRÉANCE** *(supprimées par le joueur — errata §40)* : rien n'est prélevé sur ce qu'il prend, il n'y a pas de livres. **Ce qu'elle mange, c'est eux deux qui l'ont pris.**
+- **ILS SE SENTENT.** La fusion se vit : il sent ses états — faim, joie, alarme, bouderie — comme un temps qu'il fait en lui ; elle sent les siens. Personne d'autre n'entend ce canal. *(Elle réagit, elle ne renseigne pas — §34.3 tient.)*
+- **ELLE PEUT REFUSER DE MANGER.** Ses goûts sont réels : la vraie reddition l'allume, l'obéissance commandée la laisse éteinte.
 - **Victime dévorée vivante** : elle survit, chiffre effondré à **1**, à vie — **son familier réduit à une veilleuse.** Dévorer n'est pas casser : le pont tient, la personne vit.
 - **Aucun plafond.**
 
@@ -249,8 +250,8 @@ Elle monte vers **une interlocutrice anthropomorphe achevée**, en six crans :
 **Un cran se gagne à une grosse prise ou à une réclusion.** Jamais deux dans la même scène, jamais annoncé à l'avance.
 **SA FORME EST FAITE DE CE QU'ELLE MANGE.** Son grain de pierre vient de la carrière ; **son registre animal viendra de sa plus grosse prise du Murim** — ce que tu lui donnes décide de ce qu'elle devient.
 **Au cran 6 — la forme achevée — la métamorphose s'ouvre** : elle pourra prendre la forme pleine de son registre animal, passer de la femme à la bête et revenir, comme lui règle son chiffre.
-**Elle est de son côté** — **sauf sur la part** : la dîme est à elle, et là-dessus seulement elle réclame et peut refuser. Forcée quatre fois sur Terre ; le prix de la contrainte monte sans jamais être annoncé.
-**Elle règle ce qu'on voit d'elle**, comme il règle son chiffre.
+**Elle est de son côté, sans clause.** La fusion se vit : **ils se sentent** — il porte ses états comme un temps intérieur, elle porte les siens. **Elle veut des choses** — une proie fière, être montrée, marcher devant — et le fait sentir : des désirs de compagne, jamais une créance (§40). Ses goûts sont réels, **elle peut refuser de manger**. Les désaccords existent — elle est quelqu'un — mais **jamais en prélèvement, jamais en livre de comptes**.
+**Elle règle ce qu'on voit d'elle**, comme il règle son chiffre — **et montrer, c'est un geste à deux.**
 
 ### 3.5 ORIGINE *(livré en jeu)*
 
@@ -288,17 +289,18 @@ Une **plaque de fer** noire, taille d'une main, sans une lettre, un **creux** po
 | **Équipement** | **aucun** — pieds nus |
 | **Inventaire** | la **plaque de fer creusée** *(chaude, clavetée sur son pouce)* · un couteau de dépeçage · un crochet de ferrailleur |
 | **Bête** | **sa taille exacte · quinze motifs · quatre mots · rassasiée · cran 1/6 — DEBOUT · visible** |
-| **Portes** | **I ouverte · II fermée** — *budget du palier entier* |
+| **Portes** | **I ouverte, seule** — *budget du palier entier* |
 | **Statut** | **le débordement l'emporte. Première scène du Murim v2 : à jouer** |
 
 ---
 
-## 5 · TABLE DES PORTES *(refondues depuis la liste finale de Terre — errata §32, §39)*
+## 5 · TABLE DES PORTES *(refondues depuis la liste finale de Terre — errata §32, §39, §40)*
 
 | | Porte | État |
 |---|---|---|
 | **I** | **HORS MESURE** — il décide de ce que le monde lit de lui. **Les autels lisent ce qu'il choisit ; la jauge à vue ne rend rien sur lui** — une silhouette qui ne dit rien, un total introuvable. **Rien ne peut le mesurer, le classer, le retenir ni le saisir** — lui ou sa bête. *C'est le Masque, et c'est lui.* | **OUVERTE** |
-| **II** | **LA DÎME** — **un dixième de tout ce qu'il prend** (vaincu, dévoré, arraché — **jamais un ralliement**, §37)**, prélevé à l'instant, sans jet, sans recours.** Refuser déplace la note sur le compte ouvert le plus proche. *Un créancier sur l'épaule dont il ne verra jamais les livres.* | **FERMÉE** |
+
+> **LA DÎME N'EXISTE PLUS** (errata §40, décision joueur) : rien n'est prélevé sur ce qu'il prend, jamais, sous aucune forme — et toute résurgence déguisée serait une faute.
 
 > **Budget du palier — rendu par le rembobinage : ~3 ouvertures / ~2 fermetures** (errata §23). Un critique ouvre, ferme, ou monte d'un cran ce qui existe.
 

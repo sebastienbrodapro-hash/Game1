@@ -33,7 +33,7 @@ Le détail scène par scène est dans les copies figées `codex-006` à `codex-0
 - **10 206** · 9 couches · aucun art · aucun équipement, pieds nus · 68 fers d'un palier où personne n'en veut · plaque de fer creusée (chaude), couteau de dépeçage, crochet de ferrailleur.
 - **La bête : sa taille exacte, quinze motifs, quatre mots, rassasiée — cran 1/6 (debout).** Prochain cran : grosse prise ou réclusion. **En scène : « la bête », jamais le nom.**
 - **Jetons 3/15** *(plafond 15, règle du 2026-08-14)*.
-- **Portes : I HORS MESURE ouverte · II LA DÎME fermée** — budget du palier rendu (~3/~2).
+- **Porte : I HORS MESURE ouverte, seule** *(dîme supprimée, errata §40)* — budget du palier rendu (~3/~2).
 - Blessures définitives de Terre : avant-bras gauche mort, main gauche diminuée, dos labouré, deux côtes, creux au pouce droit.
 
 ## 3 · MÈCHES ACTIVES

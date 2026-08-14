@@ -441,3 +441,17 @@ En ajoutant la section §12 au coffre pendant la session du rembobinage, **le ha
 **Décision joueur appliquée : pas de brûlage** (précédent du §38 — une étiquette sans sa scène ne livre rien). Le dispositif sur disque est intact ; la session suivante repart propre.
 
 **La règle** : `MJ-SECRETS.md` ne se modifie **jamais en cours de session**. Les ajouts au coffre s'écrivent **au `codex` de clôture, en dernier geste avant le commit** — l'écho tombe alors dans un contexte qui meurt. En séance, tout ce qui devrait entrer au coffre se note en une ligne neutre (sans nom, sans contenu scellé) et attend la clôture.
+
+## 40 · LA DÎME EST SUPPRIMÉE — LE LIEN SE JOUE EN PROXIMITÉ (2026-08-14, décision joueur) — FAUTE MJ
+
+Le joueur a rejeté la dîme sous ses trois formes successives : le dixième du chiffre (« un dixième par où ? » — incompatible avec la fusion d'âme), la refonte en tête-à-tête, puis le levier « une prise sur dix ». Le MJ a défendu deux fois, puis s'est retranché derrière le canon écrit — et le joueur a nommé la vraie faute : **« c'est TON CANON, et il me plaît pas donc tu le changes. »** Puis il a donné la raison de fond, qui invalidait les trois versions d'un coup : **« le problème c'est pas d'avoir moins, ça je m'en fout. le problème c'est le sentiment d'être proche de sa bête qui part. »**
+
+Le MJ optimisait la créance ; le joueur protégeait le lien. Une bête-créancière — livres invisibles, main levée, contrainte tarifée — installe une distance de comptable exactement là où le canon v2 installe une fusion d'âme.
+
+**Règles :**
+
+- **Rien n'est prélevé sur ce que Seb prend. Jamais, sous aucune forme.** Le total est à lui, entier, comme pour toute paire fusionnée. La porte II disparaît ; il reste I, ouverte, et le budget du palier (~3/~2).
+- **Toute résurgence du prélèvement sous un déguisement est une faute** — malus caché, « prix » automatique sur les prises, taxe narrative récurrente. C'est ce que le joueur a refusé trois fois. Une règle parquée ne revient pas déguisée en fiction (§11).
+- **Le caractère de la bête s'exprime en proximité, jamais en créance** : **ils se sentent** (il porte ses états comme un temps intérieur — faim, joie, alarme, bouderie — et elle les siens ; personne d'autre n'entend ce canal) · **elle veut des choses** (une proie fière, être montrée — des désirs de compagne) · **elle peut refuser de manger** (joué sur Terre) · sa trajectoire (§34) se nourrit de **leurs** chasses, sans prix pour lui · **montrer, c'est un geste à deux**.
+- **§37 est caduc** (il bornait un prélèvement qui n'existe plus). La distinction prise/ralliement reste utile au récit, plus à la mécanique.
+- **Enseignement de conduite** : quand le joueur attaque une mécanique, chercher **le sentiment qu'elle abîme** avant de défendre la structure. Deux allers-retours ont été perdus à négocier des pourcentages alors que la question était l'intimité.

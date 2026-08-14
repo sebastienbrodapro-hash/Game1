@@ -111,7 +111,7 @@
 - **Fusion par l'âme, un seul total.** Les statistiques du porteur et du familier sont liées ; ce que l'un gagne, l'autre le porte. **Vrai pour tout le monde, Seb compris.**
 - **LE PONT DE L'ÂME : casser ou tuer un familier tue le porteur.** Su de tous. Tabou absolu des duels, arme des assassins — viser le familier d'un homme, c'est annoncer un meurtre.
 - **Dévorer ≠ casser.** Seb prend le total du couple : la victime tombe à 1, vivante, son familier réduit à une veilleuse. Le monde connaît la mort par pont brisé ; **il ne connaît pas la dévoration.**
-- **Ce qui reste unique à Seb** : le Masque (personne d'autre ne règle ce qu'on lit de lui) · sa bête a une voix, une volonté, une créance — les familiers du monde sont des **prolongements muets de l'âme** · il mange.
+- **Ce qui reste unique à Seb** : le Masque (personne d'autre ne règle ce qu'on lit de lui) · sa bête a une voix, une volonté, des goûts — les familiers du monde sont des **prolongements muets de l'âme** · il mange. *(Aucune créance, aucun prélèvement — errata §40 : le lien se joue en proximité.)*
 - *Conduite : sa silhouette anthropomorphe est illisible à la jauge — **intrigante**, pas alarmante. Ce qui le rend anormal ne se voit que quand il le montre — et là, quelqu'un le paie en réaction, toujours. La bête jouée comme décor est la faute qui a coûté la v1.*
 
 ### 9.2 · LA MESURE ICI — rien ne se consigne
