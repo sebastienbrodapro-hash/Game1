@@ -527,3 +527,19 @@ C'est la jumelle exacte de §42 et §43 : un réflexe du MJ qui s'installe **par
 ### 45.1 · La DA du palier II, tranchée par le joueur *(2026-08-14)*
 
 **Le mélange classique du genre** — retenu sans hésitation : **civilisation xianxia haute** (cités-montagnes, pavillons, jade, bannières, robes de secte, **auras visibles quand on frappe**, bêtes spirituelles nobles, armes d'âme) **posée sur un socle mythique païen** (temples effondrés, cols, chansons, dieux morts, bêtes d'avant la mesure) — **et le sale cantonné à une voie sombre nommée, que tout le monde réprouve et qu'on peut aller casser.** Détail au MONDE §9.8.
+
+## 46 · LES JETONS SUIVENT LA BANDE, LA PORTE SUIT LE NATUREL (2026-08-14, trou de règle relevé par le joueur) — FAUTE MJ
+
+> *Un précédent §46 — refonte des seuils de crans de la bête — a été écrit puis supprimé en entier le même jour, sur décision du joueur. Le numéro est réattribué ici.*
+
+Le §35 attache au **naturel** le mouvement de porte, et précise que le dosage aux extrêmes n'en produit **jamais**. Il ne dit **rien** des jetons. Le MJ a comblé le trou en séance, **seul et en silence, dans le sens défavorable** : *« pas de jetons »* sur une bande `01-10` obtenue au total. Recadrage immédiat : ***« comment ça pas de jeton ?? »***
+
+C'est la faute §35 dans sa lettre : **le MJ ne tranche pas une règle non écrite en séance** — il demande, ou il joue la lecture la plus favorable au joueur **en la signalant**.
+
+**La règle, validée par le joueur :**
+
+- **Les jetons suivent la BANDE DE RÉSULTAT — donc le total.** `01-10` → **+2** · `11-35` → **+1**, **quel que soit le naturel.** Le codex §1.2 le disait déjà autrement : **ils s'achètent en perdant**, et un dosage bas est une perte.
+- **Le mouvement de porte suit le NATUREL seul** (§35, inchangé).
+- **Deux axes : le total paie, le naturel ouvre.**
+- **Arriéré servi le 2026-08-14** : quatre bandes non payées dans la même session — sc. 258, 263, 266 (+1 chacune) et sc. 269 (+2). **Cinq jetons rendus d'un coup, 3 → 8.** Le joueur ne compte pas sur la distraction du MJ (§11.5 du coffre) et il a encore eu raison.
+- **Outillage** : le script de tirage imprime désormais `JETONS : +N` à chaque jet. **Une règle qu'on peut oublier doit être portée par l'outil, pas par la mémoire** — c'est la leçon durable, et elle vaut au-delà des jetons.

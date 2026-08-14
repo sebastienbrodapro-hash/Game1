@@ -51,6 +51,7 @@
 - **LES PORTES POSITIVES ACQUISES NE SE PERDENT JAMAIS SUR UN JET** *(errata §41, décision joueur 2026-08-14)*. Ce qui est gagné reste gagné ; ce qui monte sur une catastrophe, c'est **la charge du monde**. Une porte négative est une contrainte nommée, avec son mordant, qui s'aggrave par crans comme les positives montent.
 - **Le total décide de la bande de résultat**, toujours.
 - **Dosage** : total ≥ 90 sans naturel critique → **un petit plus** dans la conséquence. Total ≤ 10 sans naturel critique → **une conséquence plus mauvaise**. **Jamais de mouvement de porte dans ces deux cas.**
+- **LES JETONS SUIVENT LA BANDE — donc le total** *(errata §46, validé le 2026-08-14)* : `01-10` → **+2**, `11-35` → **+1**, **quel que soit le naturel**. Ils s'achètent en perdant, et un dosage bas est une perte. **Le total paie, le naturel ouvre.**
 
 Autres verrous :
 
