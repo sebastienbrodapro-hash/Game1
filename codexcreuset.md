@@ -260,12 +260,15 @@ Elle monte vers **une interlocutrice anthropomorphe achevée**, en six crans :
 
 | | |
 |---|---|
-| **1 · Debout** | ✅ acquis |
-| **2 · Les mains** | elle prend, elle tient, elle rend |
-| **3 · La face** | un visage — et le **registre animal** apparaît |
+| **1 · Debout** | ✅ acquis — *elle marche à ton côté* |
+| **2 · Les mains** | ✅ acquis — elle prend, elle tient, elle rend · *elle peut se battre seule* |
+| **3 · La face** | ✅ acquis — un visage, le **registre animal** · *elle voit, elle ne fait plus aucun bruit, et **elle a la main sur le chiffre*** |
 | **4 · La phrase** | plus d'un mot d'affilée |
 | **5 · La question** | elle demande quelque chose qu'elle ne sait pas |
 | **6 · La conversation** | elle répond, elle argumente |
+
+**CHAQUE CRAN LUI DONNE DU RÉEL, PAS SEULEMENT UNE APPARENCE** *(errata §48)*. Les gains des crans 4 à 6 se fixent au moment où ils tombent.
+**LE MASQUE N'EST PLUS UNE GARANTIE** : depuis la face, **elle peut l'ouvrir ou le fermer sans ton autorisation, en permanence**. Elle ne le fera jamais contre toi — mais vous ne serez pas toujours d'accord sur ce qui compte. Tu peux toujours la contraindre à refermer : ça marche, ça ne coûte aucun chiffre, **et ça abîme**.
 
 **Un cran se gagne à une grosse prise ou à une réclusion.** Jamais deux dans la même scène, jamais annoncé à l'avance.
 **SA FORME EST FAITE DE CE QU'ELLE MANGE.** Son grain de pierre vient de la carrière ; **son registre animal viendra de sa plus grosse prise du Murim** — ce que tu lui donnes décide de ce qu'elle devient.

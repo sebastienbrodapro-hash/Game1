@@ -555,3 +555,22 @@ Depuis la suppression de la dîme (§40), **le seul terrain de conflit prévu au
 - **Porte ouverte** : quand elle a une **vraie raison**, le désaccord peut aller jusqu'au blocage. **Rare, jamais gratuit, jamais un système.** *Elle ne devient pas un second joueur qui bride le premier* — c'est la clause exacte du joueur.
 - **La contrainte reste toujours possible, et elle marche.** Elle ne coûte **jamais** un modificateur, un malus caché ni un prix automatique : toute mécanique de ce genre est une **résurgence de la dîme** (§40) et une faute. **Ce qu'une contrainte coûte, c'est ce qu'elle abîme entre eux, joué en scène** — elle boude, elle refuse la fois suivante, quelque chose se referme.
 - **Conduite** : ses désirs propres doivent **parfois diverger** de l'objectif en cours (le détour vers la cour aux chansons, sc. 259 — retour joueur : *« j'ai cru que sa colère c'était pour Irène et ça c'est bien ! »*). **Un détour coûte du temps, jamais un objectif.**
+
+## 48 · CHAQUE CRAN LUI DONNE DU RÉEL — ET LA FACE LUI DONNE LE CHIFFRE (2026-08-14, proposé par le joueur, validé)
+
+Proposition du joueur à la scène où elle passe **cran 3** : *« elle peut changer le chiffre elle-même sans que je lui autorise. Le camouflage peut sauter de sa volonté. »* Il demandait si ça devait être une porte négative. **Ça n'en est pas une** : ce n'est pas une punition mais une évolution qu'il veut, une négative ne s'ouvre que sur catastrophe (§41), et le budget négatif du palier était épuisé par LA COUTURE (§VI).
+
+**La règle :**
+
+- **L'échelle de forme (§34.1) ne donne pas qu'une apparence — chaque cran donne une capacité réelle.**
+
+| Cran | Ce qu'elle gagne |
+|---|---|
+| **1 · Debout** | elle marche à son côté |
+| **2 · Les mains** | elle prend, elle tient, elle **rend** — elle peut se battre seule |
+| **3 · La face** | elle **voit** · elle **ne fait plus aucun bruit** · **elle a la main sur le chiffre : en permanence, sans autorisation, dans les deux sens** |
+| **4 · La phrase · 5 · La question · 6 · La conversation** | chacun apportera son gain réel, **fixé au moment où il tombe** |
+
+- **LE MASQUE CESSE D'ÊTRE UNE GARANTIE.** Seb ne peut plus être certain de ce que le monde lit d'eux. **Ce n'est pas un malus chiffré** : c'est de la **friction** — il affiche 300 dans une salle pleine, et il suffit qu'elle décide que ça compte.
+- **§47 s'applique intégralement** : elle ne le fera jamais **contre** lui ; elle le fera quand elle jugera que ça compte, **et ils ne seront pas toujours d'accord sur ce qui compte**. Il peut toujours la contraindre à refermer — **ça marche, ça ne coûte aucun chiffre, et ça abîme**.
+- **Conduite** : ne jamais s'en servir comme d'une **trappe**. Quand elle ouvre, c'est **lisible** — il y a une raison qu'on comprend dans la scène, et elle est de son côté. Un Masque qui saute sans raison au pire moment est un piège de MJ, pas un personnage.
