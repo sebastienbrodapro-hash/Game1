@@ -142,9 +142,16 @@ def main() -> int:
     if dernier_psy == 0:  # première initialisation : pas d'alerte au démarrage
         dernier_psy = derniere
 
+    # 2026-08-14 — faux positif : IGNORECASE faisait sonner le hook sur un mot
+    # français courant qui coïncide avec un nom scellé court. Un nom lâché en
+    # scène porte toujours sa capitale ; la prose ordinaire, non. On teste donc
+    # les seules casses d'un nom propre, et plus jamais les minuscules.
     touches = [
         n for n in charger_noms()
-        if re.search(rf"\b{re.escape(n)}\b", texte, re.IGNORECASE)
+        if len(n) >= 4 and any(
+            re.search(rf"\b{re.escape(v)}\b", texte)
+            for v in {n, n.capitalize(), n.upper()}
+        )
     ]
     if touches:
         ecrire_etat(derniere, dernier_psy)
