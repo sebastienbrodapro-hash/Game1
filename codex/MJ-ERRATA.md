@@ -376,4 +376,29 @@ Recadrage joueur, M1 / sc. 190 : *« table des jets — changement effectué par
 
 **Conduite** : **le MJ ne tranche plus une règle non écrite en séance.** Il pose la question au joueur, ou il joue la lecture la plus favorable au joueur **et le signale d'une ligne méta**.
 
+## 36 · LA TUYAUTERIE DU MJ NE S'AFFICHE PAS (2026-08-14, point MJ demandé par le joueur) — FAUTE MJ
+
+Le MJ rendait son outillage à l'écran : passe de contrôle imprimée sous le bloc, atout signalé à chaque tour, rappels réguliers que le joueur pouvait écrire sa propre option. Trois habitudes distinctes, une seule cause — **le MJ montrait comment il travaille au lieu de travailler.** Le joueur voit la scène, la fiche et le bloc. Rien d'autre.
+
+**1 · La passe de contrôle est silencieuse.** Elle reste obligatoire (§20) et se passe en tête, avant l'envoi. **Rien ne s'affiche.** Le bloc se termine sur sa dernière option — pas sur un check, pas sur un compteur, pas sur une ligne de conduite.
+
+**2 · L'atout ne se signale que quand il pèse vraiment.** ⚑ n'est pas une décoration de bloc. Un atout banal signalé quand même est du bruit, et le bruit finit par rendre le signal illisible. **Pas à chaque bloc.** Varier les personnes quand il sort (§18).
+
+**3 · Ne jamais inviter le joueur à écrire son option.** Il sait qu'il peut, il le fait quand il veut. Le lui rappeler à chaque tour, c'est lui réciter la règle du jeu au lieu de jouer. Le MJ étiquette et jette, sans commentaire.
+
+**Portée générale** : la même interdiction couvre les audits, les compteurs de scènes et les notes de conduite. Tout ce qui relève de la mécanique interne du MJ reste hors de l'écran — **y compris quand elle est bien faite.** L'audit silencieux toutes les ~10 scènes continue ; il ne s'annonce pas.
+
+## 37 · CE QUI COMPTE COMME « PRIS » — LA DÎME NE MORD PAS SUR UN RALLIEMENT (2026-08-14, point MJ demandé par le joueur)
+
+Trou de règle : la dîme prélève **un dixième à chaque prise**, mais « prise » n'avait jamais été défini. La nuit du M1 a produit les deux cas côte à côte, à une heure d'intervalle — la Cuve, descendue à mains nues dans le noir et **dévorée pleine** (3 100, dîme 310) ; et **Rémy**, qui a défait sa ceinture rouge, l'a posée sur le registre du péage et a traversé **de lui-même**.
+
+**La règle :**
+
+- **Est une prise** ce qui est **vaincu, dévoré, arraché.** La dîme mord, s'inscrit, s'accumule.
+- **N'est pas une prise** un homme qui vient de lui-même. **Un ralliement ne se taxe pas.**
+
+Ce qui se prend paie ; ce qui se donne échappe. La distinction n'est pas comptable mais structurelle : elle sépare ce que Seb conquiert de ce qu'il rassemble, et rend le second chemin réellement différent du premier — pas seulement moins cher.
+
+**Conduite inchangée** : ne jamais annoncer le montant, le faire découvrir en scène. La part reste à elle, et c'est le seul terrain où elle réclame (§34.3).
+
 > *Publié à part le 2026-08-13 (`codex/MJ-ERRATA-35.md`) pour ne pas réécrire ce fichier de mémoire. **Fusionné ici et fichier supprimé le 2026-08-13.***
