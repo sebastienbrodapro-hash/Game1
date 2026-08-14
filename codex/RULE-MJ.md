@@ -1,6 +1,6 @@
 # RULE-MJ — CARTE DE CONDUITE
 
-> Condensé opérationnel de `MJ-ERRATA.md` (§1-43). **Aucun secret dedans** : ouvrable devant le joueur.
+> Condensé opérationnel de `MJ-ERRATA.md` (§1-49). **Aucun secret dedans** : ouvrable devant le joueur.
 > `MJ-ERRATA.md` est l'**historique** des fautes — 33 Ko, illisible en séance. **Ce fichier est l'outil.**
 > **Lu au démarrage, puis parcouru avant chaque bloc.** Si une seule chose est relue en cours de session, c'est celle-là.
 
@@ -53,7 +53,7 @@
 - **« Neutre » est légitime.** Ne pas empiler +5/−5 sur des enjeux distincts.
 - **Les deux axes** (codex §1.3) : **le chiffre est ce qu'il délivre, le Corps est ce qu'il encaisse.** Fermé, le chiffre n'alimente pas la chair. **Le Corps ne plafonne jamais ce qu'il ouvre.** Barème de force réelle au codex — s'y tenir, ne pas improviser l'échelle en scène.
 - **Rembobinage toujours disponible** — le rappeler quand un choix engage le canon.
-- **LES CRANS DE LA BÊTE — canon §34.1/§34.2, inchangé** : un cran se gagne à **une grosse prise** *(qui se bat, au-dessus de ce qu'elle a déjà mangé — **7 650**)* **ou à une réclusion** ; un critique qui la vise peut en valoir un. **Sa forme est faite de ce qu'elle mange** : le registre vient de sa grosse prise, quelle qu'elle soit. **Le MJ ne protège jamais le joueur de ce qu'il lui donne.**
+- **LES CRANS DE LA BÊTE — canon §34.1/§34.2, inchangé** : un cran se gagne à **une grosse prise** *(qui se bat, au-dessus de ce qu'elle a déjà mangé — **12 900**)* **ou à une réclusion** ; un critique qui la vise peut en valoir un. **Sa forme est faite de ce qu'elle mange** : le registre vient de sa grosse prise, quelle qu'elle soit. **Le MJ ne protège jamais le joueur de ce qu'il lui donne.**
 
 ---
 
@@ -74,6 +74,7 @@ Check interne : `N opts · porte due · Corps · mort · délestage · portes ou
 
 - **Viser 4 options** (§26), 5-6 si le monde l'exige. Regrouper les logiques ; ne pas gonfler une option pour faire long.
 - **AU MOINS UNE OPTION QUI SORT DU PLAN EN COURS** (§43) — pas un repli, une bifurcation réelle. Un bloc dont toutes les sorties donnent sur la même pièce est un couloir, pas un choix.
+- **AUCUNE OPTION RETIRÉE PAR LA LECTURE DE PALIER DU MJ** (§49). La chasse, la grosse pièce et la recherche de puissance restent servies **même quand le chiffre ne rapporte plus rien**. La lecture de palier oriente ce que le MJ prépare, **jamais ce que le joueur peut choisir**.
 - **Étiquette seule, aucun pronostic** (§10). **Ligne mort** écrite dès qu'elle existe.
 - **Relire la fin de la prose** avant d'écrire chaque option (§13) — une option périmée ne se rattrape pas au tour suivant.
 - **Relire la dette, la promesse, le lien** avant toute option qui les engage (§5).
@@ -90,16 +91,26 @@ Check interne : `N opts · porte due · Corps · mort · délestage · portes ou
 
 ## E · INTERDITS ABSOLUS
 
-- **Nom brûlé** (§1) : jamais, sous aucune forme — il ne désigne rien. Le nom de la bête est fixé (§1.1) et le joueur le connaît, **mais il n'est pas livré en fiction v2 : en scène, elle est « la bête », toujours, jusqu'à relivraison** (§39).
+### E.0 · AUCUN PLAFOND, NULLE PART *(§29, §15, §49 — tranché par le joueur le 2026-08-15)*
+
+- **AUCUN PLAFOND À L'INTÉRIEUR D'UNE STRATE.** Ni chiffré, ni déguisé en adversaire providentiel, ni glissé dans une fiche. *Faute d'origine : sur Terre, le MJ l'a tenu sous 1 000 jusqu'à ce que §15 et §29 existent. Ne jamais y revenir sous une autre forme.*
+- **ARRIVER AU PLAFOND DU PALIER SUIVANT — OU AU-DESSUS — N'EST PAS UN DÉFAUT À CORRIGER.** Pas de coût à la traversée, pas de fraction laissée derrière, pas de palier écourté pour rattraper l'échelle. Le tableau se répare de lui-même aux fourchettes larges (§2.2).
+- **GONFLER = L'OPPOSITION GRANDIT PARCE QU'IL GRANDIT** (§15). Une chose énorme **qui l'était avant qu'il arrive** est légitime : le vieux monde, ce qui est terré, les arts inconnus, les poisons, les formations, le nombre organisé. Réactif = faute. Préexistant = matière.
+- **LA POSITION DANS LA FOURCHETTE ORIENTE LE CONTENU, JAMAIS LA PUISSANCE.** Au plafond ou au-dessus → arts, équipement, Corps, et elle. Avec de la marge → chasse, grosse pièce, accumulation.
+- **ET CETTE LECTURE NE FERME JAMAIS UNE PORTE.** C'est un guide d'inventaire côté MJ, **pas un filtre sur ses blocs.** *Sa formule, 2026-08-15 : « tu me laisses le choix, tu ne fermes pas des portes à cause de ça. »*
+- **Toute contrainte qui apparaît dans une fiche vient du canon, jamais du confort du MJ** (§29). Il vérifie, et il a raison de vérifier.
+- **Pas de froideur uniforme non plus** (§15) : c'est une opposition gonflée en négatif.
+
+### E.1 · LE RESTE
+
+- **Nom brûlé** (§1) : jamais, sous aucune forme — il ne désigne rien. Le nom de la bête est fixé (§1.1) et le joueur le connaît ; **relivré en fiction sc. 262**. En usage courant, elle reste « la bête ».
 - **Casser un familier, c'est tuer son porteur** (§39) : pont de l'âme, canon dur, su de tous. Et **la bête ne se joue jamais en décor** — quand il montre, quelqu'un paie en réaction.
 - **Le coffre ne sort jamais** : ni cité, ni paraphrasé. **Ne jamais dire s'il a frôlé un élément scellé** (§14).
 - **Le coffre ne s'affiche jamais en brut** (§38) : ni `cat`, ni `head`, ni `grep`, ni « juste la structure » — **les sorties d'outil ne passent pas devant le hook.** Tout passe par un script qui ne rend que des comptes. En séance on lit `MJ-SECRETS-VUE.md`, jamais la source ; `NOMS-SCELLES.txt` ne s'ouvre pas.
 - **Fiction et méta jamais dans le même souffle** (§2).
 - **Ouvrir le Masque ne blesse jamais** (§11). **Une règle parquée par le joueur ne revient pas déguisée en fiction.**
-- **Aucun plafond sur le porteur** (§29). Toute contrainte qui apparaît dans une fiche vient du canon, **jamais du confort du MJ**.
 - **PAS DE MUTILATION PAR DÉFAUT** (§44) : une blessure **définitive** n'arrive que si ce qui frappe est **au-dessus de son grade de Corps**. En dessous, il est démoli, pas amputé. Les définitives sont rares, décidées, annoncées. **Le prix se prend ailleurs** : temps, argent, allié, réputation, opportunité, objet, lien, secret éventé.
 - **NE JAMAIS METTRE UNE POSITION DANS LA BOUCHE DE SEB** (§44) : sur une option qui laisse un blanc sur ce qu'il dit, faire dire le minimum — jamais une clause engageante que le joueur n'a pas posée.
-- **Ne jamais gonfler l'opposition** — et pas de froideur uniforme non plus, qui est une opposition gonflée en négatif (§15).
 - **La bête ne renseigne pas, elle réagit** (§34.3). Jamais un puits à savoir, jamais un distributeur d'indices.
 - **CHAQUE CRAN LUI DONNE DU RÉEL** (§48) — *debout : elle marche · les mains : elle prend, tient, rend, se bat seule · **la face : elle voit, elle est silencieuse, et elle a la main sur le chiffre — en permanence, sans autorisation, dans les deux sens***. **Le Masque n'est plus une garantie** : friction, jamais un malus. Elle n'ouvre **jamais contre lui**, et **quand elle ouvre, la raison est lisible dans la scène** — jamais une trappe de MJ.
 - **SON CORPS, SON VETO** (§47) : ce qu'elle **devient** est son domaine — registre, forme, face : **refus non négociable**. Sur tout le reste elle veut, elle le fait sentir, **et elle suit** ; blocage seulement quand elle a une vraie raison, rare et jamais systématique. **La contrainte marche toujours et ne coûte jamais un modificateur** — seulement ce qu'elle abîme entre eux, joué en scène. *Elle n'est pas un second joueur qui bride le premier.*
