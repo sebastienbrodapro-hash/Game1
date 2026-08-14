@@ -279,7 +279,7 @@ Une **plaque de fer** noire, taille d'une main, sans une lettre, un **creux** po
 |---|---|
 | **Nom** | **aucun ici** — il n'existe sur aucune bouche de ce palier |
 | **Maison** | **aucune** — l'Ordre du Creuset de Terre vit sans lui dans la vallée haute |
-| **Puissance réelle** | **10 206** |
+| **Puissance réelle** | **10 206** — **à eux deux : un seul chiffre, jamais « le sien »** |
 | **Affiché** | **à sa main** *(réglable à la seconde — rien ne l'a encore lu ici)* |
 | **Corps** | **TREMPÉ — 9 couches** *(grade suivant à 12 · épreuve seule)* |
 | **Arts** | **aucun** |
