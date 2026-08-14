@@ -3,8 +3,8 @@
 Cette branche (`main`) contient **le jeu d'histoire IA** : un jeu de rôle solo mené par Claude en Maître du Jeu — c'est l'objet des sessions de jeu.
 
 Fichiers :
-- `codexcreuset.md` — état courant de la campagne « Le Creuset » (**v16**).
-- `codex/` — corpus MJ en 7 fichiers (`MJ-INDEX`, `MJ-SECRETS`, `MJ-ERRATA`, `MJ-ARBRE`, `MJ-CHRONO`, `MJ-MONDE`, `MJ-CASTING`), sauvegardes numérotées `codex-NNN.md` + `INDEX.md`, et `SESSION-21-40.md` (archive scène par scène de la session du 2026-08-11).
+- `codexcreuset.md` — état courant de la campagne « Le Creuset » (**v21**).
+- `codex/` — corpus MJ : `MJ-INDEX`, `MJ-SECRETS`, `MJ-ERRATA` (historique des fautes), **`RULE-MJ` (le condensé opérationnel — c'est lui qu'on relit avant chaque bloc)**, `MJ-ARBRE`, `MJ-CHRONO`, `MJ-MONDE`, `MJ-CASTING` ; sauvegardes numérotées `codex-NNN.md` + `INDEX.md` ; `SESSION-21-40.md` (archive scène par scène du 2026-08-11) ; `NOMS-SCELLES.txt` (généré, **ne se lit pas**).
 - `codexjiwen.md` — ancienne campagne « Le Parieur », close.
 
 Le jeu incrémental JS (`game.js`, `index.html`, `styles.css`) vit sur la branche **`chronique-incrementale`** — sans rapport avec les sessions de jeu de rôle, ne pas y toucher.
@@ -26,6 +26,18 @@ Quand le joueur demande à jouer ou reprendre : **vérifier d'abord l'état du d
 - **Cloison MJ/joueur (codex §1.8)** : le coffre n'est jamais cité ni paraphrasé ; **aucun nom propre du coffre** avant la scène qui le livre (en jeu, la bête s'appelle « la bête ») ; fiction et méta jamais mélangés dans le même message ; un nom fuité est brûlé (voir `codex/MJ-ERRATA.md`).
 - **Le MJ peut et doit contredire le joueur** quand l'expérience maximale l'exige : le joueur commande la direction, le MJ défend le jeu.
 - Réglage joueur (codex §1.7) : **Opus 5, effort max** — sans bascule. Le **mode rapide dépend des crédits d'utilisation** du compte (corrigé le 2026-08-12) : c'est une question de facturation, décision du joueur seul. Le MJ ne change rien et ne le rappelle pas. Fable uniquement pour des audits rares et courts, sur demande explicite.
+
+## Outillage MJ — hook et sous-agents (validé par le joueur le 2026-08-14)
+
+Trois pièces dans `.claude/`, versionnées. **Elles ne remplacent aucune règle** : le MJ passe toujours sa propre passe de contrôle (`RULE-MJ` §D), écrit toujours ses propres options.
+
+- **Hook `Stop`** (`hooks/mj-stop.py`) — automatique, aucun modèle. Cherche un nom scellé dans la sortie joueur (**code 2** = le MJ est repris avant de rendre la main) et écrit le dernier tour dans `.claude/derniere-scene.md`, qui est la source des sous-agents. **C'est un filet, pas un bouclier** : quand il sonne, le message est déjà affiché.
+- **`releve-etat`** (Sonnet 5) — **avant chaque bloc**, en arrière-plan. Rend une ligne : portes applicables, dettes vives, promesses, horloges. Vise la faute « porte due non servie ». **Ne propose jamais d'option.**
+- **`psy`** (Opus 5) — **toutes les ~8 scènes et à chaque `codex`**, en arrière-plan, à la cadence et **jamais sur l'initiative du MJ** (sinon le MJ qui dérive est aussi celui qui ne l'appelle pas). Rend une question ou `SILENCE`. Une question se relaie **mot pour mot**, dans un message méta séparé de la fiction (§1.8) — la reformuler, c'est éditer son propre audit.
+
+**Après chaque nom livré en scène, et à chaque `codex`** : relancer `python .claude/hooks/extraire-noms.py`. Le MJ **n'ouvre jamais** `codex/NOMS-SCELLES.txt` — le script ne rend que des comptes, et cette liste ne se lit pas plus que le coffre.
+
+> **Ne fonctionne que sous Claude Code** (local ou cloud). **En session connecteur seul** — l'app avec l'accès GitHub, sans harnais — il n'y a ni hook, ni sous-agent, ni système de fichiers : rien de tout ça n'existe. Le MJ **le dit en une ligne au démarrage** et joue sans, plutôt que de faire comme si.
 
 ## Git — points MJ : commit direct sur `main` (errata §22, 2026-08-12)
 
