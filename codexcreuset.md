@@ -1,24 +1,22 @@
-# CODEX — LE CREUSET (v20)
+# CODEX — LE CREUSET (v21)
 
 > **Usage :** nouveau fil → « Reprends Le Creuset ». Le MJ lit `codex/MJ-INDEX.md`, puis **`codex/RULE-MJ.md`**, puis le corpus MJ, puis ce fichier **en entier**, **en silence**.
-> **v20 — PALIER II, LE MURIM. M1, la nuit. Scène 195.** **Point de reprise et bloc au §7.**
-> **Copies figées : `codex/codex-006.md` à `codex/codex-019.md`.**
+> **v21 — PALIER II, LE MURIM. Fin de la nuit du M1, sur la route de Vermeil. Scène 198.** **Point de reprise au §7.**
+> **Copies figées : `codex/codex-006.md` à `codex/codex-020.md`.**
 
 ---
 
-## 0 · CE QUI CHANGE (v19 → v20)
+## 0 · CE QUI CHANGE (v20 → v21)
 
-**Onze scènes (185-195), une seule nuit, un seul lieu.** Il est arrivé au Murim sans rien ce matin. Ce soir il a un nom écrit, une maison, un art, trois hommes et un compteur.
+**Trois scènes (196-198), une seule nuit, la route.** Il est sorti du val avec une maison de trois. Six heures plus tard il est quatre, il pèse **12 996**, et sa bête a des mains.
 
-- **UN ART.** Il a demandé aux six disciples de finir sur lui le mouvement qu'ils n'achèvent jamais, et il est resté debout : **dixième couche de Corps**, et **PORTE OUVERTE — CE QUI ME FRAPPE, JE LE GARDE**. Puis il a fait descendre leur maître, **Yvon, 2 240**, qui lui a *fini* la Main pendant qu'il montait le Masque à 5 000. **`LA MAIN QUI RESTE` — cran 2 : ça choisit où ça se pose.**
-- **LA DÎME A MORDU DEUX FOIS, ET ELLE A CHANGÉ DE NATURE.** Un art ne se coupe pas en dix : la note s'est ouverte **sur Yvon**, qui a perdu **224 points en parlant** (2 240 → 2 016) sans savoir ce qui le lui prenait. Puis, la maison fondée, elle a trouvé une adresse permanente. **Cran 2 : le compte s'ouvre sur le plus proche. Cran 3 : LE LIVRE — la note s'inscrit, chiffrée, datée, et elle s'accumule.**
-- **LE RELEVÉ.** Il a dit tout haut, dans la cour, le chiffre exact de chaque homme présent. **Personne au Murim n'a jamais entendu son propre chiffre de sa vie.** Deux disciples ont appris que leur maison les classait à l'envers. Le compteur du relais a été révélé à **880** devant six garçons qui le prenaient pour un scribe.
-- **IL A TOUT RELÂCHÉ.** 10 206 dans une cour fermée, devant huit personnes. Yvon est resté debout — le seul. **Prix : les bœufs ont arraché le joug, la charrette a versé, la jambe gauche de Firmin est cassée.** Yvon lui a donné en échange la règle qui lui manquait : *« il te faut un compte ouvert en permanence, ou ce sont ceux qui te donnent quelque chose qui paieront. »*
-- **LE NOM EST DEVENU LE SIEN.** Il s'est fait inscrire **AUBRAN** sur la première ligne d'un livre neuf. Firmin l'a supplié de ne pas le faire — *« chanté, ça s'envole ; écrit, ça reste, et ça reste avec une adresse dessous »*. **Ce nom n'avait aucune forme écrite depuis trois siècles : elle a été fixée cette nuit-là, à la dictée.**
-- **LE CREUSET EST FONDÉ**, dans la cour d'un autre, avec deux blessés et zéro fer — et **reçu à voix haute par la Braise Haute**. Trois inscrits : Aubran, **Firmin** (l'homme de la route), **Blaise** (premier disciple, pris chez Yvon). **Régis, 880, tient les livres et refuse le nom** : *« un homme qui paie pour les autres n'est pas un frère, c'est un poste. »*
-- **L'ART EST TRANSMISSIBLE.** Il a fini la Main sur Blaise lui-même — sans tâtonner, parce qu'il **voit** où poser. **540 → 631.** Le premier de la cour d'Yvon a fait un pas vers la table ; il a fallu le retenir par le bras.
-- **RÈGLE DES JETS AMENDÉE** (§1.1) — tranchée par le joueur après une faute MJ : le naturel décide seul du critique, le total décide de la bande, et un dosage joue aux extrêmes. Détail : `codex/MJ-ERRATA.md` §35.
-- **NOUVEL OUTIL MJ : `codex/RULE-MJ.md`** — carte de conduite condensée, relue avant chaque bloc.
+- **IL EST SORTI DU VAL AVANT LE LEVER.** Départ de nuit, Firmin porté sur un brancard, la descente deux fois plus longue que prévu. **Vermeil n'est plus au matin du M3 : au soir.**
+- **RÉMY.** Le 620 n'a pas été *pris* — il est **venu**. Parti seul de la Braise Haute avec une heure d'avance, assis devant la barrière du pont bas, bloqué par un homme du péage à **510** qu'il aurait pu écarter et qu'il n'a pas touché. Seb lui a dit ce qu'il pesait, et ce que pesait Blaise. Il a rendu sa ceinture rouge et sa robe grise, et il a traversé avec ce qu'il avait sur le dos. **Il a donné son prénom lui-même : personne ne le lui avait demandé depuis neuf ans.**
+- **LE NOM DE LA MAISON EST ÉCRIT SUR LE PAPIER D'UNE AUTRE.** L'homme du péage a écrit ce qu'on lui a ordonné — et **tout** le reste, parce que c'est son métier : *quatre corps, un jeton signé Yvon, **trois passages dus**, un homme de la maison parti sans quittance, et la maison qui l'a pris :* **LE CREUSET.** Ce registre remonte à la Braise Haute, pas à Vermeil.
+- **FIRMIN A TROP PARLÉ.** Pour l'empêcher d'y aller, il a livré **la Cuve** : un bassin de pierre taillé avant la mesure, à sec, vingt pieds de fond, une demi-lieue hors de la route. **La Braise Haute la nourrit d'une bête par saison depuis toujours — et une année sur trois, ce n'est pas une bête.** Rémy était à trois pas et a tout entendu, neuf ans après.
+- **LA CUVE.** Descendu **seul**, sans arme, dans le noir. **3 100.** Ça rend coup pour coup : **index et majeur de la main droite cassés net, trois semaines.** Fini au poignet, dévoré plein. **Dîme 310 — inscrite toute seule dans le livre de Régis, à une lieue de là.** **10 206 → 12 996.**
+- **LA BÊTE PASSE CRAN 2 — LES MAINS.** Seize motifs. Les paumes puis les doigts, un par un. **Elle prend, elle tient, elle rend** : elle a remonté du fond ce que Seb ne pouvait plus porter — **des décennies d'os et de ferraille.** Puis elle a dit : « **Suivant.** »
+- **DEUX RÈGLES NOUVELLES** (errata §36, §37) : la tuyauterie MJ ne s'affiche plus (passe de contrôle silencieuse, atout non systématique, jamais d'invitation à écrire son option) ; **la dîme mord sur ce qui est *pris* — vaincu, dévoré, arraché — jamais sur un homme qui vient de lui-même.**
 
 ---
 
@@ -30,7 +28,7 @@
 - **Depuis le J112, elle prélève un dixième de tout**, à l'instant, sans recours.
 - Il y a trois siècles, un garçon nommé **Victor** a fondé un ordre avec une bête pareille, avant que sa propre maison ne la lui fasse effacer. L'espèce s'appelait **creuset**.
 - **En 267 jours, il est passé de 1 à 10 206**, a vidé la Doyenne du Verger Blanc, abattu ce dans quoi on taillait les pierres du monde, et **quitté son palier**.
-- **Il est au Murim.** Sa bête a retrouvé son nom : **Aubran**. Il l'a pris comme le sien, il a fondé **le Creuset** dans la cour d'une autre maison, et il descend sur la ville.
+- **Il est au Murim.** Sa bête a retrouvé son nom : **Aubran**. Il l'a pris comme le sien, il a fondé **le Creuset** dans la cour d'une autre maison, et il descend sur la ville. **Première nuit : quatre hommes, un art, une dette écrite, 12 996.**
 
 ---
 
@@ -46,7 +44,7 @@
 | **66–89** | pleinement, sans prix | — |
 | **90–100** | au-delà · **une porte s'ouvre, ou une ouverte s'élargit** | — |
 
-**NATUREL ET TOTAL** *(amendement du 2026-08-13, tranché par le joueur — errata §35)* :
+**NATUREL ET TOTAL** *(errata §35)* :
 
 - **Le naturel décide seul du critique.** `01-10` → catastrophe : porte fermée ou aggravée, **+2 jetons**. `90-100` → triomphe : porte ouverte ou cran. **Aucun modificateur ne protège d'un critique ni n'en fabrique un.**
 - **Le total décide de la bande de résultat**, toujours.
@@ -57,7 +55,7 @@ Autres verrous :
 - **UNE ACTION = UN JET.** Une séquence = un jet par action, bandes annoncées ensemble, dans l'ordre. Fusion seulement si même moment, même lieu, même opposition.
 - **Bande 36–65 — prix plancher** : perte concrète, jouée dans la prose. Jamais un twist qui arrange.
 - Chiffre **masqué**, bande annoncée, tirée par une **vraie commande du terminal**. **Sur demande, le générateur est vérifié en public.**
-- Ligne **mort** annoncée AVANT le choix, toujours.
+- Ligne **mort** annoncée AVANT le choix, toujours. **Si le joueur modifie une option et que ça lève la ligne mort, le dire au rendu.**
 - Pas de relance — **sauf rembobinage demandé par le joueur**, toujours autorisé.
 - **UNE PORTE EST DUE À CHAQUE CRITIQUE, servie dans la scène même.** Un triomphe garanti par jetons compte comme critique.
 
@@ -99,13 +97,15 @@ Petit **±5** · moyen **±10** · gros **±15/±20**. **« Neutre » est légit
 
 **Aucun quota.** Les blocs entièrement en désavantage sont validés par le joueur.
 **FORMAT : viser 4 options.** **Regrouper les logiques** — une option = une intention cohérente.
-**Le joueur écrit ses propres options** : les étiqueter honnêtement en une clause, et jeter.
+**Le joueur écrit parfois ses propres options, ou en modifie une** : l'étiqueter honnêtement en une clause, et jeter. **Ne jamais l'y inviter** (§36).
 
 ### 1.6 Conduite du MJ
 
 > **La liste complète et opérationnelle est dans `codex/RULE-MJ.md`, relue avant chaque bloc.** Rappels durs :
 
-- **UN BLOC EST SERVI ENTIER, UNE SEULE FOIS.** Passe de contrôle avant envoi.
+- **UN BLOC EST SERVI ENTIER, UNE SEULE FOIS.** Passe de contrôle avant envoi — **silencieuse, jamais affichée** (§36).
+- **LA TUYAUTERIE DU MJ NE S'AFFICHE PAS** : check de contrôle, audits, compteurs de scènes, notes de conduite. Le joueur voit la scène, la fiche et le bloc.
+- **⚑ ATOUT : seulement quand il pèse vraiment.** Pas à chaque bloc. Un atout banal ne se signale pas.
 - **AUCUNE SCÈNE DONT LE SEUL ENJEU EST DE COMPRENDRE.** Une énigme tombe d'un coup, par une bouche, contre quelque chose. Symboles, dates, procédures = décor.
 - **LA LOGISTIQUE NE SE JOUE PAS** : payer, acheter, installer, déclarer = une ligne de fiche.
 - **PAS DE PRONOSTIC SOUS LES OPTIONS.**
@@ -176,22 +176,27 @@ Sur Terre, il n'en restait que des gestes : deux doigts portés à la bouche, et
 - Échelle observée : gens ordinaires **100-350** · disciples et gardes **350-800** · confirmés **800-2 000** · maîtres et anciens **2 000-4 000** · sommets connus **4 000-8 000**.
 - Le plus gros chiffre lu depuis la route, à des lieues, en direction de la ville : **4 000**.
 - **Seb lit tout le monde exactement, dans un monde qui ne juge qu'à l'estime.** Personne ne peut le lire. **C'est son avantage écrasant, et il l'a utilisé en public pour la première fois à la sc. 190.**
-- **Ce qui peut encore le blesser** : les arts qu'il ne connaît pas, les poisons, les formations, le nombre organisé.
+- **Ce qui peut encore le blesser** : les arts qu'il ne connaît pas, les poisons, les formations, le nombre organisé. **Et ce qui est terré : à la Cuve, une chose à 3 100 lui a cassé deux doigts.**
 - **Les dieux d'avant sont ici de l'histoire ancienne, pas un secret d'État.** On les met dans les chansons — mais **on ne dit pas les noms dehors, parce qu'un nom se retourne quand on l'appelle.**
 - **Un « jureur »** : le mot de ce monde pour l'homme qui marche avec une de ces choses. La chanson dit qu'**aucun jureur n'a jamais fini par mourir.**
 
-### 2.4 Le val et la Braise Haute *(lieu courant, quitté au matin)*
+### 2.4 Le val, la Braise Haute, la route *(val quitté dans la nuit du M1)*
 
-Un val de terre rouge entre deux versants de bambous, sur la route de **Vermeil** — **deux jours à pied**.
+Un val de terre rouge entre deux versants de bambous, sur la route de **Vermeil**.
 Il appartient à **LA BRAISE HAUTE** : robe grise, ceinture rouge. Elle possède la route, les deux relais, le péage du pont bas, et **prend un enfant par ferme tous les trois ans**. Son art se reconnaît à dix pas.
 
 **Son art : `LA MAIN QUI RESTE`.** La paume se pose et ne pousse pas ; ce qu'elle dépose brûle derrière les côtes, longtemps, et **ne se voit pas de dehors**. Les disciples n'apprennent que la montée du bras — **on ne la finit qu'une fois, tard, à celui qui reprendra la maison.**
+
+**LE PONT BAS** — barrière, lanterne, un homme du péage à **510** avec un registre calé sur la cuisse. **Tout ce qui monte vers Vermeil passe sous ce crayon, et le registre remonte à la maison.**
+
+**LA CUVE** — une demi-lieue hors de la route, un bassin de pierre taillé avant la mesure, à sec, vingt pieds de fond, **os et ferraille au fond**. Les charretiers font le détour depuis toujours. **La Braise Haute la nourrissait d'une bête par saison — et une année sur trois, ce n'était pas une bête.** Elle est **vide depuis la nuit du M1**, et personne ne le sait encore.
 
 ### 2.5 Règles du monde (héritées, toujours vraies)
 
 - **Vaincre de ses mains = pouvoir dévorer.** La puissance actuelle du vaincu.
 - **CE QU'ELLE MANGE : pas la chair, l'instant où quelqu'un est vaincu.** **Ce qui se bat rend plein ; ce qui se laisse prendre ne rend presque rien.** Un mort ne rend qu'un quart.
-- **LA DÎME** : un dixième de tout ce qui est pris, prélevé à l'instant, sans jet, sans recours. Voir §5, porte III — **elle a évolué deux fois cette nuit.**
+- **LA DÎME** : un dixième de tout ce qui est **pris**, prélevé à l'instant, sans jet, sans recours. Voir §5, porte IV.
+- **CE QUI COMPTE COMME « PRIS »** *(errata §37)* : vaincu, dévoré, arraché. **Un homme qui vient de lui-même n'est pas une prise — la dîme ne mord pas sur un ralliement.**
 - **Victime dévorée vivante** : elle survit, chiffre effondré à **1**, à vie.
 - **Aucun plafond.**
 
@@ -203,7 +208,7 @@ Il appartient à **LA BRAISE HAUTE** : robe grise, ceinture rouge. Elle possède
 
 **Seb.** 15 ans. Né au Fond, palier I. Pas de nom de famille, pas de tombes, pas de village d'avant.
 **Sur Terre** : le seul Seuil du Ciel vivant, fondateur de l'Ordre du Creuset, celui qui a fait échouer une dé-nomination en public et abattu ce dans quoi on taillait les pierres du monde.
-**Ici** : il s'appelle **AUBRAN**, c'est écrit, et il tient une maison de trois personnes qui a une nuit d'âge.
+**Ici** : il s'appelle **AUBRAN**, c'est écrit — **dans son propre livre et sur le registre de la Braise Haute** — et il tient une maison de quatre qui a une nuit d'âge.
 
 ### 3.2 LE CREUSET *(le pouvoir)*
 
@@ -222,7 +227,7 @@ La puissance réelle est tenue par la bête, **hors du corps**. Il règle **à l
 Espèce inscrite au palier I : ***péché — gloutonnerie***, ligne de mesure *hors relevé*. Espèce réelle, rayée du monde : **creuset**.
 **SON NOM EST AUBRAN.** Nom d'avant la mesure, livré sc. 183 par une bouche qui le chantait à genoux. **Depuis la sc. 193, il a une forme écrite** — la première depuis trois siècles, fixée à la dictée dans le livre d'un compteur.
 
-**ÉTAT** : **elle a exactement la taille de Seb.** Elle marche, se tient debout, **quinze motifs en filigrane**, la paume gauche creusée, la surface en **grain de pierre sciée** — ça vient du 6 812 de la carrière.
+**ÉTAT** : **elle a exactement la taille de Seb.** Elle marche, se tient debout, **seize motifs en filigrane**, la paume gauche creusée, la surface en **grain de pierre sciée** — ça vient du 6 812 de la carrière. **Depuis la Cuve, elle a des mains achevées : paumes et doigts.**
 **ELLE PARLE** — cinq mots, jamais sur commande, toujours comptables : « **Part.** » · « **Après.** » · « **Creuset.** » · « **Suivant.** » · « **Aubran.** »
 **Elle s'allume quand quelqu'un qui avait quelque chose à perdre plie** — pas devant le nombre, pas devant l'obéissance commandée.
 
@@ -233,14 +238,14 @@ Elle monte vers **une interlocutrice anthropomorphe achevée**, en six crans :
 | | |
 |---|---|
 | **1 · Debout** | ✅ acquis |
-| **2 · Les mains** | elle prend, elle tient, **elle rend** |
+| **2 · Les mains** | ✅ **acquis à la Cuve** — elle prend, elle tient, **elle rend** |
 | **3 · La face** | un visage — et le **registre animal** apparaît |
 | **4 · La phrase** | plus d'un mot d'affilée |
 | **5 · La question** | elle demande quelque chose qu'elle ne sait pas |
 | **6 · La conversation** | elle répond, elle argumente |
 
 **Un cran se gagne à une grosse prise ou à une réclusion.** Jamais deux dans la même scène, jamais annoncé à l'avance.
-**SA FORME EST FAITE DE CE QU'ELLE MANGE.** Son grain de pierre vient de la carrière ; **son registre animal viendra de sa plus grosse prise du Murim.** *Ce que Seb lui donne décide de ce qu'elle devient.*
+**SA FORME EST FAITE DE CE QU'ELLE MANGE.** Son grain de pierre vient de la carrière ; **son registre animal viendra de sa plus grosse prise du Murim** — la Cuve (3 100) ne suffit pas à le fixer.
 **Elle est de son côté** — **sauf sur la part** : la dîme est à elle, et là-dessus seulement elle réclame et peut refuser. Forcée quatre fois ; le prix de la contrainte monte sans jamais être annoncé.
 **Elle règle ce qu'on voit d'elle**, comme il règle son chiffre.
 
@@ -252,7 +257,7 @@ Le neuvième ancien, celui qui a refusé, s'appelait **ROCH**.
 
 ### 3.6 L'INSTINCT DU CHIFFRE
 
-Il **lit la puissance de tout vivant** qu'il regarde. **Gratuit, permanent, involontaire, exact** — y compris sur lui-même. Portée : à travers murs et planchers, une demi-lieue à découvert.
+Il **lit la puissance de tout vivant** qu'il regarde. **Gratuit, permanent, involontaire, exact** — y compris sur lui-même. Portée : à travers murs et planchers, une demi-lieue à découvert. **Il lit aussi ce qui est terré, avant de le voir.**
 **Il ne peut pas le fermer.**
 *(Ici, il est le seul du palier à lire un chiffre exact — et le seul à pouvoir voir* où *la puissance d'un homme est logée. C'est ce qui rend sa Main qui reste transmissible.)*
 
@@ -264,32 +269,35 @@ Une **plaque de fer** noire, taille d'une main, sans une lettre, un **creux** po
 
 ---
 
-## 4 · FICHE ACTUELLE *(M1, la nuit, cour du relais du val)*
+## 4 · FICHE ACTUELLE *(fin de la nuit du M1, sur la route de Vermeil, au bord de la Cuve)*
 
 | | |
 |---|---|
-| **Nom** | **AUBRAN** — écrit, première ligne du livre de Régis |
-| **Maison** | **LE CREUSET** — fondée M1, reçue à voix haute par la Braise Haute. **3 inscrits** |
-| **Puissance réelle** | **10 206** — *le plus haut chiffre lisible du pays en fait 4 000* |
+| **Nom** | **AUBRAN** — écrit dans son livre, **et sur le registre de la Braise Haute** |
+| **Maison** | **LE CREUSET** — fondée M1, reçue à voix haute par la Braise Haute. **4 inscrits** |
+| **Puissance réelle** | **12 996** — *le plus haut chiffre lisible du pays en fait 4 000* |
 | **Affiché** | **1 000** *(réglable à la seconde)* |
 | **Corps** | **TREMPÉ — 10 couches** *(grade suivant à 12 · épreuve seule)* |
 | **Arts** | **`LA MAIN QUI RESTE` — cran 2, transmissible** *(ça choisit où ça se pose ; il sait où poser sur n'importe qui)* |
-| **Blessures / marques** | double empreinte de paume sous le sternum · **chaleur dans l'avant-bras gauche mort** · main gauche diminuée · dos labouré · deux côtes · **creux au pouce droit** — *toutes définitives* |
-| **Jetons** | **8 / 10** |
-| **Bourse** | **0** |
-| **Équipement** | sandales de paille · chapeau conique · veste de toile brune · gourde · vivres 4 jours · **jeton de passage du pont bas** — *plus de hachoir* |
+| **Blessures datées** | **index et majeur de la main droite cassés — 3 semaines** *(M1, la Cuve)* |
+| **Marques définitives** | double empreinte de paume sous le sternum · **chaleur dans l'avant-bras gauche mort** · main gauche diminuée · dos labouré · deux côtes · **creux au pouce droit** |
+| **Jetons** | **10 / 10** *(plafond)* |
+| **Bourse** | **0** — *plus un sac d'os et de ferraille remonté de la Cuve, non compté* |
+| **Dette** | **3 passages dus** au péage du pont bas — écrits, datés, au registre de la Braise Haute |
+| **Équipement** | sandales de paille · chapeau conique · veste de toile brune · gourde · **vivres 2 jours, quatre bouches** — *plus de hachoir, plus de jeton* |
 | **Inventaire** | la **plaque de fer creusée** *(chaude, clavetée sur son pouce)* · un couteau de dépeçage · un crochet de ferrailleur |
-| **Bête** | **AUBRAN** — sa taille exacte · quinze motifs · cinq mots · **cran 1/6** · +224 encaissés cette nuit · **visible** |
+| **Bête** | **AUBRAN** — sa taille exacte · seize motifs · cinq mots · **cran 2/6 — LES MAINS** · **visible** |
 | **Portes** | **3 ouvertes** · **1 fermée, cran 3** |
-| **Statut** | premier soir du Murim. Il a un nom, une maison, un art, et pas un fer |
+| **Statut** | première nuit du Murim, pas finie. Quatre hommes, un art, une dette écrite, et 12 996 |
 
 ### Les gens du Creuset
 
 | Qui | État |
 |---|---|
-| **Firmin** | **340.** Charretier, vingt ans de route. A livré le nom, a menti pour lui, a supplié qu'on ne l'écrive pas. **Jambe gauche cassée sous sa propre roue** ; charrette versée, essieu à redresser, **course rendue à la lune**. **Premier homme de la route.** ⚑ connaît chaque relais, chaque gué et chaque chanson d'ici à Vermeil |
-| **Blaise** | **631** *(540 en entrant dans la cour)*. Neuf ans chez la Braise Haute, deux ans à savoir qu'on le classait sous un homme plus faible. **A reçu la Main finie de la main de Seb.** Premier disciple |
-| **Régis** | **880.** Onze ans compteur du relais, jamais compté faux. **Teneur de livres — et refuse le nom de la maison.** Deux conditions : qu'on lui dise le chiffre exact de tout ce qu'il compte, et qu'il tienne un livre à lui qu'on ne touche pas. **C'est le compte ouvert : la dîme tombe chez lui** |
+| **Firmin** | **340.** Charretier, vingt ans de route. A livré le nom, a menti pour lui, a supplié qu'on ne l'écrive pas. **Jambe gauche cassée**, porté sur un brancard ; charrette versée au val, **course rendue à la lune**. **A livré la Cuve pour empêcher Seb d'y aller — et en a trop dit devant Rémy.** ⚑ connaît chaque relais, chaque gué et chaque chanson d'ici à Vermeil |
+| **Blaise** | **631** *(540 en entrant dans la cour)*. Neuf ans chez la Braise Haute. **A reçu la Main finie de la main de Seb.** Côtes entamées, a porté l'avant du brancard toute la nuit sans poser une question. Premier disciple |
+| **Rémy** | **620.** Neuf ans chez la Braise Haute, premier de sa cour. **Parti seul**, a attendu une heure devant une barrière tenue par un homme à 510 sans le toucher. A rendu ceinture et robe, a donné son prénom lui-même. **Entre derrière Blaise pour la première fois de sa vie.** **A appris cette nuit ce que sa maison nourrissait à la Cuve** |
+| **Régis** | **880.** Onze ans compteur du relais **du val — resté là-bas**, à une lieue. **Teneur de livres, et refuse le nom de la maison** : *« un homme qui paie pour les autres n'est pas un frère, c'est un poste. »* **C'est le compte ouvert : la dîme s'inscrit chez lui.** **Première ligne de la colonne : 310, écrite toute seule pendant la Cuve** |
 
 ---
 
@@ -299,8 +307,8 @@ Une **plaque de fer** noire, taille d'une main, sans une lettre, un **creux** po
 |---|---|---|
 | **I** | **HORS MESURE** — il décide de ce que le monde lit de lui, et **rien ne peut le mesurer, le classer, le retenir ni le saisir** — lui ou sa bête | **OUVERTE** |
 | **II** | **CE QUI SE SOUVIENT** — partout où survit un morceau du monde d'avant la mesure (chanson, geste, vieille bouche, ruine), **on sait ce qu'il porte et on lui parle**. *Revers : ce qui reconnaît **désigne**, et il existe des gens dont le métier est d'écouter les vieilles chansons.* | **OUVERTE** |
-| **III** | **CE QUI ME FRAPPE, JE LE GARDE** — un art porté sur son corps **avec l'intention pleine de l'y mettre** entre en lui, entier, au premier cran. Pas en regardant, pas dans un manuel : il faut que ça arrive pour de vrai. *Revers : il faut que ça touche — et tout ce qui accepte l'invitation n'est pas une paume ouverte. Poisons, formations, choses qu'on met dans un corps et qui n'en sortent pas.* | **OUVERTE** *(sc. 186)* |
-| **IV** | **LA DÎME — cran 3 : LE LIVRE.** Un dixième de tout ce qu'il prend, à l'instant, sans jet, sans recours. **Cran 2** : quand ce qu'il prend ne se coupe pas en dix, ou qu'il n'a rien à prélever, la note **s'ouvre sur celui qui a quelque chose et se trouve là** — tout homme qui lui donne quelque chose paie sa part à sa place, sans jamais savoir pourquoi. **Cran 3** : depuis qu'il a une maison, la note **s'inscrit** — chiffrée, datée — dans les comptes du Creuset, **et elle s'accumule**. *Revers : ce qui est écrit se lit.* | **FERMÉE** |
+| **III** | **CE QUI ME FRAPPE, JE LE GARDE** — un art porté sur son corps **avec l'intention pleine de l'y mettre** entre en lui, entier, au premier cran. Pas en regardant, pas dans un manuel : il faut que ça arrive pour de vrai. *Revers : il faut que ça touche — et tout ce qui accepte l'invitation n'est pas une paume ouverte. Poisons, formations, choses qu'on met dans un corps et qui n'en sortent pas.* | **OUVERTE** |
+| **IV** | **LA DÎME — cran 3 : LE LIVRE.** Un dixième de tout ce qu'il **prend**, à l'instant, sans jet, sans recours. **Cran 2** : quand ce qu'il prend ne se coupe pas en dix, la note **s'ouvre sur celui qui a quelque chose et se trouve là**. **Cran 3** : depuis qu'il a une maison, la note **s'inscrit** — chiffrée, datée — dans les comptes du Creuset, **et elle s'accumule**, où que soit le livre. *Revers : ce qui est écrit se lit.* | **FERMÉE** |
 
 > **Budget du palier : les ouvertures sont dépensées.** Les critiques font désormais **monter d'un cran** ce qui existe. Créer une porte neuve est un événement de campagne.
 
@@ -312,11 +320,11 @@ Une **plaque de fer** noire, taille d'une main, sans une lettre, un **creux** po
 
 | Qui | État |
 |---|---|
-| **Régis · Firmin · Blaise** | voir §4 — les gens du Creuset |
-| **Yvon** | **2 016** *(2 240 avant la dîme)*. Maître du val pour la Braise Haute, cinquantaine, **pas une seule marque sur le corps**. Est descendu seul de nuit. A fini la Main sur Seb et n'a rien dit de ce qu'il a senti sous sa paume à 5 000. **Est resté debout quand tout s'est ouvert.** A donné : la règle du compte ouvert permanent, Vermeil, la vieille de la halle, le jeton du pont bas. A reçu le Creuset à voix haute. **Conditions posées** : hors du val au lever · dire que la Main a été volée · **ne jamais revenir prendre ses hommes** |
-| **Le 620** | premier de la cour d'Yvon, neuf ans de maison. A fini le mouvement sur Seb le premier. **A fait un pas vers la table du Creuset ; son maître l'a retenu par le bras.** ⚑ |
-| **Les quatre autres disciples** | 400-580. Savent ce qu'ils pèsent depuis cette nuit. Un d'eux sait qu'on le classait au-dessus d'un plus fort |
-| **LA BRAISE HAUTE** | la maison qui tient le val : la route, les deux relais, le péage du pont bas, un enfant par ferme tous les trois ans |
+| **Firmin · Blaise · Rémy · Régis** | voir §4 — les gens du Creuset |
+| **Yvon** | **2 016** *(2 240 avant la dîme)*. Maître du val pour la Braise Haute, cinquantaine, **pas une seule marque sur le corps**. A fini la Main sur Seb et n'a rien dit de ce qu'il a senti sous sa paume à 5 000. **Est resté debout quand tout s'est ouvert.** A reçu le Creuset à voix haute. **Conditions posées** : hors du val au lever ✔ · dire que la Main a été volée · **ne jamais revenir prendre ses hommes** — *Rémy est parti seul, la lettre tient, l'esprit non* |
+| **L'homme du péage** | **510.** Pont bas. A écrit sous la contrainte, et a tout écrit, exactement. **Son registre remonte à la Braise Haute** ⚑ |
+| **Les cinq autres disciples** | 400-631. Savent ce qu'ils pèsent depuis cette nuit. Un d'eux sait qu'on le classait au-dessus d'un plus fort |
+| **LA BRAISE HAUTE** | la maison qui tient le val : la route, les deux relais, le péage du pont bas, un enfant par ferme tous les trois ans — **et la Cuve, qu'elle nourrissait** |
 | **À Vermeil** *(annoncés, pas rencontrés)* | **la maison qui tient les Listes** · **derrière la halle aux grains, une vieille qui achète les vieilles chansons au vers** — *« ne va pas la voir en criant »* |
 
 ### Laissés sur Terre *(vivants — mémoire, pas lieu de jeu)*
@@ -327,26 +335,20 @@ Une **plaque de fer** noire, taille d'une main, sans une lettre, un **creux** po
 
 ## 7 · POINT DE REPRISE
 
-**M1, la nuit. La cour du relais, après.**
+**Fin de la nuit du M1. Au bord de la Cuve, une demi-lieue hors de la route de Vermeil.**
 
-Blaise est encore plié en deux au milieu de la cour, la main sur les côtes, à six cent trente et un. Le 620 se frotte le bras à l'endroit où son maître l'a tenu. Les quatre autres n'ont pas repris leur mouvement et ne le reprendront pas ce soir.
+La Cuve est vide pour la première fois depuis que quelqu'un y jette quelque chose. Au bord, un sac d'os et de ferraille que la bête a remonté et posé devant lui. Deux doigts de sa main droite ne se plient plus.
 
-Firmin est sur un brancard de fortune, jambe attelée, sa réglette de bambou serrée dans la main. Régis a rangé la planchette de la Braise Haute sur le côté de la table et tient un livre neuf, ouvert, avec une colonne vide dedans.
+À une demi-lieue, sur le bas-côté, trois hommes attendent : Firmin sur son brancard, jambe attelée, qui vient de comprendre qu'il a envoyé son maître de maison dans un trou dont personne n'est jamais remonté. Blaise, les côtes en morceaux, qui n'a rien demandé. Et Rémy, neuf ans de robe grise, qui n'a plus rien dit depuis qu'il a appris ce que sa maison nourrissait ici.
 
-Yvon est au portail et ne s'en va pas. Il t'a mis dehors pour le lever du jour, il t'a reçu à voix haute dans la même heure, et il n'a pas encore décidé lequel des deux il regrette.
-
-Le pont bas est ouvert. Vermeil est à deux jours.
+Derrière eux, le val. Devant, Vermeil, au soir du M3.
 
 **Horloges :**
-- **Une colonne vide dans un livre que tu ne peux pas ouvrir.** Elle se remplira.
-- **Hors du val au lever.** Et interdiction de revenir prendre les hommes d'Yvon.
-- **Firmin ne roule pas avant la lune.** Toi, tu pars quand tu veux.
-- **VERMEIL, deux jours** : les Listes — la seule chose écrite qui compte ici, et ton nom n'y est pas — et la vieille derrière la halle aux grains.
-- **La bête est à 1/6.** Le prochain cran demande une grosse prise ou une réclusion.
+- **La colonne n'est plus vide.** 310, chiffré, daté, à une lieue en arrière, dans un livre tenu par un homme qui a refusé le nom de la maison.
+- **Le registre du péage remonte à la Braise Haute.** Son nom y arrivera avant sa figure. **Trois passages dus, bourse à 0.**
+- **La Cuve est vide, et la Braise Haute viendra la nourrir à la saison.**
+- **Rémy sait.** Neuf ans.
+- **Trois semaines de main droite.** Vermeil est dans deux jours.
+- **La bête est à 2/6.** Le cran 3 lui donne un visage — et son registre animal, qui viendra de sa plus grosse prise du Murim.
 
-**Bloc de choix en attente — le servir tel quel :**
-
-> ▸ **Armer la maison avant de partir.** Finir la Main sur Firmin et sur Régis, cette nuit, dans cette cour : une maison de trois où même le teneur de livres à 880 porte l'art — **[Chiffré — avantage moyen]**
-> ▸ **Le péage du pont bas.** Première recette du Creuset : la prendre à la Braise Haute cette nuit, devant Yvon, et faire écrire la première ligne de la colonne avec — **[Noir + Chiffré — avantage gros · la dîme s'inscrit]**
-> ▸ **Le 620.** Yvon a interdit qu'on le prenne. Le lui demander à lui, pas à son maître, devant son maître — et voir si un homme qu'on retient par le bras reste quand on le lâche — **[Chiffré — désavantage moyen]**
-> ▸ **Partir maintenant, à trois.** Pont bas de nuit, Vermeil au matin du M3, avant l'histoire qu'on racontera de cette cour — **[Chiffré — avantage petit]**
+**Bloc de choix : à écrire.** *(La scène 198 est close ; le joueur n'a pas encore reçu de bloc.)*
