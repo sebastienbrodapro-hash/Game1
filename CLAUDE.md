@@ -37,6 +37,8 @@ Quand le joueur demande à jouer ou reprendre : **vérifier d'abord l'état du d
 
 **Écrire dans le coffre** : toujours dans `MJ-SECRETS.md`, puis `python .claude/hooks/generer-vue.py` — à relancer aussi à chaque `codex`.
 
+**Le coffre ne s'affiche jamais en brut** (errata §38) : ni `cat`, ni `head`, ni `grep`, ni « juste la structure », y compris en point MJ. **Les sorties d'outil ne passent pas devant le hook** — ce chemin n'est couvert que par la conduite. Tout passe par un script qui ne rend que des comptes.
+
 ## Outillage MJ — hook et sous-agents (validé par le joueur le 2026-08-14)
 
 Trois pièces dans `.claude/`, versionnées. **Elles ne remplacent aucune règle** : le MJ passe toujours sa propre passe de contrôle (`RULE-MJ` §D), écrit toujours ses propres options.

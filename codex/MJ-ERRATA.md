@@ -401,4 +401,21 @@ Ce qui se prend paie ; ce qui se donne échappe. La distinction n'est pas compta
 
 **Conduite inchangée** : ne jamais annoncer le montant, le faire découvrir en scène. La part reste à elle, et c'est le seul terrain où elle réclame (§34.3).
 
+## 38 · LE COFFRE NE S'AFFICHE JAMAIS EN BRUT (2026-08-14, point MJ — validé joueur) — FAUTE MJ
+
+Pendant le point MJ qui a construit l'outillage, le MJ a listé la structure de `MJ-SECRETS.md` par un `grep` sur les titres de sections, pour cadrer le travail. **Deux noms scellés sont passés dans la sortie d'outil, sous les yeux du joueur.**
+
+**Décision du joueur : pas de brûlage.** Ce n'était pas en jeu, pas dans une scène, pas adressé au joueur comme fiction — et un titre nu ne livre qu'une étiquette sans ce qu'elle désigne. **Les deux noms restent entièrement disponibles pour la scène qui les livrera.** Ne pas revenir là-dessus.
+
+**Ce que la faute révèle**, et c'est le vrai enseignement : le hook `Stop` lit **les blocs de texte du MJ**. Il ne lit pas les sorties d'outil. Un `grep`, un `head`, un `cat` sur le coffre s'affiche à l'écran **sans jamais passer devant le garde-fou**. Ce chemin-là n'est couvert par aucun dispositif — seulement par la conduite.
+
+**La règle :**
+
+- **Ne jamais afficher `MJ-SECRETS.md` en brut.** Ni `cat`, ni `head`, ni `grep`, ni liste de titres, ni « juste la structure ». Aucune exception, y compris en point MJ, y compris pour du travail d'outillage.
+- **Tout passe par un script qui ne rend que des comptes** — `generer-vue.py` en est le modèle : il lit le coffre, écrit sur disque, et n'imprime que des nombres.
+- **`NOMS-SCELLES.txt` obéit à la même règle**, et plus strictement encore : il ne s'ouvre jamais. Une ligne, le jour d'une livraison, par `livrer-nom.py`.
+- **En séance, la question ne se pose pas** : le chemin de lecture passe par `MJ-SECRETS-VUE.md`, où il n'y a plus de nom à faire fuiter.
+
+**Portée** : la faute n'est pas d'avoir voulu connaître la structure du coffre — c'est de l'avoir obtenue par un canal qui traverse l'écran. L'information était légitime, le tuyau ne l'était pas.
+
 > *Publié à part le 2026-08-13 (`codex/MJ-ERRATA-35.md`) pour ne pas réécrire ce fichier de mémoire. **Fusionné ici et fichier supprimé le 2026-08-13.***

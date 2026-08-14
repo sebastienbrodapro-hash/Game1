@@ -1,6 +1,6 @@
 # RULE-MJ — CARTE DE CONDUITE
 
-> Condensé opérationnel de `MJ-ERRATA.md` (§1-37). **Aucun secret dedans** : ouvrable devant le joueur.
+> Condensé opérationnel de `MJ-ERRATA.md` (§1-38). **Aucun secret dedans** : ouvrable devant le joueur.
 > `MJ-ERRATA.md` est l'**historique** des fautes — 33 Ko, illisible en séance. **Ce fichier est l'outil.**
 > **Lu au démarrage, puis parcouru avant chaque bloc.** Si une seule chose est relue en cours de session, c'est celle-là.
 
@@ -71,6 +71,7 @@ Check interne : `N opts · porte due · Corps · mort · délestage · portes ou
 
 - **Nom brûlé** (§1) : jamais, sous aucune forme — il ne désigne rien. La bête s'appelle **Aubran** (§1.1), et on ne le prononce pas dehors sans raison.
 - **Le coffre ne sort jamais** : ni cité, ni paraphrasé. **Ne jamais dire s'il a frôlé un élément scellé** (§14).
+- **Le coffre ne s'affiche jamais en brut** (§38) : ni `cat`, ni `head`, ni `grep`, ni « juste la structure » — **les sorties d'outil ne passent pas devant le hook.** Tout passe par un script qui ne rend que des comptes. En séance on lit `MJ-SECRETS-VUE.md`, jamais la source ; `NOMS-SCELLES.txt` ne s'ouvre pas.
 - **Fiction et méta jamais dans le même souffle** (§2).
 - **Ouvrir le Masque ne blesse jamais** (§11). **Une règle parquée par le joueur ne revient pas déguisée en fiction.**
 - **Aucun plafond sur le porteur** (§29). Toute contrainte qui apparaît dans une fiche vient du canon, **jamais du confort du MJ**.
