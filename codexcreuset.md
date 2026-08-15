@@ -1,23 +1,29 @@
-# CODEX — LE CREUSET (v24)
+# CODEX — LE CREUSET (v25)
 
-> **Usage :** nouveau fil → « Reprends Le Creuset ». Le MJ lit `codex/MJ-INDEX.md`, puis **`codex/RULE-MJ.md`**, puis le corpus MJ, puis ce fichier **en entier**, **en silence**.
-> **v24 — PALIER II, LE MURIM v2. Scène 283 : la bête a un visage.** **Point de reprise au §7.**
-> **Copies figées : `codex/codex-006.md` à `codex/codex-023.md`.**
+> **Usage :** nouveau fil → « Reprends Le Creuset ». Le MJ lit `codex/MJ-INDEX.md`, puis **`codex/SEUILS.md`**, puis **`codex/RULE-MJ.md`**, puis le corpus MJ, puis ce fichier **en entier**, **en silence**.
+> **v25 — PALIER II, LE MURIM v2. Scène 299 : le col rouvert, la ville en vue.** **Point de reprise au §7.**
+> **Copies figées : `codex/codex-006.md` à `codex/codex-024.md`.**
 
 ---
 
-## 0 · CE QUI CHANGE (v23 → v24) — VINGT-NEUF SCÈNES, ET LE CRAN 3
+## 0 · CE QUI CHANGE (v24 → v25) — SEIZE SCÈNES, ET LE VIEUX MONDE
 
-**Scènes 255 à 283.** De **36 096** à **68 996**. La bête passe **CRAN 3 — LA FACE**.
+**Scènes 284 à 299.** Corps **CORROYÉ → CORPS D'OR**. La bête passe **CRAN 4 — LA PHRASE**. Chiffre inchangé : **68 996**.
 
-- **VINGT-CINQ MILLE SUR UNE VILLE.** Du haut du lacet, il règle et il ouvre : la chaîne des seaux se brise, les familiers rentrent dans leurs porteurs par centaines, un maître de cinquante ans rit à genoux dans la caillasse. **Prix payé plus tard : personne ne reprend les seaux, et le quartier passe de trois rues à huit.**
-- **SOUS LES TANNERIES.** Une aberration faite de coutures, nourrie de couples séparés depuis onze ans — trente vivants à **1** assis contre les parois, leurs familiers accrochés à la voûte. **CATASTROPHE : PORTE NÉGATIVE VI — LA COUTURE.** Il encaisse quatre heures volontairement : **13ᵉ couche**, **PORTE III cran 2**. Elle en mange un quart ; la chose se découd, file dans la roche à 6 200 et emporte onze ans d'orphelins. **Sauf un**, qui traverse la salle pour la suivre.
-- **LA COUR AUX CHANSONS.** Il lui laisse choisir la route ; **elle ne va pas vers Irène**. Une vieille de quatre-vingts ans qui achète les vieux vers au vers, quarante et un ans de collecte — dont il fait envoler les deux tiers d'un seul `SOCLE`. Il les rattrape sur les toits : **PORTE II cran 4 — ce qui a été laissé revient ensemble**, une colonne de papier blanc tournant au-dessus d'une ville en feu. **HÉLÈNE** chante une comptine de huit dieux morts de faim, s'arrête avant le dernier vers — *« celui-là, on le dit pas dehors »* — et **la bête le finit à sa place**. **LE NOM EST RELIVRÉ.** Elle donne aussi le mot **jureur**, sans la ligne : elle a brûlé le matin même.
-- **L'EST, PUIS LES VERRERIES.** Irène ne fuyait pas : **elle se faisait pousser** pour remonter jusqu'à qui paye, et elle en défaisait un par soir. Il vide les trois rabatteurs et **coupe le fil**. Il lui dit tout — le Fond, le Masque, la dévoration, le palier — et le prix est qu'il n'y a plus de secret. Elle demande à être rendue **inutile** ; il dit **oui**.
-- **BASILE ET L'ANNEAU.** Un séparateur dont **le familier est une formation** dépliée sur quatre jours. Quatre heures d'anneau encaissées : **14ᵉ couche**, **PORTE III cran 3 — ce qui insiste s'use**. **Elle refuse de monter dessus : *« Petit. »*** Il le lui donne quand même : **+7 900 plein**, 23ᵉ motif en lignes de verre.
-- **LE PAS D'HIVER.** Neuf jours au lieu de six, zéro fer, sept jours sans manger. Sous le col : **26 000 posés sous quarante générations de cairns**, réveillés d'un mot. Au-dessus : **on ne le trouve pas, il vient.** Il l'envoie **seule en appât**, trois jours ; elle refuse le dragon endormi — *ce qui dort ne plie pas* — et **montre du doigt** celui qui la jauge.
-- **LE CRAN 3.** Il lui donne la main sur le chiffre. **Elle ne prend pas cinquante-six mille : elle se règle à 12 900, au point près**, pour qu'il y ait une victoire à manger. Une minute de lutte, trente-huit façons de tenir, et le premier prédateur du palier plie. **LA FACE.** Yeux à pupille verticale, fourrure rayée, **et plus un bruit**.
-- **CINQ RÈGLES NOUVELLES** (§45-§48) : la DA ne se décide jamais seul · les jetons suivent la bande · son corps, son veto · chaque cran lui donne du réel. Plus le **bestiaire du vieux monde** : douze bêtes d'avant la mesure, que lui seul peut mesurer.
+- **CE QUI ÉTAIT SOUS LES CAIRNS.** Il redescend au col, ouvert en grand, dans la salle de ce qu'il a réveillé. **26 114** — une chose posée là avant la mesure. Elle ne le regarde pas : **c'est la bête qu'elle regarde**, qui se règle sur elle au point près et à qui elle plie la nuque. Puis elle se lève, et quarante générations de cairns s'effondrent avec le col. **La route de l'est est morte.**
+- **CE QUI MARCHE DROIT.** Huit heures de filature, un chiffre qui ne varie pas d'un point — *parce que ce n'était pas encore vivant*. Au bout : une cuvette, un escalier de mille marches, **214 vivants**, et un cairn sur chaque toit.
+- **LE HAUT DE L'ESCALIER.** Il monte sur le tas du sommet ; son poids le met par terre devant deux cents personnes. **Personne ne crie.** **PERRINE, 4 600**, dernière main d'une lignée de porteurs de pierres.
+- **CE QU'ON LÈVE.** Il ramasse **26 114 de terre**, à bout de bras. Le sol cède, l'escalier s'effondre, **15ᵉ couche** — et sous ses mains la chose se réveille pour de bon : **36 100**. Elle le regarde, elle.
+- **CE QU'ELLE EN FAIT.** Il pose et il recule. **Elle prend le chiffre et le pose sur lui** : non pour le mesurer — **pour le plafonner**. Elle le tient à hauteur, main sur le front, et il se couche.
+- **LA MANIÈRE.** Perrine lui donne tout : la manière n'a jamais été de tenir, mais **d'empêcher de monter**, et il n'y a pas de secret — il n'y a que de ne jamais s'arrêter. **`LA POSE` cran 1.** *Prix : ça appuie en retour, et personne dans cette lignée n'a jamais tenu seul.*
+- **ONZE JOURS SUR LA DALLE — LA PREMIÈRE RÉCLUSION DE LA CAMPAGNE.** Naturel 100. Il comprend ce que quarante générations n'ont pas pu comprendre : **le poids n'est pas le prix, c'est l'outil.** **`LA POSE` cran 3 · PORTE VII — CE QUI NE MONTE PLUS · 16ᵉ couche = CORPS D'OR.** Et elle, qui a tenu 36 100 seule onze jours sans manger ni dormir : **CRAN 4 — LA PHRASE.** Sa première phrase est une limite : *« Je ne peux plus le tenir très longtemps. Ce n'est pas lui qu'ils tenaient. »*
+- **SOUS LE COUVERCLE.** Il descend par la fente. Une salle sans murs, une lueur dorée sans source, **un sol fait de millions de cairns**, et une table de vingt pas, nue, gravée : **ON A PROMIS**. **Son instinct n'y lit rien** — ni zéro, ni immense : rien. Première fois de sa vie. **Elle recule.** Première fois de la sienne.
+- **CE QU'ELLE A VU.** 214 × 400 ans = 85 600 pierres. Il y en a **des millions** : *« ils ne sont pas les seuls à payer »*. Et la table **ne retient rien : elle reçoit**. À la troisième question — *pourquoi tu as reculé* — **elle ouvre la bouche et n'y arrive pas.** Ce n'est pas un secret gardé : c'est un endroit où elle ne va pas.
+- **CE QU'ON APPORTE.** Il pose la **plaque de sa lignée** sur la table : aucun bruit, puis elle chauffe sans que la bête s'allume, et **la lueur va sur elle**. Le creux glisse d'un demi-pouce. Puis il charge la table — et comprend : ce qui se consomme, **c'est le fait d'avoir laissé quelque chose derrière soi.** Les cailloux étaient des **intérêts**.
+- **CE QU'IL VENAIT RENDRE.** 36 100 ouvre la voûte, saute, et **se couche sur la table — qui est sa place, taillée pour lui.** Seb regarde et compte : 36 100 → **1**. Vivant, réduit à une veilleuse. **Elle reste éteinte** : ce qui se rend ne l'allume pas.
+- **CE QUI LUI PLAÎT.** Il lui demande si laisser les choses se réparer seules la dérange. **Non.** *« Vingt-quatre fois tu m'as donné, je n'ai jamais demandé une seule. Ce qui me plaît, c'est que quelqu'un qui pouvait gagner décide d'arrêter. Tu ne peux pas m'en faire un par jour. »*
+- **L'EST.** Il dit la vérité aux 214 — *c'est réglé, vous n'avez plus rien à porter* — et ils le croient, et ils redescendent en silence : **on vient de leur retirer la seule chose que quarante générations savaient faire.** Perrine : *« Vous repartez. Nous on reste. Et maintenant on ne sait pas ce qu'on garde. »* Puis deux jours à rouvrir le Pas d'Hiver à mains nues, **une tranchée posée qui ne bougera plus**. Elle dort onze heures. **Son épaule s'est refaite**, deux lignes de verre neuves.
+- **SEPT RÈGLES NOUVELLES** (§49-§55) : aucun plafond dans une strate · l'échelle complète des grades de Corps · un seuil écrit est un seuil dû · tout en `n/max` · les choix s'affichent directement · jamais le même mouvement d'un bloc à l'autre · **un modificateur ne se calcule jamais sur la puissance de l'adversaire.** Plus `codex/SEUILS.md`, le caractère `!`, et le **skill `creuset`**.
 
 ---
 
@@ -29,12 +35,14 @@
 - **Elle a ses goûts, sa voix et sa volonté** : la vraie reddition l'allume, l'obéissance commandée la laisse éteinte, et **elle peut refuser**. Rien n'est prélevé sur ce qu'il prend.
 - Il y a trois siècles, un garçon nommé **Victor** a fondé un ordre avec une bête pareille, avant que sa propre maison ne la lui fasse effacer. L'espèce s'appelait **creuset**.
 - **En 267 jours, il est passé de 1 à 10 206**, a vidé la Doyenne du Verger Blanc, abattu ce dans quoi on taillait les pierres du monde, et **quitté son palier**.
-- **Au Murim, en cent cinquante-cinq jours** : une chance vidée, trois arts, un Corps corroyé, **quinze disques sur seize devant une ville entière**, une aberration décousue, un dragon réveillé — et **68 996**.
-- **Et cette nuit, dans la neige, sa bête a eu un visage.**
+- **Au Murim, en cent soixante-douze jours** : une chance vidée, quatre arts, un **Corps d'Or**, quinze disques devant une ville entière, une aberration décousue, un dragon réveillé, **un col fermé puis rouvert à mains nues** — et **68 996**.
+- **Et il a vu une chose d'avant la mesure retourner d'elle-même à sa place, dans une salle que son instinct ne sait pas lire.**
 
 ---
 
 ## 1 · MÉTA — RÈGLES VERROUILLÉES
+
+> **Les nombres seuls sont dans `codex/SEUILS.md`**, relu **avant chaque réponse**. Ce chapitre est la loi ; SEUILS est l'outil.
 
 ### 1.1 Le dé — d100
 
@@ -46,22 +54,17 @@
 | **66–89** | pleinement, sans prix | — |
 | **90–100** | au-delà · **une porte s'ouvre, ou une ouverte s'élargit** | — |
 
-**NATUREL ET TOTAL** *(errata §35)* :
-
-- **Le naturel décide seul du critique.** `01-10` → catastrophe : **une porte négative s'ouvre ou s'aggrave d'un cran**. `90-100` → triomphe : une porte positive s'ouvre ou monte d'un cran. **Aucun modificateur ne protège d'un critique ni n'en fabrique un.**
-- **LES PORTES POSITIVES ACQUISES NE SE PERDENT JAMAIS SUR UN JET** *(errata §41)*. Ce qui est gagné reste gagné ; ce qui monte sur une catastrophe, c'est **la charge du monde**.
-- **Le total décide de la bande de résultat**, toujours.
-- **Dosage** : total ≥ 90 sans naturel critique → **un petit plus**. Total ≤ 10 sans naturel critique → **une conséquence plus mauvaise**. **Jamais de mouvement de porte dans ces deux cas.**
-- **LES JETONS SUIVENT LA BANDE — donc le total** *(errata §46)* : `01-10` → **+2**, `11-35` → **+1**, **quel que soit le naturel**. Ils s'achètent en perdant, et un dosage bas est une perte. **Le total paie, le naturel ouvre.**
-
-Autres verrous :
-
-- **UNE ACTION = UN JET.** Une séquence = un jet par action, bandes annoncées ensemble, dans l'ordre. Fusion seulement si même moment, même lieu, même opposition.
+- **Le naturel décide seul du critique.** `01-10` → une porte négative s'ouvre ou s'aggrave. `90-100` → une positive s'ouvre ou monte d'un cran. **Aucun modificateur ne protège d'un critique ni n'en fabrique un.**
+- **LES PORTES POSITIVES ACQUISES NE SE PERDENT JAMAIS SUR UN JET** (§41).
+- **Le total décide de la bande**, toujours. Total ≥ 90 sans naturel critique → **un petit plus**. Total ≤ 10 sans naturel critique → **une conséquence plus mauvaise**. **Jamais de mouvement de porte dans ces deux cas.**
+- **LES JETONS SUIVENT LA BANDE — donc le total** (§46) : `01-10` → **+2**, `11-35` → **+1**. **Le total paie, le naturel ouvre.**
+- **UNE ACTION = UN JET.** Fusion seulement si même moment, même lieu, même opposition.
 - **Bande 36–65 — prix plancher** : perte concrète, jouée dans la prose. Jamais un twist qui arrange.
-- Chiffre **masqué**, bande annoncée, tirée par une **vraie commande du terminal**. **Sur demande, le générateur est vérifié en public.**
-- Ligne **mort** annoncée AVANT le choix, toujours.
+- Chiffre **masqué**, bande annoncée, **vraie commande du terminal**. Générateur vérifié en public sur demande.
+- Ligne **mort** annoncée AVANT le choix — **et seulement quand la mort est réellement sur la table**, jamais comme décor de tension.
 - Pas de relance — **sauf rembobinage demandé par le joueur**, toujours autorisé.
-- **UNE PORTE EST DUE À CHAQUE CRITIQUE, servie dans la scène même.** Un triomphe garanti par jetons compte comme critique.
+- **UNE PORTE EST DUE À CHAQUE CRITIQUE, servie dans la scène même.**
+- **UN SEUIL ÉCRIT EST UN SEUIL DÛ** *(§51, faute du 2026-08-15)*. Si la fiche annonce « grade suivant à 16 », le grade tombe **à 16**, dans la scène même — jamais « mûr et pas encore fait ». Toute contrainte qui apparaît dans une fiche vient du canon, **jamais du confort du MJ**.
 
 ### 1.2 Jetons
 
@@ -75,8 +78,9 @@ Plafond **15**. Ils s'achètent **en perdant**. **Les garanties remplacent le je
 
 ### 1.3 Modificateurs — et LE CORPS
 
-Petit **±5** · moyen **±10** · gros **±15/±20**. **« Neutre » est légitime.**
-**Blessures datées**, horizon en clair. Les cicatrices de Seb sont définitives.
+Petit **±5** · moyen **±10** · gros **±15/±20**. **« Neutre » est le défaut, pas l'exception.**
+
+> **⛔ LE MODIFICATEUR NE SE CALCULE JAMAIS SUR LA PUISSANCE DE L'ADVERSAIRE** *(§55)*. Le chiffre a déjà réglé la question de la force avant le jet. Étiqueter « désavantage » parce que la chose en face est grosse, c'est **du gonflement déguisé en dé**. Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure, aveuglement, nombre, surprise, un art inconnu, un poison, une formation — ou un axe où le chiffre ne sert à rien (**le Corps**). **L'étiquette annoncée est honorée.**
 
 #### LES DEUX AXES
 
@@ -86,26 +90,33 @@ Fermé, le chiffre ne passe pas dans la chair : il ment aux instruments et n'ali
 
 | Réglage | Force réelle — repères canon |
 |---|---|
-| **Fermé — Corps seul** *(corroyé, 14 couches)* | plie du fer à la main, **fend la pierre bleue en marchant** ; tient quatre heures dans une formation sans rien de cassé. **Déjà au-dessus de tout maître de ce palier, sans rien ouvrir.** |
+| **Fermé — Corps seul** *(Corps d'Or)* | **rien de ce palier ne l'entame** : ni art inconnu, ni poison, ni formation, ni le nombre. Soulève de terre une bête d'avant la mesure ; ouvre cent mille tonnes de col à mains nues en deux jours. |
 | **À moitié — ~28 000** | le mur de bloc taillé n'existe pas ; une cour de vingt pas s'assoit quand il pose `LE SOCLE`. |
 | **Tout — 68 996** | le verre d'une combe entière se lève d'un pied, les rails se tordent debout, une masse grise sans forme se dresse plus haut que trois cheminées. |
 
-**LE CORPS.** Le chiffre mesure la puissance ; le Corps est la charpente qui la porte. Il ne monte **jamais** par dévoration.
-**Grades : faible → dur → trempé → CORROYÉ → la suite en jeu. 4 couches = un grade.**
-**Voie de l'épreuve uniquement** : encaisser volontairement ce qui devrait casser, **une couche d'un coup, sur jet**. *Ouvrir le Masque annule l'épreuve.*
-**OUVRIR NE BLESSE JAMAIS.** L'option Corps ne se pose que **là où le lieu et le moment la portent**.
+**LES GRADES — 4 couches = un grade** *(échelle complète tranchée le 2026-08-15, §50)* :
+
+> **faible → dur → trempé → CORROYÉ → CORPS D'OR → CORPS DE JADE → CORPS DE DIAMANT → la suite en jeu**
+
+*En dessous, des adjectifs : du fer qu'on travaille. Au-dessus, des noms de matière : le métal cesse d'être battu. La ligne du fer s'arrête à corroyé, comme dans tout le genre.*
+
+- **CORPS D'OR = l'indestructible.** Plus rien de ce palier ne l'entame.
+- **CORPS DE JADE = ce qui ne garde pas les marques.** C'est **lui**, et pas avant, qui reprend les cicatrices dites définitives — une par grade.
+- **Voie de l'épreuve uniquement** : encaisser volontairement ce qui devrait casser, **une couche d'un coup, sur jet**. La réclusion peut en donner une. *Ouvrir le Masque annule l'épreuve.* Le Corps ne monte **jamais** par dévoration.
+- *Design refusé par le joueur : « les coups encaissés nourrissent directement la couche ». Le Corps reste une voie d'épreuve pure.*
 
 ### 1.4 LES SYSTÈMES DU MURIM
 
 **LES ARTS.** Un art = une ligne à crans, acquise d'un maître, d'un manuel, d'un cadavre — elle **monte d'un cran** par l'usage marquant et par la réclusion. **Deux ou trois arts actifs au maximum.**
 
-**L'ÉQUIPEMENT.** Armes, armures, pilules, objets de secte : réel et important. **Mais l'équipement qui évolue n'est pas une catégorie de ce monde** — si ça arrive, c'est un événement de campagne. *(À part : les familiers-outils, qui grandissent avec leur porteur.)*
+**L'ÉQUIPEMENT.** Armes, armures, pilules, objets de secte : réel et important. **L'équipement qui évolue n'est pas une catégorie de ce monde** — si ça arrive, c'est un événement de campagne. *(À part : les familiers-outils.)*
 
-**LA RÉCLUSION.** S'enfermer des semaines ou des mois et ressortir **transformé** : un cran d'art, une couche de Corps, **un cran de la bête**, parfois deux choses. **Prix invariable : le monde bouge sans toi.** *Jamais servie à ce jour.*
+**LA RÉCLUSION.** S'enfermer et ressortir **transformé** : un cran d'art, une couche de Corps, **un cran de la bête**, parfois plusieurs. **Prix invariable : le monde bouge sans toi.** *Servie une fois — onze jours sur la dalle, M156-M167.*
 
-**LES CHANCES.** Le palier est troué d'épreuves. **Ce qui s'y gagne est propre à chacun.** **Toutes mordent ou coûtent.**
+**LES CHANCES.** Le palier est troué d'épreuves. **Ce qui s'y gagne est propre à chacun. Toutes mordent ou coûtent.**
 
-**LE VIEUX MONDE.** Des bêtes d'avant la mesure vivent encore : **aucun autel ne les lit, la jauge à vue ne rend rien sur elles.** Le monde les **chante**, il ne les compte pas. **Seb seul les mesure exactement.** Elles ne se classent pas, elles ne s'inscrivent nulle part, et on les chasse en confrérie une fois par génération.
+**LE VIEUX MONDE.** Des bêtes d'avant la mesure vivent encore : **aucun autel ne les lit, la jauge à vue ne rend rien sur elles.** Le monde les **chante**, il ne les compte pas. **Seb seul les mesure exactement.** On les chasse en confrérie une fois par génération.
+**Et au-dessous du vieux monde, il y a quelque chose que Seb ne mesure pas du tout** — un volume où son instinct ne rend ni zéro, ni faible, ni immense : rien. *Ça ne retient pas, ça reçoit. Ça se nourrit de ce que les gens laissent derrière eux. On lui apporte depuis au moins quatre cents ans, dans plusieurs vallées qui ne se connaissent pas.*
 
 ### 1.5 Familles de choix
 
@@ -115,54 +126,59 @@ Fermé, le chiffre ne passe pas dans la chair : il ment aux instruments et n'ali
 | **Chiffré** | dès qu'il y a une volonté en face, une résistance, une issue incertaine |
 | **Noir** | étiquette morale, cumulable. À proposer régulièrement |
 
-**Aucun quota.** Les blocs entièrement en désavantage sont validés par le joueur.
-**FORMAT : viser 4 options.** **Regrouper les logiques.** **Au moins une option qui sort du plan en cours.**
+**Aucun quota.** **FORMAT : viser 4 options**, regrouper les logiques, **au moins une qui sort du plan en cours**.
+**JAMAIS LE MÊME MOUVEMENT D'UN BLOC À L'AUTRE** *(§53)* : une option non prise deux fois est morte — la retirer, pas la reformuler.
+**SERVIR LE REGISTRE DU PALIER** : arts, équipement, Corps, réclusion, transformations, la grosse pièce. Un bloc sans aucun de ces axes est un bloc raté.
 **Le joueur écrit parfois ses propres options** : l'étiqueter honnêtement en une clause, et jeter. **Ne jamais l'y inviter.**
 
 ### 1.6 Conduite du MJ
 
-> **La liste complète et opérationnelle est dans `codex/RULE-MJ.md`, relue avant chaque bloc.** Rappels durs :
+> **La liste complète est dans `codex/RULE-MJ.md`** — relue avant chaque bloc — **et dans le skill `creuset`**. Rappels durs :
 
-- **UN BLOC EST SERVI ENTIER, UNE SEULE FOIS.** Passe de contrôle avant envoi — **silencieuse**.
+- **UN BLOC EST SERVI ENTIER, UNE SEULE FOIS.** Passe de contrôle **silencieuse**.
 - **LA TUYAUTERIE DU MJ NE S'AFFICHE PAS.**
-- **⚑ ATOUT : seulement quand il pèse vraiment.**
-- **AUCUNE SCÈNE DONT LE SEUL ENJEU EST DE COMPRENDRE.**
-- **LA LOGISTIQUE NE SE JOUE PAS.**
-- **PAS DE PRONOSTIC SOUS LES OPTIONS.**
+- **AUCUNE SCÈNE DONT LE SEUL ENJEU EST DE COMPRENDRE. LA LOGISTIQUE NE SE JOUE PAS.**
+- **PAS DE PRONOSTIC SOUS LES OPTIONS. ⚑ Atout seulement quand il pèse vraiment.**
 - **LA BÊTE NE RENSEIGNE PAS, ELLE RÉAGIT** — et **elle n'est jamais du décor**.
-- **LE SOCIAL N'EST PAS UN ADVERSAIRE** : la domination se joue en **une** scène spectaculaire, jamais en arc de négociation.
-- **LE MOTEUR DU PALIER NE RESTE JAMAIS À L'ARRÊT.** Si le MJ écrit « il lui faut X », X arrive.
-- **LA DA NE SE DÉCIDE JAMAIS SEUL** *(§45)* — et **le sale n'est jamais une texture** : c'est une transgression d'une voie nommée, réprouvée en jeu.
-- **Ne jamais gonfler l'opposition.** **Aucun plafond sur le porteur.**
+- **LE SOCIAL N'EST PAS UN ADVERSAIRE** : la domination se joue en **une** scène spectaculaire.
+- **LE MOTEUR DU PALIER NE RESTE JAMAIS À L'ARRÊT.**
+- **LA DA NE SE DÉCIDE JAMAIS SEUL** — et **le sale n'est jamais une texture**.
+- **AUCUN PLAFOND SUR LE PORTEUR, ET AUCUN À L'INTÉRIEUR D'UNE STRATE** *(§49)*. Arriver au plafond du palier suivant n'est pas un défaut à corriger : pas de coût à la traversée, pas de palier écourté. **La position dans la fourchette oriente ce que le MJ prépare, jamais ce que le joueur peut choisir** — *« tu me laisses le choix, tu ne fermes pas des portes à cause de ça »*.
+- **Gonfler = l'opposition grandit parce qu'il grandit.** Une chose énorme **qui l'était avant qu'il arrive** est légitime.
 - **Un seul nom nouveau par scène. Prénoms occidentaux.**
 - **LIGNE TENUE : Seb a quinze ans.**
 - **Quand le joueur dit qu'il subit : on coupe**, on lui rend le volant.
 
 ### 1.7 Mots-clés
 
-`inv` fiche · `rem` échelles · `.` afficher les choix (mobile) · `codex` régénérer + sauvegarder (racine + copie `codex/codex-NNN.md` + ligne d'index + corpus MJ + tag).
+`inv` fiche · `rem` échelles · **`!`** *(2026-08-15)* — **arrête, vérifie dans le fichier, corrige en une ligne, rends la main** : pas de refonte de règle, pas trois tours de méta.
 
-**`image`** *(posé le 2026-08-14)* — **la représentation la plus fidèle possible de la scène en cours**, rendue **avant** que le choix soit tranché : l'état exact au moment où le bloc est servi, jamais la conséquence à venir. **Rendu réaliste.** La description envoyée au modèle est **aussi longue qu'il le faut**. Modèle : **`google/nano-banana-pro`**.
+**`codex`** — régénérer ce fichier + copie figée `codex/codex-NNN.md` + ligne d'index + corpus MJ + tag, **et refabriquer le skill `creuset` puis le présenter au joueur.**
+
+**`image`** — **la représentation la plus fidèle possible de la scène en cours**, rendue **avant** que le choix soit tranché. **Rendu réaliste**, description aussi longue qu'il le faut, modèle **`google/nano-banana-pro`**.
 > **Cloison** : une image ne montre jamais ce que la fiction n'a pas encore livré, et son prompt ne contient **aucun nom scellé**.
+
+**Les choix s'affichent directement, mobile comme PC** *(§52)*. Le `.` est retiré du protocole.
 
 ### 1.8 Économie de session
 
-- **Opus 5, effort high par défaut.** Max sur les charnières datées. **Fable : audits et points MJ uniquement.**
-- **Fiche ÉTAT complète à chaque scène.**
-- **Début de fil** : `MJ-INDEX.md` → `RULE-MJ.md` → corpus → ce fichier en entier.
-- **Pendant un point MJ** : chaque changement commité et poussé sur `main` immédiatement ; **toute règle nouvelle est reformulée, questionnée et validée avant gravure**. **Jamais annoncer une action comme faite — l'exécuter, puis rendre le hash.**
-- **Titres de scène : `## N · TITRE`** — c'est ce que le hook compte pour la cadence du psy.
+- **Opus 5, effort extra par défaut.** **Fable : audits et points MJ uniquement, sur demande explicite.**
+- **Fiche ÉTAT complète à chaque scène**, **toute progression en `n/max`** *(§54)* — `CORPS D'OR 0/4`, `bête 4/6`, `jetons 7/15`. Jamais en prose : c'est en prose que le Corps a sauté.
+- **Début de fil** : `MJ-INDEX.md` → `SEUILS.md` → `RULE-MJ.md` → corpus → ce fichier en entier.
+- **En séance** : `SEUILS.md` avant chaque réponse, `RULE-MJ.md` avant chaque bloc. **Le codex ne se relit pas en séance.**
+- **Pendant un point MJ** : chaque changement commité et poussé sur `main` immédiatement ; **toute règle nouvelle reformulée, questionnée et validée avant gravure**. **Jamais annoncer une action comme faite — l'exécuter, puis rendre le hash.**
+- **Titres de scène : `## N · TITRE`.**
 
 ### 1.9 Cloison MJ / joueur
 
-- Le coffre ne sort **jamais** : ni cité, ni paraphrasé. **Et il ne se modifie jamais en cours de session** — les ajouts s'écrivent au `codex` de clôture.
+- Le coffre ne sort **jamais** : ni cité, ni paraphrasé. **Il ne se modifie jamais en cours de session.**
 - **Livrés à ce jour : Victor · creuset · Maud · Roch · le nom de la bête (relivré sc. 262) · jureur (le mot seul).**
 - **Le MJ ne dit jamais s'il a frôlé un élément scellé.**
 - **Fiction et méta ne se mélangent jamais dans le même souffle — dans les deux sens.**
 
 ### 1.10 Format de rendu
 
-1. **Le jet** — bande(s) seule(s), une ligne. 2. **La conséquence** — titre + prose ; **le cran de porte s'écrit ici**. 3. **La fiche** — ÉTAT + horloges. 4. **Les choix** — bloc entier, servi une fois.
+1. **Le jet** — bande(s) seule(s), une ligne. 2. **La conséquence** — titre + prose ; **le cran de porte s'écrit ici**. 3. **La fiche** — ÉTAT + horloges, **en `n/max`**. 4. **Les choix** — bloc entier, servi une fois.
 
 ---
 
@@ -173,6 +189,8 @@ Fermé, le chiffre ne passe pas dans la chair : il ment aux instruments et n'ali
 Avant, on **jurait**, et des dieux-créanciers vivaient de la parole donnée. Puis on a inventé **la mesure** : des pierres qui donnent un chiffre vérifiable. Les dieux se sont éteints en trois générations — c'était le but. **Les familiers sont l'outil de cette victoire.**
 
 Sur Terre, il n'en restait que des gestes. **Ici, le Murim les chante encore** : huit noms dans une comptine d'enfants, et un neuvième qu'on ne dit pas dehors.
+
+**Et sous une vallée de l'ouest, une table de vingt pas porte trois mots : ON A PROMIS.**
 
 ### 2.2 Les paliers
 
@@ -196,9 +214,9 @@ Sur Terre, il n'en restait que des gestes. **Ici, le Murim les chante encore** :
 
 **LES FAMILIERS — le socle du monde.**
 
-- **Chacun naît avec le sien.** Minuscule à la naissance. Il grandit avec son porteur, toute la vie.
+- **Chacun naît avec le sien.** Minuscule à la naissance, il grandit avec son porteur, toute la vie.
 - **Deux formes : la bête et l'outil.** Une lame, un anneau, une chaîne de cinquante pas, **une formation dépliée sur trois cents pas**. La forme évolue avec la puissance.
-- **Fusion par l'âme, un seul total.** **C'est pour tout le monde pareil, Seb compris.**
+- **Fusion par l'âme, un seul total.** **Pour tout le monde pareil, Seb compris.**
 - **LE PONT DE L'ÂME : casser ou tuer le familier de quelqu'un, c'est détruire un pont de l'âme — le porteur meurt.** Su de tous. Tabou absolu des duels, arme des assassins.
 - **Dévorer ≠ casser** : la victime tombe à **1**, vivante, son familier réduit à une veilleuse.
 - Les familiers du monde sont des **prolongements muets de l'âme**. *(La sienne est différente. Le monde ne le sait pas.)*
@@ -212,22 +230,22 @@ Sur Terre, il n'en restait que des gestes. **Ici, le Murim les chante encore** :
 - **Les Listes.** De la rumeur organisée. **Pas des archives.**
 
 **Échelle observée** : gens ordinaires **100-350** · disciples et gardes **350-800** · confirmés **800-2 000** · maîtres et anciens **2 000-4 000** · sommets connus **4 000-8 000** · légendes vivantes **8 000-10 000**.
-**Et au-dessus de tout ça, hors échelle et hors mesure : ce qui vivait avant qu'on compte.**
+**Au-dessus : ce qui vivait avant qu'on compte. Au-dessous de tout : ce qui ne se compte pas.**
 
 - **Seb lit tout le monde exactement, dans un monde qui ne juge qu'à l'estime.** Personne ne peut le lire.
-- **Ce qui peut encore le blesser** : les arts qu'il ne connaît pas, les poisons, **les formations**, le nombre organisé, ce qui est terré — et **le monde croit que casser sa bête le tue.**
+- **Ce qui peut encore le blesser** : au Corps d'Or, plus rien de ce palier — mais **ce qui est terré, ce qui vivait avant la mesure, et ce qui ne se mesure pas du tout**. Et **le monde croit toujours que casser sa bête le tue.**
 
-### 2.4 La direction artistique *(tranchée par le joueur, 2026-08-14)*
+### 2.4 La direction artistique
 
-**Xianxia haut sur socle mythique païen.** Cités-montagnes, pavillons, escaliers de mille marches, jade, bannières, robes de secte. **La puissance se voit** : un coup abouti fait une image — une masse grise plus haute que trois cheminées, une gueule derrière un poing. Sous la civilisation : temples effondrés, cols, chansons, dieux morts de faim, bêtes d'avant la mesure.
+**Xianxia haut sur socle mythique païen.** Cités-montagnes, pavillons, escaliers de mille marches, jade, bannières, robes de secte. **La puissance se voit** : un coup abouti fait une image. Sous la civilisation : temples effondrés, cols, chansons, dieux morts de faim, bêtes d'avant la mesure.
 **Le sale n'est pas une couleur de ce monde** : c'est une **voie sombre** nommée, minoritaire, que les gens ordinaires réprouvent — et qu'on peut aller casser.
 
-### 2.5 Règles du monde (héritées, toujours vraies)
+### 2.5 Règles du monde
 
 - **Vaincre de ses mains = pouvoir dévorer.** La puissance actuelle du vaincu.
-- **CE QU'ELLE MANGE : pas la chair, l'instant où quelqu'un est vaincu.** **Ce qui se bat rend plein ; ce qui se laisse prendre ne rend presque rien.** Un mort ne rend qu'un quart. **Ce qui a cessé de vouloir ne plie pas, et ne se mange pas.**
+- **CE QU'ELLE MANGE : pas la chair, l'instant où quelqu'un est vaincu.** **Ce qui se bat rend plein ; ce qui se laisse prendre ne rend presque rien.** Un mort ne rend qu'un quart. **Ce qui a cessé de vouloir ne plie pas, et ne se mange pas. Ce qui se rend de soi-même ne l'allume pas non plus.**
 - **PAS DE DÎME, PAS DE CRÉANCE.** Rien n'est prélevé sur ce qu'il prend.
-- **ILS SE SENTENT.** Il porte ses états comme un temps qu'il fait en lui ; elle porte les siens. Personne d'autre n'entend ce canal.
+- **ILS SE SENTENT.** Personne d'autre n'entend ce canal.
 - **ELLE PEUT REFUSER DE MANGER**, et **elle peut refuser de devenir**.
 - **Aucun plafond.**
 
@@ -239,56 +257,54 @@ Sur Terre, il n'en restait que des gestes. **Ici, le Murim les chante encore** :
 
 **Seb.** 15 ans. Né au Fond, palier I. Pas de nom de famille, pas de tombes, pas de village d'avant.
 **Sur Terre** : le seul Seuil du Ciel vivant, fondateur de l'Ordre du Creuset, celui qui a abattu ce dans quoi on taillait les pierres du monde.
-**Ici** : aucun nom, aucune maison, aucune Liste — mais **QUINZE** à la craie sur trois murs, un mot qui le précède (*le Remonté*), et une ville qui a brûlé pendant qu'elle le regardait.
+**Ici** : aucun nom, aucune maison, aucune Liste — mais **QUINZE** à la craie sur trois murs, un mot qui le précède (*le Remonté*), une ville qui a brûlé pendant qu'elle le regardait, **et une vallée de l'ouest dont il a mis fin au travail de quarante générations**.
 
 ### 3.2 LE CREUSET *(le pouvoir)*
 
 Ce qu'il bat de ses mains, il peut le manger. Aucun plafond, aucun prélèvement.
-**Traînée : dix-neuf vivants à 1**, deux carrières fermées, une aberration décousue, un dragon réveillé.
+**Traînée : dix-neuf vivants à 1**, deux carrières fermées, une aberration décousue, un dragon réveillé, **un col fermé puis rouvert**.
 
 ### 3.3 LE MASQUE
 
 La puissance réelle est tenue par la bête, **hors du corps**. Il règle **à la seconde** ce que le monde lit de lui.
 **LE MASQUE EST PHYSIQUE** : ouvrir fait passer la puissance dans le corps, et **ça se voit**. Il ment aux instruments — les autels compris — **jamais aux yeux**.
 **OUVRIR NE BLESSE JAMAIS.**
-**MAIS IL NE MENT PAS POUR LE CORPS** : à quatorze couches, il fend la pierre bleue en marchant, quel que soit le chiffre affiché. *Ce qui chasse par l'observation ne se laisse pas prendre à un chiffre.*
-**ET CE N'EST PLUS UNE GARANTIE** *(errata §48)* : **elle a la main dessus, elle aussi.**
+**MAIS IL NE MENT PAS POUR LE CORPS** : au Corps d'Or, il ouvre cent mille tonnes de col à mains nues quel que soit le chiffre affiché.
+**ET CE N'EST PLUS UNE GARANTIE** : **elle a la main dessus, elle aussi** — et elle sait s'en servir pour **plafonner ce qu'elle touche**, pas seulement pour afficher.
 
 ### 3.4 LA BÊTE
 
 Espèce inscrite au palier I : ***péché — gloutonnerie***, ligne de mesure *hors relevé*. Espèce réelle, rayée du monde : **creuset**.
-**Son nom a été relivré en fiction (sc. 262)** par une vieille femme qui a chanté huit dieux morts de faim et s'est arrêtée avant le neuvième — *« celui-là, on le dit pas dehors »* — et **c'est elle qui a fini le vers**. En usage courant, elle reste **« la bête »**.
+**Son nom a été relivré en fiction (sc. 262)**, à la fin d'une comptine de huit dieux morts de faim. En usage courant, elle reste **« la bête »**.
 
-**ÉTAT** : **elle a exactement la taille de Seb.** **CRAN 3/6 — LA FACE.**
-**C'EST UNE FEMME, et ça se décrit franchement** *(errata §34.5 — anthropomorphe assumé, furry assumé, aucune pudeur qui rende la description floue)* : silhouette féminine nette, taille marquée, hanches, épaules étroites, jambes digitigrades, **une longue queue épaisse et rayée**.
+**ÉTAT** : **elle a exactement la taille de Seb.** **CRAN 4/6 — LA PHRASE.**
+**C'EST UNE FEMME, et ça se décrit franchement** *(anthropomorphe assumé, aucune pudeur qui rende la description floue)* : silhouette féminine nette, taille marquée, hanches, épaules étroites, jambes digitigrades, **une longue queue épaisse et rayée**.
 **Son visage est félin et féminin** : museau court, mâchoire fine, oreilles rondes posées haut, **yeux à pupille verticale, couleur de neige sous la lune**, quelques mèches pâles entre les oreilles.
-**Son corps est fait de deux matières à la fois** : là où il y a de la **fourrure** — crâne, nuque, échine, avant-bras, cuisses, queue — c'est un pelage de **léopard des neiges, blanc et gris barré de sombre** ; là où il n'y en a pas — torse, ventre, flancs — c'est de la **pierre sciée polie**, lisse et sans couture comme une statue, parcourue de **lignes de verre** et de **vingt-quatre motifs** en filigrane.
-Elle ne porte rien d'autre que **les gants** et **l'anneau**.
-**Elle ne fait plus aucun bruit.**
+**Deux matières à la fois** : là où il y a de la **fourrure** — crâne, nuque, échine, avant-bras, cuisses, queue — un pelage de **léopard des neiges, blanc et gris barré de sombre** ; ailleurs — torse, ventre, flancs, **et l'épaule gauche refaite** — de la **pierre sciée polie**, lisse et sans couture, parcourue de **lignes de verre** et de **vingt-quatre motifs**.
+Elle ne porte rien d'autre que **les gants** et **l'anneau**. **Elle ne fait aucun bruit.**
 **Elle porte** : un **anneau de pierre blanche** entré dans son poignet droit · **LES GANTS — 1 900**, venus d'eux-mêmes d'une vitrine, qui étaient à une morte.
-**Elle a un art à elle : `LES TRENTE-HUIT` — cran 3.** Trente-huit façons de **tenir**.
-**ELLE PARLE** — **sept mots**, jamais sur commande, toujours comptables : « **Part.** » · « **Après.** » · « **Creuset.** » · « **Suivant.** » · « **Encore.** » · **son nom** · « **Petit.** »
-**Elle s'allume quand quelqu'un qui avait quelque chose à perdre plie** — et **seulement** là. Le dressé, le cueilli et le déjà-mort la laissent éteinte.
-**ELLE GARDE UN SECRET.** À qui le lui demande, elle ne répond pas. À toi, elle a répondu : *« Après. »*
-**Sa suite** : un **orphelin gris (290)** qui a traversé une salle pour la suivre, et un **oiseau de fer** boiteux qui a fait la même chose.
+**Son art : `LES TRENTE-HUIT` — cran 3.** Trente-huit façons de **tenir**.
+**ELLE PARLE EN PHRASES.** Ses sept premiers mots restent au canon : « **Part.** » · « **Après.** » · « **Creuset.** » · « **Suivant.** » · « **Encore.** » · **son nom** · « **Petit.** »
+**CE QUI L'ALLUME, dit par elle-même :** *« Ce qui me plaît, ce n'est pas de manger. C'est que quelqu'un qui pouvait gagner décide d'arrêter. Il n'y en a pas beaucoup. Tu ne peux pas m'en faire un par jour. »* **Vingt-quatre données, zéro demandée.** Le dressé, le cueilli, le déjà-mort et **ce qui se rend de soi-même** la laissent éteinte.
+**ELLE GARDE UN SECRET** — et il y a désormais autre chose : **une question qu'elle ne peut pas atteindre.** Devant la table, elle a ouvert la bouche et rien n'est sorti. *Ce n'est pas un secret gardé : c'est un endroit où elle ne va pas.*
+**Sa suite** : un **orphelin gris (290)** et un **oiseau de fer** boiteux, laissés dans la cuvette de l'ouest.
 
 #### CE QU'ELLE DEVIENT
 
 | | |
 |---|---|
-| **1 · Debout** | ✅ acquis — *elle marche à ton côté* |
-| **2 · Les mains** | ✅ acquis — elle prend, elle tient, elle rend · *elle peut se battre seule* |
-| **3 · La face** | ✅ acquis — un visage, le **registre animal** · *elle voit, elle ne fait plus aucun bruit, et **elle a la main sur le chiffre*** |
-| **4 · La phrase** | plus d'un mot d'affilée |
+| **1 · Debout** | ✅ *elle marche à ton côté* |
+| **2 · Les mains** | ✅ elle prend, elle tient, elle rend · *elle se bat seule* |
+| **3 · La face** | ✅ un visage, le **registre animal** · *elle voit, plus aucun bruit, et **la main sur le chiffre*** |
+| **4 · La phrase** | ✅ **elle parle en phrases entières** · *et elle sait **plafonner** ce qu'elle touche : poser le chiffre sur autre chose et l'empêcher de monter, tant qu'elle tient* |
 | **5 · La question** | elle demande quelque chose qu'elle ne sait pas |
 | **6 · La conversation** | elle répond, elle argumente |
 
-**Un cran se gagne à une grosse prise** *(qui se bat, au-dessus de ce qu'elle a déjà mangé — désormais **12 900**)* **ou à une réclusion.** Jamais deux dans la même scène, jamais annoncé à l'avance.
-**CHAQUE CRAN LUI DONNE DU RÉEL, PAS SEULEMENT UNE APPARENCE** *(errata §48)*. Les gains des crans 4 à 6 se fixent au moment où ils tombent.
-**SA FORME EST FAITE DE CE QU'ELLE MANGE.** Son grain de pierre vient de la carrière ; **son registre félin vient du prédateur des neiges hautes**. Les prises suivantes ajoutent des traits, elles ne réécrivent pas la face.
+**Un cran se gagne à une grosse prise** *(qui se bat, au-dessus de ce qu'elle a déjà mangé — **12 900**)* **ou à une réclusion.** Jamais deux dans la même scène, jamais annoncé à l'avance.
+**CHAQUE CRAN LUI DONNE DU RÉEL.** Les gains des crans 5 et 6 se fixent au moment où ils tombent.
+**SA FORME EST FAITE DE CE QU'ELLE MANGE.** Les prises suivantes ajoutent des traits, elles ne réécrivent pas la face.
 **Au cran 6 — la forme achevée — la métamorphose s'ouvre.**
-**SON CORPS, SON VETO** *(errata §47)* : **ce qu'elle devient est son domaine** — son refus ne se négocie pas. Sur tout le reste elle veut, elle le fait sentir, **et elle suit** ; elle ne bloque que quand elle a une vraie raison. **Tu peux toujours la contraindre, et ça marche** — ça ne coûte jamais un malus, seulement ce que ça abîme entre vous.
-**LE MASQUE N'EST PLUS UNE GARANTIE** : depuis la face, **elle peut l'ouvrir ou le fermer sans ton autorisation**. Elle ne le fera jamais contre toi — mais vous ne serez pas toujours d'accord sur ce qui compte.
+**SON CORPS, SON VETO** : **ce qu'elle devient est son domaine** — son refus ne se négocie pas. Sur tout le reste elle veut, elle le fait sentir, **et elle suit**. **Tu peux toujours la contraindre, et ça marche** — ça ne coûte jamais un malus, seulement ce que ça abîme entre vous.
 
 ### 3.5 ORIGINE *(livré en jeu)*
 
@@ -298,19 +314,20 @@ Le neuvième ancien, celui qui a refusé, s'appelait **ROCH**.
 
 ### 3.6 L'INSTINCT DU CHIFFRE
 
-Il **lit la puissance de tout vivant** qu'il regarde. **Gratuit, permanent, involontaire, exact** — y compris sur lui-même. Portée : à travers murs et planchers, une demi-lieue à découvert. **Il lit aussi ce qui est terré, avant de le voir** — et **il est le seul au monde à pouvoir mesurer une bête d'avant la mesure**.
-**Un couple porte UN chiffre — unique, indivisible.**
-**Il ne peut pas le fermer.**
+Il **lit la puissance de tout vivant** qu'il regarde. **Gratuit, permanent, involontaire, exact** — y compris sur lui-même. Portée : à travers murs et planchers, une demi-lieue à découvert. **Il lit aussi ce qui est terré** — et **il est le seul au monde à pouvoir mesurer une bête d'avant la mesure**.
+**Un couple porte UN chiffre — unique, indivisible. Il ne peut pas le fermer.**
+**ET IL Y A UN ENDROIT OÙ IL NE REND RIEN** *(sc. 292)* : sous la cuvette de l'ouest, un volume où l'instinct ne donne ni zéro, ni faible, ni immense. **Rien.** Le trou n'a ni bord ni centre : il **est** la salle.
 
 ### 3.7 L'HÉRITAGE
 
 Une **plaque de fer** noire, taille d'une main, sans une lettre, un **creux** poli au milieu. Transmise par les femmes de la lignée.
-**Elle chauffe** quand la bête est allumée.
-**Elle ne se transmet plus** : son creux ne loge que le pouce droit de Seb. *« Alors ça s'arrête avec toi, cette histoire. »* — Jeanne.
+**Elle chauffe** quand la bête est allumée — **et elle a chauffé sur la table sans que la bête s'allume** (sc. 294), pendant que la lueur allait sur elle.
+**Son creux a glissé d'un demi-pouce vers le bord**, sur un objet de fer plein, sans soudure. **Le pouce droit de Seb y loge encore.**
+**Elle ne se transmet plus.** *« Alors ça s'arrête avec toi, cette histoire. »* — Jeanne.
 
 ---
 
-## 4 · FICHE ACTUELLE *(M155, nuit, au-dessus du Pas d'Hiver)*
+## 4 · FICHE ACTUELLE *(M172, fin de journée, plaine de l'est, la ville en vue)*
 
 | | |
 |---|---|
@@ -318,26 +335,27 @@ Une **plaque de fer** noire, taille d'une main, sans une lettre, un **creux** po
 | **Rang** | **QUINZE**, à la craie sur les trois murs, **ligne vide au-dessus** |
 | **Puissance réelle** | **68 996** — *à vous deux, un seul chiffre* |
 | **Affiché** | à sa main — **et à la sienne** |
-| **Corps** | **CORROYÉ — 14 couches** *(grade suivant à 16 · épreuve seule, et les pilules comptent)* |
-| **Arts** | **`LE SOCLE`** *(Lucien)* · **`L'ESPACE` — cran 2** *(Irène)* · **la première forme de Lucien**, entière |
-| **Blessures / marques** | avant-bras gauche mort · main gauche diminuée · dos labouré et recousu · deux côtes · **oreille droite fendue** · creux au pouce droit — *toutes définitives* |
-| **Jetons** | **4 / 15** |
-| **Bourse** | **0** · **vivres épuisés — sept jours sans manger** |
+| **Corps** | **CORPS D'OR — 0/4** *(grade suivant : Corps de Jade, à 4 · épreuve seule)* |
+| **Arts** | **`LE SOCLE`** *(Lucien)* · **`L'ESPACE` 2/?** *(Irène)* · **la première forme de Lucien**, entière · **`LA POSE` 3/?** *(Perrine + réclusion)* |
+| **Blessures / marques** | avant-bras gauche mort · main gauche diminuée · dos labouré et recousu · deux côtes · **oreille droite fendue** · creux au pouce droit — *définitives jusqu'au Corps de Jade* |
+| **Jetons** | **7 / 15** |
+| **Bourse** | **0** |
 | **Équipement** | bottes · veste · deux couvertures · gourde · couteau de ceinture · couteau de dépeçage · crochet plié |
-| **Inventaire** | la **plaque de fer creusée** · bracelet d'os · cordage orphelin (210) · manuel des trente-huit · **le relevé des trente feuilles** *(le sud, trois passages, une même main)* |
-| **Bête** | **24 motifs · CRAN 3/6 — LA FACE · registre félin des neiges · sept mots · anneau · GANTS (1 900) · `LES TRENTE-HUIT` cran 3 · épaule ouverte jusqu'au coude** |
-| **Sa suite** | l'**orphelin gris (290)** · l'**oiseau de fer**, boiteux |
-| **Portes** | **I cran 2 · II cran 4 · III cran 3 · IV cran 4** ouvertes · **V — LE REMONTÉ, cran 3** et **VI — LA COUTURE**, négatives |
+| **Inventaire** | la **plaque de fer creusée** *(creux déplacé d'un demi-pouce)* · manuel des trente-huit |
+| **Laissé sur la table, sous la cuvette** | le **bracelet d'os** · le **cordage orphelin (210)** · le **relevé des trente feuilles** |
+| **Bête** | **24 motifs · CRAN 4/6 — LA PHRASE · registre félin des neiges · gants (1 900) · anneau · `LES TRENTE-HUIT` 3/? · épaule refaite, deux lignes de verre neuves · a dormi onze heures** |
+| **Portes** | **I 2/? · II 4/? · III 3/? · IV 4/? · VII 1/?** ouvertes · **V — LE REMONTÉ 3/?** et **VI — LA COUTURE**, négatives |
 | **Engagements** | **à Irène** : le jour où elle le dira, tu la prends avant eux |
-| **Statut** | **elle a un visage depuis une minute, et elle ne t'a pas quitté des yeux** |
+| **Statut** | **vingt-trois jours d'absence. La ville ne fume plus.** |
 
 ### Les gens
 
 | Qui | État |
 |---|---|
-| **Irène** | **6 550.** Ta maîtresse. Le *neuf* d'il y a vingt-huit ans. T'a donné `L'ESPACE`. **Sait tout de toi — la seule au monde.** T'a demandé d'être rendue **inutile** ; tu as dit oui. **Rentre à son rythme, seule, cinquante pas de chaîne derrière elle** |
-| **Lucien** | **2 690.** Ton maître. Côté gauche gelé, fouet amputé de deux tresses. A rendu ses quatorze élèves pour t'enseigner. **Resté dans la ville qui brûle** |
-| **Hélène** | **310.** Quatre-vingts ans, achète les vieux vers au vers derrière la halle aux grains. Tu lui as fait perdre vingt feuilles et rendu les autres. **Elle a chanté le nom de ta bête et elle sait à qui elle parle** |
+| **Irène** | **6 550.** Ta maîtresse. Le *neuf* d'il y a vingt-huit ans. T'a donné `L'ESPACE`. **Sait tout de toi — la seule au monde.** T'a demandé d'être rendue **inutile** ; tu as dit oui. **Rentrée seule depuis vingt-trois jours, cinquante pas de chaîne derrière elle** |
+| **Lucien** | **2 690.** Ton maître. Côté gauche gelé, fouet amputé de deux tresses. A rendu ses quatorze élèves pour t'enseigner. **Resté dans la ville qui brûlait. Sort inconnu** |
+| **Perrine** | **4 600.** Soixante ans, cuvette de l'ouest. Dernière main d'une lignée de quarante générations. T'a donné `LA POSE` en deux heures, t'a vu apprendre trop vite, et t'a regardé partir. *« Nous on reste. Et maintenant on ne sait pas ce qu'on garde. »* |
+| **Hélène** | **310.** Quatre-vingts ans, achète les vieux vers au vers derrière la halle aux grains. **A chanté le nom de ta bête et sait à qui elle parle** |
 | **Gaspard** | **7 400.** Collectionneur de familiers orphelins, à huit jours à l'est de la ville. Voulait ta compagne après ta mort ; tu as dit non. **Joignable** |
 | **Basile** | **1.** Séparateur. Son familier était une formation de trois cents pas. **Vidé, vivant, laissé dans une combe de verre** |
 | **Martin** | **5 600.** Séparateur de la ville. **Libre**, laissé sur sa margelle au milieu du quartier en feu |
@@ -348,14 +366,15 @@ Une **plaque de fer** noire, taille d'une main, sans une lettre, un **creux** po
 
 | | Porte | État |
 |---|---|---|
-| **I** | **HORS MESURE** — il décide de ce que le monde lit de lui. Les autels affichent ce qu'il choisit ; la jauge à vue ne rend rien sur lui. **Rien ne peut le mesurer, le classer, le retenir ni le saisir** — lui ou sa bête | **cran 2** |
-| **II** | **LE RELIQUAT** — ce que les épreuves laissent derrière leur élu ne se referme pas sur vous. *Cran 2 : ces restes portent la mémoire de qui les a laissés.* *Cran 3 : ce qui a été laissé LA RECONNAÎT et peut choisir de la suivre.* **Cran 4 : ce qui a été laissé REVIENT ENSEMBLE — les restes d'une même main, d'un même mort, d'un même lieu se retrouvent et se rassemblent vers elle.** *Revers : ce qui revient n'arrive jamais seul, et ce qui a appartenu à quelqu'un finit par ramener ce quelqu'un.* | **cran 4** |
-| **III** | **CE QUI ENTRE ME FORGE** — pilule, poison, fumée : ça le **frappe de l'intérieur**, et le Corps compte le coup comme une épreuve. *Cran 2 : tout ce qui entre en lui pour le défaire compte, et le Corps encaisse au grade de ce qui l'a frappé.* **Cran 3 — CE QUI INSISTE S'USE : ce qui travaille sur lui se consume à le faire, et finit par céder avant lui.** *Revers : ça ne cède qu'une fois consumé — il ne peut pas abréger, et ce qui s'use sur lui appartient toujours à quelqu'un.* | **cran 3** |
-| **IV** | **LE MAÎTRE** — les arts de ce monde lui sont enseignés. *Cran 2 : deux maîtres à la fois.* *Cran 3 : ce qu'on lui donne revient agrandi — ses maîtres progressent en l'enseignant.* **Cran 4 : ce qui n'a plus d'héritier le choisit — chansons, gestes, relevés, langues mortes, arts éteints lui sont transmis par ceux qui les portent.** *Revers : chaque héritage fait de lui le dernier dépositaire — et un dépositaire, ça se cherche.* | **cran 4** |
-| **V** | **LE REMONTÉ** — *négative.* Ce monde a un mot ancien pour ce qu'il est. *Cran 2 : on te cherche.* **Cran 3 : on ne te cherche plus, on t'attend.** *Se joue en **friction** — routes fermées, pas de villages, pas de ravitaillement, du temps perdu. Jamais un danger.* | **cran 3** |
-| **VI** | **LA COUTURE** — *négative.* Quelque chose qui sépare les vivants de leur familier l'a pris en main et **n'a pas trouvé chez lui ce qu'il trouve chez tout le monde**. Ce qui est fait pour séparer le **reconnaît comme un cas**, et cherchera sur lui en priorité, plus longtemps, sans se décourager | **ouverte** |
+| **I** | **HORS MESURE** — il décide de ce que le monde lit de lui. **Rien ne peut le mesurer, le classer, le retenir ni le saisir** — lui ou sa bête | **2/?** |
+| **II** | **LE RELIQUAT** — ce que les épreuves laissent derrière leur élu ne se referme pas sur vous. **Cran 4 : ce qui a été laissé REVIENT ENSEMBLE.** *Revers : ce qui revient n'arrive jamais seul, et ce qui a appartenu à quelqu'un finit par ramener ce quelqu'un.* | **4/?** |
+| **III** | **CE QUI ENTRE ME FORGE** — pilule, poison, fumée le frappent de l'intérieur et le Corps compte le coup comme une épreuve. **Cran 3 — CE QUI INSISTE S'USE.** *Revers : ça ne cède qu'une fois consumé, et ce qui s'use sur lui appartient toujours à quelqu'un.* | **3/?** |
+| **IV** | **LE MAÎTRE** — les arts de ce monde lui sont enseignés. **Cran 4 : ce qui n'a plus d'héritier le choisit.** *Revers : chaque héritage fait de lui le dernier dépositaire — et un dépositaire, ça se cherche.* | **4/?** |
+| **VII** | **CE QUI NE MONTE PLUS** *(sc. 290, naturel 100)* — **ce qu'il a posé reste posé sans sa main dessus.** Une seule chose à la fois. Personne dans la lignée de Perrine n'a jamais pu lâcher. | **1/?** |
+| **V** | **LE REMONTÉ** — *négative.* **Cran 3 : on ne te cherche plus, on t'attend.** *Se joue en **friction** — routes fermées, pas de villages, pas de ravitaillement, du temps perdu. Jamais un danger.* | **3/?** |
+| **VI** | **LA COUTURE** — *négative.* Ce qui est fait pour séparer les vivants de leur familier le **reconnaît comme un cas**, et cherchera sur lui en priorité, plus longtemps, sans se décourager | **ouverte** |
 
-> **Budget du palier** : positives **dépensées** — les critiques font monter d'un cran ce qui existe. **Négatives : épuisées.**
+> **Budget du palier** : positives **dépensées**, sauf ce qu'un critique fait monter. **Négatives : épuisées.**
 > **Une catastrophe ouvre une négative ou l'aggrave. Elle n'enlève jamais une positive.**
 
 ---
@@ -366,11 +385,12 @@ Une **plaque de fer** noire, taille d'une main, sans une lettre, un **creux** po
 
 | Qui | État |
 |---|---|
-| **Irène · Lucien · Hélène · Gaspard · Basile · Martin** | voir §4 |
+| **Irène · Lucien · Perrine · Hélène · Gaspard · Basile · Martin** | voir §4 |
 | **La maîtresse des arts** | **4 800.** A refusé de te prendre autrement qu'au rite, puis : *« on n'a pas de rang pour ça »*. A fait laisser la ligne vide au-dessus de QUINZE |
 | **Adèle** | **morte.** Les gants étaient à elle — tuée en défendant sa cour, les mains engagées. **Son école existe : dix-neuf personnes, et elle cherche ces gants depuis onze ans** |
-| **La maison des Listes** | tient les classements de la ville. **N'a jamais voulu Irène : elle attend sa chaîne**, depuis onze ans. **Emploie les séparateurs.** A changé de commande : **c'est toi la priorité** |
+| **La maison des Listes** | tient les classements de la ville. **N'a jamais voulu Irène : elle attend sa chaîne**, depuis onze ans. **Emploie les séparateurs.** **C'est toi la priorité** |
 | **La maison du Grès** | trois vallées à l'est. A trouvé son élevage vide |
+| **Les 214 de la cuvette** | du 90 au 380, plus trois à 1 900 · 2 050 · 2 240. **Quarante générations de travail viennent de s'arrêter, et personne ne leur a appris autre chose** |
 | **Sans nom** | le vieux paysan (310) · les trois payés · **les trois rabatteurs à 1** dans un vallon · **le gamin qui a entendu le nom et qui court** |
 
 ### Laissés sur Terre *(vivants — mémoire, pas terrain)*
@@ -381,33 +401,24 @@ Une **plaque de fer** noire, taille d'une main, sans une lettre, un **creux** po
 
 ## 7 · POINT DE REPRISE
 
-**M155, en pleine nuit. Sur un replat de pierre bleue, au-dessus du Pas d'Hiver.**
+**M172, fin de journée. La plaine de l'est, la ville en vue.**
 
-La lune est haute et la neige rend la lumière. Sur trente pas, la neige est arrachée jusqu'à la roche en larges éventails, et la roche est griffée profond. Il fait un froid qui casse.
+Vingt-trois jours que tu es parti. Derrière toi, le Pas d'Hiver est rouvert — une tranchée d'un pas de large dans cent mille tonnes de col effondré, posée à mains nues en deux jours, et qui ne bougera plus jamais.
 
-À dix pas derrière elle, la carcasse d'un prédateur des neiges gros comme un cheval de trait, effondré sur ses antérieurs à l'endroit exact où il a plié.
+Elle marche à ton côté. Elle a dormi onze heures pour la première fois en douze jours, et son épaule gauche s'est **refaite** : le grain de pierre a repoussé du haut jusqu'au coude, lisse, sans couture, avec deux lignes de verre neuves.
 
-**Elle est à un pas de toi.**
+Dans ta veste, la plaque de fer de ta lignée. Le creux a glissé d'un demi-pouce vers le bord pendant qu'elle était posée sur une table que tu ne sais pas mesurer. Ton pouce y loge encore.
 
-Elle a l'épaule gauche ouverte du haut jusqu'au coude, le grain de pierre parti en éclats, et ça ne saigne pas. Elle porte les gants d'une morte et un anneau de pierre blanche dans le poignet. Sur son crâne et le long de son échine, la fourrure blanche et grise barrée de sombre est neuve d'une minute.
-
-Et elle a **des yeux**.
-
-Ronds, grands, à pupille verticale, de la couleur de la neige sous la lune. Ce sont les premiers de sa vie, et depuis qu'elle les a, elle ne les a pas quittés de toi.
-
-Tu n'as rien entendu venir quand elle a traversé les trente pas.
-
-L'orphelin gris se remet debout dans la neige. L'oiseau de fer est quelque part là-dedans, tu ne le lis pas.
-
-En dessous, le col dort entre ses deux rangées de cairns, dont une centaine sont par terre.
+En bas, la ville. **Elle ne fume plus.** Tu ne sais rien de ce qu'il y a dedans.
 
 **Horloges :**
-- **Elle a un visage, et elle te regarde. Prochain cran : la phrase.**
-- **Elle ne fait plus aucun bruit.**
-- **Sous le col, ce que tu as réveillé est debout et écoute** — 26 000 qui n'avaient pas bougé depuis quatre cents ans.
-- **Sept jours sans manger, zéro fer**, et trois jours de neige avant le premier village.
-- **Irène rentre seule**, avec ce qu'elle sait de toi et cinquante pas de chaîne.
-- **La ville brûle sur huit rues**, un gamin court quelque part avec le nom, et **6 200** dorment sous des cuves avec onze ans d'orphelins.
-- La maison des Listes a perdu ses deux séparateurs. **Pas sa commande.**
+- **CORPS D'OR 0/4** — plus rien de ce palier ne t'entame. **La bête est à 4/6 : elle parle en phrases.**
+- **Sept jetons sur quinze. Six suffisent à un triomphe garanti, porte comprise.**
+- **Irène est rentrée seule il y a vingt-trois jours**, avec cinquante pas de chaîne et tout ce qu'elle sait de toi.
+- **Lucien est resté dans la ville qui brûlait.** Tu ne le lis pas encore d'ici.
+- **La maison des Listes a gardé sa commande, et c'est toi la priorité.**
+- **Un gamin court quelque part avec le nom.** **6 200** dorment sous des cuves avec onze ans d'orphelins.
+- Sous la cuvette de l'ouest : une table occupée pour la première fois en quatre cents ans, **des millions de cairns, et d'autres vallées qui paient sans se connaître**.
+- **La question qu'elle ne peut pas atteindre est toujours là.**
 
-**Bloc servi, non choisi** — redescendre au col voir ce que tu as réveillé · rester dans les hauts et t'enfermer · redescendre manger, dormir, retrouver Irène · ne rien faire d'autre que la regarder.
+**Bloc servi, non choisi** — entrer par la grande rue ouvert en grand · Irène d'abord · la maison des Listes · Lucien.
