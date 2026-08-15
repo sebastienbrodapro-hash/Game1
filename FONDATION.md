@@ -96,7 +96,23 @@ Ce choix répond directement à l'audit du psy du 2026-08-15 : sur 320 scènes, 
 
 **Bénéfice d'outillage** : le déclencheur du corps met sous contrôle direct du joueur les deux axes les plus ratés du palier précédent — **les chances et la grosse pièce** — et le hook les compte déjà.
 
-### 3.4 · Rythme
+### 3.4 · CE QUI LA REND ANORMALE — elle veut donner, il veut prendre
+
+*Tranché le 2026-08-15, après quinze pistes rejetées et un audit du psy qui a montré pourquoi : elles répondaient toutes à « qu'est-ce qu'elle sait faire que les autres ne savent pas ? », alors qu'aucun sommet déclaré du joueur sur 320 scènes n'a jamais été une capacité. La bonne question était **« qu'est-ce qu'elle veut que lui ne veut pas ? »**.*
+
+**La réponse est dans le mythe, pas dans une mécanique inventée.** Le lièvre de jade pile l'élixir d'immortalité sur la lune depuis les Royaumes Combattants — et il y est arrivé parce que, mis à l'épreuve sans rien à offrir, **il s'est jeté lui-même dans le feu pour se donner à manger**. Le lièvre ne symbolise ni la ruse ni la vitesse : il symbolise **le don de soi**.
+
+**ELLE PILE.** Ce n'est pas un pouvoir, c'est sa nature. Toute matière chargée qu'ils rapportent — une prise, un cœur d'épreuve, une relique — elle la **transforme**. Et ce qui sort de son mortier **ne vaut que donné à quelqu'un d'autre** : entre ses mains, ça ne sert jamais à celui qui l'a fabriqué.
+
+- **Il monte en prenant, elle existe en rendant.** Deux natures opposées attachées au même chiffre : c'est le moteur permanent de la paire, pas un désaccord ponctuel.
+- **Le choix de à qui ça va lui appartient.** C'est là qu'elle le contredit, et son refus est légitime.
+- **Ça remplit structurellement deux axes ratés au palier précédent** : l'économie (elle fabrique ce que ce monde veut le plus) et l'équipement (au xianxia, les pilules *sont* l'équipement). Et ça donne une raison d'aller chercher les **chances** et les **grosses pièces** : c'est sa matière première.
+
+**LE REVERS — quand il n'y a rien à piler, elle se pile elle-même.** Son mythe d'origine, appliqué. Son corps est son domaine (§47), donc **on ne l'en empêche pas** : on peut seulement faire en sorte qu'elle ait autre chose sous la main.
+
+> ⛔ **Ce n'est ni une taxe, ni une créance, ni un prélèvement** (errata §40, règle dure). Rien n'est ponctionné sur ce qu'il prend. C'est une volonté propre qu'il peut nourrir ou négliger — et le prix, quand il la néglige, se joue **en scène et entre eux**, jamais en malus chiffré. À servir **rare et dramatique**, jamais comme une jauge de culpabilité.
+
+### 3.5 · Rythme
 
 Neuf jalons avant le 6, atteint à mi-campagne : **un tous les ~50 scènes**. Puis trois paliers divins sur la seconde moitié. Le moteur n'est jamais à l'arrêt, et il ne peut plus caler en silence : le compteur d'axes sonne.
 
@@ -115,5 +131,5 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 
 - **Le nom de la campagne** et celui du personnage principal.
 - **Le début** : le rite, où, devant qui, et ce qui se passe quand rien ne sort.
-- **Ce qui rend son familier anormal** — l'anomalie n'est pas tranchée. Quinze pistes proposées et rejetées ; l'audit du psy a montré qu'elles répondaient toutes à *« qu'est-ce qu'elle sait faire ? »* alors que la vraie question est ailleurs.
 - **Le contenu de la strate I** : douze chances, dix grosses pièces, quinze objets, une économie, cinq réclusions — **écrit avant la scène 1** (errata §39 : un palier se construit avant d'y jouer).
+- **L'espèce est fixée : le lièvre** — les six paliers de son corps sont établis et illustrés (`refs/`). Reste à décider ce que les gens de ce monde *pensent* d'un familier-lièvre : dans un monde de prédateurs, invoquer une proie n'est probablement pas un bon présage.
