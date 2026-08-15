@@ -1,0 +1,18 @@
+OUTFIT — LOCKED DESIGN, reproduce these details exactly, every time:
+- A one-piece BODYSUIT in deep midnight-blue velvet, with two plum-violet velvet panels running down the sides of the ribs.
+- Halter neckline: a single band of velvet around the neck, shoulders and arms completely bare.
+- The back is fully open from the neck down to the waist, a bare unbroken triangle of skin.
+- High-cut over the hips, the leg openings rising to the hip bone.
+- Silver thread embroidery traced along every seam, a thin continuous line.
+- STOCKINGS: plum-violet velvet, ending mid-thigh with a plain flat band, no lace, no pattern.
+- GARTERS: EXACTLY TWO STRAPS PER LEG — one at the front of the thigh, one on the outer side. Each strap is a narrow midnight-blue velvet band, one centimetre wide, with a single small round silver buckle at the stocking end. Two straps per leg, four in total, no more, no less, identical on both legs.
+- A thin plain silver chain low around the hips.
+- Detached sleeves of midnight-blue velvet, from the top of the upper arm to the ELBOW only — both forearms and both hands entirely bare and clearly drawn.
+- Bare feet. No shoes. No gloves. No jewellery other than the waist chain and the four garter buckles.
+
+THE VELVET MUST READ AS REAL VELVET — this is the single most important rendering instruction:
+- Velvet has a dense short PILE. Render the light physically: where light rakes ACROSS the pile the fabric flares to a bright silvery bloom; where the pile turns AWAY it goes to deep matte near-black that swallows light entirely. The contrast between the two is extreme and happens over a short distance.
+- Every fold has a bright crushed highlight along its ridge and a dark velvety trough beside it — sharp bands of light and dark, never smooth gradients.
+- The silhouette carries a soft fuzzy halo of backlit fibres, especially along the shoulders, the hip and the edge of the sleeves.
+- The fabric has NO gloss and NO specular reflection like satin or leather would — it is matte and light-absorbing, glowing only through the pile.
+- Close, tactile, photographic fabric behaviour. The viewer must want to touch it.
