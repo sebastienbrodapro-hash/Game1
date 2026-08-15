@@ -24,20 +24,29 @@ except AttributeError:
 
 
 def montrer(etat: dict) -> None:
+    """Retard et cadence NOMINALE seulement.
+
+    Le seuil effectif du cycle (base ±20 %) n'est jamais montré : le lire,
+    ce serait retrouver le métronome que le jitter vient de supprimer.
+    """
     scene = etat.get("scene", 0)
     print(f"scene courante : {scene}")
-    for axe, (seuil, libelle, _) in sorted(
+    for axe, (base, libelle, _) in sorted(
         A.AXES.items(), key=lambda kv: kv[1][0]
     ):
         dernier = etat["servi"].get(axe, 0)
         retard = scene - dernier if dernier else scene
         esc = etat["escalade"].get(axe, 0)
-        etiquette = "ok " if retard <= seuil else "RET"
+        # marge basse du jitter : au-dela, ca PEUT sonner a tout moment
+        plancher = base if base < A.JITTER_MINI else round(base * (1 - A.JITTER))
+        etiquette = "ok " if retard <= plancher else "..."
         marque = f" · escalade {esc}" if esc else ""
         print(
-            f"  {etiquette} {axe:<13} retard {retard:>3} / seuil {seuil:>2}"
+            f"  {etiquette} {axe:<13} retard {retard:>3} / cadence ~{base:<2}"
             f"  ({libelle}){marque}"
         )
+    print("\n(« ... » = dans la zone ou ca peut sonner. Le seuil exact du cycle")
+    print("  est tire a +/-20% et n'est pas affiche : servir quand la scene s'y prete.)")
 
 
 def main() -> int:

@@ -31,16 +31,29 @@ Entre deux sonneries d'un même axe : PAS_SONNERIE scènes de silence. Un hook
 qui redemande à chaque tour est un hook qu'on éteint (errata, cadence psy).
 
 Servir un axe remet son escalade à zéro.
+
+JITTER (tranché par le joueur, 2026-08-15) — un seuil fixe se joue au
+métronome : le MJ sert l'équipement pile à la scène 10 et la chance pile à
+la 12, et le compteur devient un calendrier qu'on contourne au lieu d'une
+pression qu'on subit. Chaque seuil est donc tiré à **±20 %**, UNE FOIS PAR
+CYCLE (au moment où l'axe est servi), et jamais affiché : le MJ ne sait pas
+quand ça va sonner, donc il sert quand la scène s'y prête.
+
+Les seuils de 1 ou 2 ne bougent pas : ce sont des règles dures (la bête à
+chaque scène, une bifurcation par bloc), pas des cadences.
 """
 from __future__ import annotations
 
 import json
+import random
 from pathlib import Path
 
 RACINE = Path(__file__).resolve().parents[2]
 ETAT = RACINE / ".claude" / "axes-etat.json"
 
 PAS_SONNERIE = 3  # scènes de silence entre deux sonneries d'un même axe
+JITTER = 0.20     # ±20 % sur chaque seuil, retiré à chaque service
+JITTER_MINI = 3   # en dessous, le seuil est une règle dure : pas de tirage
 
 # axe -> (scènes de retard tolérées, libellé, ce qu'il faut faire)
 AXES: dict[str, tuple[int, str, str]] = {
@@ -50,9 +63,9 @@ AXES: dict[str, tuple[int, str, str]] = {
         "ligne par scène",
     ),
     "sortie_plan": (
-        3, "UNE OPTION QUI SORT DU PLAN",
-        "errata §43 : un bloc dont toutes les sorties donnent sur la même "
-        "pièce est un couloir, pas un choix",
+        1, "UNE OPTION QUI SORT DU PLAN",
+        "errata §43, à CHAQUE bloc : un bloc dont toutes les sorties donnent "
+        "sur la même pièce est un couloir, pas un choix",
     ),
     "porte": (
         8, "MOUVEMENT DE PORTE",
@@ -114,7 +127,28 @@ NIVEAUX = {
 
 
 def _vide() -> dict:
-    return {"scene": 0, "servi": {}, "escalade": {}, "sonnerie": {}}
+    return {"scene": 0, "servi": {}, "escalade": {}, "sonnerie": {}, "seuil": {}}
+
+
+def tirer_seuil(axe: str) -> int:
+    """Seuil effectif de ce cycle : base ±20 %, sauf règles dures.
+
+    Tiré au service, gardé jusqu'au service suivant, jamais affiché.
+    """
+    base = AXES[axe][0]
+    if base < JITTER_MINI:
+        return base
+    bas, haut = base * (1 - JITTER), base * (1 + JITTER)
+    return max(1, round(random.uniform(bas, haut)))
+
+
+def seuil_courant(etat: dict, axe: str) -> int:
+    """Seuil de ce cycle ; le tire et le fixe s'il n'existe pas encore."""
+    val = etat.setdefault("seuil", {}).get(axe)
+    if not isinstance(val, int) or val < 1:
+        val = tirer_seuil(axe)
+        etat["seuil"][axe] = val
+    return val
 
 
 def charger() -> dict:
@@ -156,6 +190,7 @@ def declarer(etat: dict, scene: int, axes: list[str]) -> list[str]:
         etat["servi"][a] = scene
         etat["escalade"].pop(a, None)
         etat["sonnerie"].pop(a, None)
+        etat.setdefault("seuil", {})[a] = tirer_seuil(a)  # nouveau cycle, nouveau seuil
         connus.append(a)
     if scene > etat.get("scene", 0):
         etat["scene"] = scene
@@ -166,6 +201,7 @@ def amorcer(etat: dict, scene: int) -> None:
     """Première scène vue : tout est réputé servi, aucune alerte au démarrage."""
     for a in AXES:
         etat["servi"].setdefault(a, scene)
+        etat.setdefault("seuil", {}).setdefault(a, tirer_seuil(a))
 
 
 def evaluer(etat: dict, scene: int) -> tuple[int, str] | None:
@@ -185,10 +221,10 @@ def evaluer(etat: dict, scene: int) -> tuple[int, str] | None:
     etat["scene"] = max(scene, etat.get("scene", 0))
     lignes: list[tuple[int, int, str]] = []
 
-    for axe, (seuil, libelle, quoi) in AXES.items():
+    for axe, (base, libelle, quoi) in AXES.items():
         dernier = etat["servi"].get(axe, 0)
         retard = scene - dernier
-        if retard <= seuil:
+        if retard <= seuil_courant(etat, axe):
             continue
         derniere_sonnerie = etat["sonnerie"].get(axe, 0)
         if derniere_sonnerie and scene - derniere_sonnerie < PAS_SONNERIE:
@@ -198,10 +234,12 @@ def evaluer(etat: dict, scene: int) -> tuple[int, str] | None:
         etat["escalade"][axe] = esc
         etat["sonnerie"][axe] = scene
         titre, consigne = niveau_de(esc)
+        # Le seuil effectif ne s'affiche jamais : le connaître, c'est
+        # retrouver le métronome que le jitter vient de supprimer.
         lignes.append((
             esc, retard,
             f"[{titre}] {libelle} — {retard} scènes sans "
-            f"(seuil {seuil}, sonnerie n°{esc}).\n    → {quoi}.\n    → {consigne}",
+            f"(cadence ~{base}, sonnerie n°{esc}).\n    → {quoi}.\n    → {consigne}",
         ))
 
     if not lignes:
