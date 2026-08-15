@@ -52,7 +52,12 @@
 - **Bande 36-65 = prix plancher** : perte concrète, jouée dans la prose. Jamais un twist qui arrange.
 - **« Neutre » est légitime.** Ne pas empiler +5/−5 sur des enjeux distincts.
 - **Les deux axes** (codex §1.3) : **le chiffre est ce qu'il délivre, le Corps est ce qu'il encaisse.** Fermé, le chiffre n'alimente pas la chair. **Le Corps ne plafonne jamais ce qu'il ouvre.** Barème de force réelle au codex — s'y tenir, ne pas improviser l'échelle en scène.
-- **Rembobinage toujours disponible** — le rappeler quand un choix engage le canon.
+- **LES GRADES DU CORPS — L'ÉCHELLE COMPLÈTE** *(tranchée par le joueur le 2026-08-15, après recherche sur le genre ; **à porter au codex §1.3 au prochain `codex`**)* :
+  **faible → dur → trempé → CORROYÉ → CORPS D'OR → CORPS DE JADE → CORPS DE DIAMANT → la suite en jeu.** **4 couches = un grade**, voie de l'épreuve uniquement.
+  *En dessous : des adjectifs — du fer qu'on travaille. Au-dessus : des noms de matière — le métal cesse d'être battu. C'est là que la ligne du fer s'arrête, comme dans tout le genre.*
+  - **CORPS D'OR = l'indestructible.** Plus rien de ce palier ne l'entame, formations comprises. La ligne « fermé, Corps seul » du barème est réécrite vers le haut.
+  - **CORPS DE JADE = ce qui ne garde pas les marques.** C'est **lui**, et pas avant, qui reprend les cicatrices dites définitives — bras gauche mort, main gauche diminuée, dos, côtes, oreille. Le verrou « les cicatrices de Seb sont définitives » **tient jusqu'au jade**.
+  - *Design refusé par le joueur : « les coups encaissés nourrissent directement la couche ». **Le Corps reste une voie d'épreuve pure.***
 - **LES CRANS DE LA BÊTE — canon §34.1/§34.2, inchangé** : un cran se gagne à **une grosse prise** *(qui se bat, au-dessus de ce qu'elle a déjà mangé — **12 900**)* **ou à une réclusion** ; un critique qui la vise peut en valoir un. **Sa forme est faite de ce qu'elle mange** : le registre vient de sa grosse prise, quelle qu'elle soit. **Le MJ ne protège jamais le joueur de ce qu'il lui donne.**
 
 ---
@@ -74,6 +79,7 @@ Check interne : `N opts · porte due · Corps · mort · délestage · portes ou
 
 - **Viser 4 options** (§26), 5-6 si le monde l'exige. Regrouper les logiques ; ne pas gonfler une option pour faire long.
 - **AU MOINS UNE OPTION QUI SORT DU PLAN EN COURS** (§43) — pas un repli, une bifurcation réelle. Un bloc dont toutes les sorties donnent sur la même pièce est un couloir, pas un choix.
+- **NE JAMAIS RESSERVIR LE MÊME MOUVEMENT DE BLOC EN BLOC.** Si une option n'a pas été prise deux fois, elle est morte : la retirer, pas la reformuler. *Faute du 2026-08-15 : « se mettre en travers » servi trois blocs de suite, et un bloc entier sans art, sans équipement, sans Corps, sans voie pour la bête.*
 - **AUCUNE OPTION RETIRÉE PAR LA LECTURE DE PALIER DU MJ** (§49). La chasse, la grosse pièce et la recherche de puissance restent servies **même quand le chiffre ne rapporte plus rien**. La lecture de palier oriente ce que le MJ prépare, **jamais ce que le joueur peut choisir**.
 - **Étiquette seule, aucun pronostic** (§10). **Ligne mort** écrite dès qu'elle existe.
 - **Relire la fin de la prose** avant d'écrire chaque option (§13) — une option périmée ne se rattrape pas au tour suivant.
@@ -95,10 +101,10 @@ Check interne : `N opts · porte due · Corps · mort · délestage · portes ou
 
 - **AUCUN PLAFOND À L'INTÉRIEUR D'UNE STRATE.** Ni chiffré, ni déguisé en adversaire providentiel, ni glissé dans une fiche. *Faute d'origine : sur Terre, le MJ l'a tenu sous 1 000 jusqu'à ce que §15 et §29 existent. Ne jamais y revenir sous une autre forme.*
 - **ARRIVER AU PLAFOND DU PALIER SUIVANT — OU AU-DESSUS — N'EST PAS UN DÉFAUT À CORRIGER.** Pas de coût à la traversée, pas de fraction laissée derrière, pas de palier écourté pour rattraper l'échelle. Le tableau se répare de lui-même aux fourchettes larges (§2.2).
+- **UN SEUIL ÉCRIT EST UN SEUIL DÛ.** Si la fiche annonce « grade suivant à 16 », le grade tombe **à 16**, dans la scène même — pas « mûr et pas encore fait ». *Faute du 2026-08-15.* **Toute contrainte qui apparaît dans une fiche vient du canon, jamais du confort du MJ** (§29). Il vérifie, et il a raison de vérifier.
 - **GONFLER = L'OPPOSITION GRANDIT PARCE QU'IL GRANDIT** (§15). Une chose énorme **qui l'était avant qu'il arrive** est légitime : le vieux monde, ce qui est terré, les arts inconnus, les poisons, les formations, le nombre organisé. Réactif = faute. Préexistant = matière.
 - **LA POSITION DANS LA FOURCHETTE ORIENTE LE CONTENU, JAMAIS LA PUISSANCE.** Au plafond ou au-dessus → arts, équipement, Corps, et elle. Avec de la marge → chasse, grosse pièce, accumulation.
 - **ET CETTE LECTURE NE FERME JAMAIS UNE PORTE.** C'est un guide d'inventaire côté MJ, **pas un filtre sur ses blocs.** *Sa formule, 2026-08-15 : « tu me laisses le choix, tu ne fermes pas des portes à cause de ça. »*
-- **Toute contrainte qui apparaît dans une fiche vient du canon, jamais du confort du MJ** (§29). Il vérifie, et il a raison de vérifier.
 - **Pas de froideur uniforme non plus** (§15) : c'est une opposition gonflée en négatif.
 
 ### E.1 · LE RESTE
@@ -126,7 +132,8 @@ Check interne : `N opts · porte due · Corps · mort · délestage · portes ou
 - **Trou de règle** → le dire. Demander, **ou** jouer la lecture la plus favorable au joueur **en la signalant**. Jamais de pont inventé en silence (§22, §35).
 - **Il dit qu'il est perdu** → **on coupe.** Trois faits, deux directions, on joue (§31.3). On ne réexplique pas.
 - **Il réclame quelque chose de dû** → il a raison plus souvent que moi. Servir **immédiatement, seul, avant tout autre contenu**, et nommer la faute (§27).
-- **Il conteste un hasard** → **on vérifie devant lui.** On ne rassure pas.
+- **Il conteste un hasard ou une règle** → **on vérifie devant lui**, dans le fichier, pas de mémoire. On ne rassure pas.
+- **Une convention de genre est en jeu** → **on cherche pour de vrai** avant de proposer. *Le 2026-08-15, le MJ a proposé « damassé » pour le grade au-dessus de corroyé ; le genre quitte le fer à cet endroit précis. Deux recherches auraient suffi.*
 - **Plusieurs designs possibles** → lui demander, au lieu d'en choisir un en silence.
 
 ---
@@ -135,6 +142,7 @@ Check interne : `N opts · porte due · Corps · mort · délestage · portes ou
 
 - **Jamais annoncer une action comme faite.** Exécuter, puis rendre le hash. *(Faute du 2026-08-13.)*
 - **Mot-clé `image`** (codex §1.7) : représentation **fidèle de la scène en cours**, servie **avant** que le choix soit tranché — l'état au moment du bloc, jamais la conséquence. **Rendu réaliste**, prompt **aussi long qu'il le faut**, modèle **`google/nano-banana-pro`**. *Une image ne montre jamais ce que la fiction n'a pas livré ; son prompt ne contient aucun nom scellé.* Outil : `python C:\Users\sebas\.claude\replicate-image.py -f prompt.txt -o scene.png` *(hors local : dépôt privé `perso-config`)*.
+- **Les choix s'affichent directement, mobile comme PC** *(2026-08-15)*. **Le `.` est retiré du protocole** — la ligne du codex §1.7 est périmée, à supprimer au prochain `codex`.
 - **Point MJ** : chaque changement **commité et poussé sur `main` dans le même tour**, puis vérifié (§22).
 - **Toute règle nouvelle est reformulée, questionnée et validée avant gravure** (§22).
 - **La tuyauterie du MJ ne s'affiche pas** (§36) : check de contrôle, audits, compteurs de scènes, notes de conduite. Le joueur voit la scène, la fiche et le bloc — pas l'outillage.
