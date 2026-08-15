@@ -2,7 +2,7 @@
 
 > ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Chargé **par chapitre** selon la session (voir `MJ-INDEX.md`).
 > Règle de croissance : on étoffe **aux abords de là où le jeu va**, jamais du lointain spéculatif. Tout ce qui est joué en scène remonte ici.
-> **À jour au 2026-08-14 (v22, scène 209 à jouer — Murim v2, errata §39).**
+> **À jour au 2026-08-15 (v25, scène 299).**
 
 ## 1 · CLAIREFONT — LE CHEF-LIEU *(consommé deux fois)*
 
@@ -139,25 +139,23 @@
 | Sommets connus, noms des Listes | **4 000 – 8 000** |
 | Légendes vivantes, très rares | **8 000 – 10 000** |
 
-**Seb : 10 206.** Au-dessus de tout ce que ce palier contient. *(Errata §29 : aucun plafond — et le familier grandit avec le porteur : les grands d'ici ont des familiers à leur hauteur, visibles.)*
+**Seb : 68 996, CORPS D'OR.** Hors de toute échelle humaine du palier — et l'opposition n'a pas le droit de grandir pour autant (§15/§29/§55). *(Le familier grandit avec le porteur : les grands d'ici ont des familiers à leur hauteur, visibles.)*
 **On monte par l'art, la réclusion, l'épreuve** — dix ans pour passer de disciple à confirmé, trente ans pour un maître. Le familier monte avec.
 
-### 9.5 · Ce qui peut encore le blesser
+### 9.5 · Ce qui peut encore le blesser *(revu v25 — CORPS D'OR)*
 
-**Ne jamais gonfler l'opposition** — sa puissance est ce qu'elle est. Ce qui résiste ici :
+**Ne jamais gonfler l'opposition** — sa puissance est ce qu'elle est (§15/§29/§55). Au Corps d'Or, **plus rien de ce palier ne l'entame** : arts, poisons, formations et nombre restent des **circonstances de jet** (§55), plus des menaces. Ce qui mord encore :
 
-- **Les arts** qu'il ne connaît pas : une technique bien faite fait plus qu'un gros chiffre mal employé. Il n'en a aucun.
-- **Les poisons et les pilules** — canon du genre, et il n'a aucune culture de ça.
-- **Les formations** : des dispositifs collectifs qui ne se battent pas mais qui contiennent.
-- **Le nombre**, quand il est organisé.
-- **Le pont de l'âme** : le monde croira que casser sa bête le tue. *(Ce qu'il en est vraiment : non fixé — réserve d'histoire, ne jamais l'exposer gratuitement.)*
-- ~~La position sociale~~ — **retirée de cette liste (errata §42)**. Ce n'est pas un adversaire : c'est de la **friction** (argent, accès, temps), et ça ne fait jamais une scène à soi seul. **La domination sociale est un registre de conclusion — une scène spectaculaire, jamais un arc de négociation.**
-- **Le corps** : 9 couches, et *rien ne guérit tout à fait* — les cicatrices de Terre sont définitives.
+- **Le vieux monde** (§11) — la seule échelle encore au-dessus de lui.
+- **Ce qui est terré**, et **ce qui ne se mesure pas du tout** (la salle sous la cuvette, §12).
+- **Le pont de l'âme** : le monde croit que casser sa bête le tue. *(Ce qu'il en est vraiment : non fixé — réserve d'histoire, ne jamais l'exposer gratuitement.)*
+- ~~La position sociale~~ — **retirée (errata §42)** : de la friction, jamais une scène à soi seule.
+- **Les cicatrices** restent définitives **jusqu'au CORPS DE JADE** — une reprise par grade (§50).
 
 ### 9.6 · Les dieux, ici
 
-**Ce que Terre a oublié, le Murim le chante encore.** Les dieux d'avant la mesure sont de l'histoire ancienne, pas un secret d'État : on les met dans les chansons, dans les contes, dans les noms de cols et de temples ruinés. *(Coffre §6 : c'est ici que le nom de la bête existe encore. Il se refixe au moment où la fiction le livre — errata §1. La livraison v1 est annulée : le nom est redevenu non-livré, sa relivraison est un jalon majeur.)*
-**« Jureur » et la ligne des chansons** (*aucun jureur n'a jamais fini par mourir*) **retournent en réserve** : le mot existe dans ce monde, Seb ne l'a plus entendu.
+**Ce que Terre a oublié, le Murim le chante encore.** Les dieux d'avant la mesure sont de l'histoire ancienne, pas un secret d'État : on les met dans les chansons, dans les contes, dans les noms de cols et de temples ruinés. *(Coffre §6 : c'est ici que le nom de la bête existait encore — **RELIVRÉ sc. 262** : Hélène chante huit dieux morts de faim, la bête finit le vers. Errata §1.1.)*
+**« Jureur »** est ressorti — **le mot seul** (sc. 262) ; la ligne des chansons, **il l'a brûlée lui-même** — le vers manque désormais à Hélène. La ligne reste en réserve.
 
 ### 9.8 · LA DIRECTION ARTISTIQUE — tranchée par le joueur *(2026-08-14, errata §45)*
 
@@ -171,7 +169,7 @@
 
 ### 9.7 · À fixer en scène
 
-**Le point d'entrée v2** · la région · la première ville · la première secte · le premier art · **le premier autel** · **la première chance**. **Un seul nom nouveau par scène**, prénoms occidentaux (règle joueur inchangée).
+**LA VILLE** *(toujours sans nom après 90 scènes — dette !)* · la région · la première secte · **la grosse pièce du palier**. **Un seul nom nouveau par scène**, prénoms occidentaux (règle joueur inchangée).
 
 ## 10 · PALIER III — ESQUISSES *(ne remplir que quand l'horizon s'en approche)*
 
@@ -194,11 +192,11 @@
 
 | Ce qu'en disent les chansons | Registre | Où | Ce qui la protège | Chiffre |
 |---|---|---|---|---|
-| **CE QUI DORT SOUS LE COL** | écailles, cornes, longueur | temple écroulé, col de l'ouest, 6 jours | le froid, l'altitude, quatre générations sans retour | **26 000** |
+| ~~**CE QUI DORT SOUS LE COL**~~ — **RÉGLÉE, sc. 284-297** | écailles, cornes, longueur | réveillée au Pas d'Hiver (26 114 → **36 100** entre ses mains), **rendue d'elle-même sous le couvercle : couchée sur la table, vivante, en veilleuse** | *plus une proie — ce qui se rend de soi-même ne l'allume pas* | ~~26 000~~ → **1** |
 | **CE QUI REMONTE EN BRÛLANT** | plumes, feu, envergure | trois vallées au sud — tuée trois fois en quatre-vingt-dix ans | **elle ne meurt pas** : il faut trouver par quoi elle recommence | **18 400** |
 | **CELLE QUI PORTE PLUSIEURS QUEUES** | fourrure, queues, ruse | **parmi les gens**, sous un visage — une des Listes est à elle | on ne frappe pas ce qu'on n'a pas identifié | **31 500** |
 | **LA MÈRE SOUS LE LAC** | carapace, lenteur, patience | un lac qui n'a pas d'écoulement, deux vallées à l'est | elle ne se bat pas : elle **attend**, et le lac est à elle | **44 000** |
-| **CELUI QUI MARCHE SANS TRACE** | fourrure rayée, silence, détente | les neiges hautes, au-dessus du col | il chasse **le chasseur**, et il choisit son jour | **12 900** |
+| ~~**CELUI QUI MARCHE SANS TRACE**~~ — **PRIS, sc. 283** | fourrure rayée, silence, détente | la grosse prise du cran 3 : **son registre est devenu la face** (félin des neiges) | — | ~~12 900~~ |
 | **LE CORBEAU QUI COMPTE** | plumes noires, œil, présage | partout et nulle part — il suit les armées et les concours | **il compte, lui aussi** : il sait ce que vaut qui il regarde | **9 800** |
 | **LES NEUF DE LA RIVIÈRE** | serpent, têtes, venin | un delta de roseaux, quatre jours au nord | neuf têtes, un seul corps : on n'en tue jamais assez | **21 000** |
 | **LE SINGE DE FER** | poil roux, mains, bâton | un mont à escaliers, enchaîné par une secte morte | **il a un art**, et il l'a volé à des hommes | **16 200** |
@@ -209,7 +207,7 @@
 
 ### 11.3 · Conduite
 
-- **Trois paliers d'accès.** Maintenant : 8 900 – 21 000. Après un cran ou deux : 26 000 – 44 000. **Sortie de palier** : ce qui chante sous la glace.
+- **Dix restantes, toutes à sa portée** *(revu v25)*. Ce qui les défend n'est plus leur chiffre — le sien a réglé la force, et **§55 : jamais de modificateur sur la puissance** — c'est leur colonne « ce qui la protège ». **Sortie de palier** : ce qui chante sous la glace.
 - **Ne jamais les poser sur son chemin, ne jamais les lui refuser** (§30). Elles existent, elles se racontent, on lui en parle dans les auberges et les cours d'arts. **Il y va quand il veut.**
 - **Il faut qu'il y ait toujours quelque chose à aller chercher.** C'est là qu'est la responsabilité du MJ (§45) — dans ce qu'il sert, jamais dans les seuils.
 - **Chacune rend coup pour coup** (§30) : ce que le joueur a aimé le plus dans toute la campagne, c'est une proie unique, terrée, qui lui a coûté quatre côtes. **Aucune ne doit tomber sans prix.**
@@ -217,4 +215,25 @@
 - **Le registre dominant se fixe au cran 3, une seule fois.** Les prises suivantes **ajoutent des traits** (§34.2 : *elle n'est jamais tout à fait finie*), elles ne réécrivent pas la face.
 - **Réserve ouverte** : ce bestiaire n'est pas fermé. Une région neuve amène les siennes ; les chansons en nomment toujours une de plus que ce qu'on a vu.
 
-> Coffre §6 : sur Terre, le nom de la bête ne survivait nulle part. **Ici, les dieux sont encore de l'histoire** — c'est dans ce chapitre-là que vit sa relivraison (errata §39).
+> Coffre §6 : sur Terre, le nom de la bête ne survivait nulle part. **Ici, les dieux sont encore de l'histoire** — et la relivraison a eu lieu (sc. 262, errata §1.1).
+
+## 12 · L'OUEST — LA CUVETTE ET LA TABLE *(canon joué, v25 — sc. 284-299)*
+
+### 12.1 · La cuvette
+
+- Six jours à l'ouest par le **Pas d'Hiver** — rouvert par Seb seul : **une tranchée d'un pas dans cent mille tonnes de col effondré, posée, qui ne bougera plus.** Ça se saura.
+- Une cuvette fermée, **un escalier de mille marches**, une ruine à gradins, **214 vivants** (90-380, trois à ~2 000, **Perrine 4 600**), un cairn sur chaque toit. **Quarante générations à poser une pierre par an** sur le tas du sommet — pas pour tenir fermé : **pour empêcher de monter**.
+- **La lignée de `LA POSE`** : pas de secret — *il n'y a que de ne jamais s'arrêter*. Prix : ça appuie en retour, et personne n'a jamais tenu seul. **Leur objet de vie s'est arrêté au v25** — ils ne savent plus ce qu'ils gardent. L'orphelin gris (290) et l'oiseau de fer sont restés là-bas.
+
+### 12.2 · Sous le couvercle — ce qui reçoit
+
+- Une salle sans murs, une **lueur dorée sans source** qui suit, un **sol fait de millions de cairns**, une **table de vingt pas gravée ON A PROMIS**.
+- **L'instinct de Seb n'y lit rien** — ni zéro, ni immense : rien, première fois de sa vie. Le volume n'a ni bord ni centre : il **est** la salle. **La bête a reculé** — première fois de la sienne — et à *pourquoi*, elle ouvre la bouche et n'y arrive pas : *un endroit où elle ne va pas.*
+- **Ça ne retient pas, ça reçoit.** Ce qui se consomme : **le fait d'avoir laissé quelque chose derrière soi** — les cailloux étaient des **intérêts**. 214 × 400 ans = 85 600 pierres ; il y en a des millions : **d'autres vallées paient sans se connaître.**
+- **La chose du col est couchée dessus** — à 1, vivante, en veilleuse : *sa place, taillée pour elle*. Restés sur la table : le cordage (210) et les trente feuilles *(porte II : ce qui a été laissé revient — et ce qui a appartenu à quelqu'un finit par ramener ce quelqu'un)*.
+- **La plaque de la lignée y a chauffé sans que la bête s'allume**, la lueur est allée sur elle, **et son creux a glissé d'un demi-pouce.** Le pouce de Seb y loge encore.
+
+### 12.3 · Conduite
+
+- **§31 strict : ce n'est pas un moteur d'énigme.** Aucun objectif, aucune horloge, aucun bloc tant que ça ne mord pas. Ça se sert **par des bouches, contre quelque chose** — mèches au CHRONO §3.
+- **L'envers, s'il existe, appartient au coffre.** Rien ne s'invente ici : ce chapitre ne porte que le joué.
