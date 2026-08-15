@@ -86,10 +86,14 @@ AXES: dict[str, tuple[int, str, str]] = {
         "explicitement, servi trop peu",
     ),
     "mesure": (
-        10, "UNE MESURE",
-        "le MONDE le mesure : une pierre, un autel, une jauge, quelqu'un qui "
-        "l'estime tout haut, un rang qu'on lui donne. Son instinct à lui ne "
-        "compte pas — c'est gratuit et permanent",
+        10, "UNE MESURE — il SUBIT une lecture",
+        "le monde lit un chiffre sur lui sans qu'il ait rien à faire : une "
+        "pierre qui affiche, un autel qui rend, quelqu'un qui l'estime tout "
+        "haut, un rang qu'on lui colle. Il n'agit pas, on le lit — et ce "
+        "qu'on lit peut être faux, humiliant ou fracassant. **Ne pas "
+        "confondre avec `rite`** : son instinct à lui ne compte jamais (il "
+        "est gratuit et permanent), et avoir servi un rite ne dispense pas "
+        "d'une mesure",
     ),
     "corps": (
         10, "LE CORPS",
@@ -122,12 +126,14 @@ AXES: dict[str, tuple[int, str, str]] = {
         "2026-08-15 : une seule servie en 111 scènes",
     ),
     "rite": (
-        15, "UN RITE, UN EXAMEN, UNE ÉPREUVE FORMELLE",
-        "quelque chose de codifié qui classe ou fait progresser — une pile, "
-        "un concours, un passage devant une secte, une épreuve d'entrée. Pas "
-        "un combat ordinaire : un cadre, des témoins, un résultat qui compte "
-        "pour d'autres que lui. Faute du 2026-08-15 : deux en 111 scènes, et "
-        "c'était deux fois le même",
+        15, "UN RITE — il PASSE une épreuve",
+        "quelque chose de codifié qu'il traverse en produisant un effort : "
+        "une pile à frapper, un concours, une épreuve d'entrée, un passage "
+        "devant une secte. Un cadre, des témoins, un résultat qu'IL "
+        "fabrique. **Ne pas confondre avec `mesure`** : dans un rite il "
+        "agit, dans une mesure on le lit. Un rite peut finir par une mesure, "
+        "jamais l'inverse. Faute du 2026-08-15 : deux en 111 scènes, et "
+        "c'était deux fois la même pile",
     ),
     "grosse_piece": (
         15, "LA GROSSE PIÈCE",
