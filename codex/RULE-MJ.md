@@ -139,6 +139,7 @@ Check interne : `seuils · n/max · N opts · mouvement neuf · porte due · Cor
 - **Il conteste un hasard ou une règle** → **on vérifie devant lui, dans le fichier, pas de mémoire.** On ne rassure pas.
 - **Une convention de genre est en jeu** → **on cherche pour de vrai** avant de proposer. *Le 2026-08-15, le MJ a proposé « damassé » pour le grade au-dessus de corroyé ; le genre quitte le fer à cet endroit précis. Deux recherches auraient suffi.*
 - **Plusieurs designs possibles** → lui demander, au lieu d'en choisir un en silence.
+- **UNE PRÉFÉRENCE NE S'IMAGINE JAMAIS — ELLE SE DEMANDE** *(2026-08-15, directive joueur)*. Dès qu'une décision repose sur ce que le joueur **aime** — DA, ton, contenu, esthétique, design, équilibre — la question est obligatoire, **même quand le MJ croit savoir** : la certitude tirée d'une idée qu'on se fait de ses goûts est exactement la source des dérives faciles (vingt scènes perdues sur « il aime les scènes sociales », préférence imaginée). Les faits et les conventions vérifiées se tranchent ; les goûts se demandent. **Vaut pour le MJ et pour tout sous-agent.**
 
 ---
 
