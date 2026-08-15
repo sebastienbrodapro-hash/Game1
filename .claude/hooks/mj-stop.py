@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Hook Stop — LE CREUSET. Trois métiers, à chaque fin de tour du MJ.
+Hook Stop — LE CREUSET. Quatre métiers, à chaque fin de tour du MJ.
 
 1. GARDE-FOU  : cherche un nom scellé dans la sortie joueur. Si touche,
                 sort en code 2 — le MJ est repris avant de rendre la main.
@@ -13,6 +13,11 @@ Hook Stop — LE CREUSET. Trois métiers, à chaque fin de tour du MJ.
                 n'est pas une cadence — le MJ qui dérive est exactement
                 celui qui n'appelle pas son audit. Ici il ne compte plus.
                 *(Validé par le joueur le 2026-08-14, option C'.)*
+4. AXES        : compte ce qui N'EST PAS servi — équipement, chances,
+                économie, Corps, arts, la bête, la grosse pièce… Escalade
+                note -> attention forte x2 -> alerte. Voir axes.py.
+                *(Tranché par le joueur le 2026-08-15, après qu'un cinquième
+                de campagne eut été bâti sur des axes jamais servis.)*
 
 Le garde-fou est un filet, pas la ligne de défense : quand il sonne, le
 message est déjà affiché. Il garantit qu'on le sait dans la seconde.
@@ -25,6 +30,11 @@ import sys
 from pathlib import Path
 
 sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+try:
+    import axes as AXES
+except ImportError:  # le compteur ne doit jamais empêcher de jouer
+    AXES = None
 
 RACINE = Path(__file__).resolve().parents[2]
 NOMS = RACINE / "codex" / "NOMS-SCELLES.txt"
@@ -166,6 +176,21 @@ def main() -> int:
             file=sys.stderr,
         )
         return 2
+
+    # Les axes passent APRÈS le coffre (une fuite prime sur tout) mais AVANT
+    # le psy : un audit sur une tranche dont le contenu manque auditerait le
+    # symptôme, pas la cause.
+    if AXES is not None and derniere > 0:
+        try:
+            etat_axes = AXES.charger()
+            verdict = AXES.evaluer(etat_axes, derniere)
+            AXES.sauver(etat_axes)
+        except Exception:  # noqa: BLE001 — jamais bloquer le jeu sur le compteur
+            verdict = None
+        if verdict:
+            ecrire_etat(derniere, dernier_psy)
+            print(verdict[1], file=sys.stderr)
+            return verdict[0]
 
     if derniere - dernier_psy >= SEUIL_PSY:
         # L'alerte est consommée tout de suite : un hook qui redemande à
