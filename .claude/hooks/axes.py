@@ -78,6 +78,19 @@ AXES: dict[str, tuple[int, str, str]] = {
         "à proposer régulièrement, en montant en dureté, jamais moralisée "
         "en scène",
     ),
+    "arrogance": (
+        8, "QUELQU'UN QUI LE PREND DE HAUT",
+        "on vient à lui avec mépris, condescendance ou provocation — le "
+        "carburant de la domination (§42 : elle se joue en UNE scène, mais "
+        "encore faut-il qu'on la lui serve). Faute du 2026-08-15 : réclamé "
+        "explicitement, servi trop peu",
+    ),
+    "mesure": (
+        10, "UNE MESURE",
+        "le MONDE le mesure : une pierre, un autel, une jauge, quelqu'un qui "
+        "l'estime tout haut, un rang qu'on lui donne. Son instinct à lui ne "
+        "compte pas — c'est gratuit et permanent",
+    ),
     "corps": (
         10, "LE CORPS",
         "une occasion d'épreuve, là où le lieu et le moment la portent "
@@ -107,6 +120,14 @@ AXES: dict[str, tuple[int, str, str]] = {
         12, "UNE CHANCE",
         "MONDE §9.3 : le palier est troué d'épreuves à gain propre. Faute du "
         "2026-08-15 : une seule servie en 111 scènes",
+    ),
+    "rite": (
+        15, "UN RITE, UN EXAMEN, UNE ÉPREUVE FORMELLE",
+        "quelque chose de codifié qui classe ou fait progresser — une pile, "
+        "un concours, un passage devant une secte, une épreuve d'entrée. Pas "
+        "un combat ordinaire : un cadre, des témoins, un résultat qui compte "
+        "pour d'autres que lui. Faute du 2026-08-15 : deux en 111 scènes, et "
+        "c'était deux fois le même",
     ),
     "grosse_piece": (
         15, "LA GROSSE PIÈCE",
