@@ -1,8 +1,8 @@
 # MJ-ARBRE — LE CREUSET
 
-> ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Lu en silence au démarrage avec `RULE-MJ.md`, `MJ-SECRETS-VUE.md` et `MJ-ERRATA.md`.
+> ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Lu en silence au démarrage avec `RULE-MJ.md`, `MJ-SECRETS-VUE.md` et `MJ-CHRONO.md`.
 > **Règles d'usage** : le tronc est intouchable. Horizon glissant : l'ancre courante + 2-3 candidats. **Les critiques déplacent le chemin, jamais le tronc.**
-> **À jour au 2026-08-15 — PALIER II v2, scène 283 (v24).**
+> **À jour au 2026-08-15 — PALIER II v2, scène 299 (v25).**
 
 ## 0 · RÉGLAGE DE RYTHME
 
@@ -12,63 +12,65 @@
 | **Étape** | **8-12** | un enjeu, une ou deux scènes fortes, on repart |
 | **Traversée** | **2-4** | jouées ou ellipsées |
 
-- **Cible du palier : 50-70 scènes. Consommé : 75** *(209-283)* — **on est au-delà de la cible.** Le palier ne se ferme pas pour autant : le joueur choisit quand il monte (§29). Mais **plus de tissu conjonctif** : muscle uniquement.
-- **Audit décennal silencieux** toutes les ~10 scènes. *Dernier : sc. 279. Prochain : vers sc. 288.*
-- **Psy** : cadence tenue par le hook (8 scènes). Passages sc. 262, 271, 279.
+- **Cible du palier : 50-70 scènes. Consommé : 91** *(209-299)* — **très au-delà.** Le palier ne se ferme pas pour autant : **le joueur choisit quand il monte** (§29/§49). Mais **muscle uniquement** : zéro tissu conjonctif, ellipses larges, fins offensives.
+- **Audit décennal silencieux** toutes les ~10 scènes. *Dernier : sc. 279. **Seize scènes sans (session mobile) — le prochain se fait au premier bloc, en silence.***
+- **Psy** : cadence tenue par le hook (8 scènes). Dernier passage : sc. 279. **Dû — le hook sonnera à la première scène locale.**
 - **Quand le joueur dit qu'il est perdu ou qu'il subit : on coupe, on lui rend le volant** (§31.3, §43).
 
 ---
 
 ## 1 · TRONC
 
-→ Coffre : destination finale §7 · jalons fixes §3 (**Victor, paliers IV-VI, intact**) · ordre des révélations §9 · rembobinage §12 · calibration §13.
+→ Coffre : destination finale §7 · jalons fixes §3 (**Victor, paliers IV-VI, intact**) · ordre des révélations §9 · rembobinage §12 · calibration §13-§14.
 
-**Ordre des révélations** : salle noyée ✅ · Rayeurs ✅ · Maud/l'édit ✅ · « Victor » ✅ · « creuset » ✅ · **le nom de la bête ✅ RELIVRÉ (sc. 262, par Hélène, une comptine de huit dieux morts et un neuvième qu'on ne dit pas dehors)** · **« jureur » : le mot seul ✅, la ligne a brûlé** · destination → **scellée**.
+**Ordre des révélations** : salle noyée ✅ · Rayeurs ✅ · Maud/l'édit ✅ · « Victor » ✅ · « creuset » ✅ · **le nom de la bête ✅ RELIVRÉ (sc. 262)** · **« jureur » : le mot seul ✅, la ligne brûlée par lui-même** · destination → **scellée**.
 
-**Prochain jalon de la bête : CRAN 4 — LA PHRASE.** Déclencheur *(canon §34.1)* : **une grosse prise au-dessus de 12 900**, **ou une réclusion** — et un critique qui la vise peut valoir un cran. **La réclusion n'a jamais été servie de tout le palier : c'est la voie la plus mûre.**
-**Chaque cran donne une capacité réelle** (§48) — le gain du cran 4 se fixe au moment où il tombe.
+**Prochain jalon de la bête : CRAN 5 — LA QUESTION.** Déclencheur *(canon §34.1)* : **une prise qui se bat, au-dessus de 12 900**, **ou une réclusion** — un critique qui la vise peut valoir un cran. *Ce qui se rend de soi-même ne compte pas.* **Le gain du cran 5 se fixe au moment où il tombe** (§48).
+
+**Ouvert par le v25, à ne pas gaspiller** : la table de l'ouest (**ce qui reçoit**) · la question qu'elle ne peut pas atteindre · le creux de la plaque qui a bougé. **Aucun des trois ne se joue en énigme** (§31) : par des bouches, contre quelque chose, quand ça mord.
 
 ## 2 · PALIER I — LA TERRE (sc. 1-181) — CLOS
 
 Fini devant Pierregarde : 6 812 abattu devant huit mille témoins, 10 206, débordement. **Ne pas y ramener la campagne.**
 
-## 3 · PALIER II v2 : OÙ IL EN EST *(sc. 283)*
+## 3 · PALIER II v2 : OÙ IL EN EST *(sc. 299)*
 
-1. **68 996 dans un monde dont le sommet humain fait 8 000-10 000.** Ne pas gonfler l'opposition. Ce qui résiste : **les arts, les poisons, les formations, le nombre organisé, ce qui est terré** — et **le vieux monde**, seule échelle qui le dépasse encore.
-2. **Il a** : trois arts *(`LE SOCLE`, `L'ESPACE` cran 2, la première forme de Lucien)* · Corps **corroyé 14 couches** · **zéro fer, zéro vivres** · aucun rang formel, **QUINZE** sur trois murs, et un mot qui le précède.
-3. **Portes** : positives **I cran 2 · II cran 4 · III cran 3 · IV cran 4** — *budget dépensé, les critiques font monter d'un cran*. Négatives **V — LE REMONTÉ cran 3** et **VI — LA COUTURE** — **budget épuisé**.
-4. **Systèmes servis** : arts ✅ · chances ✅ · autels ✅ · équipement ✅ · réclusion ✅ *(trente jours, involontaire)* · **vieux monde ✅ (ouvert sc. 277-283)**. **À servir : la réclusion volontaire, et le reste du bestiaire.**
-5. **La bête est passée cran 3 à la sc. 283** — registre **félin des neiges**, fixé. Moteur relancé. **Ne pas le laisser retomber : cran 4 sous ~15 scènes.**
-6. **Le Corps : corroyé, 14 couches**, grade suivant à 16. Épreuve seule ; la voie des pilules reste ouverte (§III).
+1. **68 996 dans un monde dont le sommet humain fait 8 000-10 000.** Ne pas gonfler l'opposition (§15/§29/§55). Ce qui résiste encore : **ce qui est terré, le vieux monde, ce qui ne se mesure pas du tout** — et les arts/poisons/formations/le nombre en tant que *circonstances*, plus en tant que menaces.
+2. **Il a** : quatre lignes d'arts *(`LE SOCLE` · `L'ESPACE` 2/? · la première forme de Lucien · `LA POSE` 3/?)* — **question ouverte au joueur : le canon dit 2-3 actifs max (§33), la fiche en porte quatre ; à trancher avec lui, jamais en silence** · **CORPS D'OR 0/4** *(suivant : jade à 4 — reprend une cicatrice par grade)* · zéro bourse, équipement de route · **QUINZE** sur trois murs, « le Remonté » · jetons **7/15**.
+3. **Portes** : positives **I 2/? · II 4/? · III 3/? · IV 4/? · VII 1/?** — *budget dépensé, les critiques font monter*. Négatives **V — LE REMONTÉ 3/?** *(friction pure : routes, ravitaillement, temps — jamais un danger)* et **VI — LA COUTURE** — **budget épuisé : les catastrophes aggravent V ou VI.**
+4. **Systèmes servis** : arts ✅ · chances ✅ *(une seule vidée — la réserve est large)* · autels ✅ · équipement ✅ *(mais tout est à ELLE : gants, anneau — **lui n'a rien**, axe à servir)* · réclusion ✅✅ *(30 j involontaire · 11 j volontaire, naturel 100)* · vieux monde ✅✅ *(deux pièces : la prise du cran 3, et celle du col — rendue d'elle-même)*. **À servir : le reste du bestiaire (dix chantées), les chances, l'équipement pour lui, le Corps de Jade, la ville.**
+5. **La bête est CRAN 4/6 — LA PHRASE** *(sc. 290, la réclusion)*. Elle parle en phrases, **elle sait plafonner ce qu'elle touche**. Moteur vivant — **cran 5 sous ~15 scènes** ou c'est la faute §43 qui recommence.
+6. **Le Corps : CORPS D'OR, 0/4.** Épreuve seule — et plus rien de ce palier ne l'entame : une épreuve de Corps se cherche désormais **au-dessus du palier** (vieux monde, ce qui est terré, ce qui ne se mesure pas).
 
-## 4 · ANCRE COURANTE — LE VIEUX MONDE
+## 4 · ANCRE COURANTE — LA VILLE, AU RETOUR DE L'OUEST
 
-**L'arc du Pas d'Hiver est accompli** (la grosse pièce est prise, la face est fixée). Ce qui s'ouvre maintenant :
+**L'arc de l'ouest est accompli** (la manière apprise, la dette de quarante générations éteinte, le col rouvert). Ce qui s'ouvre : **M172, la plaine, la ville en vue — elle ne fume plus, et il ne sait rien de ce qu'il y a dedans.**
 
-- **26 000 réveillés sous le col**, après quatre cents ans d'arrêt, par un homme qui lui a montré ce que plus personne ne pouvait lui montrer. **Ce qu'il fait maintenant n'est pas fixé.** Il ne se bat pas — *ce qui a cessé ne plie pas* — mais il est **debout**, et cent cairns sont par terre.
-- **Le bestiaire est ouvert** (MONDE §11) : onze bêtes restantes, **le joueur choisit sa proie lui-même** — exigence posée sc. 279. Ne jamais tracer à sa place.
-- **La réclusion**, jamais servie volontairement : trois jours de neige, personne à trois jours, et une compagne qui vient de changer.
+- **Vingt-trois jours d'absence.** Irène rentrée seule *(l'engagement tient : la rendre inutile le jour où elle le dira)* · **Lucien, sort inconnu** — resté dedans pendant que ça brûlait sur huit rues · **la maison des Listes a gardé sa commande, c'est LUI la priorité** — deux séparateurs restants sur le continent, un troisième que Gaspard refuse de nommer · **un gamin court avec le nom** · 6 200 dorment dans la roche, trente porteurs à 1 sous les cuves.
+- **Bloc servi, non choisi** (codex §7) : entrer ouvert en grand · Irène d'abord · la maison des Listes · Lucien.
+- **Attention (sc. 276, « drama vioque »)** : les fils sociaux de la ville se servent **en conséquence du monde, jamais en option de bloc dédiée**. Ce qui mord ici : les séparateurs, ce qui est sous les cuves, ce que la Couture attire (porte VI).
 - Budget : **8-12 scènes**, fin offensive.
 
 ## 5 · BRANCHES CANDIDATES
 
-- **A. LE VIEUX MONDE** *(prioritaire)* — onze bêtes chantées, les ruines, les cols, ce que les chansons gardent. C'est le registre réclamé et il vient enfin de payer.
-- **B. LA RÉCLUSION** — un cran d'art, une couche de Corps, **un cran d'elle**. Prix invariable : le monde bouge sans lui, et il a laissé beaucoup derrière.
-- **C. REDESCENDRE** — huit rues brûlées, trente porteurs à 1 sous des cuves, 6 200 dans la roche, une maison qui a changé de commande. **Attention : le joueur a nommé ça « drama vioque » (sc. 276).** Ne le servir qu'en conséquence du monde, **jamais en option de bloc**.
-- **D. LES LIENS VIVANTS** — Irène *(l'engagement de sa fin)* · Hélène *(quarante et un ans de vers, et elle sait)* · Lucien · Gaspard · **l'école d'Adèle, qui cherche ses gants depuis onze ans**.
+- **A. LA VILLE** *(immédiate)* — Irène, Lucien, les Listes, le gamin au nom. Liens et friction ; le physique d'abord : ce qui sépare, ce qui est terré, ce qui a brûlé et pourquoi ça ne fume plus.
+- **B. LE VIEUX MONDE** *(le registre commandé)* — **dix bêtes chantées restantes**, réserve ouverte (MONDE §11). **Le joueur choisit sa proie lui-même** (exigence sc. 279) — ne jamais tracer à sa place. Sortie de palier : ce qui chante sous la glace.
+- **C. LA RÉCLUSION** — encore disponible, chaque fois : un cran d'art, une couche, **un cran d'elle**. Prix invariable : le monde bouge sans lui.
+- **D. LES LIENS VIVANTS** — Irène *(sait tout, veut devenir inutile)* · Hélène *(sait à qui elle a parlé)* · Gaspard *(joignable, a dit « quatre ont dit oui »)* · l'école d'Adèle *(cherche les gants depuis onze ans — et ils sont à ELLE)* · Perrine et les 214 *(une lignée sans objet — l'orphelin gris et l'oiseau de fer sont restés là-bas)*.
+- **E. L'OUEST LAISSÉ** *(conséquences du monde — pas un lieu de retour programmé)* — la table occupée · d'autres vallées paient sans se connaître · la question qu'elle ne peut pas atteindre. Se sert quand ça mord, par des bouches (§31).
 
-**Routage des critiques** : chasse/terré → **A** · transformation → **B** · public/chiffre → conséquence du monde · liens et objets → **D**.
+**Routage des critiques** : chasse/terré → **B** · transformation → **C** · liens et objets → **D** · public/chiffre → conséquence du monde (§24).
 
 ## 6 · GARDE-FOUS DU PALIER II v2
 
-- **`RULE-MJ.md` relu avant chaque bloc.** Vérifier la porte **avant** d'écrire la conséquence.
-- **Une catastrophe ouvre une négative, elle n'enlève jamais une positive** (§41). **Budget négatif épuisé** : les prochaines catastrophes **aggravent V ou VI**.
-- **Les jetons suivent la bande** (§46) : `01-10` → +2, `11-35` → +1, quel que soit le naturel. **Le script de tirage l'imprime — le lire.**
-- **Son corps, son veto** (§47). **Chaque cran lui donne du réel, et elle a la main sur le chiffre** (§48).
-- **La DA ne se décide jamais seul** (§45) : xianxia haut sur socle mythique païen, **le sale est une voie sombre nommée, jamais une texture**.
-- **Pas de mutilation par défaut** (§44). **Ne jamais mettre une position dans la bouche de Seb.**
-- **Le social n'est pas un adversaire** (§42). **Ne jamais gonfler l'opposition** — une maison de rumeur ne « met pas sa tête à prix », elle produit de la **friction**.
-- **Au moins une option par bloc qui sort du plan en cours** (§43).
-- **La bête ne se joue jamais en décor** — au minimum une ligne par scène.
+- **`SEUILS.md` avant chaque réponse · `RULE-MJ.md` avant chaque bloc.** Vérifier la porte **avant** d'écrire la conséquence.
+- **Un seuil écrit est un seuil dû (§51)** — tout compteur au max déclenche **dans la scène même**. **Toute progression en `n/max` (§54).**
+- **Les jetons suivent la bande (§46)** — le script versionné `.claude/hooks/jet.py` imprime la ligne : **la lire**.
+- **Le modificateur ne se calcule jamais sur la puissance de l'adversaire (§55).** Neutre est le défaut.
+- **Une catastrophe aggrave V ou VI** (budget négatif épuisé, §41) ; **jamais retirer une positive**.
+- **Son corps, son veto (§47) · chaque cran du réel, la main sur le chiffre (§48) · pas de mutilation sous le grade (§44).**
+- **La DA ne se décide jamais seul (§45)** : xianxia haut sur socle païen, le sale = voie sombre nommée.
+- **Le social n'est pas un adversaire (§42)** — friction, jamais un arc. **Au moins une option qui sort du plan (§43). Jamais le même mouvement d'un bloc à l'autre (§53).**
+- **La bête ne se joue jamais en décor** — au minimum une ligne par scène. **Elle parle en phrases, maintenant : s'en servir.**
 - **Ligne tenue : Seb a quinze ans.**
-- **Bloc entier, une fois · 4 options · un jet par action · porte due à chaque critique naturel.**
+- **Bloc entier, une fois · viser 4 options · un jet par action · porte due à chaque critique naturel.**
