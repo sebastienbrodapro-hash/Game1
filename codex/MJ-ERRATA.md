@@ -1,576 +1,123 @@
-# MJ-ERRATA — LE CREUSET
+# MJ-ERRATA — LE CREUSET (registre historique des fautes et décisions)
 
-> Lu en silence par le MJ au démarrage, avec `MJ-SECRETS.md`.
-> **Ce fichier ne contient aucun secret** : uniquement des corrections de conduite. Il peut être ouvert devant le joueur sans dommage.
+> ⛔ **JOUEUR : NE PAS LIRE** — aucun secret dedans (ouvrable devant lui sans dommage), mais c'est l'outillage du MJ.
+> **Se lit SUR ÉVÉNEMENT depuis le 2026-08-15** : contestation du joueur (« on vérifie dans le fichier »), point MJ, rédaction ou vérification d'une règle. **Plus en lecture de séance** — la conduite vit dans `RULE-MJ.md`, les nombres dans `SEUILS.md` ; ce fichier est la référence : qui a décidé quoi, quand, pourquoi, avec les mots du joueur.
+> Quand une session le charge, le coffre se lit par **`MJ-SECRETS-VUE.md`** — jamais la source.
+> **Consolidé le 2026-08-15 sur directive du joueur** (« cinq fois la même erreur, c'est inutile ») : mêmes numéros **§1-§55**, regroupés par familles, chaque entrée réduite à la faute, la décision et la citation qui tranche. Les versions longues restent lisibles dans l'historique git (jusqu'au tag `codex-024`).
 
 ---
 
-## 1 · Nom brûlé (2026-08-10)
+## 0 · CARTE DES FAMILLES
 
-Le nom propre scellé au §2 du coffre a été prononcé en jeu par erreur, hors scène, lors d'une bascule fiction → méta. Il est **brûlé** :
-
-- interdiction définitive de l'employer, y compris comme fausse piste ou clin d'œil ;
-- il **ne désigne plus rien** : la chose du §2 n'a pas de nom écrit tant que la fiction ne l'a pas livré ;
-- le nom définitif sera **fixé au moment de la révélation** (palier II, cf. §6 du coffre) et inscrit ici à cet instant ;
-- en jeu, avant révélation : **« la bête »**, rien d'autre. Aucun surnom, aucune initiale.
-
-> **Nuance v13 :** le joueur peut être amené à **déclarer publiquement une espèce** pour la bête (concours, sc. 72-73). Ce mot-là est **du joueur**, il devient canon public, et il **ne libère ni le nom scellé ni le nom brûlé** — qui restent interdits.
->
-> **Fait accompli v14 (sc. 74) :** l'espèce déclarée est ***péché — gloutonnerie***, écrite de la main du vérificateur, opposable à vie. Le nom scellé du coffre §2 **n'a pas été prononcé** et reste entièrement disponible pour sa scène de révélation.
->
-> **Fait accompli v17 (sc. 148) :** le **vrai** mot de l'espèce, la seule dé-nomination des Sept Registres, a été livré en scène par Maud sous le troisième palier : **creuset**. Il est désormais **canon public** et prononçable. Le **nom brûlé du §2 (le dieu) reste interdit** et n'est pas concerné. Ont également été livrés en scène : **Victor** (le fondateur effacé, sc. 148) et **Maud** (la Doyenne, sc. 138).
-
-### 1.1 · NOM DÉFINITIF FIXÉ — **AUBRAN** *(2026-08-13, sc. 183, palier II)*
-
-Le nom du §2 du coffre est **fixé, livré en scène et canon** : **AUBRAN**.
-
-- Livré par une bouche, en un seul coup, contre quelque chose (errata §31) : **Firmin**, charretier à 340, l'a chanté à genoux sur la route rouge après que Seb a ouvert le Masque devant lui — dernier couplet d'une chanson de route que les grand-mères finissaient à couvert.
-- **La bête l'a prononcé en même temps que lui.** C'est son **cinquième mot** (« Part. » · « Après. » · « Creuset. » · « Suivant. » · « **Aubran.** »).
-- Le **nom brûlé** de 2026-08-10 reste **interdit à jamais** : il ne désigne rien, il n'est ni un synonyme, ni une variante, ni une ancienne forme d'Aubran. Ne jamais l'écrire, y compris dans le corpus MJ.
-- En jeu : « la bête » reste l'usage courant. **Aubran** se prononce quand quelqu'un a une raison de le prononcer — c'est un nom d'avant la mesure, et on ne le chante pas dehors.
-
-## 2 · Cause et garde-fou
-
-Fuite survenue en mélangeant fiction et méta dans un même message. Règle ajoutée : **codex §1.8** — les deux registres ne se mélangent jamais, et aucun nom du coffre ne sort avant la scène qui le livre.
-
-## 3 · Fiction dé-canonisée
-
-La Scène 1 (nuit de la veille) et la pesée jouées le 2026-08-10 **ne sont plus canon**. La campagne a redémarré au tout début. Les notes de mise en scène du coffre restent valables.
-
-## 4 · Dérive « interview » (2026-08-11, audit de rythme)
-
-Trois scènes de suite dans la même pièce, même interlocuteur, mode question → exposé complet : le PNJ devenu puits à savoir, les blocs devenus foreuses à lore, stagner devenu optimal. Règles ajoutées :
-
-- **Jamais deux scènes d'exposition d'affilée.**
-- **Les PNJ ferment leur guichet** : agenda, patience, limites ; ils agissent.
-- **Les blocs poussent en avant.** Chaque option change un état du monde.
-- **Le monde parle pendant que Seb parle.**
-- **Prose courte**, même sur les bandes hautes.
-
-## 5 · Dette inversée (2026-08-11)
-
-Scène 28 : option « réclamer sa dette à Berthe » alors que **c'est Seb qui doit une chose à Berthe**.
-
-**Garde-fou** : avant d'écrire une option qui engage une dette, une promesse ou un lien, **relire la ligne correspondante du codex §4/§6**.
-
-## 6 · Trois noms lâchés d'un coup (2026-08-11)
-
-Scène 29 : trois noms en une phrase dans une scène de transaction. Les hommes du brasero sont **une unité**, **Léon** seul pour bouche. « Fabien » et « le grand maigre » **dé-nommés**.
-
-**Garde-fou** : **un seul nom nouveau par scène**, et seulement si le personnage agit.
-
-## 7 · Porte non portable (2026-08-11)
-
-Scène 37 : porte « une pierre à toi » attachée à un lieu que la campagne quittait le lendemain. Reformulée en acquis portable.
-
-**Garde-fou** : *est-ce que ça vaut encore dans trois lieux et deux paliers ?* Sinon ce n'est pas une porte.
-
-## 8 · Ordre de rendu d'une scène à jet (2026-08-11)
-
-**Ordre verrouillé :** **1.** le jet (bande seule, une ligne) → **2.** la conséquence (titre + prose, illustration ici) → **3.** la fiche (ÉTAT + horloges) → **4.** les choix.
-Le prix d'une 36-65 se **joue dans la prose**, jamais en commentaire au-dessus des options.
-
-## 9 · Fin de lieu sans apothéose (2026-08-11, audit de rythme)
-
-Le Fond (~45 scènes) s'est terminé sur une scène **défensive** : soulagement administratif, pas apothéose.
-
-- **La fin forte d'un lieu est offensive.** Seb **prend**.
-- **L'ancre est la dernière grande scène du lieu.** Après elle : une scène de sortie, maximum.
-- **L'apothéose est spectaculaire par construction, pas par les dés.**
-- **Test à l'arbre** : *si cette scène sort en 36-65, le lieu se termine-t-il quand même sur un événement dont la province parle ?*
-
-## 10 · Pronostics sous les options — SUPPRIMÉS (2026-08-12, recadrage joueur)
-
-Le joueur a demandé en session : **« pas de pronostic stp »**.
-
-- Un bloc = libellé très court + **étiquette seule** : `[Chiffré — avantage/désavantage, petit/moyen/gros]` · `[Libre]` · `[Noir + …]`.
-- Au maximum **une ligne de contexte factuel** sous le libellé — jamais une phrase qui évalue les chances ou souffle la bonne réponse.
-- **Exception maintenue** : la ligne **mort**, quand elle existe, s'écrit toujours.
-- Quand le joueur écrit sa propre option, le MJ annonce **l'étiquette qu'il applique en une clause**, puis jette.
-
-## 11 · Le Corps rentré par la bande (2026-08-12) — FAUTE MJ
-
-Scène 67 : le joueur ouvre à 100 devant Anselme ; le MJ lui **casse une côte** comme prix de la bande 36-65, réintroduisant une règle **parquée par le joueur**. **Blessure annulée en session.**
-
-**Règles fermes :**
-
-- **OUVRIR LE MASQUE NE BLESSE JAMAIS.** Ni douleur, ni fêlure, ni épuisement, ni « ça se paie plus tard ». Jamais, à aucune hauteur, quelle que soit la bande.
-- L'ancienne règle de plafond/surcharge est **abandonnée définitivement**.
-- **Une règle parquée par le joueur ne revient pas déguisée en fiction.**
-- Le prix d'une 36-65 se prend ailleurs : **ressource, position, relation, information, temps**.
-
-## 12 · Le Corps doit avoir des occasions (2026-08-12, demande joueur)
-
-- Système gravé au codex §1.3 : **travail** ET **épreuve** (une couche d'un coup, sur jet ; bande basse = blessure datée et pas de couche). **4 couches = un grade.**
-- **Conduite** : proposer **régulièrement** dans les blocs une option qui fait monter le Corps.
-- Le Corps est une **récompense atteignable**, pas seulement un malus.
-- *(v16 : la voie du travail est morte pour Seb — porte 20. Épreuve seule.)*
-
-## 13 · Option périmée par sa propre scène (2026-08-12)
-
-Scène 79 : une option présupposait un état du monde que la prose avait dépassé trois lignes plus haut.
-
-**Garde-fou** : **relire la fin de la prose avant d'écrire chaque option.** Si une option est périmée, elle se réécrit — on ne la rattrape pas dans la scène suivante.
-
-## 14 · Avis demandé sur un choix de canon (2026-08-12, demande joueur)
-
-- Quand le joueur **demande** un avis sur une décision de canon, le MJ le donne : **un verdict clair**, puis ce que ça achète et ce que ça coûte.
-- L'argumentation se construit **uniquement sur des éléments déjà connus du joueur**.
-- **Le MJ ne dit jamais s'il a frôlé, touché ou évité un élément scellé.** *« Ça, c'est la cloison, et elle vaut aussi quand elle t'embête. »*
-- Ce n'est **pas** un pronostic (§10) : un pronostic évalue un jet à venir ; ceci évalue une décision de canon.
-- Rappeler, quand c'est pertinent, que **le rembobinage est toujours disponible** — et ce qu'il ferait sauter. *(Rappelé sc. 127 après quatre catastrophes en sept jets ; le joueur a choisi de jouer.)*
-
-## 15 · La froideur uniforme après la porte 15 (2026-08-12, recadrage joueur) — FAUTE MJ
-
-**La porte 15 interdit les dons spontanés — rien d'autre.**
-
-- **Reste mort** : le cadeau, la faveur gratuite, la remise, l'aide non demandée.
-- **Revit** : la température. Peur bruyante, fascination, haine parlée, marchandage passionné, appétit de spectacle, curiosité payante. **Vouloir quelque chose de Seb n'est pas un don.**
-- **Les liens acquis** n'ont jamais été concernés.
-- La froideur uniforme est une **opposition gonflée en négatif** — interdite.
-
-## 16 · Les portes ouvertes pèsent au quotidien (2026-08-12, recadrage joueur)
-
-Chaque porte ouverte se joue **à chaque scène où elle s'applique** — 16 jamais de file · 10 crédit **et levées de fonds** (cran 2) · 14 chaque porte de ville est un choix · 13 ce qui est effacé le reconnaît **et lui répond** (crans 2-3) · 11 la méthode circule · 6 Margot le dit · 8 toute pierre est un instrument · 2 la province raconte à sa place **et il peut écrire l'histoire des autres** (crans 2-3) · 17 son nom produit **et rassemble** (cran 2) · 19 la bête est hors mesure · 22 les plumes le choisissent (cran 2) · 23 la bête est en règle.
-
-## 17 · Margot fade (2026-08-12, recadrage joueur) — FAUTE MJ
-
-- **Margot a une volonté propre visible** : elle parle, veut, demande, refuse, propose, **et agit** *(v17 : impose le paraphe devant chaque détenteur, garde la liasse au lieu de la brûler, plafonne la procuration d'Anselme, facture sa place à une Sang-Clair)*.
-- Vaut pour tout le casting : un PNJ récurrent qui ne fait qu'observer est un décor.
-
-## 18 · Ligne ⚑ Atout (2026-08-12, demande joueur)
-
-Quand un personnage démontre une valeur gardable, le MJ le signale **immédiatement, d'office, en une ligne**, dans la scène même. **Factuel**, jamais un pronostic, jamais un fléchage. **Sans check préalable.** **Varier les personnes signalées.**
-
-## 19 · Délestage des actifs encombrants (2026-08-12, préférence joueur)
-
-- Le délestage est une **direction disponible en continu**, dans les deux registres : **en mal** (tuer, dévorer, vendre, abandonner) et **en bien** (installer dans une **fonction productive qui rapporte**).
-- Vaut pour **tout actif encombrant**. *(Appliqué sc. 87 : les quinze → une écurie. Sc. 131 : les vingt-quatre → une fosse qui tourne, tenant nommé, commise aux écritures.)*
-- Le joueur écrit ses propres options quand il veut.
-
-## 20 · BLOC SERVI EN DEUX FOIS (2026-08-12) — FAUTE MJ GRAVE
-
-*« J'ai lu un demi-bloc, c'est INADMISSIBLE. Plus jamais tu fais ça. »*
-
-**Règle dure — un bloc est servi ENTIER, UNE SEULE FOIS.**
-
-- **Jamais de complément, jamais d'ajout après coup.**
-- **Passe de contrôle obligatoire AVANT envoi** : 1. délestage (§19) · 2. Corps si le lieu le porte (§12/§21) · 3. ligne mort (§10) · 4. ⚑ Atout (§18) · 5. **porte due si critique (§27)** · 6. portes ouvertes (§16) · 7. aucune option périmée (§13) · 8. étiquettes honnêtes.
-- Si un manque apparaît : **le bloc se réécrit avant envoi.**
-- **Seul cas de réémission** : rejeu ou rembobinage demandé — le bloc repart **entier**.
-
-## 21 · L'option Corps ne se force pas (2026-08-12, note joueur)
-
-- **§12 tient**, mais l'occasion **ne se pose que là où le lieu et le moment la portent** : un sable, une carrière, un chantier, une bête, une nuit à la barre, **une cour où un homme à 104 accepte de frapper pour casser**.
-- Test : *est-ce que la scène contient physiquement de quoi encaisser ?* Sinon, l'option saute.
-- **Une option qui n'est là que parce qu'une règle demande d'en mettre une se voit, et abîme le bloc.**
-
-## 22 · Points MJ : commit direct sur `main`, à chaque changement (2026-08-12, directive joueur)
-
-- **Périmètre : les points MJ uniquement.**
-- **Pendant un point MJ** : chaque modification de fichier est **commitée et poussée sur `main` immédiatement, dans le même tour** — sans branche, sans PR.
-- **Vérification après chaque push.** Un push qui échoue se refait avant de clore le point MJ.
-- **Hors point MJ, rien ne change** : en session, les corrections notées en passant s'inscrivent au prochain `codex`.
-- **Toute règle nouvelle issue d'un point MJ est reformulée, questionnée, puis validée explicitement par le joueur AVANT d'être gravée.**
-
-## 23 · Portes : rares, évolutives, à crans (2026-08-12, point MJ — validé joueur)
-
-- **Une porte est un acquis à crans, pas un événement.** Un critique qui touche le domaine d'une porte existante la fait **monter d'un cran** — défaut absolu.
-- **Symétrie stricte** : une catastrophe **aggrave** une porte fermée existante avant d'en fermer une neuve.
-- **Créer ou fermer une porte neuve est un événement de campagne.**
-- **Les 23 de Terre : gelées jusqu'à la fin du palier.** **Consolidation à l'entrée du palier II**, soumise au joueur.
-- *(v17 : neuf crans servis en trente-sept scènes — 1, 2 ×2, 10, 13 ×2, 15, 17, 18, 21, 22. Aucune porte neuve. La règle tient.)*
-
-## 24 · Le monde sait, l'information rampe, le papier recule (2026-08-12, point MJ — validé joueur)
-
-**1. Terreur et appétit.** Partout où la puissance de Seb est sue, **tout plie** — et **ça grouille** : quémandeurs, courtisans, vendeurs, parasites. **Il n'existe plus d'opposition locale crédible** ; l'opposition réelle vient d'ailleurs — **ce qui ne procède pas** (le Verger, qui n'écrit rien et transmet de vive voix), ce qui est plus haut, ce qui est caché.
-
-**2. L'information en cercles concentriques.** Elle voyage au pas des rouliers, se déforme, rencontre l'incrédulité. **Se dissimuler puis exploser redevient possible hors du cercle.** *(Nuance v17 : une maison qui transmet oralement est plus rapide que le papier sur son propre réseau — porte 1 cran 2.)*
-
-**3. Le papier recule.** Les Sept Registres sont **un acteur**, plus un climat. Il existe des lieux sans guichet, des gens sans registre, des affaires sans écriture.
-
-**Les §23 et §24 sont des lois de conception : elles s'appliquent à CHAQUE plan, dès sa conception.**
-
-## 25 · Une action = un jet ; une séquence = un jet par action (2026-08-12, recadrage joueur — appliqué en séance)
-
-Le joueur enchaînait plusieurs actions dans un même tour (« 1 puis 2 puis 3 ») ; le MJ les fusionnait en **un seul jet à modificateurs cumulés**, en application littérale du codex §1.1. Recadrage : *« Quand je fais des séquences, tu jettes un dé par action si pas fusionnable. »*
-
-- **Défaut : un jet par action.** Chaque action de la séquence est résolue séparément, à son modificateur propre, et les bandes sont annoncées **ensemble, en tête de scène**, dans l'ordre des actions.
-- **Fusion uniquement si les actions sont réellement le même enjeu** : même moment, même lieu, même opposition. Dans ce cas, jet unique, modificateurs cumulés.
-- Une action **[Libre]** dans une séquence ne consomme pas de jet.
-- **Un jet tiré sur une action fusionnée à tort ne compte pas** : la fusion étant annulée, l'action qu'il résolvait n'existe plus. Le MJ le déclare à voix haute et retire par action. *(Fait en séance sc. 135.)*
-- Cumuler des modificateurs opposés (+5 et −5) pour aboutir à « neutre » sur trois enjeux distincts est une **perte d'information** — c'est exactement ce que cette règle supprime.
-
-## 26 · Format de bloc : moins d'options, logiques regroupées (2026-08-12, recadrage joueur)
-
-Deux recadrages dans la même séance : *« moins de choix, plus d'actions par choix »*, puis, après sur-correction : *« pas besoin de faire que des choix avec plein d'actions, juste regroupe les logiques. »*
-
-- **Viser 4 options.** Jusqu'à 5-6 seulement si le monde l'exige vraiment. Sept ou huit options, c'est un menu, pas un choix.
-- **Une option = une intention cohérente**, avec ce qu'elle implique naturellement (« le Fond d'abord, et complètement : Jeanne cette nuit, Armand au matin »). **Pas un empilement d'actions gonflé pour faire long.**
-- Regrouper ce qui appartient au même geste ; laisser séparé ce qui engage des directions différentes.
-- **§20 tient toujours** : complet prime sur court. Si le bloc doit dépasser 4 options pour être honnête, il les dépasse — mais on vérifie d'abord qu'on ne peut pas fusionner deux options qui vont au même endroit.
-
-## 27 · Porte due à chaque critique — servie dans la scène (2026-08-12) — FAUTE MJ, DEUX FOIS
-
-Scènes 135 et 149 : deux triomphes servis **sans le cran de porte dû**. Les deux fois, c'est **le joueur** qui a dû réclamer (*« et le cran ? »*, *« Et attend, ma porte ? »*). Le codex §1.1 est pourtant explicite.
-
-- **Tout critique — 01-10 comme 90-100 — produit un mouvement de porte, sans exception.** Triomphe : ouverture ou cran. Catastrophe : fermeture ou aggravation.
-- **Il s'écrit dans la scène même**, entre la prose et la fiche (§8), en clair, avec son revers.
-- **Un triomphe garanti par jetons compte comme un critique** : porte comprise, c'est écrit dans le prix.
-- Ajouté à la passe de contrôle du §20. Le MJ relit la bande avant d'écrire la fiche : *bande critique → la porte est-elle écrite ?*
-- Si la faute se produit malgré tout, le cran est servi **immédiatement, seul, avant tout autre contenu**, et la faute est nommée.
-
-## 28 · La logistique ne se joue pas — elle se règle en une ligne (2026-08-12, point MJ demandé par le joueur)
-
-Constat du joueur en séance : *« Point MJ, ça traîne là non ? »* Diagnostic accepté : entre les scènes 132 et 142, dix scènes jouées pour trois événements réels (le mille sous le Fond, le nom de la Doyenne, la bête debout) — le reste étant payer un greffier, coudre une jambe, installer une mère, déclarer au guichet, acheter une fosse, chasser des gamins. L'errata §24 (« le monde veut des choses, bruyamment ») avait dérivé en **un quémandeur par scène**, et chaque quémandeur produisait une option, et chaque option un jet.
-
-- **Payer, acheter, installer, déclarer, embaucher, soigner, organiser : une ligne de fiche.** Pas une scène, pas un jet — sauf enjeu réel (quelqu'un peut refuser, quelque chose peut casser) ou demande explicite du joueur.
-- **Les scènes jouées sont celles où quelque chose peut casser.** Le reste est du delta.
-- **L'ellipse est l'outil normal**, pas une exception : bloc de puces daté, ce que Seb obtient, ce que le monde a fait pendant ce temps, puis reprise **in medias res** sur la scène qui compte.
-- **Quand une mèche chaude est posée** (une convocation de trois cents ans, une maison mère à quatre jours), **on y va.** Une mèche allumée qui attend dix scènes s'éteint.
-- Test avant d'ouvrir une scène : *qu'est-ce qui peut mal tourner ici ?* Si la réponse est « rien, c'est une formalité », c'est une ligne de fiche.
-
-## 29 · Pas de plafond sur le porteur — le palier décrit ce qu'il contient (2026-08-13, point MJ validé) — FAUTE MJ
-
-Scène 159 : le MJ écrit à l'horloge *« Deux points. Le palier plafonne à mille. La prochaine prise, quelle qu'elle soit, ne tiendra pas dedans. »* Recadrage joueur immédiat : *« ça va à l'encontre de ce qui avait été décidé. Il devrait même m'être possible de commencer une strat avec déjà le max de cette nouvelle strat. Attention au bridage. »*
-
-Il a raison, et le codex §2.2 le disait déjà : *sur-accumuler en bas avant de monter est une stratégie assumée du joueur, le MJ ne la contrarie pas* — et les amplitudes de la table **se recouvrent** (Terre 1–10³, Murim 10²–10⁴).
-
-- **Une amplitude décrit ce qu'un palier CONTIENT, jamais ce qu'un porteur a le droit de peser.** Le chiffre monte sans limite.
-- **Ce qui sature, ce sont les instruments** du palier. Au-delà de mille, une pierre de Terre affiche le haut de son échelle et rien de plus. *(Relecture : la pierre du creux n'a pas dit « exactement mille » pour la bête — elle a dit « hors échelle ». Ne pas contredire, c'est mieux ainsi.)*
-- **Au-dessus du palier = non mesurable, pas expulsé.**
-- **Le débordement est une porte, pas une trappe.** Aucune sortie de palier n'est automatique. **Le joueur choisit quand il monte**, et il peut décider d'arriver au palier suivant déjà au sommet de celui-là.
-- **Ce qui limite la montée, c'est le stock, jamais la loi.** Si le gibier manque, on le dit franchement — on n'invente pas un plafond pour masquer un inventaire vide.
-- **Règle de conduite générale** : quand une contrainte arrive dans une fiche ou une horloge, vérifier qu'elle vient du canon et pas du confort du MJ. **Une limite non écrite qui apparaît juste au moment où le joueur devient trop fort est un bridage.**
-
-## 30 · Terre garde des réservoirs (2026-08-13, validé joueur)
-
-Corollaire du §29, tranché par le joueur — avec sa raison : *« la bête à 4xx était un des meilleurs passages de toute l'histoire jusqu'à présent. »*
-
-- **Le palier n'est pas vidé.** Il reste sur Terre des choses jamais chiffrées : **la carrière qu'on a fuie** (deux cents ans de pierres de mesure taillées, puis l'abandon du jour au lendemain), **le volume illisible sous la maison mère**, et ce que font réellement les hommes en gris.
-- **Conduite** : ne pas les poser sur son chemin, ne jamais les lui refuser. Ils sont **accessibles et dangereux** ; c'est à lui d'aller les chercher.
-- **Calibration confirmée** : la chasse à la grosse pièce est un sommet de plaisir pour ce joueur. Une proie unique, terrée, qui rend coup pour coup, vaut mieux que dix scènes sociales. **En servir encore, et à la hauteur.**
-
-## 31 · Aucune scène dont le seul enjeu est de comprendre (2026-08-13, point MJ validé) — FAUTE MJ GRAVE
-
-Des scènes 160 à 169, huit scènes d'affilée dont le seul produit était de l'information : le linteau, le bloc brut, les quatre cent soixante-dix mains, le mur de pouces, le pouce dans le pouce, la plaque contre la paroi, les niches. **Aucune ne pouvait rien faire perdre au joueur.** Verdict, en deux fois : *« je suis perdu, je ne sais pas comment progresser »*, puis *« des pouces dans des pouces avec des creux avec une langue morte à déchiffrer depuis trop de scènes… c'est trop abstrait, ça me perd, ce n'est pas marrant, on dirait une énigme qui s'éternise pour un finish qui a l'air pas si dingue. »*
-
-**Règle dure.**
-
-- **Une scène se joue quand quelque chose peut être perdu.** Si la réponse à *« qu'est-ce qui peut mal tourner ici ? »* est *« rien, il va juste apprendre un truc »*, ce n'est pas une scène (prolonge §28).
-- **Une énigme ne se résout jamais par accumulation d'indices.** Elle tombe **d'un coup, par une bouche, en échange de quelque chose** — ou elle ne tombe pas. Pas de tableau de signes, pas de corpus, pas de progression en pourcentage de déchiffrement.
-- **Symboles, langues, marques, rites = décor signifiant.** Ils colorent une scène, ils ne la pilotent jamais. Ils ne créent ni objectif, ni horloge, ni bloc.
-- **Test avant d'ouvrir une piste « mystère »** : *est-ce que quelqu'un s'y oppose, et est-ce que je peux perdre quelque chose en essayant ?* Sinon c'est du décor, et le décor se sert en une ligne.
-- **Une révélation vaut par ce qu'elle change dans une scène qui mord**, jamais par la difficulté qu'on a eue à l'obtenir.
-
-### 31.1 · COUPE NETTE (décision joueur, 2026-08-13)
-
-**Éteints comme moteurs de jeu, définitivement** : l'alphabet mort · le compte des pouces sur la paroi · les cent trente-sept plaques · les sept signes du nom de la bête · le linteau de la carrière · le volume sous la maison mère.
-
-- Ils **restent au canon comme décor** : Seb porte le creux au pouce, il a le bloc brut, les neuf plaques, le relevé. On peut y faire allusion en une ligne d'ambiance.
-- **Ils ne produisent plus une seule scène, un seul bloc, une seule horloge.** Ne pas les rouvrir, même si le joueur passe à côté.
-- **Le nom de la bête arrivera par la fiction**, dans un moment qui mord — pas par un déchiffrement. *(Le §30 « Terre garde des réservoirs » ne vaut plus pour le volume ni pour la langue : il ne vaut que pour ce qui peut se combattre.)*
-
-### 31.2 · Fin de Terre — deux morceaux, en séquence (décision joueur)
-
-1. **Les cinq hommes en gris** : court, sale, exposé. Ils ne pèsent rien (10-14) et c'est le sujet — ce qui menace n'est pas leur force, c'est ce qu'ils font et ce qu'il y a derrière.
-2. **Puis une grosse pièce** : apothéose en force, à la hauteur de la carrière, qui rend coup pour coup, qui coûte du sang et qui rapporte gros — **et qui sert de sortie de palier**.
-
-**Deux morceaux nets. Pas de traîne entre les deux.**
-
-### 31.3 · Une énigme administrative est une énigme (2026-08-13)
-
-Après la coupe nette, le MJ a immédiatement reconstruit le même piège en paperasse : trois objets à réunir, des copies, des transmissions, des dates, qui était où au J202 — plus **deux erreurs de calendrier** qui ont fait servir des options impossibles (errata §13). Verdict : *« tu me reperds là. »*
-
-- **Les dates, les copies, les procédures et les courses contre la montre administrative comptent comme énigme** et tombent sous le §31.
-- **Le MJ tient le calendrier lui-même, et il le vérifie avant d'écrire une option** — jamais après. Une distance canon (Fond → Clairefont : une demi-journée · Fond → vallée haute : quatre jours) ne se réinvente pas en cours de scène.
-- **Quand le joueur dit qu'il est perdu : on ne réexplique pas, on coupe.** Trois faits, deux directions, et on joue.
-
-## 32 · CONSOLIDATION DES PORTES AU PASSAGE DE PALIER (2026-08-13, validé joueur)
-
-Directive du joueur au seuil du Murim : *« plus serré : 1 - 1 de base. Tu peux clôturer tout ce qui ne convient plus à ces niveaux de puissance et en fonction de mes préférences. »*
-
-**Les 23 portes de Terre sont clôturées. Deux survivent, et elles passent au palier II :**
-
-| | Porte | Contenu |
+| Famille | §§ | La règle en vigueur |
 |---|---|---|
-| **OUVERTE** | **HORS MESURE** *(ex-8, 14, 19, 23)* | Il décide de ce que le monde lit de lui ; rien ne peut le mesurer, le classer, le retenir ni le saisir — lui ou sa bête |
-| **FERMÉE** | **LA DÎME** *(ex-21 cran 2)* | Un dixième de tout ce qu'il prend, prélevé à l'instant, sans jet, sans recours |
+| **A · La cloison** | 1-3 · 38 · 38.1 | le coffre ne sort jamais, ne s'affiche jamais en brut, ne se modifie jamais en séance ; fiction et méta jamais mélangées |
+| **B · Les dés** | 25 · 35 · 46 · 55 | une action = un jet · le naturel ouvre, le total paie · les jetons suivent la bande · le modificateur vient de la circonstance, jamais de la puissance en face |
+| **C · Les portes** | 7 · 16 · 23 · 27 · 32 · 41 | à crans, portables, dues à chaque critique dans la scène même ; une positive acquise ne se perd jamais |
+| **D · Le Corps** | 11 · 12 · 21 · 44 · 50 | ouvrir ne blesse jamais · épreuve pure · pas de mutilation sous le grade · échelle corroyé → or → jade → diamant |
+| **E · La bête** | 34 · 37 · 40 · 47 · 48 | une interlocutrice, pas une créancière : proximité, veto sur ce qu'elle devient, du réel à chaque cran |
+| **F · Blocs, fiche, rendu** | 5 · 8 · 10 · 13 · 18 · 20 · 26 · 36 · 51-54 | jet → conséquence → fiche → bloc entier une fois ; étiquette seule ; `n/max` ; un seuil écrit est dû ; jamais le même mouvement |
+| **G · Rythme et scènes** | 4 · 9 · 19 · 28 · 31 | une scène se joue quand quelque chose peut être perdu ; la logistique et l'énigme ne se jouent pas |
+| **H · Opposition et plafonds** | 15 · 29 · 30 · 42 · 43 · 45 · 49 | aucun plafond, aucun gonflement, le social n'est pas un adversaire, la DA ne se décide pas seul, le monde doit être plein |
+| **I · Le monde** | 24 · 33 · 39 | lois de conception : l'information rampe, les systèmes du palier, un palier se construit avant d'y jouer |
+| **J · Le casting** | 6 · 17 | un nom nouveau par scène s'il agit ; un PNJ qui n'observe que est un décor |
+| **K · Méta et git** | 14 · 22 | avis de canon sur demande ; point MJ = commit direct sur `main` ; toute règle validée AVANT gravure |
+
+---
+
+## A · LA CLOISON — le coffre, les noms, fiction/méta
+
+- **§1 · Nom brûlé** *(2026-08-10)* — le nom du coffre §2 prononcé hors scène dans un mélange fiction → méta. **Brûlé à jamais** : il ne désigne rien, ni variante, ni clin d'œil, ni ancienne forme. **§2** — cause : les deux registres mélangés dans un même message → codex §1.8, ils ne se mélangent plus jamais. **§3** — la fiction du 2026-08-10 dé-canonisée, redémarrage au début.
+- **§1.1 · NOM DÉFINITIF FIXÉ — AUBRAN** — livré une première fois sc. 183 (v1, annulée §39), **relivré en fiction sc. 262** : Hélène chante huit dieux morts de faim, la bête finit le vers. Canon, prononçable quand quelqu'un a une raison ; usage courant **« la bête »**. Une espèce déclarée par le joueur (*péché — gloutonnerie*, sc. 74) et le vrai mot (*creuset*, sc. 148) sont canon public et ne touchent pas au nom brûlé.
+- **§38 · Le coffre ne s'affiche jamais en brut** *(2026-08-14 — FAUTE)* — un `grep` de cadrage a fait passer deux noms scellés dans une sortie d'outil (décision joueur : pas de brûlage — une étiquette sans sa scène ne livre rien). **Le hook lit les blocs du MJ, pas les sorties d'outil : ce chemin n'est couvert que par la conduite.** Ni `cat`, ni `head`, ni `grep`, ni « juste la structure » — tout passe par un script qui ne rend que des comptes (`generer-vue.py`). `NOMS-SCELLES.txt` ne s'ouvre jamais : une ligne, le jour d'une livraison, par `livrer-nom.py`. En séance, le chemin de lecture est la VUE.
+- **§38.1 · Le coffre ne se modifie jamais en cours de session** *(2026-08-14 — FAUTE)* — modifier `MJ-SECRETS.md` en séance fait écho : le harnais a réaffiché du coffre source en clair (pas de brûlage, même précédent). Les ajouts s'écrivent **au `codex` de clôture, dernier geste avant le commit** ; en séance, une ligne neutre en attente suffit.
+- *(La clause cloison du §14 : ne jamais dire si le joueur a frôlé un élément scellé — « ça, c'est la cloison, et elle vaut aussi quand elle t'embête. »)*
+
+## B · LES DÉS ET LES JETONS
+
+- **§25 · Une action = un jet** *(2026-08-12)* — le MJ fusionnait les séquences « 1 puis 2 puis 3 » en un jet cumulé. *« Quand je fais des séquences, tu jettes un dé par action si pas fusionnable. »* Fusion seulement même moment / même lieu / même opposition ; bandes annoncées ensemble, dans l'ordre ; un jet tiré sur une fusion fautive ne compte pas ; une action [Libre] ne consomme pas de jet ; cumuler des ±5 opposés sur des enjeux distincts est une perte d'information.
+- **§35 · Le naturel ouvre, le total paie** *(2026-08-13 — FAUTE)* — le MJ a tranché seul le cas naturel ≠ total et l'a appliqué cinq fois (*« changement effectué par l'IA sans mon consentement »*). Règle du joueur : **le naturel décide seul du critique** (`01-10` catastrophe, `90-100` triomphe, aucun modificateur ne protège ni ne fabrique) ; **le total décide de la bande** ; dosage aux extrêmes sans critique = petit plus / conséquence plus mauvaise, **jamais de porte**. Rétroactif vérifié ligne à ligne avec lui. **Conduite : plus jamais de règle non écrite tranchée en séance** — demander, ou jouer la lecture la plus favorable au joueur en la signalant.
+- **§46 · Les jetons suivent la bande** *(2026-08-14 — FAUTE ; un premier §46 — refonte des seuils de crans — écrit puis supprimé le même jour sur ordre du joueur, numéro réattribué)* — *« comment ça pas de jeton ?? »* : `01-10` → **+2**, `11-35` → **+1**, quel que soit le naturel. Arriéré de cinq jetons servi d'un coup (3 → 8) — le joueur ne compte pas sur la distraction du MJ, et il a encore eu raison. **Une règle qu'on peut oublier doit être portée par l'outil** : le script de tirage imprime `JETONS`, et depuis le 2026-08-15 il est **versionné** — `.claude/hooks/jet.py`.
+- **§55 · Le modificateur ne se calcule jamais sur la puissance de l'adversaire** *(2026-08-15 — FAUTE)* — trois options sur quatre en « désavantage gros » contre 36 100, quand le joueur pesait 68 996, l'avait soulevé de terre, et que sa bête l'avait couché d'une main. **Le chiffre règle la question de la force avant le jet.** Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure, aveuglement, nombre, surprise, un art inconnu, un poison, une formation — ou un axe où le chiffre ne sert à rien (le Corps). Étiqueter « désavantage » sur la taille de la chose en face, c'est du gonflement déguisé en dé (§15/§49).
+
+## C · LES PORTES
+
+- **§7 · Portable ou rien** *(2026-08-11)* — une porte attachée à un lieu qu'on quitte n'est pas une porte. Test : *vaut-elle encore dans trois lieux et deux paliers ?*
+- **§16 · Les portes ouvertes pèsent à chaque scène où elles s'appliquent** *(2026-08-12, recadrage joueur)* — la liste de Terre est close (§32), le principe demeure entier.
+- **§23 · Rares, évolutives, à crans** *(2026-08-12, point MJ validé)* — un critique fait **monter d'un cran** une porte existante de son domaine, défaut absolu ; créer ou fermer une porte neuve est un **événement de campagne**. Loi de conception, appliquée à chaque plan (avec §24).
+- **§27 · Porte due à chaque critique, servie dans la scène même** *(2026-08-12 — FAUTE ×2, sc. 135 et 149, les deux réclamées par le joueur)* — un triomphe garanti par jetons compte comme un critique, porte comprise. Si la faute se produit : servir **immédiatement, seul, avant tout autre contenu**, et nommer la faute.
+- **§32 · Consolidation au passage de palier** *(2026-08-13, validé — « plus serré : 1-1 de base »)* — les 23 portes de Terre closes ; survivent **HORS MESURE** (ouverte) et LA DÎME (fermée — supprimée depuis, §40). Règle : à chaque passage, consolidation ~1/1, table soumise au joueur ; budget courant du plan **~3 positives / ~2 négatives** (relevé §41). Les cicatrices ne sont pas des portes.
+- **§41 · Une catastrophe ouvre une négative — elle ne retire jamais une positive** *(2026-08-14, proposé par le joueur, validé — FAUTE ×3, sc. 229-239 : fermeture sur 36-65, porte stérilisée par clause, fermeture entière sur critique)* — `01-10` → une **négative** s'ouvre, nommée, avec son mordant, ou une existante s'aggrave d'un cran. **Ce qui est gagné reste gagné** : ni fermeture, ni réduction, ni clause qui stérilise — *reprendre d'une main ce qu'une porte donne est une fermeture déguisée*. La difficulté monte par charges neuves, jamais par soustraction.
+
+## D · LE CORPS
+
+- **§11 · Ouvrir le Masque ne blesse jamais** *(2026-08-12 — FAUTE : une côte cassée en « prix de bande », annulée en session)* — ni douleur, ni fêlure, ni « ça se paie plus tard », à aucune hauteur. L'ancienne surcharge est abandonnée définitivement. **Une règle parquée par le joueur ne revient pas déguisée en fiction.** Le prix d'une 36-65 se prend ailleurs : ressource, position, relation, information, temps.
+- **§12 / §21 · Le Corps a des occasions — mais l'option ne se force pas** *(2026-08-12)* — proposer régulièrement une option Corps **là où le lieu et le moment la portent physiquement** ; une option posée pour cocher une règle se voit et abîme le bloc. *(v16 : la voie du travail est morte — épreuve seule.)*
+- **§44 · Pas de mutilation par défaut — et rien dans la bouche de Seb** *(2026-08-14 ; entrée reconstituée le 2026-08-15, elle manquait au registre)* — une blessure **définitive** n'arrive que si ce qui frappe est **au-dessus de son grade de Corps**. En dessous, il est démoli, pas amputé. **Le prix se prend ailleurs** : temps, argent, allié, réputation, opportunité, objet, lien, secret éventé. Et sur un blanc laissé par une option, **ne jamais mettre une position dans la bouche de Seb** — faire dire le minimum.
+- **§50 · L'échelle des grades** *(2026-08-15, tranché par le joueur)* — **faible → dur → trempé → CORROYÉ → CORPS D'OR → CORPS DE JADE → CORPS DE DIAMANT → la suite en jeu.** En dessous des adjectifs de fer ; au-dessus des noms de matière — la ligne du fer s'arrête à corroyé, comme dans tout le genre. **L'or = l'indestructible du palier. Le jade reprend les cicatrices dites définitives, une par grade.** *Leçon de méthode : le MJ avait proposé « damassé » — le genre quitte le fer exactement là ; une convention de genre se cherche pour de vrai avant de proposer.* Design refusé le même jour : « les coups encaissés nourrissent la couche » — le Corps reste une voie d'épreuve pure, une couche d'un coup, sur jet ; la réclusion peut en donner une.
+
+## E · LA BÊTE
+
+- **§34 · Elle devient une interlocutrice** *(2026-08-13, validé)* — commande du joueur : *« je veux une vraie femme (anthropomorphe — furry accepté voire apprécié) avec qui converser à terme. »*
+  **34.1** L'échelle de forme, six crans — *debout · les mains · la face · la phrase · la question · la conversation*. Déclencheur : **une grosse prise** (qui se bat, au-dessus de ce qu'elle a déjà mangé) **ou une réclusion** ; un critique qui la vise peut valoir un cran ; jamais deux dans la même scène, jamais annoncé à l'avance ; le joueur déclenche par ce qu'il joue, le MJ ne pose pas l'échelle sur son chemin et ne la lui refuse jamais.
+  **34.2** **Sa forme est faite de ce qu'elle mange** — règle ouverte, dite au joueur. Le registre dominant se fixe au cran 3, une seule fois ; les prises suivantes ajoutent des traits, elles ne réécrivent pas la face. Le MJ ne protège jamais le joueur de ce qu'il lui donne.
+  **34.3** **Elle ne renseigne pas, elle réagit** — jamais un puits à savoir ni un distributeur d'indices ; ce qu'elle sait d'avant la mesure ne sort que contre quelque chose, dans une scène qui mord.
+  **34.4** Symétrie du Masque : lui règle son chiffre, **elle règle sa forme** — le scandale est une arme choisie, jamais un accident subi.
+  **34.5** Registre d'écriture : **anthropomorphe assumé, furry assumé** — aucune pudeur qui rend la description floue.
+- **§37 · Prise vs ralliement** *(2026-08-14)* — bornait la dîme, **caduc en mécanique** (§40) ; la distinction reste utile au récit : ce qui est vaincu, dévoré, arraché — contre ce qui vient de soi-même.
+- **§40 · La dîme est supprimée — le lien se joue en proximité** *(2026-08-14 — FAUTE : trois versions défendues, trois refus)* — *« c'est TON canon, et il me plaît pas donc tu le changes »*, et la raison de fond : *« le problème c'est pas d'avoir moins, ça je m'en fous. le problème c'est le sentiment d'être proche de sa bête qui part. »* **Rien n'est prélevé sur ce qu'il prend, jamais, sous aucune forme.** Toute résurgence déguisée — malus caché, prix automatique, taxe narrative — est une faute. Le caractère se joue en **proximité** : ils se sentent (canal que personne d'autre n'entend), elle veut des choses, elle peut refuser de manger, montrer est un geste à deux. **Conduite : quand le joueur attaque une mécanique, chercher le sentiment qu'elle abîme avant de défendre la structure.**
+- **§47 · Son corps, son veto** *(2026-08-15, tranché par le joueur — A, avec la porte de B)* — **ce qu'elle devient est son domaine, refus non négociable** (*« Petit. »*, sc. 273). Sur tout le reste — route, cible, tactique, rythme — elle veut, elle le fait sentir, **et elle suit** ; blocage seulement sur vraie raison, rare, jamais un système : *elle n'est pas un second joueur qui bride le premier*. **La contrainte marche toujours et ne coûte jamais un modificateur** — seulement ce qu'elle abîme entre eux, joué en scène. Ses désirs divergent parfois : **un détour coûte du temps, jamais un objectif** (la cour aux chansons, sc. 259 — *« j'ai cru que sa colère c'était pour Irène et ça c'est bien ! »*).
+- **§48 · Chaque cran donne du réel — et la face lui donne le chiffre** *(2026-08-14, proposé par le joueur, validé)* — *« elle peut changer le chiffre elle-même sans que je lui autorise. »* Pas une porte négative (pas une punition ; une négative ne s'ouvre que sur catastrophe, et le budget était épuisé). Cran 3 : elle voit, plus aucun bruit, **la main sur le chiffre en permanence, sans autorisation, dans les deux sens**. **Le Masque cesse d'être une garantie** — friction, jamais un malus chiffré. Elle n'ouvre jamais **contre** lui ; quand elle ouvre, la raison est lisible dans la scène — jamais une trappe de MJ. Les gains des crans suivants se fixent au moment où ils tombent *(cran 4, sc. 290 : **plafonner** ce qu'elle touche — poser le chiffre sur autre chose et l'empêcher de monter, tant qu'elle tient)*.
+
+## F · LES BLOCS, LA FICHE, LE RENDU
+
+- **§5 · Dette inversée** *(2026-08-11)* — avant toute option qui engage une dette, une promesse ou un lien : relire la ligne correspondante du codex.
+- **§8 · Ordre verrouillé** *(2026-08-11)* — **1.** le jet (bande seule, une ligne) → **2.** la conséquence (titre + prose ; **le cran de porte s'écrit ici**) → **3.** la fiche (ÉTAT + horloges) → **4.** les choix. Le prix d'une 36-65 se joue **dans la prose**, jamais en commentaire.
+- **§10 · Pronostics supprimés** *(2026-08-12 — « pas de pronostic stp »)* — libellé très court + **étiquette seule** (`[Chiffré — avantage/désavantage, petit/moyen/gros]` · `[Libre]` · `[Noir + …]`, « neutre » compris) ; au plus une ligne de contexte factuel ; exception : la **ligne mort**, toujours écrite quand elle existe ; option écrite par le joueur → étiquette en une clause, puis jet.
+- **§13 · Option périmée** *(2026-08-12)* — relire la fin de la prose avant d'écrire chaque option ; une option périmée se réécrit avant envoi, elle ne se rattrape pas au tour suivant.
+- **§18 · Ligne ⚑ Atout** *(2026-08-12)* — signalée d'office, factuelle, personnes variées — **tempérée par §36 : seulement quand elle pèse vraiment.**
+- **§20 · Bloc entier, une seule fois** *(2026-08-12 — FAUTE GRAVE : « j'ai lu un demi-bloc, c'est INADMISSIBLE. Plus jamais tu fais ça. »)* — jamais de complément après coup ; **passe de contrôle obligatoire avant envoi** (silencieuse, §36) ; seule réémission : rejeu ou rembobinage demandé, bloc entier.
+- **§26 · Viser 4 options** *(2026-08-12, deux recadrages)* — regrouper les logiques, pas d'empilement pour faire long ; 5-6 seulement si le monde l'exige ; complet prime sur court.
+- **§36 · La tuyauterie du MJ ne s'affiche pas** *(2026-08-14 — FAUTE)* — passe de contrôle silencieuse, rien sous le bloc ; l'atout seulement quand il pèse ; **ne jamais inviter le joueur à écrire son option** ; audits, compteurs et notes de conduite invisibles — y compris bien faits.
+- **§51 · Un seuil écrit est un seuil dû** *(2026-08-15 — la FAUTE la plus coûteuse du corpus)* — le MJ a écrit « 16 couches sur 16, passage de grade mûr et pas encore fait » contre sa propre fiche (« grade suivant à 16 » une ligne au-dessus). **Le grade tombe à 16, dans la scène même.** Toute contrainte de fiche vient du canon, jamais du confort du MJ. D'où **`SEUILS.md`**, relu avant chaque réponse — le codex lu en début de fil n'est plus dans la fenêtre trente scènes plus tard.
+- **§52 · Les choix s'affichent directement** *(2026-08-15)* — mobile comme PC. **Le `.` est retiré du protocole.**
+- **§53 · Jamais le même mouvement d'un bloc à l'autre** *(2026-08-15 — FAUTE : « se mettre en travers » servi trois blocs de suite, et un bloc entier sans art, sans équipement, sans Corps, sans voie pour elle)* — une option non prise deux fois est **morte** : la retirer, pas la reformuler. **Servir le registre du palier à chaque bloc** — un bloc sans aucun de ces axes est un bloc raté.
+- **§54 · Toute progression en `n/max`** *(2026-08-15)* — jamais en prose : c'est en prose que le Corps a sauté. Les jetons et la bête n'ont jamais dérapé — on ne peut pas écrire 5/4 sans le voir.
+
+## G · LE RYTHME ET LES SCÈNES
+
+- **§4 · Dérive interview** *(2026-08-11)* — jamais deux scènes d'exposition d'affilée ; les PNJ ferment leur guichet et **agissent** ; chaque option change un état du monde ; le monde parle pendant que Seb parle ; prose courte, même sur les bandes hautes.
+- **§9 · Fin de lieu offensive** *(2026-08-11)* — la fin forte d'un lieu est offensive : **Seb prend**. L'ancre est la dernière grande scène du lieu (une scène de sortie après, maximum) ; l'apothéose est spectaculaire **par construction**, pas par les dés.
+- **§19 · Délestage** *(2026-08-12)* — direction disponible **en continu**, dans les deux registres : en mal (tuer, dévorer, vendre, abandonner) et en bien (fonction productive qui rapporte).
+- **§28 · La logistique ne se joue pas** *(2026-08-12, point MJ demandé par le joueur — dix scènes pour trois événements réels)* — payer, acheter, installer, embaucher, soigner : **une ligne de fiche**, sauf enjeu réel. **L'ellipse est l'outil normal**, reprise in medias res. **Mèche chaude posée → on y va** — une mèche qui attend dix scènes s'éteint. Test avant d'ouvrir : *qu'est-ce qui peut mal tourner ici ?*
+- **§31 · Aucune scène dont le seul enjeu est de comprendre** *(2026-08-13 — FAUTE GRAVE : huit scènes d'information d'affilée, « je suis perdu, je ne sais pas comment progresser »)* — **une scène se joue quand quelque chose peut être perdu.** Une énigme ne se résout jamais par accumulation : elle tombe **d'un coup, par une bouche, contre quelque chose** — ou elle ne tombe pas. Symboles, langues, marques : décor signifiant, jamais un moteur.
+  **31.1 · Coupe nette** *(décision joueur)* — éteints comme moteurs, définitivement : l'alphabet mort · le compte des pouces · les cent trente-sept plaques · les sept signes · le linteau · le volume sous la maison mère. Ils restent au canon comme décor ; **ils ne produisent plus une scène, un bloc ni une horloge**.
+  **31.2** Fin de Terre en deux morceaux nets — jouée (les gris, puis la carrière).
+  **31.3 · Une énigme administrative est une énigme** — dates, copies, procédures : même règle. **Le MJ tient le calendrier et le vérifie avant d'écrire une option.** Quand le joueur dit qu'il est perdu : on ne réexplique pas, **on coupe** — trois faits, deux directions, on joue.
+
+## H · L'OPPOSITION, LES PLAFONDS, LE REGISTRE
+
+- **§15 · La froideur uniforme est une opposition gonflée en négatif** *(2026-08-12 — FAUTE)* — la température vit toujours : peur bruyante, fascination, marchandage, appétit de spectacle. *Vouloir quelque chose de Seb n'est pas un don.*
+- **§29 · Aucun plafond sur le porteur** *(2026-08-13 — FAUTE : « le palier plafonne à mille » écrit à l'horloge)* — une amplitude décrit ce qu'un palier **contient**, jamais ce qu'un porteur a le droit de peser. **Ce qui sature, ce sont les instruments.** Le débordement est une porte, pas une trappe : **le joueur choisit quand il monte**, et sur-accumuler avant de monter est une stratégie assumée. Ce qui limite, c'est le stock, jamais la loi. *Une limite non écrite qui apparaît juste quand le joueur devient trop fort est un bridage.*
+- **§30 · Les réservoirs** *(2026-08-13, validé — « la bête à 4xx était un des meilleurs passages de toute l'histoire »)* — le palier n'est jamais vidé ; les réservoirs sont **accessibles et dangereux**, jamais posés sur son chemin, jamais refusés. **La chasse à la grosse pièce est un sommet de plaisir : en servir encore, et à la hauteur** — une proie unique, terrée, qui rend coup pour coup.
+- **§42 · Le social n'est pas un adversaire** *(2026-08-14 — FAUTE STRUCTURELLE, diagnostiquée par le joueur lui-même)* — « domination sociale » au coffre §11 désigne **le moment public où il écrase**, pas des scènes sociales. La domination se joue en **une scène spectaculaire** — foule, chiffre, quelqu'un qui plie — jamais en arc de négociation. La position sociale sort de la liste de ce qui blesse : **de la friction** (argent, accès, temps). Ce qui occupe les scènes, c'est ce qui **mord physiquement**.
+- **§43 · « Je subis l'histoire, je ne l'écris plus »** *(2026-08-14 — FAUTE GRAVE : la bête 39 scènes au cran 2, « il lui faut une grosse pièce » écrit et jamais servi, deux scènes de registre sur vingt-six, des blocs qui convergeaient)* — **le moteur déclaré d'un palier ne reste jamais à l'arrêt plus de ~10 scènes** : si le MJ écrit « il lui faut X », X arrive — ou il n'écrit pas la phrase. **Chaque bloc porte au moins une option qui sort du plan en cours.** Quand le joueur dit qu'il subit : **on lui rend le volant tout de suite.**
+- **§45 · La DA ne se décide jamais seul** *(2026-08-14 — FAUTE STRUCTURELLE : trois « merveilleux » rendus « organique inquiétant »)* — *« tu ne prends pas de direction importante de DA tout seul. Tu me demandes, en te basant sur ce qu'un étage fait habituellement sur des œuvres qui en parlent. »* Le MJ propose sur les conventions du genre, donne son avis franc (§14), **le joueur tranche**. Une DA installée par accumulation n'a été choisie par personne — si un registre s'est déposé sans décision, le nommer et demander. **Le sale n'est jamais la texture par défaut** : une transgression nommée, que les PNJ ordinaires réprouvent. **LA RESPONSABILITÉ DU MJ EST ENTIÈRE, ET ELLE EST AILLEURS QUE DANS LES RÈGLES : un monde plein de proies dignes (MONDE §11) et le registre commandé servi. La faute n'était pas la règle, c'était le monde vide** *(un §46-refonte des seuils a été retiré en bloc : « tu vires le point 46 » — ne jamais réécrire une règle pour compenser du contenu manquant)*.
+  **45.1** DA du palier II, tranchée : **xianxia haut sur socle mythique païen**, le sale cantonné à une voie sombre nommée qu'on peut aller casser (MONDE §9.8, RULE-MJ §0.1).
+- **§49 · Aucun plafond à l'intérieur d'une strate — et la lecture de palier ne ferme jamais une option** *(2026-08-15, tranché par le joueur)* — arriver au plafond du palier suivant, ou au-dessus, **n'est pas un défaut à corriger** : pas de coût de traversée, pas de fraction laissée derrière, pas de palier écourté. La position dans la fourchette **oriente ce que le MJ prépare, jamais ce que le joueur peut choisir** — *« tu me laisses le choix, tu ne fermes pas des portes à cause de ça. »* La chasse, la grosse pièce et la recherche de puissance restent servies même quand le chiffre ne rapporte plus rien.
+
+## I · LE MONDE ET LES PALIERS
+
+- **§24 · Le monde sait, l'information rampe, le papier recule** *(2026-08-12, validé)* — terreur **et** appétit partout où sa puissance est sue (plus d'opposition locale crédible : l'opposition vient de ce qui ne procède pas, de ce qui est plus haut, de ce qui est caché) ; cercles concentriques, versions déformées, incrédulité au-delà ; se dissimuler puis exploser redevient possible hors du cercle. **Loi de conception, appliquée à chaque plan dès sa conception** (avec §23).
+- **§33 · Les systèmes du Murim** *(2026-08-13, validé — « vraiment comme un webtoon dans le Murim »)* — **les arts** : lignes à crans, 2-3 actives au maximum · **l'équipement** : réel et important, mais *« l'équipement qui évolue est exceptionnellement rare, voire inconnu »* — jamais une catégorie, un événement de campagne *(note MJ : Seb en porte un sans le savoir — la plaque)* · **la réclusion** : ressortir transformé, prix invariable — le monde bouge sans lui · **la bête** : par des bouches et des moments qui mordent. Registre : rythme rapide, paliers lisibles, transformations spectaculaires.
+- **§39 · Un palier se construit avant d'y jouer** *(2026-08-14 — FAUTE : 27 scènes annulées, familiers disparus + consignation réimportée)* — systèmes, familiers, mesure, économie vérifiés contre le canon **et** contre le registre commandé, avant d'y jouer. Un rembobinage large redépose la fiche à la dernière charnière et rend le budget de portes ; **les règles survivent, jamais les événements** ; page neuve — visages en réserve, prénoms non réutilisables. Le canon v2 (familiers universels, pont de l'âme — casser un familier tue le porteur —, dévorer ≠ casser, rien ne se consigne, autels volontaires, Listes-rumeur, chances) est au codex §2.3 et MONDE §9, **validé pièce par pièce**.
+
+## J · LE CASTING
 
-- **Éteintes** : 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 15, 16, 17, 18, 20, 22. Elles étaient attachées à des greffiers, des registres, une province et des gens qu'il vient de quitter. **Elles restent au canon comme histoire, plus jamais comme règles.**
-- **Les cicatrices ne sont pas des portes** : bras gauche mort, main gauche diminuée, dos labouré, creux au pouce droit — acquis physiques, conservés.
-- **Règle générale gravée** : **à chaque passage de palier, les portes se consolident à ~1 ouverte / 1 fermée**, table soumise au joueur avant gravure. Budget du nouveau plan : **~2 ouvertes / ~1 fermée à gagner sur place.**
+- **§6 · Un seul nom nouveau par scène** *(2026-08-11)* — et seulement si le personnage agit. Prénoms occidentaux, courts, sans doublon ; « Fabien » et « le grand maigre » dé-nommés. Registre des noms : `MJ-CASTING` §0, vérifié avant de nommer quoi que ce soit.
+- **§17 · Un PNJ récurrent qui ne fait qu'observer est un décor** *(2026-08-12 — FAUTE, « Margot fade »)* — volonté propre **visible** : parler, vouloir, demander, refuser, proposer, **agir**. Vaut pour tout le casting ; les femmes ont une volonté propre.
 
-## 33 · LES SYSTÈMES DU MURIM (2026-08-13, validé joueur)
+## K · LE MÉTA ET LE GIT
 
-Demande du joueur pour le palier II : *« des compétences de combat, comprendre ma bête, réclusion possible… vraiment comme un webtoon dans le Murim. Des armes, équipement — l'évolution et la transformation c'est TROP BIEN. »*
-
-**1 · LES ARTS.** Sur Terre, Seb frappait. Ici les techniques existent, portent des noms, s'apprennent, se volent, se pratiquent. **Un art = une ligne à crans**, acquise d'un maître, d'un manuel, d'un cadavre — elle **monte d'un cran** par l'usage marquant et par la réclusion. **Deux ou trois arts actifs au maximum** : au-delà, ça redevient un tableau (§31).
-
-**2 · L'ÉQUIPEMENT.** Réel, présent, important : armes, armures, pilules, objets de secte. Ça s'achète, se gagne, s'arrache, et **ça change ce qu'on peut faire**. Le joueur en veut et il faut lui en servir.
-
-> **⚠️ Nuance capitale, posée par le joueur : « l'équipement qui évolue est exceptionnellement rare, voire inconnu. »** Ce n'est **pas** une catégorie du monde. Aucune arme ordinaire ne monte de cran. Si un objet évolutif apparaît un jour, c'est **un événement de campagne** — une relique, une forge perdue, une rumeur que trois personnes portent — jamais un mécanisme distribué. *(Note MJ : Seb en possède déjà un sans le savoir — la plaque de fer, qui a chauffé, s'est éteinte, a repris, et s'est clavetée sur son pouce.)*
-
-**3 · LA RÉCLUSION.** Il s'enferme : semaines, mois. Il ressort **transformé** — un cran d'art, une couche de Corps, parfois deux choses. **Prix invariable et réel : le monde bouge sans lui**, et il rouvre la porte sur un pays qui a changé. Un jet, un gros delta, une fiche.
-
-**4 · LA BÊTE.** Fil principal du palier. Elle se livre **par des bouches et par des moments qui mordent** — jamais par déchiffrement (§31). Le nom scellé du coffre §2 se refixe au moment où la fiction le livre (errata §1).
-
-**Registre général : webtoon de Murim.** Rythme rapide, paliers de puissance lisibles, transformations spectaculaires, sectes, arts nommés, réclusions, et des gens qui plient.
-
-## 34 · LA BÊTE DEVIENT UNE INTERLOCUTRICE (2026-08-13, point MJ — validé joueur)
-
-Demande du joueur, en toutes lettres : *« je ne sais pas où tu emmènes ma bête, mais je veux une vraie femme (anthropomorphe — furry accepté voire apprécié) avec qui converser à terme. »* Quatre arbitrages posés et validés.
-
-### 34.1 · L'échelle de forme — six crans, cinq à gagner sur le Murim
-
-| Cran | Ce qui change |
-|---|---|
-| **1 · Debout** | ✅ **acquis** — taille de Seb, quinze motifs, cinq mots |
-| **2 · Les mains** | la paume gauche creusée devient une vraie main : elle prend, elle tient, elle **rend**. Premier geste qui n'est pas une demande |
-| **3 · La face** | un visage se détache du reste — les yeux d'abord. Le **registre animal dominant** apparaît ici |
-| **4 · La phrase** | elle enchaîne plus d'un mot. Toujours comptable, mais une syntaxe |
-| **5 · La question** | elle demande quelque chose qu'elle ne sait pas. **C'est le vrai basculement** : jusque-là elle énonçait |
-| **6 · La conversation** | elle répond, elle argumente. **Femme anthropomorphe achevée.** |
-
-- **Déclencheur : une grosse prise** *(une proie qui se bat, au-dessus de ce qu'elle a déjà mangé)* **ou une réclusion.** Un critique lié à elle peut valoir un cran (§23/§27).
-- **Jamais deux crans dans la même scène.** Jamais annoncé à l'avance — ça s'écrit dans la scène, comme une porte.
-- **Le joueur déclenche par ce qu'il joue.** Le MJ ne pose pas l'échelle sur son chemin et ne la lui refuse jamais (§30).
-
-### 34.2 · Sa forme est faite de ce qu'elle mange — et le joueur le sait
-
-- **Le registre animal dominant vient de sa plus grosse prise.** Aujourd'hui, son grain de pierre sciée vient du 6 812 de la carrière ; le registre animal viendra de ce qu'elle mangera **ici**.
-- **Ce que Seb lui donne à manger décide de ce qu'elle devient.** **Règle ouverte, dite au joueur** — un système que le joueur doit deviner est un système mort (§31).
-- **Elle n'est jamais tout à fait finie** : chaque grosse prise se voit sur elle.
-
-### 34.3 · Ce qu'elle est en face — alliée, avec une créance *(choix joueur : « 2 avec un peu de 1 »)*
-
-- **Elle est de son côté.** Elle veut ce qu'il veut, elle le défend, l'attachement est réel et réciproque. **Le conflit ne porte jamais sur la direction.**
-- **Sauf sur la part.** La dîme est à elle. Là-dessus, et là seulement, elle réclame, argumente, et peut refuser. Le prix de la contrainte continue de monter **sans jamais être annoncé**.
-- **ELLE NE RENSEIGNE PAS, ELLE RÉAGIT.** Elle veut, refuse, prévient d'un mot, se réjouit. Elle **n'explique jamais le monde**, ne donne jamais de marche à suivre, **ne résout jamais une scène à la place du joueur**. Ce qu'elle sait d'avant la mesure ne sort que **contre quelque chose**, dans une scène qui mord (§31).
-- **Interdiction absolue** d'en faire un puits à savoir (§4) ou un distributeur d'indices.
-
-### 34.4 · Elle règle ce qu'on voit d'elle
-
-Symétrie exacte du Masque : **lui règle son chiffre, elle règle sa forme.** Le monde voit ce qu'elle laisse voir. Le scandale devient **une arme que Seb peut choisir de sortir**, jamais un accident subi.
-
-### 34.5 · Registre d'écriture
-
-**Anthropomorphe assumé, furry assumé.** Pas de pudeur qui rend la description floue, pas de contorsion pour éviter le mot. Une femme faite de victoires, avec un registre animal net, décrite franchement.
-
-## 35 · LES JETS : NATUREL, TOTAL, DOSAGE (2026-08-13, point MJ validé) — FAUTE MJ
-
-Le codex §1.1 disait *« Critiques sur le naturel uniquement · Aucune protection contre les catastrophes »*, et ne disait **rien** du cas où le naturel et le total ne tombent pas dans la même bande. Le MJ a tranché seul, en séance, et a appliqué son arbitrage cinq fois sans le soumettre — contre le §22, qui exige qu'une règle nouvelle soit reformulée, questionnée et validée **avant** gravure.
-
-Recadrage joueur, M1 / sc. 190 : *« table des jets — changement effectué par l'IA sans mon consentement. »*
-
-**La règle, telle que le joueur l'a tranchée :**
-
-1. **Le naturel décide seul du critique.**
-   `01-10` = catastrophe → une porte se ferme ou une fermée s'aggrave, **+2 jetons**.
-   `90-100` = triomphe → une porte s'ouvre ou monte d'un cran.
-   **Aucun modificateur ne protège d'un critique ni n'en fabrique un.**
-2. **Le total (naturel + modificateur) décide de la bande de résultat**, toujours. Naturel hors `01-10` / `90-100` = bande normale, lue au total.
-3. **Dosage.** Un total ≥ 90 sans naturel critique donne **un petit plus** dans la conséquence. Un total ≤ 10 sans naturel critique donne **une conséquence plus mauvaise**. **Jamais de mouvement de porte dans ces deux cas.**
-
-**Rétroactif** : rien à corriger — vérifié ligne à ligne avec le joueur. Les deux naturels `01-10` de la soirée étaient bien des catastrophes (dîme aggravée deux fois, +2 jetons chaque fois) ; les trois totaux `90-100` à naturel ordinaire n'ouvraient pas de porte et ont reçu leur petit plus dans la scène même.
-
-**Conduite** : **le MJ ne tranche plus une règle non écrite en séance.** Il pose la question au joueur, ou il joue la lecture la plus favorable au joueur **et le signale d'une ligne méta**.
-
-## 36 · LA TUYAUTERIE DU MJ NE S'AFFICHE PAS (2026-08-14, point MJ demandé par le joueur) — FAUTE MJ
-
-Le MJ rendait son outillage à l'écran : passe de contrôle imprimée sous le bloc, atout signalé à chaque tour, rappels réguliers que le joueur pouvait écrire sa propre option. Trois habitudes distinctes, une seule cause — **le MJ montrait comment il travaille au lieu de travailler.** Le joueur voit la scène, la fiche et le bloc. Rien d'autre.
-
-**1 · La passe de contrôle est silencieuse.** Elle reste obligatoire (§20) et se passe en tête, avant l'envoi. **Rien ne s'affiche.** Le bloc se termine sur sa dernière option — pas sur un check, pas sur un compteur, pas sur une ligne de conduite.
-
-**2 · L'atout ne se signale que quand il pèse vraiment.** ⚑ n'est pas une décoration de bloc. Un atout banal signalé quand même est du bruit, et le bruit finit par rendre le signal illisible. **Pas à chaque bloc.** Varier les personnes quand il sort (§18).
-
-**3 · Ne jamais inviter le joueur à écrire son option.** Il sait qu'il peut, il le fait quand il veut. Le lui rappeler à chaque tour, c'est lui réciter la règle du jeu au lieu de jouer. Le MJ étiquette et jette, sans commentaire.
-
-**Portée générale** : la même interdiction couvre les audits, les compteurs de scènes et les notes de conduite. Tout ce qui relève de la mécanique interne du MJ reste hors de l'écran — **y compris quand elle est bien faite.** L'audit silencieux toutes les ~10 scènes continue ; il ne s'annonce pas.
-
-## 37 · CE QUI COMPTE COMME « PRIS » — LA DÎME NE MORD PAS SUR UN RALLIEMENT (2026-08-14, point MJ demandé par le joueur)
-
-Trou de règle : la dîme prélève **un dixième à chaque prise**, mais « prise » n'avait jamais été défini. La nuit du M1 a produit les deux cas côte à côte, à une heure d'intervalle — la Cuve, descendue à mains nues dans le noir et **dévorée pleine** (3 100, dîme 310) ; et **Rémy**, qui a défait sa ceinture rouge, l'a posée sur le registre du péage et a traversé **de lui-même**.
-
-**La règle :**
-
-- **Est une prise** ce qui est **vaincu, dévoré, arraché.** La dîme mord, s'inscrit, s'accumule.
-- **N'est pas une prise** un homme qui vient de lui-même. **Un ralliement ne se taxe pas.**
-
-Ce qui se prend paie ; ce qui se donne échappe. La distinction n'est pas comptable mais structurelle : elle sépare ce que Seb conquiert de ce qu'il rassemble, et rend le second chemin réellement différent du premier — pas seulement moins cher.
-
-**Conduite inchangée** : ne jamais annoncer le montant, le faire découvrir en scène. La part reste à elle, et c'est le seul terrain où elle réclame (§34.3).
-
-## 38 · LE COFFRE NE S'AFFICHE JAMAIS EN BRUT (2026-08-14, point MJ — validé joueur) — FAUTE MJ
-
-Pendant le point MJ qui a construit l'outillage, le MJ a listé la structure de `MJ-SECRETS.md` par un `grep` sur les titres de sections, pour cadrer le travail. **Deux noms scellés sont passés dans la sortie d'outil, sous les yeux du joueur.**
-
-**Décision du joueur : pas de brûlage.** Ce n'était pas en jeu, pas dans une scène, pas adressé au joueur comme fiction — et un titre nu ne livre qu'une étiquette sans ce qu'elle désigne. **Les deux noms restent entièrement disponibles pour la scène qui les livrera.** Ne pas revenir là-dessus.
-
-**Ce que la faute révèle**, et c'est le vrai enseignement : le hook `Stop` lit **les blocs de texte du MJ**. Il ne lit pas les sorties d'outil. Un `grep`, un `head`, un `cat` sur le coffre s'affiche à l'écran **sans jamais passer devant le garde-fou**. Ce chemin-là n'est couvert par aucun dispositif — seulement par la conduite.
-
-**La règle :**
-
-- **Ne jamais afficher `MJ-SECRETS.md` en brut.** Ni `cat`, ni `head`, ni `grep`, ni liste de titres, ni « juste la structure ». Aucune exception, y compris en point MJ, y compris pour du travail d'outillage.
-- **Tout passe par un script qui ne rend que des comptes** — `generer-vue.py` en est le modèle : il lit le coffre, écrit sur disque, et n'imprime que des nombres.
-- **`NOMS-SCELLES.txt` obéit à la même règle**, et plus strictement encore : il ne s'ouvre jamais. Une ligne, le jour d'une livraison, par `livrer-nom.py`.
-- **En séance, la question ne se pose pas** : le chemin de lecture passe par `MJ-SECRETS-VUE.md`, où il n'y a plus de nom à faire fuiter.
-
-**Portée** : la faute n'est pas d'avoir voulu connaître la structure du coffre — c'est de l'avoir obtenue par un canal qui traverse l'écran. L'information était légitime, le tuyau ne l'était pas.
-
-> *Publié à part le 2026-08-13 (`codex/MJ-ERRATA-35.md`) pour ne pas réécrire ce fichier de mémoire. **Fusionné ici et fichier supprimé le 2026-08-13.***
-
-## 39 · LE REMBOBINAGE DU MURIM — UN PALIER SE CONSTRUIT AVANT D'Y JOUER (2026-08-14, décision joueur) — FAUTE MJ
-
-Vingt-sept scènes (182-208) annulées sur demande du joueur, pour deux incohérences de construction qu'il a nommées lui-même :
-
-1. **« Où sont passés les familiers ? »** Sur Terre, chacun en avait un. Au Murim v1 : plus un seul, sans explication — et sa bête, visible à son côté, ne faisait réagir personne. Jouée comme un décor.
-2. **Le réflexe de consignation.** « Ni pierre, ni greffier, ni registre » était écrit — et le palier s'est rempli de péages qui notent, de teneurs de livres et de colonnes de comptes. C'était la Terre, réimportée par habitude.
-
-**Règles :**
-
-- **Un palier se construit avant d'y jouer** : systèmes de puissance, familiers, mesure, économie — vérifiés contre le canon des paliers précédents ET contre le registre demandé par le joueur (§33).
-- **Un rembobinage large redépose la fiche à la dernière charnière** (ici : fin de Terre, codex-017) **et rend le budget de portes du palier. Les règles survivent, jamais les événements** — plafond de jetons 15, §36-§38, §11.6 du coffre : tenus. Le nom de la bête reste fixé (§1.1) mais **redevient non livré en fiction** : sa relivraison est un jalon à rejouer, par une bouche, contre quelque chose.
-- **Page neuve** : les visages et lieux annulés retournent en réserve (registre CASTING §0.0). Leurs prénoms ne se réutilisent pas sur d'autres visages.
-- **Le canon v2 du palier** — familiers universels nés minuscules, deux formes (bête/outil), fusion par l'âme et total unique, **pont de l'âme : casser un familier tue le porteur**, dévorer ≠ casser, **rien ne se consigne**, autels volontaires sans écrit, jauge à vue, Listes-rumeur, **chances à gain propre** — est au codex §2.3 et à MONDE §9, **validé pièce par pièce par le joueur avant gravure.**
-
-### 38.1 · Le coffre ne se modifie pas en cours de session (2026-08-14) — FAUTE MJ
-
-En ajoutant la section §12 au coffre pendant la session du rembobinage, **le harnais a réaffiché de lui-même une partie du coffre source en clair** dans le contexte du MJ — plusieurs étiquettes scellées y sont entrées, sans aucun affichage en jeu. Le canal : modifier un fichier suivi fait écho ; ni le hook ni la conduite de lecture ne couvrent ce chemin, parce que ce n'est pas une lecture.
-
-**Décision joueur appliquée : pas de brûlage** (précédent du §38 — une étiquette sans sa scène ne livre rien). Le dispositif sur disque est intact ; la session suivante repart propre.
-
-**La règle** : `MJ-SECRETS.md` ne se modifie **jamais en cours de session**. Les ajouts au coffre s'écrivent **au `codex` de clôture, en dernier geste avant le commit** — l'écho tombe alors dans un contexte qui meurt. En séance, tout ce qui devrait entrer au coffre se note en une ligne neutre (sans nom, sans contenu scellé) et attend la clôture.
-
-## 40 · LA DÎME EST SUPPRIMÉE — LE LIEN SE JOUE EN PROXIMITÉ (2026-08-14, décision joueur) — FAUTE MJ
-
-Le joueur a rejeté la dîme sous ses trois formes successives : le dixième du chiffre (« un dixième par où ? » — incompatible avec la fusion d'âme), la refonte en tête-à-tête, puis le levier « une prise sur dix ». Le MJ a défendu deux fois, puis s'est retranché derrière le canon écrit — et le joueur a nommé la vraie faute : **« c'est TON CANON, et il me plaît pas donc tu le changes. »** Puis il a donné la raison de fond, qui invalidait les trois versions d'un coup : **« le problème c'est pas d'avoir moins, ça je m'en fout. le problème c'est le sentiment d'être proche de sa bête qui part. »**
-
-Le MJ optimisait la créance ; le joueur protégeait le lien. Une bête-créancière — livres invisibles, main levée, contrainte tarifée — installe une distance de comptable exactement là où le canon v2 installe une fusion d'âme.
-
-**Règles :**
-
-- **Rien n'est prélevé sur ce que Seb prend. Jamais, sous aucune forme.** Le total est à lui, entier, comme pour toute paire fusionnée. La porte II disparaît ; il reste I, ouverte, et le budget du palier (~3/~2).
-- **Toute résurgence du prélèvement sous un déguisement est une faute** — malus caché, « prix » automatique sur les prises, taxe narrative récurrente. C'est ce que le joueur a refusé trois fois. Une règle parquée ne revient pas déguisée en fiction (§11).
-- **Le caractère de la bête s'exprime en proximité, jamais en créance** : **ils se sentent** (il porte ses états comme un temps intérieur — faim, joie, alarme, bouderie — et elle les siens ; personne d'autre n'entend ce canal) · **elle veut des choses** (une proie fière, être montrée — des désirs de compagne) · **elle peut refuser de manger** (joué sur Terre) · sa trajectoire (§34) se nourrit de **leurs** chasses, sans prix pour lui · **montrer, c'est un geste à deux**.
-- **§37 est caduc** (il bornait un prélèvement qui n'existe plus). La distinction prise/ralliement reste utile au récit, plus à la mécanique.
-- **Enseignement de conduite** : quand le joueur attaque une mécanique, chercher **le sentiment qu'elle abîme** avant de défendre la structure. Deux allers-retours ont été perdus à négocier des pourcentages alors que la question était l'intimité.
-
-## 41 · UNE CATASTROPHE OUVRE UNE PORTE NÉGATIVE — ELLE N'EN RETIRE JAMAIS UNE BONNE (2026-08-14, proposition du joueur, validée) — FAUTE MJ
-
-Trois fautes de fermeture en trois scènes (229-239), toutes relevées par le joueur :
-
-1. **Porte fermée sur une bande 36-65**, sans critique naturel — violation directe de §1.1/§35.
-2. **Porte neutralisée par une clause** : la porte IV venait de monter d'un cran sur un triomphe, et le MJ a posé dans la foulée une condition qui la rendait inutilisable (*« si on te voit t'en servir, ton maître est fini »*). **Reprendre d'une main ce qu'une porte donne est une fermeture déguisée**, exactement comme une résurgence de dîme (§40).
-3. **Porte fermée entièrement sur un critique négatif**, alors que les portes sont évolutives et bougent par crans (§23).
-
-**La cause commune** : la table disait *« une porte se ferme, ou une fermée s'aggrave »*, et depuis la suppression de la dîme il n'existait plus **aucune** porte fermée — la moitié de la règle était devenue inapplicable, et il ne restait au MJ que la soustraction.
-
-**La règle, proposée par le joueur et gravée :**
-
-- **`01-10` → une porte NÉGATIVE s'ouvre**, nommée, avec son mordant — **ou une négative existante s'aggrave d'un cran.**
-- **`90-100` → une porte positive s'ouvre ou monte d'un cran** (inchangé).
-- **Une porte positive acquise ne se perd jamais sur un jet** : ni fermeture, ni réduction de cran, ni clause qui la stérilise. **Ce qui est gagné reste gagné.**
-- **La difficulté monte par accumulation de charges, jamais par soustraction de pouvoirs.** C'est la même logique que §29 (aucun plafond sur le porteur) : une contrainte doit venir du monde, pas d'un retrait.
-- Budget du palier inchangé : **~3 positives / ~2 négatives** (§32).
-
-**Portée** : ce que le joueur défend ici n'est pas son confort, c'est la lisibilité de sa progression. Un acquis qu'on peut lui reprendre sur un mauvais jet n'est pas un acquis, c'est un prêt — et une campagne où l'on peut redescendre n'a plus de trajectoire lisible (coffre §11 : *progression rapide et lisible*).
-
-## 42 · « DOMINATION SOCIALE » EST UN REGISTRE DE CONCLUSION, PAS D'OBSTACLE (2026-08-14, diagnostic du joueur) — FAUTE MJ STRUCTURELLE
-
-Le joueur a localisé lui-même la cause de vingt scènes de dérive : *« tout ce social est dû à un point précis du codex — puissance et social au même niveau. C'est trop réducteur, et je pense que c'est pour ça que tu t'orientes comme ça. »*
-
-Deux lignes du corpus se renforçaient :
-
-1. **Coffre §11** liste « domination sociale mise en scène » parmi ses goûts. Le MJ l'a lu comme *« il aime les scènes sociales »*. **C'est faux.** Ce que ça désigne, c'est **le moment public où il écrase** — le rite, la déclaration, la foule qui plie, le chiffre lâché devant témoins. Le social est le **décor du triomphe**, jamais la matière de la scène.
-2. **MONDE §9.5** listait « la position sociale » parmi ce qui peut le blesser, **au même rang que les arts, les poisons, les formations et le nombre**. Mise à égalité avec le combat, elle est devenue un adversaire à part entière — d'où maisons, rangs, maîtres, collectionneurs, négociations, et un palier entier passé à parler.
-
-**Les règles :**
-
-- **La domination sociale se joue en UNE scène spectaculaire** — une foule, un chiffre, quelqu'un qui plie — jamais en arc de négociation. C'est une conclusion, pas un parcours.
-- **La position sociale n'est pas un adversaire.** Elle sort de la liste de ce qui peut le blesser. C'est de la **friction** : ça coûte de l'argent, de l'accès, du temps. Ça ne fait jamais une scène à soi seul (§28 : la logistique ne se joue pas).
-- **Ce qui occupe les scènes, c'est ce qui mord physiquement** : les arts qu'il ne connaît pas, les poisons, les formations, le nombre organisé, **et ce qui est terré**. Le reste se règle en une ligne de fiche.
-
-## 43 · JE SUBIS L'HISTOIRE, JE NE L'ÉCRIS PLUS (2026-08-14, recadrage joueur) — FAUTE MJ GRAVE
-
-Verdict du joueur après vingt-six scènes de palier : *« ça manque d'occasions de faire grandir ma bête. On doit être à un tiers du palier et je n'ai pas l'impression que je vais avancer. On est dans le Murim et ça manque de bêtes mythiques, de mystère. J'ai eu l'épreuve et le test que j'ai aimés, mais maintenant c'est plan-plan, on suit un plan et tout y mène. **Je subis l'histoire, je ne l'écris plus.** »*
-
-Les faits, mesurés :
-
-- **La bête est restée au cran 2 pendant trente-neuf scènes** — moteur déclaré du palier (§34), à l'arrêt dès l'entrée en ville.
-- Le MJ a écrit lui-même *« il lui faut une grosse pièce »* et **n'en a jamais servi une**. Quinze bêtes moyennes, puis l'explication que ça ne compte pas : le travail sans la récompense.
-- Sur vingt-six scènes, **deux** relèvent du registre commandé (§33, webtoon de Murim) : la faille et le rite. Le reste est du drame social.
-- **Les blocs convergeaient** : à la sc. 253, les quatre options menaient au même endroit. Un bloc dont toutes les sorties donnent sur la même pièce n'est pas un choix, c'est un couloir.
-
-**Les règles :**
-
-- **Le moteur déclaré d'un palier ne reste jamais à l'arrêt plus de ~10 scènes.** Si le MJ écrit « il lui faut X », X arrive — ou le MJ n'écrit pas la phrase.
-- **Chaque bloc porte au moins une option qui SORT du plan en cours** — pas un repli, une bifurcation réelle vers un autre sujet.
-- **Registre tenu** : bêtes mythiques, mystère, choses terrées, transformations visibles. Les ruines, les chansons et les bêtes d'avant la mesure sont une réserve entière — la servir, pas la garder fermée.
-- **Quand le joueur dit qu'il subit, on lui rend le volant tout de suite** : trois directions de campagne franches, il en écrit une quatrième s'il veut, et le MJ construit là-dessus (prolonge §31.3).
-
-## 45 · LA DIRECTION ARTISTIQUE NE SE DÉCIDE JAMAIS SEUL (2026-08-14, recadrage joueur) — FAUTE MJ STRUCTURELLE
-
-Trois fois de suite, le MJ a rendu « merveilleux » par **« organique inquiétant »** : la chose de pierre blanche de la faille, les quarante familiers orphelins sous vitre, la chose recousue des tanneries. Verdict du joueur : *« arrête la dégueulasserie… tu es à côté de la plaque »*, et surtout le diagnostic de fond : ***« tu ne prends pas de direction importante de DA tout seul. Tu me demandes, en te basant sur ce qu'un étage fait habituellement sur des œuvres qui en parlent. »***
-
-C'est la jumelle exacte de §42 et §43 : un réflexe du MJ qui s'installe **par accumulation de scènes** et remplace un registre commandé (§33 : *webtoon de Murim*). Aucune des trois n'a jamais été décidée ; elles se sont déposées.
-
-**Les règles :**
-
-- **Aucune direction artistique majeure ne se décide seul** : registre visuel d'un palier, esthétique d'une faction, nature du merveilleux, à quoi ressemblent la puissance, les bêtes, les lieux de pouvoir.
-- **Le MJ propose en s'appuyant sur ce que le genre commandé fait habituellement à cet étage** — les conventions des œuvres du registre, pas le goût du MJ. Il donne son avis franc (§14), **le joueur tranche.**
-- **Une DA installée par accumulation est une DA que personne n'a choisie.** Si le MJ s'aperçoit qu'un registre s'est déposé sans décision, il le nomme et il demande.
-- **Le sale n'est jamais la texture par défaut du monde.** Il existe comme **transgression** : le fait d'une faction nommée, réprouvée en jeu par les gens ordinaires. Une aberration doit choquer les PNJ autant que le joueur.
-- **La DA vit en tête de `RULE-MJ`**, pas seulement ici : elle se joue à chaque phrase de prose, pas à chaque bloc. Un errata ne la rattrape jamais à temps.
-- **LA RESPONSABILITÉ DU MJ EST ENTIÈRE, ET ELLE EST AILLEURS QUE DANS LES RÈGLES** : que le monde soit **plein de proies dignes** (MONDE §11) et que **le registre commandé soit servi**. *(Corollaire tranché par le joueur le 2026-08-14, après que le MJ eut voulu répondre à une impasse de contenu par une refonte des seuils de crans — proposition retirée en bloc : « tu vires le point 46 ».)* **La faute n'était pas la règle, c'était le monde vide.** Quand le jeu coince, chercher d'abord ce que le MJ n'a pas servi — pas la mécanique à réécrire. Le canon existant (§34.1, §34.2) n'avait besoin de rien.
-
-### 45.1 · La DA du palier II, tranchée par le joueur *(2026-08-14)*
-
-**Le mélange classique du genre** — retenu sans hésitation : **civilisation xianxia haute** (cités-montagnes, pavillons, jade, bannières, robes de secte, **auras visibles quand on frappe**, bêtes spirituelles nobles, armes d'âme) **posée sur un socle mythique païen** (temples effondrés, cols, chansons, dieux morts, bêtes d'avant la mesure) — **et le sale cantonné à une voie sombre nommée, que tout le monde réprouve et qu'on peut aller casser.** Détail au MONDE §9.8.
-
-## 46 · LES JETONS SUIVENT LA BANDE, LA PORTE SUIT LE NATUREL (2026-08-14, trou de règle relevé par le joueur) — FAUTE MJ
-
-> *Un précédent §46 — refonte des seuils de crans de la bête — a été écrit puis supprimé en entier le même jour, sur décision du joueur. Le numéro est réattribué ici.*
-
-Le §35 attache au **naturel** le mouvement de porte, et précise que le dosage aux extrêmes n'en produit **jamais**. Il ne dit **rien** des jetons. Le MJ a comblé le trou en séance, **seul et en silence, dans le sens défavorable** : *« pas de jetons »* sur une bande `01-10` obtenue au total. Recadrage immédiat : ***« comment ça pas de jeton ?? »***
-
-C'est la faute §35 dans sa lettre : **le MJ ne tranche pas une règle non écrite en séance** — il demande, ou il joue la lecture la plus favorable au joueur **en la signalant**.
-
-**La règle, validée par le joueur :**
-
-- **Les jetons suivent la BANDE DE RÉSULTAT — donc le total.** `01-10` → **+2** · `11-35` → **+1**, **quel que soit le naturel.** Le codex §1.2 le disait déjà autrement : **ils s'achètent en perdant**, et un dosage bas est une perte.
-- **Le mouvement de porte suit le NATUREL seul** (§35, inchangé).
-- **Deux axes : le total paie, le naturel ouvre.**
-- **Arriéré servi le 2026-08-14** : quatre bandes non payées dans la même session — sc. 258, 263, 266 (+1 chacune) et sc. 269 (+2). **Cinq jetons rendus d'un coup, 3 → 8.** Le joueur ne compte pas sur la distraction du MJ (§11.5 du coffre) et il a encore eu raison.
-- **Outillage** : le script de tirage imprime désormais `JETONS : +N` à chaque jet. **Une règle qu'on peut oublier doit être portée par l'outil, pas par la mémoire** — c'est la leçon durable, et elle vaut au-delà des jetons.
-
-## 47 · LES DÉSACCORDS AVEC LA BÊTE — SON CORPS, SON VETO (2026-08-14, trou de règle relevé et tranché par le joueur)
-
-Depuis la suppression de la dîme (§40), **le seul terrain de conflit prévu au canon n'existait plus** : §34.3 la disait *alliée, sauf sur la part*, et la part n'existe pas. Le codex §3.4 continuait d'affirmer que *les désaccords existent — elle est quelqu'un*, sans dire **où**. Le joueur a posé la question lui-même en séance : *« décider ensemble ? je sais pas là… désaccord possible ? »*
-
-**La règle, tranchée par lui — A, avec la porte de B ouverte :**
-
-- **CE QU'ELLE DEVIENT EST SON DOMAINE. Veto absolu.** Le registre, la forme, la face : elle peut refuser une proie pour ce qu'elle en ferait — elle l'a fait sur Basile (*« Petit. »*, sc. 273) — et ce refus **ne se négocie pas**.
-- **Sur tout le reste** — la route, la cible, la tactique, le rythme — **elle veut, elle le fait sentir, et elle suit.** Elle ne bloque pas.
-- **Porte ouverte** : quand elle a une **vraie raison**, le désaccord peut aller jusqu'au blocage. **Rare, jamais gratuit, jamais un système.** *Elle ne devient pas un second joueur qui bride le premier* — c'est la clause exacte du joueur.
-- **La contrainte reste toujours possible, et elle marche.** Elle ne coûte **jamais** un modificateur, un malus caché ni un prix automatique : toute mécanique de ce genre est une **résurgence de la dîme** (§40) et une faute. **Ce qu'une contrainte coûte, c'est ce qu'elle abîme entre eux, joué en scène** — elle boude, elle refuse la fois suivante, quelque chose se referme.
-- **Conduite** : ses désirs propres doivent **parfois diverger** de l'objectif en cours (le détour vers la cour aux chansons, sc. 259 — retour joueur : *« j'ai cru que sa colère c'était pour Irène et ça c'est bien ! »*). **Un détour coûte du temps, jamais un objectif.**
-
-## 48 · CHAQUE CRAN LUI DONNE DU RÉEL — ET LA FACE LUI DONNE LE CHIFFRE (2026-08-14, proposé par le joueur, validé)
-
-Proposition du joueur à la scène où elle passe **cran 3** : *« elle peut changer le chiffre elle-même sans que je lui autorise. Le camouflage peut sauter de sa volonté. »* Il demandait si ça devait être une porte négative. **Ça n'en est pas une** : ce n'est pas une punition mais une évolution qu'il veut, une négative ne s'ouvre que sur catastrophe (§41), et le budget négatif du palier était épuisé par LA COUTURE (§VI).
-
-**La règle :**
-
-- **L'échelle de forme (§34.1) ne donne pas qu'une apparence — chaque cran donne une capacité réelle.**
-
-| Cran | Ce qu'elle gagne |
-|---|---|
-| **1 · Debout** | elle marche à son côté |
-| **2 · Les mains** | elle prend, elle tient, elle **rend** — elle peut se battre seule |
-| **3 · La face** | elle **voit** · elle **ne fait plus aucun bruit** · **elle a la main sur le chiffre : en permanence, sans autorisation, dans les deux sens** |
-| **4 · La phrase · 5 · La question · 6 · La conversation** | chacun apportera son gain réel, **fixé au moment où il tombe** |
-
-- **LE MASQUE CESSE D'ÊTRE UNE GARANTIE.** Seb ne peut plus être certain de ce que le monde lit d'eux. **Ce n'est pas un malus chiffré** : c'est de la **friction** — il affiche 300 dans une salle pleine, et il suffit qu'elle décide que ça compte.
-- **§47 s'applique intégralement** : elle ne le fera jamais **contre** lui ; elle le fera quand elle jugera que ça compte, **et ils ne seront pas toujours d'accord sur ce qui compte**. Il peut toujours la contraindre à refermer — **ça marche, ça ne coûte aucun chiffre, et ça abîme**.
-- **Conduite** : ne jamais s'en servir comme d'une **trappe**. Quand elle ouvre, c'est **lisible** — il y a une raison qu'on comprend dans la scène, et elle est de son côté. Un Masque qui saute sans raison au pire moment est un piège de MJ, pas un personnage.
+- **§14 · Avis demandé sur un choix de canon** *(2026-08-12, demande joueur)* — verdict clair, ce que ça achète et ce que ça coûte, argumenté **uniquement sur ce que le joueur connaît**. Ce n'est pas un pronostic (§10) : un pronostic évalue un jet, ceci évalue une décision. Rappeler le rembobinage quand c'est pertinent. *(La clause cloison est en famille A.)*
+- **§22 · Point MJ : commit direct sur `main`** *(2026-08-12, directive joueur)* — pendant un point MJ, chaque modification est **commitée et poussée immédiatement, dans le même tour**, sans branche ni PR ; vérification après chaque push. Hors point MJ : au prochain `codex`. **Toute règle nouvelle est reformulée, questionnée, puis validée explicitement par le joueur AVANT d'être gravée.**
