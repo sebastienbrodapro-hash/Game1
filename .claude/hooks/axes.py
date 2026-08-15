@@ -54,6 +54,7 @@ ETAT = RACINE / ".claude" / "axes-etat.json"
 PAS_SONNERIE = 3  # scènes de silence entre deux sonneries d'un même axe
 JITTER = 0.20     # ±20 % sur chaque seuil, retiré à chaque service
 JITTER_MINI = 3   # en dessous, le seuil est une règle dure : pas de tirage
+SEUIL_GEL = 12    # scènes de gel tolérées avant que le gel lui-même sonne
 
 # axe -> (scènes de retard tolérées, libellé, ce qu'il faut faire)
 AXES: dict[str, tuple[int, str, str]] = {
@@ -127,7 +128,33 @@ NIVEAUX = {
 
 
 def _vide() -> dict:
-    return {"scene": 0, "servi": {}, "escalade": {}, "sonnerie": {}, "seuil": {}}
+    return {
+        "scene": 0, "servi": {}, "escalade": {}, "sonnerie": {},
+        "seuil": {}, "gel": {},
+    }
+
+
+def geler(etat: dict, scene: int, axes: list[str]) -> list[str]:
+    """Suspend des axes que le lieu rend impossibles (sommet désert, mer,
+    cachot, marche de vingt jours). Le gel NE SUPPRIME PAS le compteur : il
+    l'arrête, et il est lui-même compté — au-delà de SEUIL_GEL scènes, c'est
+    le gel qui sonne. Un lieu où l'économie est impossible pendant quinze
+    scènes n'est pas une circonstance, c'est une composition à corriger.
+    """
+    faits = []
+    for a in axes:
+        a = a.strip().lower()
+        if a in AXES:
+            etat.setdefault("gel", {}).setdefault(a, scene)
+            faits.append(a)
+    return faits
+
+
+def degeler(etat: dict, axes: list[str] | None = None) -> list[str]:
+    gel = etat.setdefault("gel", {})
+    cibles = [a.strip().lower() for a in axes] if axes else list(gel)
+    faits = [a for a in cibles if gel.pop(a, None) is not None]
+    return faits
 
 
 def tirer_seuil(axe: str) -> int:
@@ -191,6 +218,7 @@ def declarer(etat: dict, scene: int, axes: list[str]) -> list[str]:
         etat["escalade"].pop(a, None)
         etat["sonnerie"].pop(a, None)
         etat.setdefault("seuil", {})[a] = tirer_seuil(a)  # nouveau cycle, nouveau seuil
+        etat.setdefault("gel", {}).pop(a, None)  # servi donc possible : plus de gel
         connus.append(a)
     if scene > etat.get("scene", 0):
         etat["scene"] = scene
@@ -221,9 +249,34 @@ def evaluer(etat: dict, scene: int) -> tuple[int, str] | None:
     etat["scene"] = max(scene, etat.get("scene", 0))
     lignes: list[tuple[int, int, str]] = []
 
+    gel = etat.setdefault("gel", {})
+
     for axe, (base, libelle, quoi) in AXES.items():
         dernier = etat["servi"].get(axe, 0)
         retard = scene - dernier
+        gele_depuis = gel.get(axe)
+
+        if gele_depuis is not None:
+            duree = scene - gele_depuis
+            if duree <= SEUIL_GEL:
+                continue  # le lieu l'interdit vraiment : on n'embête pas le MJ
+            derniere_sonnerie = etat["sonnerie"].get(axe, 0)
+            if derniere_sonnerie and scene - derniere_sonnerie < PAS_SONNERIE:
+                continue
+            esc = etat["escalade"].get(axe, 0) + 1
+            etat["escalade"][axe] = esc
+            etat["sonnerie"][axe] = scene
+            titre, consigne = niveau_de(esc)
+            lignes.append((
+                esc, duree,
+                f"[{titre}] {libelle} — GELÉ depuis {duree} scènes "
+                f"(tolérance {SEUIL_GEL}, sonnerie n°{esc}).\n"
+                f"    → un lieu qui interdit ça aussi longtemps n'est plus une "
+                f"circonstance, c'est une composition : ramène le jeu là où "
+                f"c'est possible, ou dégèle.\n    → {consigne}",
+            ))
+            continue
+
         if retard <= seuil_courant(etat, axe):
             continue
         derniere_sonnerie = etat["sonnerie"].get(axe, 0)

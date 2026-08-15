@@ -8,6 +8,14 @@ servi.py — déclarer au compteur ce que la scène vient de servir.
     python .claude/hooks/servi.py --reset         # repart de zéro (nouveau jeu)
     python .claude/hooks/servi.py --axes          # la liste et les seuils
 
+    python .claude/hooks/servi.py --gel 12 marchandage atout
+        Le lieu rend ces axes impossibles (sommet désert, mer, cachot, vingt
+        jours de marche). Leur compteur s'arrête — mais le gel est compté :
+        au-delà de 12 scènes, c'est LUI qui sonne. Un lieu qui interdit
+        l'économie pendant quinze scènes n'est plus une circonstance.
+
+    python .claude/hooks/servi.py --degel [axe...]   # tout par défaut
+
 Se lance APRÈS avoir écrit la scène, avant de rendre la main. N'imprime que
 des comptes : rien de tout ça ne s'affiche au joueur (errata §36).
 """
@@ -71,6 +79,33 @@ def main() -> int:
 
     if args[0] == "--etat":
         montrer(etat)
+        gel = etat.get("gel", {})
+        if gel:
+            sc = etat.get("scene", 0)
+            print("\ngeles :")
+            for a, depuis in sorted(gel.items()):
+                duree = sc - depuis
+                reste = A.SEUIL_GEL - duree
+                etat_gel = f"reste {reste}" if reste >= 0 else f"DEPASSE de {-reste}"
+                print(f"  {a:<13} depuis {duree:>3} scenes  ({etat_gel})")
+        return 0
+
+    if args[0] == "--degel":
+        faits = A.degeler(etat, args[1:] or None)
+        A.sauver(etat)
+        print(f"degeles : {', '.join(faits) if faits else 'aucun'}")
+        return 0
+
+    if args[0] == "--gel":
+        if len(args) < 3 or not args[1].isdigit():
+            print("usage : --gel <scene> <axe> [axe...]", file=sys.stderr)
+            return 1
+        faits = A.geler(etat, int(args[1]), args[2:])
+        if int(args[1]) > etat.get("scene", 0):
+            etat["scene"] = int(args[1])
+        A.sauver(etat)
+        print(f"geles : {', '.join(faits) if faits else 'aucun'}")
+        print(f"tolerance : {A.SEUIL_GEL} scenes, ensuite le gel sonne.")
         return 0
 
     if not args[0].isdigit():
