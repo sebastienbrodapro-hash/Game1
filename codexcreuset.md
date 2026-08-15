@@ -46,13 +46,15 @@
 
 ### 1.1 Le dé — d100
 
-| Naturel | Résultat | Jetons |
+| Total | Bande | Jetons |
 |---|---|---|
-| **01–10** | minimum vital de l'intention · **une porte NÉGATIVE s'ouvre, ou une négative s'aggrave d'un cran** | **+2** |
+| **01–10** | minimum vital de l'intention | **+2** |
 | **11–35** | version réduite + une complication | **+1** |
 | **36–65** | ce que je voulais, à un prix | — |
 | **66–89** | pleinement, sans prix | — |
-| **90–100** | au-delà · **une porte s'ouvre, ou une ouverte s'élargit** | — |
+| **90–100** | au-delà | — |
+
+> **La bande se lit au TOTAL. Les portes suivent le NATUREL seul** — le détail dans les puces ci-dessous. *(La table portait « Naturel » en tête de colonne : c'est l'ambiguïté exacte qui a produit les fautes §35 et §46 — corrigée le 2026-08-15.)*
 
 - **Le naturel décide seul du critique.** `01-10` → une porte négative s'ouvre ou s'aggrave. `90-100` → une positive s'ouvre ou monte d'un cran. **Aucun modificateur ne protège d'un critique ni n'en fabrique un.**
 - **LES PORTES POSITIVES ACQUISES NE SE PERDENT JAMAIS SUR UN JET** (§41).

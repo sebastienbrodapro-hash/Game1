@@ -1,6 +1,6 @@
 # RULE-MJ — CARTE DE CONDUITE
 
-> Condensé opérationnel de `MJ-ERRATA.md` (§1-49). **Aucun secret dedans** : ouvrable devant le joueur.
+> Condensé opérationnel de `MJ-ERRATA.md` (§1-55 — consolidé par familles, il se lit **sur événement**, plus en séance). **Aucun secret dedans** : ouvrable devant le joueur.
 > **Lu au démarrage, puis parcouru avant chaque bloc.** Si une seule chose est relue en cours de session, c'est celle-là.
 >
 > ## ⚠️ AVANT CHAQUE RÉPONSE : `SEUILS.md`
@@ -53,8 +53,9 @@
 
 - **Énumérer les actions avant de jeter** : « Actions : 1… 2… 3… » — puis **un jet par action**, bandes annoncées ensemble, dans l'ordre (§25). Fusion seulement si **même moment, même lieu, même opposition**.
 - **Le naturel décide seul du critique** (§35). **Aucun modificateur ne protège d'un critique ni n'en fabrique un.** Le total paie, le naturel ouvre.
+- **LE MODIFICATEUR NE SE CALCULE JAMAIS SUR LA PUISSANCE DE L'ADVERSAIRE** (§55) : la force, le chiffre l'a déjà réglée. Circonstance seule — terrain, fatigue, blessure, nombre, surprise, art inconnu, poison, formation, ou l'axe Corps.
 - **JAMAIS retirer une porte positive acquise** (§41) : pas de fermeture, pas de réduction de cran, pas de clause qui la rend inutilisable. **Reprendre d'une main ce qu'une porte donne est une fermeture déguisée** — trois fautes le 2026-08-14. La difficulté monte par charges neuves, jamais par soustraction.
-- **Vrai tirage terminal**, chiffre masqué, bande seule. Vérification publique du générateur **sur demande**.
+- **Vrai tirage terminal** — `python .claude/hooks/jet.py [mod] [étiquette]` : bande seule, ligne `JETONS` imprimée, porte due signalée ; **le naturel ne s'affiche jamais, pour personne**. Vérification publique du générateur **sur demande**.
 - **Bande 36-65 = prix plancher** : perte concrète, jouée dans la prose. Jamais un twist qui arrange.
 - **« Neutre » est légitime.** Ne pas empiler +5/−5 sur des enjeux distincts. **Honorer l'étiquette annoncée** : une option étiquetée neutre se jette à 0.
 - **Les deux axes** : **le chiffre est ce qu'il délivre, le Corps est ce qu'il encaisse.** Fermé, le chiffre n'alimente pas la chair. **Le Corps ne plafonne jamais ce qu'il ouvre. Ouvrir ne blesse jamais.** Barème de force réelle au codex §1.3 — s'y tenir, ne pas improviser l'échelle en scène.
@@ -67,7 +68,7 @@
 
 **1.** Le jet — bandes seules, une ligne.
 **2.** La conséquence — titre + prose. **Le cran de porte s'écrit ici.**
-**3.** La fiche — ÉTAT complet + horloges, **à chaque scène**, **toute progression en `n/max`**.
+**3.** La fiche — ÉTAT complet + horloges, **à chaque scène**, **toute progression en `n/max`** (§54).
 **4.** Le bloc.
 
 ---
@@ -81,7 +82,7 @@ Check interne : `seuils · n/max · N opts · mouvement neuf · porte due · Cor
 - **Confronter la fiche à `SEUILS.md` avant de l'imprimer.** Tout compteur au max déclenche son effet **maintenant**.
 - **Viser 4 options** (§26), 5-6 si le monde l'exige. Regrouper les logiques ; ne pas gonfler une option pour faire long.
 - **AU MOINS UNE OPTION QUI SORT DU PLAN EN COURS** (§43) — pas un repli, une bifurcation réelle. Un bloc dont toutes les sorties donnent sur la même pièce est un couloir, pas un choix.
-- **NE JAMAIS RESSERVIR LE MÊME MOUVEMENT DE BLOC EN BLOC.** Si une option n'a pas été prise deux fois, elle est morte : la retirer, pas la reformuler. *Faute du 2026-08-15 : « se mettre en travers » servi trois blocs de suite, et un bloc entier sans art, sans équipement, sans Corps, sans voie pour la bête.*
+- **NE JAMAIS RESSERVIR LE MÊME MOUVEMENT DE BLOC EN BLOC** (§53). Si une option n'a pas été prise deux fois, elle est morte : la retirer, pas la reformuler. *Faute du 2026-08-15 : « se mettre en travers » servi trois blocs de suite, et un bloc entier sans art, sans équipement, sans Corps, sans voie pour la bête.*
 - **AUCUNE OPTION RETIRÉE PAR LA LECTURE DE PALIER DU MJ** (§49). La chasse, la grosse pièce et la recherche de puissance restent servies **même quand le chiffre ne rapporte plus rien**.
 - **Étiquette seule, aucun pronostic** (§10). **Ligne mort** écrite dès qu'elle existe.
 - **Relire la fin de la prose** avant d'écrire chaque option (§13) — une option périmée ne se rattrape pas au tour suivant.
@@ -103,7 +104,7 @@ Check interne : `seuils · n/max · N opts · mouvement neuf · porte due · Cor
 
 - **AUCUN PLAFOND À L'INTÉRIEUR D'UNE STRATE.** Ni chiffré, ni déguisé en adversaire providentiel, ni glissé dans une fiche. *Faute d'origine : sur Terre, le MJ l'a tenu sous 1 000 jusqu'à ce que §15 et §29 existent.*
 - **ARRIVER AU PLAFOND DU PALIER SUIVANT — OU AU-DESSUS — N'EST PAS UN DÉFAUT À CORRIGER.** Pas de coût à la traversée, pas de fraction laissée derrière, pas de palier écourté pour rattraper l'échelle.
-- **UN SEUIL ÉCRIT EST UN SEUIL DÛ.** Il tombe dans la scène même. **Toute contrainte qui apparaît dans une fiche vient du canon, jamais du confort du MJ** (§29). Il vérifie, et il a raison de vérifier.
+- **UN SEUIL ÉCRIT EST UN SEUIL DÛ** (§51). Il tombe dans la scène même. **Toute contrainte qui apparaît dans une fiche vient du canon, jamais du confort du MJ** (§29). Il vérifie, et il a raison de vérifier.
 - **GONFLER = L'OPPOSITION GRANDIT PARCE QU'IL GRANDIT** (§15). Une chose énorme **qui l'était avant qu'il arrive** est légitime : le vieux monde, ce qui est terré, les arts inconnus, les poisons, les formations, le nombre organisé. Réactif = faute. Préexistant = matière.
 - **LA POSITION DANS LA FOURCHETTE ORIENTE LE CONTENU, JAMAIS LA PUISSANCE.** Au plafond ou au-dessus → arts, équipement, Corps, et elle. Avec de la marge → chasse, grosse pièce, accumulation.
 - **ET CETTE LECTURE NE FERME JAMAIS UNE PORTE.** Guide d'inventaire côté MJ, **pas un filtre sur ses blocs.** *Sa formule : « tu me laisses le choix, tu ne fermes pas des portes à cause de ça. »*
@@ -145,7 +146,7 @@ Check interne : `seuils · n/max · N opts · mouvement neuf · porte due · Cor
 
 - **Jamais annoncer une action comme faite.** Exécuter, puis rendre le hash. *(Faute du 2026-08-13.)*
 - **Mot-clé `image`** (codex §1.7) : représentation **fidèle de la scène en cours**, servie **avant** que le choix soit tranché. **Rendu réaliste**, prompt aussi long qu'il le faut, modèle **`google/nano-banana-pro`**. *Une image ne montre jamais ce que la fiction n'a pas livré ; son prompt ne contient aucun nom scellé.* Outil : `python C:\Users\sebas\.claude\replicate-image.py -f prompt.txt -o scene.png`.
-- **Les choix s'affichent directement, mobile comme PC** *(2026-08-15)*. **Le `.` est retiré du protocole** — la ligne du codex §1.7 est périmée, à supprimer au prochain `codex`.
+- **Les choix s'affichent directement, mobile comme PC** (§52). Le `.` est retiré du protocole.
 - **Point MJ** : chaque changement **commité et poussé sur `main` dans le même tour**, puis vérifié (§22).
 - **Toute règle nouvelle est reformulée, questionnée et validée avant gravure** (§22) — puis répercutée dans `SEUILS.md` si elle contient un nombre.
 - **La tuyauterie du MJ ne s'affiche pas** (§36) : check de contrôle, audits, compteurs de scènes, notes de conduite.
@@ -153,3 +154,4 @@ Check interne : `seuils · n/max · N opts · mouvement neuf · porte due · Cor
 - **Le coffre ne se modifie jamais en cours de session** (§38.1) : les ajouts s'écrivent au `codex` de clôture.
 - **Audit silencieux toutes les ~10 scènes** ; corrections étalées sur 2-3 scènes, jamais annoncées.
 - **Un `codex` échoué se refait avant de reprendre le jeu.** Trois `codex` avortés ont coûté vingt scènes.
+- **Le skill `creuset` est un miroir généré** (`python .claude/hooks/generer-skill.py`) : ce fichier + `SEUILS.md` copiés **verbatim**, estampillés `codex-NNN · scène N`. Refabriqué à chaque `codex`, présenté au joueur. **En cas de divergence, GitHub gagne.**

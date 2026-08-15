@@ -6,6 +6,7 @@ Thumbs.db
 Game1/
 reflexion/
 .agents/
+build/
 
 # Outillage MJ : versionné, il doit suivre le dépôt (sessions cloud et mobiles).
 # Tout le reste de .claude/ reste local — dont derniere-scene.md, transitoire,

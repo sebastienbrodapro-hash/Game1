@@ -13,7 +13,9 @@
 
 ## Protocole de lecture (début de fil)
 
-1. Lire **en entier** : ce fichier → **`SEUILS.md`** → **`RULE-MJ.md`** → **`MJ-SECRETS-VUE.md`** → `MJ-ERRATA.md` → `MJ-ARBRE.md` → `MJ-CHRONO.md`.
+1. Lire **en entier** : ce fichier → **`SEUILS.md`** → **`RULE-MJ.md`** → **`MJ-SECRETS-VUE.md`** → `MJ-ARBRE.md` → `MJ-CHRONO.md` → **`MJ-CASTING.md` §0**.
+
+> **`MJ-ERRATA.md` ne se lit plus en séance** *(2026-08-15, validé par le joueur)* : c'est **l'historique de référence** (§1-55, consolidé par familles). Il se charge **sur événement** — contestation (« on vérifie dans le fichier »), point MJ, rédaction ou vérification d'une règle. `RULE-MJ.md` en est le condensé complet.
 
 > ⚠️ **La VUE, jamais `MJ-SECRETS.md`.** Le coffre source contient les noms propres non encore livrés ; la vue porte la même matière avec ces noms remplacés par `⟦SCELLE-N⟧`. Le MJ garde donc tout ce qu'il lui faut pour préfigurer, et **n'a pas les étiquettes qu'il pourrait faire fuiter**. Ouvrir la source annule le dispositif — ne le faire pour aucune raison.
 >
@@ -32,6 +34,14 @@
 Envoyé seul : **arrêter, vérifier dans le fichier, corriger en une ligne, rendre la main.**
 Pas de discussion de design, pas de refonte de règle, pas trois tours de méta. **Une vérification, une correction, on repart.** Le méta imposé au joueur pour une faute du MJ est lui-même le dommage.
 
+## Le skill `creuset` — miroir généré *(2026-08-15, validé par le joueur)*
+
+**Le dépôt est la source, le skill est un miroir.** `python .claude/hooks/generer-skill.py` fabrique le skill depuis `RULE-MJ.md` + `SEUILS.md` (copies **verbatim** — `SEUILS` octet pour octet) + `SKILL-FRONT.md` (frontmatter et protocole du skill), et l'estampille **`codex-NNN · scène N · date`**.
+
+- **À chaque `codex`** : régénérer, présenter le zip au joueur pour installation.
+- **Session ouverte par le skill** : comparer son estampille au dernier codex du dépôt — **si elle diffère, relire `RULE-MJ.md` et `SEUILS.md` depuis GitHub**.
+- **En cas de divergence, GitHub gagne** — le dépôt se pousse dans le tour, le skill attend un clic.
+
 ## Table des fichiers
 
 | Fichier | Contenu | Lecture |
@@ -41,7 +51,7 @@ Pas de discussion de design, pas de refonte de règle, pas trois tours de méta.
 | **`MJ-SECRETS-VUE.md`** | **le coffre tel qu'il se lit en séance** : matière intégrale, noms scellés remplacés par `⟦SCELLE-N⟧` | **entière, chaque session** |
 | `MJ-SECRETS.md` | la source du coffre, avec les noms en clair. **Généré vers la VUE — ne se lit jamais en séance.** N'écrire que là, puis relancer `generer-vue.py` | jamais |
 | `NOMS-SCELLES.txt` | correspondance `⟦SCELLE-N⟧` → nom. ⛔ **ne se lit pas** — une ligne, le jour d'une livraison | jamais |
-| `MJ-ERRATA.md` | corrections de conduite, noms brûlés — **historique**, pas outil de séance | entière, chaque session |
+| `MJ-ERRATA.md` | **l'historique de référence** (§1-55, par familles) : fautes, décisions, citations du joueur | **sur événement** — jamais en séance |
 | `MJ-ARBRE.md` | ancre du lieu courant + branches candidates + routage des critiques | entière, chaque session |
 | `MJ-CHRONO.md` | calendrier de campagne, mèches actives, mouvements hors champ | entière, chaque session |
 | `MJ-MONDE.md` | le monde au-delà de la scène : chef-lieu, Registres, Verger, province, prix, paliers | par chapitre |
@@ -68,7 +78,7 @@ Checklist :
 ## Croissance du corpus
 
 - **Pendant un point MJ** : chaque changement de fichier est **commité sur `main` + poussé immédiatement**, dans le même tour, sans branche ni PR (errata §22). Vérifier après chaque push. Hors point MJ : les corrections s'inscrivent au prochain `codex`.
-- **À chaque `codex`** : mettre à jour ARBRE, CHRONO, le registre des noms — et **répercuter dans `RULE-MJ.md` toute règle nouvelle**, **dans `SEUILS.md` tout nombre nouveau**. Obligatoire.
+- **À chaque `codex`** : mettre à jour **ARBRE, CHRONO, le registre des noms, les états joués de MONDE**, écrire les entrées d'errata nouvelles — **répercuter dans `RULE-MJ.md` toute règle nouvelle, dans `SEUILS.md` tout nombre nouveau** — et **refabriquer le skill** (`generer-skill.py`), le présenter au joueur. Obligatoire.
 - **Ateliers MJ** (sur demande du joueur, sessions dédiées) : étoffer MONDE et CASTING chapitre par chapitre, en profondeur.
 - **Objectif : une bible de campagne dense et entièrement relisible**, pas de la masse. Tout ce qui est écrit doit pouvoir être relu par le MJ en session — c'est la condition de la cohérence. La densité fait la qualité, le volume fait l'incohérence.
 - Garde-fou anti-brodage : toute expansion se fait **aux abords de là où le jeu va** (horizon de l'arbre) et **dans les goûts calibrés du joueur** (coffre §11) — jamais de remplissage spéculatif lointain.

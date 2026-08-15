@@ -2,6 +2,7 @@
 
 > **Relu avant chaque réponse.** Une demi-page exprès : si ce fichier grossit, il ne sert plus à rien.
 > Aucune prose, aucun secret, aucun état de partie — **que des invariants**. L'état courant est au codex §4.
+> **Miroir** : le skill `creuset` en embarque une copie **octet pour octet** (`references/SEUILS.md`), refaite à chaque `codex` par `generer-skill.py`. **En cas de divergence, GitHub gagne.**
 
 ---
 
@@ -24,7 +25,7 @@
 
 petit **±5** · moyen **±10** · gros **±15/±20** · neutre **0**
 
-**⛔ LE MODIFICATEUR NE SE CALCULE JAMAIS SUR LA PUISSANCE DE L'ADVERSAIRE.** Le chiffre a déjà réglé la question de la force avant le jet. Étiqueter « désavantage » parce que la chose en face est grosse, c'est **du gonflement déguisé en dé** — la faute §15/§49 sous une autre forme. *Faute du 2026-08-15 : trois options sur quatre en désavantage gros contre 36 100, alors que le joueur était à 68 996, que sa bête l'avait déjà couché d'une main et qu'il l'avait soulevé de terre.*
+**⛔ LE MODIFICATEUR NE SE CALCULE JAMAIS SUR LA PUISSANCE DE L'ADVERSAIRE.** Le chiffre a déjà réglé la question de la force avant le jet. Étiqueter « désavantage » parce que la chose en face est grosse, c'est **du gonflement déguisé en dé** — la faute §15/§49 sous une autre forme *(§55 — détail à l'errata)*.
 
 Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure, aveuglement, nombre, surprise, un art inconnu, un poison, une formation — ou un axe où le chiffre ne sert à rien (**le Corps**).
 
@@ -68,9 +69,9 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 
 **Toute progression s'écrit `n/max`. Jamais en prose.**
 
-`CORPS D'OR — 0/4` · `bête 4/6` · `jetons 6/15` · `LA POSE 3/?` · `porte II 4/?`
+`CORPS — 2/4` · `bête 1/6` · `jetons 9/15` · `ART 2/?` · `porte 3/?`
 
-*Les jetons et la bête n'ont jamais dérapé : on ne peut pas écrire 5/4 sans le voir. Le Corps était le seul en phrase — c'est le seul qui a sauté.*
+*Exemples **inventés et figés** — l'état courant vit au codex §4, jamais ici (§54 : le pourquoi est à l'errata).*
 
 ## `!` — LE CARACTÈRE DU JOUEUR
 
