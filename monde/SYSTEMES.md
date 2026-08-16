@@ -80,6 +80,7 @@ Il **ne peut pas cultiver** : sa part de qi est nulle et le restera tant que la 
 - **~3 positives / ~2 négatives par strate** *(errata §32)*.
 - **Une positive acquise ne se perd jamais sur un jet** *(§41)* : ni fermeture, ni réduction de cran, ni clause qui la stérilise. La difficulté monte par charges neuves, jamais par soustraction.
 - **Une catastrophe ouvre une négative ou aggrave une existante** — elle n'enlève jamais une bonne.
+- **⛔ UNE NÉGATIVE EST UNE CHARGE NEUVE, JAMAIS LA SUPPRESSION D'UN AXE** *(§41 : « la difficulté monte par charges neuves, jamais par soustraction » — renvoi omis ici jusqu'au 2026-08-16, faute en scène 6)*. Si une négative retire au joueur un **registre entier** — l'économie, la chasse, la montée, l'équipement —, elle est mal écrite : la réécrire en **coût, exposition ou condition**, jamais en mur. Le test : *après cette porte, l'axe se sert-il encore ?* Si non, elle ne s'ouvre pas sous cette forme. **Une porte qui éteint un compteur du hook fabrique exactement la faute pour laquelle le hook existe** (`FONDATION` §0).
 - **Portable ou rien** *(§7)* : *vaut-elle encore dans trois lieux et deux strates ?*
 - **Due dans la scène même** *(§27)* — c'est l'une des cinq fautes les plus coûteuses du corpus.
 - **Les portes ouvertes pèsent** dans chaque scène où elles s'appliquent *(§16)*.
