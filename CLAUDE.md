@@ -53,7 +53,7 @@ Tout se joue **en français**, répliques courtes, rythme soutenu.
 - **Le seuil exact n'est jamais affiché** : chaque cadence est tirée à ±20 % à chaque cycle. Un seuil fixe se jouerait au métronome. Le MJ sert quand la scène s'y prête, pas au calendrier.
 - **Différé d'amorçage** : à la première scène vue, chaque axe reçoit un décalage aléatoire — sans quoi un début de campagne sonnerait en rafale à la scène onze. Les deux **règles dures** (`bete`, `sortie_plan` — cadence 0, à **chaque** scène) n'ont aucun différé.
 - **Gel** : `servi.py --gel <scène> <axe...>` quand le lieu rend un axe impossible (sommet désert, mer, cachot, vingt jours de marche). Le compteur s'arrête **mais le gel est compté** : au-delà de 12 scènes, c'est le gel qui sonne — un lieu qui interdit l'économie pendant quinze scènes n'est plus une circonstance, c'est une composition à corriger. `--degel [axe...]` **remet l'escalade à zéro**, exactement comme un service.
-- **`atout` est légitimement gelé** tant que court le canon « au départ, il n'y a que le mépris » (POUSSIERE §11). Le dégeler le jour où la chaleur naît en jeu.
+- **`atout` est légitimement gelé** tant que court le canon « au départ, il n'y a que le mépris » (POUSSIERE §11) : sa tolérance de gel est portée à **40 scènes**, parce que ce gel-là vient du canon et non d'un lieu. Le dégeler le jour où la chaleur naît en jeu.
 
 ---
 

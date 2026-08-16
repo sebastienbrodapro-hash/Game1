@@ -30,7 +30,8 @@ ne bloque pas au premier dépassement :
 Entre deux sonneries d'un même axe : PAS_SONNERIE scènes de silence. Un hook
 qui redemande à chaque tour est un hook qu'on éteint (errata, cadence psy).
 
-Servir un axe remet son escalade à zéro.
+Servir un axe remet son escalade à zéro. **Un dégel aussi** : le gel n'est pas
+une dette, il constate que le monde interdisait l'axe.
 
 JITTER (tranché par le joueur, 2026-08-15) — un seuil fixe se joue au
 métronome : le MJ sert l'équipement pile à la scène 10 et la chance pile à
@@ -39,8 +40,14 @@ pression qu'on subit. Chaque seuil est donc tiré à **±20 %**, UNE FOIS PAR
 CYCLE (au moment où l'axe est servi), et jamais affiché : le MJ ne sait pas
 quand ça va sonner, donc il sert quand la scène s'y prête.
 
-Les seuils de 1 ou 2 ne bougent pas : ce sont des règles dures (la bête à
-chaque scène, une bifurcation par bloc), pas des cadences.
+Les petits seuils ne bougent pas : ce sont des règles dures (la bête à chaque
+scène, une bifurcation par bloc), pas des cadences.
+
+RÈGLES DURES — CADENCE 0 *(corrigé le 2026-08-16)*. « À chaque scène » veut
+dire à chaque scène : la tolérance d'une règle dure est **zéro scène de
+retard**. Avec l'ancien seuil de 1 et la comparaison `retard <= seuil`, un axe
+servi en scène N restait muet en N+1 et ne sonnait qu'en N+2 — la règle était
+appliquée avec une scène de retard, c'est-à-dire pas appliquée.
 """
 from __future__ import annotations
 
@@ -56,10 +63,29 @@ JITTER = 0.20     # ±20 % sur chaque seuil, retiré à chaque service
 JITTER_MINI = 3   # en dessous, le seuil est une règle dure : pas de tirage
 SEUIL_GEL = 12    # scènes de gel tolérées avant que le gel lui-même sonne
 
+# Exceptions à SEUIL_GEL — un gel qui vient du CANON, pas d'un lieu.
+# La tolérance normale de 12 scènes vise les gels de circonstance (un sommet
+# désert, une traversée) : au-delà, c'est la composition qu'il faut corriger.
+# Mais un axe que le monde lui-même interdit d'office n'est pas une mauvaise
+# composition — c'est le monde tel que le joueur l'a voulu, et le lui
+# reprocher toutes les trois scènes est exactement le hook qu'on éteint.
+# *(Ajouté le 2026-08-16. Une entrée = une décision du joueur, révisable.)*
+TOLERANCE_GEL: dict[str, int] = {
+    # POUSSIERE §11 : « au départ, il n'y a QUE le mépris ». L'appétit et
+    # l'estime naissent en jeu ; FONDATION §3.6 place le basculement vers la
+    # scène 25-40. Avant ça, servir un atout fabriquerait de la chaleur
+    # d'office — ce que le joueur a refusé explicitement.
+    "atout": 40,
+}
+
+
+def seuil_gel(axe: str) -> int:
+    return TOLERANCE_GEL.get(axe, SEUIL_GEL)
+
 # axe -> (scènes de retard tolérées, libellé, ce qu'il faut faire)
 AXES: dict[str, tuple[int, str, str]] = {
     "bete": (
-        1, "LA BÊTE EN SCÈNE",
+        0, "LA BÊTE EN SCÈNE",
         "jamais du décor, au minimum une ligne par scène. **Mais 'jamais du "
         "décor' ≠ 'une volonté propre'** (FONDATION §3.5) : avant le palier "
         "C, l'axe se sert par ce que le MONDE lui fait — on la moque, on la "
@@ -69,7 +95,7 @@ AXES: dict[str, tuple[int, str, str]] = {
         "refuse, elle argumente",
     ),
     "sortie_plan": (
-        1, "UNE OPTION QUI SORT DU PLAN",
+        0, "UNE OPTION QUI SORT DU PLAN",
         "errata §43, à CHAQUE bloc : un bloc dont toutes les sorties donnent "
         "sur la même pièce est un couloir, pas un choix",
     ),
@@ -121,9 +147,15 @@ AXES: dict[str, tuple[int, str, str]] = {
         "Faute du 2026-08-15 : 111 scènes à zéro fer sans une transaction",
     ),
     "atout": (
-        12, "LIGNE ⚑ ATOUT",
+        20, "LIGNE ⚑ ATOUT",
         "seulement quand il pèse vraiment (§36), mais pas jamais — et varier "
-        "les personnes (§18)",
+        "les personnes (§18). ⚠ **LÉGITIMEMENT GELÉ TANT QUE COURT LE CANON DU "
+        "MÉPRIS SEUL** (POUSSIERE §11 : au départ il n'y a QUE le mépris ; "
+        "l'appétit, la fascination et l'estime naissent en jeu). Un atout "
+        "servi avant que la chaleur existe fabriquerait de la chaleur "
+        "d'office — exactement ce que le joueur a refusé. Le geler à la scène "
+        "1 (`servi.py --gel 1 atout`) et le dégeler le jour où quelqu'un le "
+        "regarde autrement : le dégel remet l'escalade à zéro",
     ),
     "chance": (
         12, "UNE CHANCE",
@@ -184,9 +216,26 @@ def geler(etat: dict, scene: int, axes: list[str]) -> list[str]:
 
 
 def degeler(etat: dict, axes: list[str] | None = None) -> list[str]:
+    """Lève le gel — et repart d'une page blanche, exactement comme un service.
+
+    *(Corrigé le 2026-08-16.)* Sans ça, un axe gelé longtemps sortait du gel
+    avec l'escalade accumulée pendant le gel, et sonnait donc en ALERTE au
+    premier tour de sa liberté retrouvée — pour un retard dont on venait de
+    reconnaître qu'il était légitime. Le gel n'est pas une dette : il dit que
+    le monde interdisait cet axe. Quand il ne l'interdit plus, le compteur
+    recommence à compter, il ne présente pas l'addition.
+
+    Le retard, lui, n'est PAS effacé : l'axe redevient possible, donc il
+    redevient dû. Il resonnera dès la scène suivante — mais en NOTE, et il
+    remontera l'escalade à son rythme, comme n'importe quel axe en retard.
+    """
     gel = etat.setdefault("gel", {})
     cibles = [a.strip().lower() for a in axes] if axes else list(gel)
     faits = [a for a in cibles if gel.pop(a, None) is not None]
+    for a in faits:
+        etat.setdefault("escalade", {}).pop(a, None)
+        etat.setdefault("sonnerie", {}).pop(a, None)
+        etat.setdefault("seuil", {})[a] = tirer_seuil(a)  # nouveau cycle
     return faits
 
 
@@ -205,7 +254,7 @@ def tirer_seuil(axe: str) -> int:
 def seuil_courant(etat: dict, axe: str) -> int:
     """Seuil de ce cycle ; le tire et le fixe s'il n'existe pas encore."""
     val = etat.setdefault("seuil", {}).get(axe)
-    if not isinstance(val, int) or val < 1:
+    if not isinstance(val, int) or val < 0:  # 0 est légitime : règle dure
         val = tirer_seuil(axe)
         etat["seuil"][axe] = val
     return val
@@ -307,7 +356,8 @@ def evaluer(etat: dict, scene: int) -> tuple[int, str] | None:
 
         if gele_depuis is not None:
             duree = scene - gele_depuis
-            if duree <= SEUIL_GEL:
+            tolerance = seuil_gel(axe)
+            if duree <= tolerance:
                 continue  # le lieu l'interdit vraiment : on n'embête pas le MJ
             derniere_sonnerie = etat["sonnerie"].get(axe, 0)
             if derniere_sonnerie and scene - derniere_sonnerie < PAS_SONNERIE:
@@ -319,7 +369,7 @@ def evaluer(etat: dict, scene: int) -> tuple[int, str] | None:
             lignes.append((
                 esc, duree,
                 f"[{titre}] {libelle} — GELÉ depuis {duree} scènes "
-                f"(tolérance {SEUIL_GEL}, sonnerie n°{esc}).\n"
+                f"(tolérance {tolerance}, sonnerie n°{esc}).\n"
                 f"    → un lieu qui interdit ça aussi longtemps n'est plus une "
                 f"circonstance, c'est une composition : ramène le jeu là où "
                 f"c'est possible, ou dégèle.\n    → {consigne}",
@@ -338,10 +388,11 @@ def evaluer(etat: dict, scene: int) -> tuple[int, str] | None:
         titre, consigne = niveau_de(esc)
         # Le seuil effectif ne s'affiche jamais : le connaître, c'est
         # retrouver le métronome que le jitter vient de supprimer.
+        cadence = "RÈGLE DURE : à CHAQUE scène" if base == 0 else f"cadence ~{base}"
         lignes.append((
             esc, retard,
             f"[{titre}] {libelle} — {retard} scènes sans "
-            f"(cadence ~{base}, sonnerie n°{esc}).\n    → {quoi}.\n    → {consigne}",
+            f"({cadence}, sonnerie n°{esc}).\n    → {quoi}.\n    → {consigne}",
         ))
 
     if not lignes:

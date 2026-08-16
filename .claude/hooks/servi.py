@@ -49,8 +49,9 @@ def montrer(etat: dict) -> None:
         plancher = base if base < A.JITTER_MINI else round(base * (1 - A.JITTER))
         etiquette = "ok " if retard <= plancher else "..."
         marque = f" · escalade {esc}" if esc else ""
+        cadence = "DURE" if base == 0 else f"~{base}"
         print(
-            f"  {etiquette} {axe:<13} retard {retard:>3} / cadence ~{base:<2}"
+            f"  {etiquette} {axe:<13} retard {retard:>3} / cadence {cadence:<4}"
             f"  ({libelle}){marque}"
         )
     print("\n(« ... » = dans la zone ou ca peut sonner. Le seuil exact du cycle")
@@ -85,7 +86,7 @@ def main() -> int:
             print("\ngeles :")
             for a, depuis in sorted(gel.items()):
                 duree = sc - depuis
-                reste = A.SEUIL_GEL - duree
+                reste = A.seuil_gel(a) - duree
                 etat_gel = f"reste {reste}" if reste >= 0 else f"DEPASSE de {-reste}"
                 print(f"  {a:<13} depuis {duree:>3} scenes  ({etat_gel})")
         return 0
