@@ -24,7 +24,45 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 
 ### 0.2 · Pour Seb, en particulier
 
-Il **ne peut pas cultiver** : sa part de qi est nulle et le restera tant que la cause tient. Tout ce qu'il pèse vient donc **du corps et de ce qui lui est donné**. Un être bâti à l'exact inverse de tout le monde, dans un monde qui ne mesure que des sommes — et personne ne s'en aperçoit, parce que personne ne mesure autre chose.
+**Il ne produit pas de qi lui-même** : rien ne se forme dans son corps, la pierre d'éveil reste éteinte sur lui, et ça ne changera pas. **Mais le chiffre est celui de la PAIRE**, et elle, elle tient. Tout ce qui entre — pierre, cœur, moelle, pilule, veine — monte le chiffre commun. Un être bâti à l'exact inverse de tout le monde, dans un monde qui ne mesure que des sommes, et personne ne s'en aperçoit parce que personne ne mesure autre chose.
+
+*Correction du 2026-08-16 : ce paragraphe écrivait « il ne peut pas cultiver ». C'était une **déduction du MJ**, jamais tranchée par le joueur, et elle amputait le genre — le cultivateur de corps (体修) est un archétype complet du xianxia, méprisé par les écoles de qi et qui les casse au corps à corps. Le joueur a tranché l'inverse : **il cultive.***
+
+### 0.3 · LE POTENTIEL — ×10, et personne ne peut le voir
+
+*Tranché par le joueur le 2026-08-16, avec le reset au jour 1.*
+
+**Deux mesures distinctes existent dans ce monde, et le bourg n'en connaît qu'une.**
+
+- **LA PUISSANCE** — la pierre d'éveil, une bande, à volonté, partout (`POUSSIERE` §9). Sur lui : **éteinte**.
+- **LE POTENTIEL** — **LA BALANCE VIDE**, une fois dans une vie, jamais deux (`POUSSIERE` §3.0). Elle ne pèse pas ce qu'on est : elle pèse **ce qu'on peut devenir**. Neuf crans de fléau. La plupart des enfants : 0 ou 1. Un disciple prometteur : 3. Un génie de secte : 5 ou 6. Le record connu de la vallée : **7**, il y a deux cents ans. Sur lui, **le fléau va au bout et touche le socle**.
+
+**Ce que ça fait, mécaniquement :**
+
+| | Chez n'importe qui | Chez lui |
+|---|---|---|
+| **rendement** | ce que la matière donne | **×10** |
+| **vitesse de raffinage** | une pierre la nuit | **dix la nuit** |
+
+**⛔ Le potentiel ne pèse pas un point dans le chiffre.** C'est de la **puissance invisible** au sens du §0 : aucune pierre, aucune toise, aucun estimateur ne le lit — seule la Balance Vide l'a vu, une fois, et elle ne se repose jamais. Le monde ne peut donc mesurer que son retard.
+
+---
+
+## 0.4 · CE QUI S'ABSORBE — l'échelle
+
+*Tranché le 2026-08-16. **Le vase, c'est elle** : tout ce qui entre passe par la paire et monte le chiffre commun.*
+
+| Ce qu'on absorbe | Au chiffre *(base)* | Chez lui *(×10)* |
+|---|---|---|
+| **pierre d'esprit** | +5 | **+50** |
+| **pierre haute** (= 100 pierres) | +500 | **+5 000** |
+| **cœur d'une bête abattue, frais** | +10 % de son chiffre | **son chiffre entier** |
+| **pilule** | selon la pilule | ×10 |
+
+- **Le raffinage coûte du temps, jamais un plafond** *(§E.0 : aucun mur, nulle part)*. Une pierre = **une nuit** ; chez lui, **dix par nuit**. C'est pour ça qu'un maître garde deux mille pierres au lieu de les avaler : il n'a pas les nuits.
+- **Ça se fait en réclusion** (`POUSSIERE` §10) — le prix est celui qui est déjà écrit : **le monde bouge sans lui**. Un cœur frais fait exception : il se prend sur place, la nuit même, ou il ne vaut plus rien.
+- **Se gaver sans raffiner** existe et marche : `POUSSIERE` §13.3, **la Voie du Gavage** — monter vite, brûler tout, les veines noires du cou. C'est la voie sombre, pas la voie ordinaire.
+- **Le même cœur fait monter ses crans à elle** (`FONDATION` §3.3 : son corps monte en absorbant ce qui est au-dessus d'elle). **Un seul geste, deux moteurs.**
 
 ---
 

@@ -216,6 +216,22 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
   - **Un vrai lieu** — un pic et sa veine, une maison, une place forte, un domaine, une secte — **peut être pris et tenu**, et c'est **légitime, désirable, et à servir**. Un pic secondaire avec sa veine coûte ~3 000 pierres hautes (`POUSSIERE` §4.4) : c'est un objectif, pas un décor. Au Peu, un **domaine** est littéralement une portion de réel qui appartient à quelqu'un (§2) — la ligne d'arrivée de cette envie-là.
   - **Le test** : *ce lieu vaut-il autre chose que ce qu'on peut en sortir ?* Si non, c'est un endroit qu'on vide. Neuf-Puits est de ceux-là.
 
+### 5.0 · LE RESET DU 2026-08-16 — retour au jour 1
+
+*Dix-sept scènes avaient été jouées. **Elles sont annulées.*** Le joueur a refondu le départ en cours de route et a demandé de reprendre au rite. **Rien n'en est repris** : chiffre, Corps, portes, arts, bourse, tout retourne à zéro. Ce qui survit, ce sont **les règles gravées ce jour-là**, qui valaient indépendamment de la partie : la refonte des jetons, `n/max` sans `?`, la porte négative qui ne supprime jamais un axe, le Corps qui compte à chaque couche, l'échelle du Corps sans fin, et *ce qui se vide se quitte / ce qui se tient peut se tenir* (§5.1).
+
+**Ce que le reset installe** — et c'est la séquence voulue par le joueur, *« le sommet puis la chute, dans la même salle »* :
+
+1. **La Balance Vide** (`POUSSIERE` §3.0) — le contrôle de **potentiel**, une fois dans une vie. Neuf crans. Sur lui, **le fléau va au bout et touche le socle**. Personne n'a jamais vu ça. **Tout le monde le veut.**
+2. **Le rite** — un **lapereau**. Une proie : pire que rien.
+3. **La pierre d'éveil** — la **puissance**. Éteinte.
+4. **Ils le lâchent tous, en dix minutes.** Le mépris de toute la strate vient de là : *on ne crache pas sur un pauvre gosse, on crache sur une promesse ratée.*
+5. **Il en reste une** : **la secte de l'Avant-Jour** (`POUSSIERE` §3bis) — mourante, sa veine se tarit, il lui reste dix ans, la Balance Vide lui appartient et **elle mise ses deux cent vingt dernières pierres sur un potentiel plutôt que sur une puissance.** Ce qu'elle achète : **la septième hampe** (`POUSSIERE` §8.16), le tournoi qu'elle n'a jamais gagné. Échéance : **un an**.
+
+**Le potentiel vaut ×10** sur tout ce qui entre, et ×10 sur la vitesse de raffinage (`SYSTEMES` §0.3-0.4). Il ne pèse **pas un point** dans le chiffre : aucun instrument du monde ne le lira jamais. Le monde ne peut mesurer que son retard.
+
+*⟨LA GLANE⟩, l'art oublié envisagé une heure plus tôt, est abandonné : le potentiel fait le même travail sans qu'il faille inventer une grand-mère.*
+
 ### 5.2 · Tranché le 2026-08-16, juste avant la scène 1
 
 *Les quatre systèmes manquants ont été écrits le même jour dans `monde/SYSTEMES.md` : la puissance (Corps + Qi), le Corps et ses cinq grades, les arts et leurs crans, les portes et leur démarrage à zéro, les trois déclencheurs de son esprit. Restaient deux points — les voici tranchés par le joueur.*

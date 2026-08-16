@@ -170,6 +170,7 @@ Ce que ça lui a donné, et que personne n'a remarqué :
 | **la forêt d'Encre** | 2 jours, rive gauche | terres de la **secte du Fleuve d'Encre** — formations, calligraphie de force, robes noir et blanc ; le Cerf (§7.6) |
 | **Sept-Bannières** | 2 jours de barge | **la ville** : dix mille feux, l'arène, les grandes enchères, la pierre haute, la Dame. Sept hampes à la porte d'eau — six bannières ; **la septième hampe est vide** |
 | **la secte de la Lance Levée** | 3 jours, pic de l'est | corps et lances, monastère-forteresse ; le Tripode de la Porte (§8.1) ; la chambre scellée qui se loue (§10.4) |
+| **le pic de l'Avant-Jour** | 2 jours, contreforts du nord | **la secte mourante** (§3bis) : quatre anciens, une veine qui se tarit, un pic à moitié vide — et **la Balance Vide** (§3.0), tout ce qui reste de deux cents ans |
 | **le tarn de Givre** | 3 jours, haut pays | le Héron (§7.10) |
 | **les Vieilles Mines** | 4 jours, lande de l'est | galeries mortes, la Truie de Fer (§7.9) |
 | **la plaine du Charnier** | 5 jours, sud-est | un champ de bataille d'il y a cent ans, jamais nettoyé ; l'Ours (§7.7) |
@@ -181,7 +182,39 @@ Au-delà : **les Capitales du Fleuve**, la **mer de Sel**, d'autres vallées et 
 
 ---
 
-## 3 · LE RITE D'INVOCATION — LA SCÈNE 1
+## 3 · LE JOUR DES QUINZE-ANS — LA SCÈNE 1
+
+### 3.0 · LA BALANCE VIDE — le contrôle de potentiel *(canon — tranché par le joueur le 2026-08-16)*
+
+**Deux mesures, et le bourg n'en possède qu'une.** La pierre d'éveil lit **ce qu'on est**, à volonté, partout. La **Balance Vide** lit **ce qu'on peut devenir** — une fois dans une vie, jamais deux, aucune reprise.
+
+- **Aucun bourg n'en a.** C'est un instrument de secte, très ancien, et il n'en reste presque plus. Les grandes maisons ne s'en servent plus : elles recrutent au chiffre, c'est moins cher et ça se voit tout de suite.
+- **Le fléau descend par crans, neuf en tout.** La plupart des enfants : **0 ou 1**. Un disciple prometteur : **3**. Un génie de secte : **5-6**. Le record connu de la vallée : **7**, il y a deux cents ans, et on en parle encore.
+- **Elle passe avant le rite**, le matin même, sur toute la cohorte — un enfant après l'autre, à la file, et c'est expédié parce que ça ne donne jamais rien.
+- **Le crieur annonce chaque cran** (§0.4 : des bouches, pas du papier).
+
+**LA SÉQUENCE DU JOUR — le sommet, puis la chute, dans la même salle.**
+1. **La Balance Vide.** Sur Seb, **le fléau va au bout et touche le socle** : neuf. L'instrument ne sait pas dire plus. Personne n'a jamais vu ça, personne dans cette salle ne verra jamais ça deux fois. La salle se lève. **Tout le monde le veut** — les recruteurs sortent leurs plaques, les familles se retournent, on lui parle pour la première fois de sa vie.
+2. **Le rite d'invocation** (§3.1). Un **lapereau** (§3.3). Une proie : pire que rien.
+3. **La pierre d'éveil** sur le parvis. **Éteinte** — ou ce que la scène décide (§3.3.6).
+4. **Ils le lâchent tous.** En dix minutes il est passé du plus convoité de la vallée au rebut, et **c'est cette chute-là qui fabrique le mépris de toute la strate** — on ne crache pas sur un pauvre gosse, on crache sur une promesse ratée. *« La Balance s'est trompée. »* · *« Le Ciel a fait la blague jusqu'au bout. »*
+5. **Il en reste une** (§3bis).
+
+> ⚠ **Aucun mystère là-dedans, jamais** (§15, coupe nette). Le bourg a classé l'affaire le soir même : l'instrument s'est planté. Personne n'enquête, personne n'y revient, aucune bouche n'en fera une question à résoudre. C'est un **fait public et clos**, et c'est ce qui le rend cruel.
+
+### 3bis · LA SECTE DE L'AVANT-JOUR *(canon — 2026-08-16)*
+
+**Petite, vieille, et en train de mourir.** Respectable il y a deux cents ans ; aujourd'hui **quatre anciens, une poignée d'externes, un pic à moitié vide — et une veine de qi qui se tarit.** C'est de ça qu'une secte meurt. Il leur reste peut-être dix ans.
+
+- **Ils ne peuvent plus recruter au chiffre** : tout gamin à fort chiffre part chez les grandes maisons, qui paient. Alors ils recrutent sur **ce que personne ne mesure**.
+- **La Balance Vide est à eux.** C'est à peu près tout ce qui reste de leur splendeur. Ils la portent de bourg en bourg, cohorte après cohorte, année après année, et depuis deux cents ans elle ne rend rien.
+- **Leur fond : ~220 pierres d'esprit**, la veine mourante, le pic. Chez un potentiel de neuf, ces 220 pierres valent **+11 000** (`SYSTEMES` §0.4). Ils le savent. **C'est leur dernière carte, et ils la posent sur un garçon dont la pierre d'éveil ne dit rien.**
+- **Ce qu'ils veulent, dit une fois, en une ligne** : **la septième hampe** (§8.16). Ils ne l'ont jamais prise.
+- **Ils le cachent** : inscrit **disciple externe de dernier rang**, robe de chanvre grossière, corvées comme les autres — et gavé dans le dos. Si ce que la Balance a rendu sortait de leurs murs, il ne leur appartiendrait plus avant le soir.
+- **La réputation se fabrique toute seule** : un dernier rang qui monte comme une fusée, ce monde a déjà le mot pour ça — **la Voie du Gavage** (§13.1/§13.3), les veines noires, et on crache derrière son passage.
+
+> ⛔ **ON NE JOUE JAMAIS DE POLITIQUE DE SECTE** *(garde-fou posé et accepté le 2026-08-16)*. Pas de rivalités d'aînés, pas de tournoi interne, pas de complot de couloir, pas de faction. **Ce qu'on voit d'une secte : des ressources, des épreuves, des lieux, et le mépris des autres disciples** — servi comme carburant et retourné en **une** scène (errata §42), jamais comme arc. Sinon c'est le registre vioque, coupé.
+> ⛔ **Ils n'ouvrent pas le coffre d'un coup** : ils investissent **par tranches, contre des résultats**. Ce n'est pas un plafond (§E.0) — c'est un contrat, et l'échéance est le tournoi.
 
 ### 3.1 · Comment ça se passe, pour tout le monde
 
@@ -404,6 +437,7 @@ Cœurs, moelles, sèves, gelées, écailles, mues : **tout ce qui a porté un ch
 | 13 | **le Tri des Simples** | **percevoir** : trier vraies herbes, fausses et poisons, contre un encens qui brûle | le Pavillon · examens d'apprentissage | l'apprentissage, et l'accès aux réserves |
 | 14 | **la Marche des Gaffes** | **l'équilibre sous charge** : traverser le port sur les gaffes posées entre les barges, deux seaux pleins aux mains | la guilde des bateliers · foire d'automne | le fret à demi-prix un an — et les ponts cessent de railler celui qui l'a faite (§11.14) |
 | 15 | **l'Appel Rendu** | **la mémoire** : entendre une fois l'appel de l'année — noms, bandes, bêtes — et le rendre entier, debout sur le parvis | le crieur et le temple · quand le crieur cherche une bouche | devenir **bouche** : un monde sans registres paie cher une mémoire prouvée |
+| **16** | **LA SEPTIÈME HAMPE** | **le tournoi des maisons** : à la porte d'eau de Sept-Bannières, sept hampes et **six bannières** (§2.6). Les six maisons remettent la leur en jeu ; la septième est vide et se prend. Combats en champ clos, devant la ville, sur plusieurs jours | la ville et les six maisons · **tous les ans, au printemps** | la hampe, la bannière, le rang régional — et pour qui n'a plus rien, **de quoi ne pas mourir** |
 
 ---
 
