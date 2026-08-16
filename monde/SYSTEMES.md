@@ -70,7 +70,8 @@ Il **ne peut pas cultiver** : sa part de qi est nulle et le restera tant que la 
 
 **Seb commence la campagne sans aucune porte.** Les trois ou quatre premières se **créent** sur ses premiers critiques : c'est le seul moment de la campagne où créer est la règle et non l'exception *(§23)*.
 
-- **Une porte neuve se nomme dans la scène même**, avec son mordant **et son revers**.
+- **Une porte neuve se nomme dans la scène même**, avec son mordant **et son nombre de crans** — 3 à 6 selon sa profondeur, fixé là, il ne bouge plus (`SEUILS`, format de fiche : **jamais `n/?`**).
+- **⛔ Pas de revers qui reprend.** Une clause qui limite ce que la porte vient de donner est une **fermeture déguisée** (§41, trois fautes le 2026-08-14). Ce qu'elle donne, elle le donne entier ; ce qu'elle ne couvre pas se joue comme le reste du monde, sans qu'on ait besoin de l'écrire.
 - **Elle naît du domaine où le critique est tombé** — jamais d'une liste préparée. Ce qu'il était en train de faire quand le dé est tombé décide de ce qu'il gagne.
 - **Passé les trois ou quatre premières, on ne crée plus** : les critiques suivants font **monter d'un cran** une porte existante dont le domaine est touché. Créer redevient un événement de campagne.
 

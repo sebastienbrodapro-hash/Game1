@@ -60,9 +60,12 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 
 ## FORMAT DE FICHE — OBLIGATOIRE
 
-**Toute progression s'écrit `n/max`. Jamais en prose.**
+**Toute progression s'écrit `n/max`. Jamais en prose. ⛔ JAMAIS `n/?`.**
 
-`CORPS — 2/4` · `bête 3/9` · `jetons 7/10` · `ART 2/?` · `porte 3/?`
+`CORPS — 2/4` · `bête 3/9` · `jetons 7/10` · `ART 2/5` · `porte 3/4`
+
+**Le max se fixe au moment où la ligne naît** — à l'acquisition d'un art, à l'ouverture d'une porte —, entre **3 et 6** selon la profondeur, et il ne bouge plus.
+**Un `?` n'est pas un max, c'est de la prose déguisée** : sans max, aucun seuil n'est écrit, donc rien n'est dû — et §51 est la faute la plus coûteuse du corpus. *(Tranché par le joueur le 2026-08-16, sur faute : deux portes ouvertes en `1/?`.)*
 
 *Exemples **inventés et figés** — l'état courant vit sur la fiche de séance, jamais ici (§54 : le pourquoi est à l'errata).*
 
