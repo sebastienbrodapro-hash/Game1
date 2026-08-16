@@ -139,7 +139,10 @@ AXES: dict[str, tuple[int, str, str]] = {
     "equipement": (
         10, "L'ÉQUIPEMENT",
         "armes, armures, pilules, objets — réel et important, et il en veut "
-        "(§33). Faute du 2026-08-15 : 111 scènes sans un seul objet à lui",
+        "(§33). **Rien de tout ça ne compte dans le chiffre** (SYSTEMES §0) : "
+        "l'équipement est de la puissance invisible, il ne monte pas la fiche, "
+        "il change ce qu'on peut faire — et il surprend, dans les deux sens. "
+        "Faute du 2026-08-15 : 111 scènes sans un seul objet à lui",
     ),
     "marchandage": (
         10, "L'ÉCONOMIE",
