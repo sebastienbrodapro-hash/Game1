@@ -212,9 +212,23 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 - **Le rythme** : palier 4 visé entre les scènes 30 et 50, palier C vers 25-40, palier 6 à la charnière strate I / strate II (§3.6).
 - **Ce qui ne se « corrige » plus** : l'économie peut être grosse, un peu de social est bienvenu, **une seule devinette dans tout le monde** (§3bis) — et le mortier n'est **pas** une économie (§3.4, `POUSSIERE` §0.10).
 
-### 5.2 · Reste à décider — **avant la scène 1**
+### 5.2 · Tranché le 2026-08-16, juste avant la scène 1
 
-*Les quatre systèmes manquants ont été écrits le 2026-08-16 dans `monde/SYSTEMES.md` : la puissance (Corps + Qi), le Corps et ses cinq grades, les arts et leurs crans, les portes et leur démarrage à zéro, les trois déclencheurs de son esprit. Il ne reste que ceci :*
+*Les quatre systèmes manquants ont été écrits le même jour dans `monde/SYSTEMES.md` : la puissance (Corps + Qi), le Corps et ses cinq grades, les arts et leurs crans, les portes et leur démarrage à zéro, les trois déclencheurs de son esprit. Restaient deux points — les voici tranchés par le joueur.*
 
-- **La feuille de départ** : le chiffre, les jetons, ce que Seb porte — à poser avant le premier jet.
-- **Le nom de la campagne.**
+**LE TITRE : « LE CIVET » — et il changera.** *« Le civet deviendra autre chose de plus majestueux plus tard. »* Le nom de la campagne **est le surnom** que la cohorte colle à Seb au soir du rite (`POUSSIERE` §3.3.5). Il tient tant qu'elle est une bête moquée — **et il se renomme quand elle devient autre chose.** Le MJ propose un titre neuf **à la bascule, en méta, jamais en silence** ; le joueur tranche. Un titre qui monte avec elle, comme le reste.
+
+**LA FEUILLE DE DÉPART** — Seb, quinze ans, garçon de courses de la halle de Neuf-Puits.
+
+| | |
+|---|---|
+| **chiffre** | **1** — la pierre reste **éteinte** sur lui, pas cendre (`POUSSIERE` §0.5) |
+| **CORPS** | **0/4** · LA CHAIR |
+| **jetons** | **0/15** |
+| **portes** | **aucune** — les trois ou quatre premières se **créent** sur ses premiers critiques (`SYSTEMES` §3.1) |
+| **arts** | **aucun** |
+| **la bête** | **1/9** · LE LAPEREAU |
+| **ce qu'il porte** | un **couteau de coursier** usé, une **corde de portage**, **30 mailles** — trois ans d'économies jamais dépensées, dans une caisse au grenier de la halle |
+| **ce qui ne s'écrit pas** | chaque prix du bourg, chaque tricherie de balance, et par où passe tout ce qui entre à Neuf-Puits (`POUSSIERE` §2.5) — **ça vaut plus que la caisse** |
+
+**Le chiffre de la paire après le rite ne se fixe pas ici** : il se joue en scène 1 (`POUSSIERE` §3.3.6 — le canon impose le dispositif, jamais le résultat).
