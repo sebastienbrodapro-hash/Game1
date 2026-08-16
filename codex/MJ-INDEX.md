@@ -1,6 +1,12 @@
 # MJ-INDEX — LE CREUSET (outillage MJ)
 
-> ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Carte d'accès du corpus MJ. **Lu EN PREMIER à chaque session.**
+> ⛔ **CAMPAGNE CLOSE — ce corpus décrit Le Creuset, terminé scène 299. Le jeu courant est décrit par `FONDATION.md` et `monde/`.**
+>
+> **Ne pas suivre le protocole de lecture ci-dessous pour jouer** : il charge un monde mort. L'ordre de lecture de la campagne courante est dans `CLAUDE.md`. Ce fichier est conservé comme **archive** : il documente comment le corpus du Creuset s'accédait, et il reste utile pour lire cette archive — jamais pour mener une partie.
+>
+> Ce qui a survécu à la clôture, ce sont les **règles de conduite** — `RULE-MJ.md`, `SEUILS.md`, `MJ-ERRATA.md` —, restées dans `codex/` et toujours en vigueur : c'est le monde qui a changé, pas la conduite.
+
+> ⛔ **JOUEUR : NE PAS LIRE. JAMAIS.** Carte d'accès du corpus MJ (archive). **Lu EN PREMIER à chaque session** — protocole de l'époque.
 
 ## ⚠️ LES DEUX FICHIERS DE SÉANCE — TOUT LE RESTE EST DE LA DOCUMENTATION
 
