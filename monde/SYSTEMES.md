@@ -97,7 +97,9 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 
 ### 1.1 · Les règles, toutes reconduites de ce qui marchait
 
-- **Voie de l'épreuve uniquement** *(errata §50)* : encaisser volontairement ce qui devrait casser. **Une couche d'un coup, sur jet.** Une réclusion peut en donner une.
+- **Voie de l'épreuve uniquement** *(errata §50)* : encaisser volontairement ce qui devrait casser. **Une couche d'un coup.** Une réclusion peut en donner une.
+- **⛔ LE CORPS NE DÉPEND PAS DE LA RÉUSSITE DE L'ACTION.** *(2026-08-16 — FAUTE : sept échanges tenus sans reculer contre plus dur que lui, trois côtes cassées et une clavicule — et aucune couche, parce que la bande de l'action était basse.)* **Déclencheur objectif** : *a-t-il encaissé **volontairement**, **sans reculer**, quelque chose qui l'a **réellement cassé** ?* Si oui, **la couche tombe dans la scène même** (§51), **quelle que soit la bande**. Perdre un combat ne veut pas dire qu'on n'a rien pris de ce qu'on a encaissé : **un jet raté décide de ce qu'il obtient, jamais de ce que sa chair apprend.**
+  *Les trois conditions tiennent ensemble : un coup subi par surprise ne compte pas (pas volontaire), une fuite ne compte pas (reculé), une égratignure ne compte pas (rien de cassé). Et le travail ne donne toujours rien.*
 - **Le travail ne donne rien**, et **la dévoration non plus** : le Corps ne se prend à personne.
 - **Un seuil écrit est un seuil dû** *(§51)* : à `4/4`, le grade tombe **dans la scène même**.
 - **Pas de mutilation sous le grade** *(§44)* : une blessure **définitive** n'arrive que si ce qui frappe est **au-dessus** de son grade de Corps. En dessous, il est démoli, pas amputé.
