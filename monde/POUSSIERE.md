@@ -573,7 +573,6 @@ Cœurs, moelles, sèves, gelées, écailles, mues : **tout ce qui a porté un ch
 |---|---|
 | **bete** | §3.3 (les regards du monde) · **§0.10 (le mortier : des scènes, jamais une économie)** · §5.2/5.12/5.21 (cage, mortiers — des gestes pour elle) · §7 (ses proies, ses crans) · §10 (crans de réclusion) · §0.6 (ce qui la protège) |
 | **sortie_plan** | §2.6 (la région : onze directions) · §6/§7 (chaque chance et chaque pièce est une bifurcation) · §2.4 (le calendrier qui ouvre) |
-| **porte** | les théâtres à jets : §6 (chances), §7 (grosses pièces), §8 (rites) — c'est là que les critiques tombent |
 | **noir** | §13 (les trois voies) · §6.4/6.8 (les cendres des morts, le sacrilège) · §11 (répondre au mépris, en pire) |
 | **arrogance** | §11 (quinze figures × six registres, mépris seul au départ) · §3.3 (le surnom) · §9.3/9.13/9.15/9.20 (les tarifs de l'humiliation) |
 | **mesure** | §9 (l'infrastructure + 22 occasions) · §3.1 (la pierre du rite) |

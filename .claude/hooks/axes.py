@@ -99,11 +99,18 @@ AXES: dict[str, tuple[int, str, str]] = {
         "errata §43, à CHAQUE bloc : un bloc dont toutes les sorties donnent "
         "sur la même pièce est un couloir, pas un choix",
     ),
-    "porte": (
-        8, "MOUVEMENT DE PORTE",
-        "un cran, une ouverture, une aggravation — et toute porte due à un "
-        "critique se sert dans la scène même (§27)",
-    ),
+    # ⛔ `porte` a été RETIRÉ le 2026-08-16, sur décision du joueur : « vire
+    # les portes du hook ». Motif : le compteur mesurait un événement que le
+    # MJ ne peut pas produire. SEUILS est catégorique — SEUL un naturel 01-10
+    # ou 90-100 ouvre ou monte une porte, rien d'autre. Après dix-sept scènes
+    # sans critique, l'axe est passé en ⛔ ALERTE en réclamant « à servir
+    # maintenant, avant de rendre la main » : impossible sans inventer une
+    # porte, c'est-à-dire sans violer la règle de dés la plus dure du système.
+    # Un compteur qui exige l'impossible sonne à chaque scène, et un hook qui
+    # sonne toujours est un hook qu'on éteint — c'est le principe posé dans la
+    # docstring (PAS_SONNERIE, jitter, cadence psy). Ce qu'il visait vraiment
+    # — mettre des théâtres à jets sur la table — est déjà porté par `chance`,
+    # `grosse_piece` et `rite`, et il n'est donc pas perdu.
     "noir": (
         8, "OPTION NOIRE",
         "à proposer régulièrement, en montant en dureté, jamais moralisée "
