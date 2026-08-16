@@ -60,8 +60,13 @@ SEUIL_GEL = 12    # scènes de gel tolérées avant que le gel lui-même sonne
 AXES: dict[str, tuple[int, str, str]] = {
     "bete": (
         1, "LA BÊTE EN SCÈNE",
-        "elle agit, veut, refuse ou parle — jamais du décor, au minimum une "
-        "ligne par scène",
+        "jamais du décor, au minimum une ligne par scène. **Mais 'jamais du "
+        "décor' ≠ 'une volonté propre'** (FONDATION §3.5) : avant le palier "
+        "C, l'axe se sert par ce que le MONDE lui fait — on la moque, on la "
+        "jauge, on l'écarte, on parie sur elle — et par ce qu'elle fait "
+        "d'animal. Lui prêter des intentions avant l'heure est une faute au "
+        "même titre que la laisser en décor. Après C : elle veut, elle "
+        "refuse, elle argumente",
     ),
     "sortie_plan": (
         1, "UNE OPTION QUI SORT DU PLAN",

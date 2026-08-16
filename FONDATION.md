@@ -112,7 +112,21 @@ Ce choix répond directement à l'audit du psy du 2026-08-15 : sur 320 scènes, 
 
 > ⛔ **Ce n'est ni une taxe, ni une créance, ni un prélèvement** (errata §40, règle dure). Rien n'est ponctionné sur ce qu'il prend. C'est une volonté propre qu'il peut nourrir ou négliger — et le prix, quand il la néglige, se joue **en scène et entre eux**, jamais en malus chiffré. À servir **rare et dramatique**, jamais comme une jauge de culpabilité.
 
-### 3.5 · Rythme
+### 3.5 · AU DÉBUT, ELLE EST CE QU'ON REGARDE — PAS ENCORE QUELQU'UN
+
+*Tranché par le joueur le 2026-08-16, sur question du psy.*
+
+Le psy a relevé la tension : le palier **C** (elle veut, elle argumente) tombe très loin, et les deux garde-fous posés par le joueur — **rien de prélevé, rien d'économique** — ont volontairement amaigri le seul geste où elle décide. Donc sur les premières dizaines de scènes, ce qui la rend présente, c'est le **regard du monde sur elle**. Or le regard du monde sur elle n'est pas sa volonté à elle.
+
+**Le joueur a tranché : c'est voulu.** *« Qu'elle soit d'abord ce que le monde regarde, et qu'elle devienne quelqu'un plus tard. »*
+
+- **Au début, sa présence en scène passe par ce que les autres en font** : on la moque, on la jauge, on l'écarte, on parie sur elle, on refuse de la prendre au sérieux. Elle subit le monde et elle le regarde.
+- **Ce qu'elle veut arrive avec les paliers**, dans l'ordre déjà fixé : elle comprend (**A**), elle parle (**B**), elle veut contre lui (**C**). Pas avant.
+- **Le jour où elle bascule d'objet à sujet est un événement de campagne**, pas une progression douce. C'est le moment où celui qui la regardait cesse d'être le sujet de la phrase.
+
+> ⚠ **Conséquence pour l'axe `bete` du compteur** (une ligne par scène, jamais du décor) : *jamais du décor* **ne veut pas dire** *une volonté propre*. Au début, l'axe se sert par ce que le monde lui fait et par ce qu'elle fait d'animal — pas en lui prêtant des intentions qu'elle n'a pas encore. **Lui donner une volonté avant le palier C est une faute**, au même titre que la laisser en décor.
+
+### 3.6 · Rythme
 
 Neuf jalons avant le 6, atteint à mi-campagne : **un tous les ~50 scènes**. Puis trois paliers divins sur la seconde moitié. Le moteur n'est jamais à l'arrêt, et il ne peut plus caler en silence : le compteur d'axes sonne.
 
