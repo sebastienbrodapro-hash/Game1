@@ -48,7 +48,7 @@
 
 ## B · LES JETS
 
-> **Les nombres sont dans `SEUILS.md`** — bandes, jetons, modificateurs, grades, crans. Ici, la conduite.
+> **Les nombres sont dans `SEUILS.md`** — bandes, jetons, modificateurs. **Les systèmes du monde courant sont dans `monde/SYSTEMES.md`** — la puissance, le Corps, les arts, les portes, les déclencheurs de son esprit. Ici, la conduite.
 
 - **Énumérer les actions avant de jeter** : « Actions : 1… 2… 3… » — puis **un jet par action**, bandes annoncées ensemble, dans l'ordre (§25). Fusion seulement si **même moment, même lieu, même opposition**.
 - **Le naturel décide seul du critique** (§35). **Aucun modificateur ne protège d'un critique ni n'en fabrique un.** Le total paie, le naturel ouvre.
@@ -57,8 +57,8 @@
 - **Vrai tirage terminal** — `python .claude/hooks/jet.py [mod] [étiquette]` : bande seule, ligne `JETONS` imprimée, porte due signalée ; **le naturel ne s'affiche jamais, pour personne**. Vérification publique du générateur **sur demande**.
 - **Bande 36-65 = prix plancher** : perte concrète, jouée dans la prose. Jamais un twist qui arrange.
 - **« Neutre » est légitime.** Ne pas empiler +5/−5 sur des enjeux distincts. **Honorer l'étiquette annoncée** : une option étiquetée neutre se jette à 0.
-- **Les deux axes** : **le chiffre est ce qu'il délivre, le Corps est ce qu'il encaisse.** Fermé, le chiffre n'alimente pas la chair. **Le Corps ne plafonne jamais ce qu'il ouvre. Ouvrir ne blesse jamais.** Barème de force réelle : **`POUSSIERE.md` §1** (l'échelle humaine, qui pèse quoi) — s'y tenir, ne pas improviser l'échelle en scène.
-- **LE CORPS — voie de l'épreuve uniquement**, une couche d'un coup, sur jet ; la réclusion peut en donner une. *Design refusé par le joueur le 2026-08-15 : « les coups encaissés nourrissent directement la couche ». Le Corps reste une voie d'épreuve pure.* **L'échelle chiffrée du Corps de ce monde se fixe avant la scène 1, sur la feuille** — celle du Creuset (les grades de fer et de matière, §50) est morte avec lui : ne pas la resservir.
+- **LA PUISSANCE = CORPS + QI** *(`monde/SYSTEMES.md` §0, tranché le 2026-08-16)*. Deux réservoirs qui **s'additionnent dans le chiffre** — un corps fort sans qi vaut un qi fort sans corps. **Aucun instrument ne rend la composition, et l'instinct du héros non plus** : il lit le total exact, jamais la répartition. **Ni les arts ni l'équipement ne comptent** : le chiffre mesure ce qu'on **est**, jamais ce qu'on **a** — c'est là qu'un petit chiffre bat un grand. Barème de force réelle : **`POUSSIERE.md` §1** — s'y tenir, ne pas improviser l'échelle en scène.
+- **LE CORPS — voie de l'épreuve uniquement**, une couche d'un coup, sur jet ; la réclusion peut en donner une. *Design refusé par le joueur le 2026-08-15 : « les coups encaissés nourrissent directement la couche ». Le Corps reste une voie d'épreuve pure.* **L'échelle du Corps de ce monde est écrite** : `monde/SYSTEMES.md` §1 — quatre couches par grade, cinq grades (la chair, le grès, le bronze, le jade, la lumière), le jade reprend les cicatrices dites définitives. Celle du Creuset est morte avec lui : ne pas la resservir. **Et le Corps compte dans le chiffre** (§0 ci-dessus) : chaque grade pris fait monter la puissance.
 - **LES DEUX MOTEURS DE LA COMPAGNE — canon `FONDATION` §3.3, à ne jamais confondre** :
   **le corps** (paliers `1 · 2 · 3 · 4 · 5 · 6`) monte **en absorbant ce qui est au-dessus d'elle** — une grosse pièce, une relique, le cœur d'une épreuve, un lieu qui teste. **Jamais la puissance du porteur.**
   **l'esprit** (`A` elle comprend · `B` elle parle · `C` elle veut) monte **par ce qu'ils traversent ensemble** — les moments qui comptent, pas les victoires.

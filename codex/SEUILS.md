@@ -44,7 +44,8 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 - **Les quatre strates et la conversion ×1000** : `FONDATION.md` §2.
 - **La compagne — 9 jalons de corps et d'esprit entrelacés, puis 3 divins** : `FONDATION.md` §3.
 - **L'échelle humaine, les bandes publiques, les chiffres MJ de la strate I** : `monde/POUSSIERE.md` §1 et §9.
-- **Le Corps du monde neuf** : se fixe avant la scène 1, sur la feuille — les règles de design validées restent à l'errata (§50 : voie d'épreuve pure ; §11 : ouvrir ne blesse jamais).
+- **Le Corps, les arts, les portes, les déclencheurs de son esprit** : `monde/SYSTEMES.md`.
+- **La puissance = CORPS + QI**, les deux s'additionnent dans le chiffre ; **ni les arts ni l'équipement ne comptent** — le chiffre mesure ce qu'on **est**, jamais ce qu'on **a** (`SYSTEMES.md` §0).
 
 **Invariants de conduite maintenus** (ils ne décrivent aucun monde) :
 **AUCUN PLAFOND SUR LE PORTEUR — ce qui sature, ce sont les instruments.**

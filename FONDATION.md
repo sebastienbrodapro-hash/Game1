@@ -214,9 +214,7 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 
 ### 5.2 · Reste à décider — **avant la scène 1**
 
-- ⚠ **Les déclencheurs de l'esprit.** Le corps a des dizaines de déclencheurs écrits ; **A, B et C n'en ont aucun**, et C est dû vers la scène 25-40 (§3.6). Sans eux, le MJ attend « les moments qui comptent » et le moteur cale en silence.
-- ⚠ **L'échelle chiffrée du Corps de ce monde.** `SEUILS.md` la déclare à fixer sur la feuille ; celle du Creuset est morte avec lui. **L'axe `corps` du compteur a des occasions (`POUSSIERE` §6, §8, §10) mais aucune échelle derrière.**
-- ⚠ **Le système des portes.** `POUSSIERE` §16 dit *où* les critiques tombent, mais la campagne neuve n'a **aucune liste de portes, aucun budget, aucune règle de crans** — alors que le compteur a un axe `porte` et que l'errata §23/§27/§41 en suppose un.
-- ⚠ **L'échelle de progression des arts.** Huit arts et quatre voies d'acquisition sont écrits ; **rien ne dit ce que « monter » dans un art veut dire**, ni en combien de crans. La fiche impose pourtant `n/max` (§54).
+*Les quatre systèmes manquants ont été écrits le 2026-08-16 dans `monde/SYSTEMES.md` : la puissance (Corps + Qi), le Corps et ses cinq grades, les arts et leurs crans, les portes et leur démarrage à zéro, les trois déclencheurs de son esprit. Il ne reste que ceci :*
+
 - **La feuille de départ** : le chiffre, les jetons, ce que Seb porte — à poser avant le premier jet.
 - **Le nom de la campagne.**
