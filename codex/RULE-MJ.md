@@ -106,6 +106,14 @@
 - **⛔ UNE LISTE N'EST PAS UN CATALOGUE DE BOUTIQUE** *(précision du joueur, 2026-08-16 : « l'équipement c'est pas que des achats, il me faut pouvoir trouver de l'extraordinaire sur de l'extraordinaire »)*. `POUSSIERE` §5 le dit déjà : **l'équipement qui évolue n'existe pas en boutique.** Une liste doit mêler les **cinq voies** :
   **ce qui s'achète** (le courant, l'entrée de gamme, le consommable) · **ce qui se prend sur une bête** (§7 : chaque grosse pièce rend une matière que quelqu'un s'arrache) · **ce qui se trouve dans un lieu** (§6 : les chances rendent de la matière, pas de l'or) · **ce qui se gagne** (§8 : un rite ouvre une commande, un accès, une arme de maison) · **ce qui se vole**.
   **L'extraordinaire se prend sur de l'extraordinaire.** Une arme qui compte ne sort pas d'un râtelier : elle sort de ce qu'on a tué, du lieu qu'on a vidé, ou du rite qu'on a gagné. *Le principe vaut pour tous les axes, pas seulement `equipement`.*
+- **⛔ MAIS ON LISTE CE QU'IL A DEMANDÉ, PAS AUTRE CHOSE** *(recadrage du joueur, 2026-08-16 : « je veux une arme → tu me listes des armes »)*. **Il demande une arme, on liste des armes** — pas des lieux, pas des voies d'acquisition, pas des idées. Le shopping ordinaire **est** un contenu légitime : quand la scène s'y prête, on fait les boutiques, et c'est très bien.
+
+### D.0.1 · LE PROTOCOLE DE BOUTIQUE *(tranché par le joueur, 2026-08-16)*
+
+1. **Il entre chez un marchand → JET SUR LA QUALITÉ DU STOCK**, avant toute liste. Bandes ordinaires : `01-05` rebut · `06-25` bas de gamme · `26-50` courant · `51-85` bon · `86-100` **du rare est là aujourd'hui**. Le stock d'un jour n'est pas celui d'un autre.
+2. **Puis la liste**, tirée de ce que le jet a rendu.
+3. **Il achète ou il vend → LE MARCHAND SAIT, OU IL NE SAIT PAS**, ce que ça vaut. Un marchand qui ne sait pas vend une pièce rare au prix du courant, ou achète une merveille pour trois pierres. *C'est là que Seb gagne sa vie : il connaît chaque prix, et `⟨LA SALLE⟩` lui dit qui, dans l'arrière-salle, a réellement de quoi.*
+4. **Puis JET DE NÉGOCIATION**, séparé.
 
 ## D · PASSE DE CONTRÔLE AVANT ENVOI DU BLOC (§20)
 
