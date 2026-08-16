@@ -156,7 +156,7 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 
 ### 4.1 · Les règles
 
-- **Jamais deux paliers dans la même scène.** Jamais annoncé à l'avance : ça s'écrit dans la scène, comme une porte.
+- **Jamais deux paliers dans la même scène — SAUF SAUT D'ÉCHELLE.** Quand la paire multiplie son chiffre d'un ordre de grandeur d'un seul coup, l'esprit et le corps peuvent tomber **ensemble**, dans l'ordre fixe. *(Tranché par le joueur le 2026-08-16, sur ×55 en une nuit : « A + 2 sur 50x je trouverais pas ça déconnant. »)* Jamais annoncé à l'avance : ça s'écrit dans la scène, comme une porte.
 - **Le MJ ne pose pas ces moments sur son chemin et ne les lui refuse jamais** *(errata §30)*. Ils arrivent quand le joueur les provoque — et il les provoquera, parce que c'est ce qu'il joue.
 - **Avant C, elle n'a pas de volonté propre** *(FONDATION §3.5)* : sa présence en scène passe par ce que le monde lui fait et par ce qu'elle fait d'animal. **Lui prêter des intentions avant l'heure est une faute au même titre que la laisser en décor.**
 - **Le veto sur son corps vaut dès la scène 1**, mais comme un **refus animal** — elle se détourne, elle recule, elle ne mange pas. Pas comme un argument.
