@@ -92,6 +92,8 @@ Elle ne devient pas plus humaine (le 100 % lui coûterait ses oreilles et sa que
 
 **Le corps monte en absorbant ce qui est au-dessus d'elle** : une grosse pièce, une relique, le cœur d'une épreuve, un lieu qui teste. **Pas la puissance du porteur** — quelque chose qu'ils sont allés chercher exprès.
 
+> ⛔ **« AU-DESSUS D'ELLE » = AU-DESSUS DE SA DERNIÈRE PRISE.** *(Clarifié le 2026-08-16, sur faute : le MJ avait lu « au-dessus du chiffre de la paire » et refusé un cran acquis.)* Jamais au-dessus du chiffre commun — **elle n'a pas de chiffre propre** (`SYSTEMES` §0.2 : aucune répartition, un seul chiffre), et adosser son cran au total la bloquerait définitivement, puisque le qi fait monter ce total bien plus vite que les proies ne grossissent. Le seuil, c'est **la plus grosse chose qu'elle ait déjà mangée**. Une prise plus lourde que la précédente donne un cran, **dans la scène même** (§51).
+
 **L'esprit (A, B, C) monte par ce qu'ils traversent ensemble** — les moments qui comptent, pas les victoires.
 
 > **Conséquence assumée : on ne fait pas d'elle quelqu'un en écrasant des gens.** Il est mécaniquement possible d'atteindre le sommet d'une strate avec une bête magnifique qui ne vous a jamais adressé la parole.

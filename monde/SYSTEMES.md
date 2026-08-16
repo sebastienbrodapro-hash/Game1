@@ -65,7 +65,7 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 - **Le raffinage coûte du temps, jamais un plafond** *(§E.0 : aucun mur, nulle part)*. Une pierre = **une nuit** ; chez lui, **dix par nuit**. C'est pour ça qu'un maître garde deux mille pierres au lieu de les avaler : il n'a pas les nuits.
 - **Ça se fait en réclusion** (`POUSSIERE` §10) — le prix est celui qui est déjà écrit : **le monde bouge sans lui**. Un cœur frais fait exception : il se prend sur place, la nuit même, ou il ne vaut plus rien.
 - **Se gaver sans raffiner** existe et marche : `POUSSIERE` §13.3, **la Voie du Gavage** — monter vite, brûler tout, les veines noires du cou. C'est la voie sombre, pas la voie ordinaire.
-- **Le même cœur fait monter ses crans à elle** (`FONDATION` §3.3 : son corps monte en absorbant ce qui est au-dessus d'elle). **Un seul geste, deux moteurs.**
+- **Le même cœur fait monter ses crans à elle** (`FONDATION` §3.3). **Un seul geste, deux moteurs.** ⛔ Le seuil est **sa dernière prise**, jamais le chiffre de la paire : une proie plus lourde que la précédente donne un cran, dans la scène même.
 
 ---
 
