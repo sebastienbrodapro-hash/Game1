@@ -32,13 +32,16 @@ Il **ne peut pas cultiver** : sa part de qi est nulle et le restera tant que la 
 
 **Quatre couches font un grade.** La progression s'écrit toujours `n/4` *(SEUILS, errata §54)*.
 
-| | Grade | Ce que le corps devient |
-|---|---|---|
-| — | **LA CHAIR** | ce que tout le monde a. Le corps d'un homme, et c'est tout. |
-| **I** | **LE GRÈS** | la peau prend le grain de la pierre. Les coups ordinaires cessent d'entamer. |
-| **II** | **LE BRONZE** | il **sonne** quand on le frappe, et le son s'entend. Les armes ordinaires s'émoussent. |
-| **III** | **LE JADE** | il ne garde plus les marques : ce qui est écrit dessus s'efface. **C'est ici, et pas avant, que reprennent les cicatrices dites définitives** — une par grade. |
-| **IV** | **LA LUMIÈRE** | plus rien de son plan ne l'atteint. La suite se fixe en jeu. |
+| | Grade | Ce que le corps devient | Dans le chiffre |
+|---|---|---|---|
+| — | **LA CHAIR** | ce que tout le monde a. Le corps d'un homme, et c'est tout. | — |
+| **I** | **LE GRÈS** | la peau prend le grain de la pierre. Les coups ordinaires cessent d'entamer. | **+40** · *10 la couche* |
+| **II** | **LE BRONZE** | il **sonne** quand on le frappe, et le son s'entend. Les armes ordinaires s'émoussent. | **+400** · *100 la couche* |
+| **III** | **LE JADE** | il ne garde plus les marques : ce qui est écrit dessus s'efface. **C'est ici, et pas avant, que reprennent les cicatrices dites définitives** — une par grade. | **+4 000** · *1 000 la couche* |
+| **IV** | **LA LUMIÈRE** | plus rien de son plan ne l'atteint. La suite se fixe en jeu. | **+40 000** · *10 000 la couche* |
+
+> **UN GRADE = UNE BANDE.** *(Tranché par le joueur le 2026-08-16, sur faute : `CORPS — 1/4` imprimé douze scènes avec un chiffre figé.)* Chaque grade achevé fait franchir **une bande publique entière** (`POUSSIERE` §9 : cendre · chanvre · blanc · bleu · pourpre · or). Les valeurs sont en unités de la strate I.
+> **⛔ C'EST LA COUCHE QUI COMPTE, PAS LE GRADE.** Chaque couche prise monte le chiffre **immédiatement, dans la scène même** (§51) — trois couches sur quatre ne valent pas rien. Le chiffre est une **somme** (§0) : tout ce qui entre dans le Corps entre dans le total.
 
 ### 1.1 · Les règles, toutes reconduites de ce qui marchait
 
@@ -46,7 +49,7 @@ Il **ne peut pas cultiver** : sa part de qi est nulle et le restera tant que la 
 - **Le travail ne donne rien**, et **la dévoration non plus** : le Corps ne se prend à personne.
 - **Un seuil écrit est un seuil dû** *(§51)* : à `4/4`, le grade tombe **dans la scène même**.
 - **Pas de mutilation sous le grade** *(§44)* : une blessure **définitive** n'arrive que si ce qui frappe est **au-dessus** de son grade de Corps. En dessous, il est démoli, pas amputé.
-- **Le Corps compte dans le chiffre** (§0) : chaque grade pris fait monter la puissance, visiblement, sans qu'une goutte de qi soit entrée.
+- **Le Corps compte dans le chiffre** (§0) : **chaque couche prise** fait monter la puissance, visiblement, sans qu'une goutte de qi soit entrée — et elle la fait monter **dans la scène où elle tombe**. Le mot « grade » figurait ici jusqu'au 2026-08-16 : c'était la faute.
 
 ---
 

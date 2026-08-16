@@ -54,6 +54,17 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 - **Le Corps, les arts, les portes, les déclencheurs de son esprit** : `monde/SYSTEMES.md`.
 - **La puissance = CORPS + QI**, les deux s'additionnent dans le chiffre ; **ni les arts ni l'équipement ne comptent** — le chiffre mesure ce qu'on **est**, jamais ce qu'on **a** (`SYSTEMES.md` §0).
 
+## LE CORPS DANS LE CHIFFRE — UN GRADE = UNE BANDE
+
+| Grade | Total | La couche |
+|---|---|---|
+| **I · LE GRÈS** | **+40** | **+10** |
+| **II · LE BRONZE** | **+400** | **+100** |
+| **III · LE JADE** | **+4 000** | **+1 000** |
+| **IV · LA LUMIÈRE** | **+40 000** | **+10 000** |
+
+**C'est LA COUCHE qui compte, pas le grade** — et elle monte le chiffre **dans la scène même** (§51). Unités de la strate I. *(Tranché par le joueur le 2026-08-16, sur faute.)*
+
 **Invariants de conduite maintenus** (ils ne décrivent aucun monde) :
 **AUCUN PLAFOND SUR LE PORTEUR — ce qui sature, ce sont les instruments.**
 **Aucun plafond à l'intérieur d'une strate.** Arriver au plafond de la strate suivante n'est pas un défaut à corriger.
