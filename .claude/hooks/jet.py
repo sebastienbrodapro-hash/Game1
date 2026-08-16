@@ -33,16 +33,19 @@ def tirer(mod: int) -> tuple[int, int]:
 
 def lire(naturel: int, total: int) -> tuple[str, int, str]:
     """Rend (bande, jetons gagnés, mouvement de porte) pour un dé donné."""
-    if total <= 10:
-        bande, jetons = "01-10 — minimum vital de l'intention", 2
-    elif total <= 35:
-        bande, jetons = "11-35 — version réduite + une complication", 1
-    elif total <= 65:
-        bande, jetons = "36-65 — obtenu, à un prix (joué dans la prose)", 0
-    elif total <= 89:
-        bande, jetons = "66-89 — pleinement, sans prix", 0
+    # Table recalée le 2026-08-16 par le joueur : l'ancienne (10/35/65/89)
+    # faisait coûter 65 % des jets avant même les modificateurs, et ceux-ci
+    # tournaient tous en négatif. Pleins ou mieux : 50 %. Échec dur : 5 %.
+    if total <= 5:
+        bande, jetons = "01-05 — minimum vital de l'intention", 2
+    elif total <= 25:
+        bande, jetons = "06-25 — version réduite + une complication", 1
+    elif total <= 50:
+        bande, jetons = "26-50 — obtenu, à un prix (joué dans la prose)", 0
+    elif total <= 85:
+        bande, jetons = "51-85 — pleinement, sans prix", 0
     else:
-        bande, jetons = "90-100 — au-delà", 0
+        bande, jetons = "86-100 — au-delà", 0
 
     if naturel <= 10:
         porte = ("CATASTROPHE (naturel) — une porte NÉGATIVE s'ouvre ou "

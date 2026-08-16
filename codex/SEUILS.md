@@ -10,11 +10,13 @@
 
 | Total | Bande | Jetons |
 |---|---|---|
-| **01-10** | minimum vital | **+2** |
-| **11-35** | réduit + complication | **+1** |
-| **36-65** | obtenu, à un prix | — |
-| **66-89** | plein, sans prix | — |
-| **90-100** | au-delà | — |
+| **01-05** | minimum vital | **+2** |
+| **06-25** | réduit + complication | **+1** |
+| **26-50** | obtenu, à un prix | — |
+| **51-85** | plein, sans prix | — |
+| **86-100** | au-delà | — |
+
+*(Recalage tranché par le joueur le 2026-08-16. L'ancienne table faisait coûter **65 %** des jets, avant même les modificateurs — et ils tournaient tous en négatif. Pleins ou mieux : **50 %**. Échec dur : **5 %** au lieu de 10.)*
 
 - **Naturel `01-10`** → porte négative ouverte ou +1 cran. **Naturel `90-100`** → porte positive ouverte ou +1 cran. **Rien d'autre n'ouvre une porte.**
 - **Le total paie (jetons + bande). Le naturel ouvre (portes).**
@@ -28,6 +30,14 @@ petit **±5** · moyen **±10** · gros **±15/±20** · neutre **0**
 **⛔ LE MODIFICATEUR NE SE CALCULE JAMAIS SUR LA PUISSANCE DE L'ADVERSAIRE.** Le chiffre a déjà réglé la question de la force avant le jet. Étiqueter « désavantage » parce que la chose en face est grosse, c'est **du gonflement déguisé en dé** — la faute §15/§49 sous une autre forme *(§55 — détail à l'errata)*.
 
 Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure, aveuglement, nombre, surprise, un art inconnu, un poison, une formation — ou un axe où le chiffre ne sert à rien (**le Corps**).
+
+**⛔ LES AVANTAGES SE SERVENT AUTANT QUE LES DÉSAVANTAGES.** *(2026-08-16 — FAUTE : **zéro avantage en vingt-six scènes**, relevée par le joueur.)* La circonstance joue **dans les deux sens**. Un avantage est **dû** quand :
+- une **porte** s'applique à son domaine · un **art** sert ce pour quoi il est fait · un **équipement** adapté est employé ;
+- il agit sur un **terrain qu'il connaît** ou qu'il a préparé ;
+- **elle** agit avec lui — une seconde paire de mains, armée ;
+- il a l'**initiative**, la **surprise**, le **nombre**, ou un **allié qui pèse**.
+
+*Modéliser la difficulté sans jamais modéliser la préparation ne rend pas le jeu dur : ça le rend faux. Et l'étiquette annoncée est honorée dans les deux sens (§10).*
 
 **« Neutre » est le défaut, pas l'exception.** Ne pas empiler ±5 sur des enjeux distincts.
 **L'étiquette annoncée est honorée** : une option étiquetée neutre se jette à 0.
