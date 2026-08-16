@@ -103,6 +103,9 @@
 - **⛔ ON NE COMBINE PLUS.** Une option = un tag demandé. Fini les options qui portent trois axes.
 - **`bete` reste hors système** : une phrase sur elle dans **chaque** scène, inchangé — mais elle n'entre dans les choix que si le joueur demande le tag.
 - **Les étiquettes de jet, la ligne `mort` et l'interdiction de pronostic (§10) restent entières** sur chaque ligne de la liste.
+- **⛔ UNE LISTE N'EST PAS UN CATALOGUE DE BOUTIQUE** *(précision du joueur, 2026-08-16 : « l'équipement c'est pas que des achats, il me faut pouvoir trouver de l'extraordinaire sur de l'extraordinaire »)*. `POUSSIERE` §5 le dit déjà : **l'équipement qui évolue n'existe pas en boutique.** Une liste doit mêler les **cinq voies** :
+  **ce qui s'achète** (le courant, l'entrée de gamme, le consommable) · **ce qui se prend sur une bête** (§7 : chaque grosse pièce rend une matière que quelqu'un s'arrache) · **ce qui se trouve dans un lieu** (§6 : les chances rendent de la matière, pas de l'or) · **ce qui se gagne** (§8 : un rite ouvre une commande, un accès, une arme de maison) · **ce qui se vole**.
+  **L'extraordinaire se prend sur de l'extraordinaire.** Une arme qui compte ne sort pas d'un râtelier : elle sort de ce qu'on a tué, du lieu qu'on a vidé, ou du rite qu'on a gagné. *Le principe vaut pour tous les axes, pas seulement `equipement`.*
 
 ## D · PASSE DE CONTRÔLE AVANT ENVOI DU BLOC (§20)
 
