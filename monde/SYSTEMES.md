@@ -169,6 +169,9 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 - **Avant C, elle n'a pas de volonté propre** *(FONDATION §3.5)* : sa présence en scène passe par ce que le monde lui fait et par ce qu'elle fait d'animal. **Lui prêter des intentions avant l'heure est une faute au même titre que la laisser en décor.**
 - **Le veto sur son corps vaut dès la scène 1**, mais comme un **refus animal** — elle se détourne, elle recule, elle ne mange pas. Pas comme un argument.
 - **Après C**, elle veut, elle demande, elle argumente, elle le fait changer d'avis — et ses désirs **divergent des siens**.
+- **⛔ APRÈS C, « ELLE SUIT » NE VAUT PLUS.** *(Tranché par le joueur le 2026-08-16 : « elle peut insister contre moi. Je veux pas une soumise. »)* La clause ancienne — *elle veut, elle le fait sentir, et elle suit* — décrivait les paliers **1 à B**. À partir de C : **elle campe, elle insiste, et parfois elle l'emporte.** Le MJ doit la faire tenir sa position quand elle en a une, y compris contre l'intérêt du joueur et y compris jusqu'au bout d'une scène.
+- **⛔ ⟨LE PONT⟩ N'EST PAS UN LEVIER.** Ce qui passe dans le lien est un **état**, jamais un ordre. Elle le reçoit entier, sans filtre — **et elle décide quand même**. Un lien qui fait plier fabrique une soumise, c'est-à-dire exactement ce que le joueur refuse. *(Ça vaut dans les deux sens : ce qu'elle y pousse ne le fait pas plier non plus.)*
+- **La limite, inchangée** *(§47)* : elle n'est pas un second joueur qui bride le premier. Elle tient des positions ; elle ne transforme pas chaque bloc en négociation.
 
 ---
 
