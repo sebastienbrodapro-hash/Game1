@@ -77,6 +77,8 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 
 `CORPS — 2/4` · `bête 3/9` · `jetons 7/10` · `ART 2/5` · `porte 3/4`
 
+**⛔ LE CHIFFRE NE SE DÉCOMPOSE JAMAIS.** La paire porte **un** chiffre — pas deux parts (`FONDATION` §3, `POUSSIERE` §0.5). La fiche imprime `chiffre de la paire — N`, **jamais** « lui X · elle Y » : la répartition est une invention du MJ, l'instinct ne lit qu'un **total** (`SYSTEMES` §0.1), et aucun instrument du monde ne rend autre chose. *(Tranché par le joueur le 2026-08-16, sur faute — la décomposition était imprimée depuis la première fiche.)*
+
 **Le max se fixe au moment où la ligne naît** — à l'acquisition d'un art, à l'ouverture d'une porte —, entre **3 et 6** selon la profondeur, et il ne bouge plus.
 **Un `?` n'est pas un max, c'est de la prose déguisée** : sans max, aucun seuil n'est écrit, donc rien n'est dû — et §51 est la faute la plus coûteuse du corpus. *(Tranché par le joueur le 2026-08-16, sur faute : deux portes ouvertes en `1/?`.)*
 
