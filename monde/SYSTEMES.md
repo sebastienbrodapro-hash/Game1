@@ -177,6 +177,33 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 
 ---
 
+## 4bis · LES ALIGNEMENTS — deux axes, deux personnes
+
+*Tranché par le joueur le 2026-08-16. **Les axes de D&D ont été écartés sur sa demande, après recherche** : « loyal bon » et « chaotique mauvais » sont les deux archétypes qui cassent les parties — le paladin rigide et le murderhobo —, parce que les joueurs s'en servent comme d'un **ordre** au lieu d'une description. La littérature est unanime : l'alignement est un outil d'identité, **jamais une camisole**.*
+
+**Chacun des deux porte deux axes, notés `−5 … +5`. Aucun pôle n'est bon.**
+
+| | | |
+|---|---|---|
+| **AXE I** | `−5` **PRENDRE** ↔ `+5` **RENDRE** | le moteur de la paire (`FONDATION` §3.4) : il monte en prenant, elle existe en rendant. Ce n'est pas une morale, c'est une nature. |
+| **AXE II** | `−5` **LA MAIN** ↔ `+5` **LA RÈGLE** | obtient-il par le cadre — rites, contrats, mesures, files — ou par la main : prendre, forcer, contourner ? Dans un monde où tout se pèse, c'est la vraie question. |
+
+**État au 2026-08-16, scène 42 :**
+
+| | I · PRENDRE ↔ RENDRE | II · LA MAIN ↔ LA RÈGLE |
+|---|---|---|
+| **Seb** | **−3** | **+2** |
+| **Elle** | **+4** | **−2** |
+
+*Il prend tout **en respectant chaque règle du jeu** — il se présente à la pierre, monte les six cents marches, paie ses cinquante-deux pierres devant trois cents personnes. Elle donne tout **sans demander la permission à personne** — le grelot contre son avis, les pierres mortes sans consulter, la poussière mise dans les mains de deux gamins qu'elle a choisis seule. Attelés au même chiffre.*
+
+### 4bis.1 · Les règles
+
+- **Ça bouge d'UN POINT À LA FOIS, sur les actes marquants seulement.** Pas à chaque scène, pas sur une nuance.
+- **⛔ JAMAIS MORALISÉ EN SCÈNE** *(errata : « le noir n'est jamais moralisé »)*. Aucun PNJ ne fait la leçon, aucun narrateur ne juge. **Ça décrit, ça ne prescrit jamais** — c'est un relevé, comme le chiffre.
+- **⛔ ÇA NE FERME AUCUNE OPTION** *(§49)*. Ça teinte les réactions du monde, ça ouvre des voies (`POUSSIERE` §13), ça alimente leurs divergences. Rien de plus.
+- **L'axe `noir` du compteur** sert désormais **les options qui font pencher** — dans un sens ou dans l'autre, pour l'un ou pour l'autre.
+
 ## 5 · CE QUI RESTE À FIXER EN JEU
 
 - **Le nombre de crans du premier art** qu'il acquiert (3 à 6, selon sa profondeur — décidé à l'acquisition).

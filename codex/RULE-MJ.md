@@ -78,6 +78,32 @@
 
 ---
 
+## D.0 · LE FORMAT DES CHOIX — refonte du 2026-08-16
+
+*Tranché par le joueur après quarante-deux scènes de blocs mixtes : « j'ai dit que je voulais une arme et tu l'as choisie à ma place… on essaie de mettre en place des hooks mais ça marche pas trop et tu essaies trop de combiner ».*
+
+**LE BLOC DE QUATRE OPTIONS MIXTES EST SUPPRIMÉ.** À la place :
+
+1. La scène se termine sur **l'ÉTAT DES AXES** — les quatorze, avec leur retard en scènes — **plus une liste par défaut** dans un tag que le MJ propose.
+2. Le joueur répond par **un tag, deux au maximum**. Il change de tag librement.
+3. Le MJ déroule une **liste d'options dans ce ou ces tags SEULS**, en nombre fonction de la rareté, et **seulement ce qui est accessible d'où il est**.
+4. Le joueur choisit dedans.
+
+| axe | options | axe | options |
+|---|---|---|---|
+| `equipement` | **10** | `corps` | 5 |
+| `marchandage` | 8 | `reclusion` | 5 |
+| `art` | 8 | `bete` | 5 |
+| `mesure` | 6 | `noir` | 4 |
+| `arrogance` | 6 | `sortie_plan` | 4 |
+| `chance` | 6 | `atout` | 3 |
+| `rite` | 6 | `grosse_piece` | **3** |
+
+- **⛔ LE MJ NE CHOISIT JAMAIS DANS UN AXE À LA PLACE DU JOUEUR.** Il demande une arme → on liste **dix armes**. On n'en désigne pas une.
+- **⛔ ON NE COMBINE PLUS.** Une option = un tag demandé. Fini les options qui portent trois axes.
+- **`bete` reste hors système** : une phrase sur elle dans **chaque** scène, inchangé — mais elle n'entre dans les choix que si le joueur demande le tag.
+- **Les étiquettes de jet, la ligne `mort` et l'interdiction de pronostic (§10) restent entières** sur chaque ligne de la liste.
+
 ## D · PASSE DE CONTRÔLE AVANT ENVOI DU BLOC (§20)
 
 **SILENCIEUSE — jamais rendue à l'écran** (§36). Le MJ la passe en tête ; **rien ne s'affiche sous le bloc.** Le bloc se termine sur sa dernière option.
