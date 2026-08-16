@@ -133,6 +133,18 @@ Le psy a relevé la tension : le palier **C** (elle veut, elle argumente) tombe 
 
 > **§3.5 PRIME SUR §3.4 ET SUR §3** *(c'est la décision la plus récente du joueur, et le palier C tombe désormais vers la scène 25-40)*. Partout où un texte plus ancien prête à la compagne une volonté « dès l'origine », c'est §3.5 qui gagne. **La seule chose qu'elle refuse avant C, c'est ce qu'on veut faire de son corps** (§47) — un refus animal, pas un argument.
 
+## 2bis · LA PUISSANCE — Corps + Qi, et les arts en dehors
+
+*Tranché par le joueur le 2026-08-16 : « le corps et la puissance sont liés. Un corps fort sans qi vs un qi fort sans corps peuvent être égaux, et l'ensemble des 2 fait la puissance. Juste les compétences peuvent donner de la puissance invisible. »*
+
+**Le chiffre d'un être est la somme de son CORPS et de son QI.** Deux réservoirs distincts qui s'additionnent : un lutteur au corps de bronze sans une goutte de qi pèse autant qu'un disciple frêle qui a passé dix ans assis. **Le chiffre ne dit pas lequel est lequel.**
+
+- **Aucun instrument ne rend la composition** — et **l'instinct de Seb non plus** : il lit le total exact, jamais la répartition. Le seul terrain où son don ne le dispense pas de regarder.
+- **Les arts ne comptent nulle part** : c'est de la **puissance invisible**. Un homme à 3 000 qui connaît un art inconnu bat un homme à 5 000 qui n'en a aucun, et rien ne l'avait annoncé.
+- **Pour Seb** : sa part de qi est nulle. Tout ce qu'il pèse vient du **corps** et de ce qui lui est **donné** — un être bâti à l'exact inverse de tout le monde, dans un monde qui ne mesure que des sommes.
+
+**Le détail des systèmes est dans `monde/SYSTEMES.md`** : le Corps et ses cinq grades, les arts et leurs crans, les portes et leur démarrage à zéro, les trois déclencheurs de son esprit.
+
 ## 3ter · LA DURÉE D'UNE CHASSE — 1 à 5 scènes
 
 *Tranché par le joueur le 2026-08-16, sur défaut relevé en audit.*
