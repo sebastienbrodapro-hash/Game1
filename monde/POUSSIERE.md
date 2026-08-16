@@ -521,7 +521,7 @@ Cœurs, moelles, sèves, gelées, écailles, mues : **tout ce qui a porté un ch
 
 **Joris · Alban · Rémi · Colin · Elio · Côme · Oscar · Milo · Sacha · Marthe · Ysée · Maël · Léna · Tessa · Noa**
 
-*(Réserve vérifiée contre le registre `MJ-CASTING` §0 le 2026-08-16 : aucun prénom de Terre, aucun prénom v2 — deux collisions retirées ce jour-là.)*
+*(Réserve vérifiée le 2026-08-16 contre le registre de la campagne close — `archive/creuset/MJ-CASTING.md` §0 : aucun prénom de Terre, aucun prénom v2, deux collisions retirées ce jour-là. **C'est cette liste-ci qui fait registre désormais** : un prénom attribué s'y raye, et un nom nouveau s'y ajoute.)*
 
 ---
 

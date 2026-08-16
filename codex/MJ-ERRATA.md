@@ -2,7 +2,8 @@
 
 > ⛔ **JOUEUR : NE PAS LIRE** — aucun secret dedans (ouvrable devant lui sans dommage), mais c'est l'outillage du MJ.
 > **Se lit SUR ÉVÉNEMENT depuis le 2026-08-15** : contestation du joueur (« on vérifie dans le fichier »), point MJ, rédaction ou vérification d'une règle. **Plus en lecture de séance** — la conduite vit dans `RULE-MJ.md`, les nombres dans `SEUILS.md` ; ce fichier est la référence : qui a décidé quoi, quand, pourquoi, avec les mots du joueur.
-> Quand une session le charge, le coffre se lit par **`MJ-SECRETS-VUE.md`** — jamais la source.
+> **Ce fichier a survécu à la clôture du Creuset** : il enregistre des règles de conduite, pas un monde. Les entrées qui décrivaient le monde du Creuset sont marquées comme telles. L'état de cette campagne, lui, est archivé dans `archive/creuset/`.
+> Quand une session charge un coffre, elle le lit par sa **vue expurgée** — jamais la source : `monde/TRONC-VUE.md` pour la campagne courante.
 > **Consolidé le 2026-08-15 sur directive du joueur** (« cinq fois la même erreur, c'est inutile ») : mêmes numéros **§1-§55**, regroupés par familles, chaque entrée réduite à la faute, la décision et la citation qui tranche. Les versions longues restent lisibles dans l'historique git (jusqu'au tag `codex-024`).
 
 ---
@@ -114,7 +115,7 @@
 
 ## J · LE CASTING
 
-- **§6 · Un seul nom nouveau par scène** *(2026-08-11)* — et seulement si le personnage agit. Prénoms occidentaux, courts, sans doublon ; « Fabien » et « le grand maigre » dé-nommés. Registre des noms : `MJ-CASTING` §0, vérifié avant de nommer quoi que ce soit.
+- **§6 · Un seul nom nouveau par scène** *(2026-08-11)* — et seulement si le personnage agit. Prénoms occidentaux, courts, sans doublon ; « Fabien » et « le grand maigre » dé-nommés. Registre des noms, vérifié avant de nommer quoi que ce soit : `monde/POUSSIERE.md` §14 pour la campagne courante *(`archive/creuset/MJ-CASTING.md` §0 pour le Creuset)*.
 - **§17 · Un PNJ récurrent qui ne fait qu'observer est un décor** *(2026-08-12 — FAUTE, « Margot fade »)* — volonté propre **visible** : parler, vouloir, demander, refuser, proposer, **agir**. Vaut pour tout le casting ; les femmes ont une volonté propre.
 
 ## K · LE MÉTA ET LE GIT

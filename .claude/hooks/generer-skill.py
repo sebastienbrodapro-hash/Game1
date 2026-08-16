@@ -1,20 +1,22 @@
 #!/usr/bin/env python3
-"""generer-skill.py — refabrique le skill `creuset` depuis le dépôt.
+"""⛔ NEUTRALISÉ — generer-skill.py fabriquait le skill `creuset`.
 
-Source unique (le dépôt gagne toujours) :
-  codex/SKILL-FRONT.md  — frontmatter + protocole du skill (placeholder {{STAMP}})
-  codex/RULE-MJ.md      — la carte de conduite, copiée VERBATIM (aucune reformulation)
-  codex/SEUILS.md       — copié OCTET POUR OCTET vers references/SEUILS.md
+**Le skill `creuset` appartient à la campagne close** (Le Creuset, scène 299).
+Le relancer réinstallerait dans `~/.claude/skills/creuset/` un skill qui se
+déclenche sur le vocabulaire de la campagne courante — Seb, la bête, un cran,
+une porte, un jet, un bloc, un codex — et qui y injecte des règles mortes :
+l'échelle en six crans de l'ancienne bête, le Masque, les grades de Corps du
+Creuset, un protocole de lecture qui pointe vers `archive/`.
 
-Sortie :
-  1. INSTALLATION DIRECTE dans ~/.claude/skills/creuset/ — c'est ça, le skill,
-     actif pour toutes les sessions Claude Code locales dès la génération.
-  2. build/creuset.zip — l'artefact d'upload pour l'app claude.ai (sessions
-     mobiles/connecteur), qui ne lit pas le disque local.
-N'imprime que des comptes.
+C'est exactement la faute que l'archivage du 2026-08-16 supprime. **Le script
+refuse donc de tourner** : il n'est conservé que pour l'histoire du dépôt.
 
-Un générateur qui reformule fabrique un troisième texte que personne ne relit —
-celui-ci copie, estampille, et c'est tout.
+Si un jour la campagne courante veut son propre skill, ce sera un autre
+générateur, avec son propre frontmatter — pas celui-ci.
+
+Sources d'origine (déplacées) : `archive/creuset/SKILL-FRONT.md`,
+`archive/creuset/codexcreuset.md`, `archive/creuset/INDEX.md`.
+Sources restées vivantes : `codex/RULE-MJ.md`, `codex/SEUILS.md`.
 """
 import re
 import sys
@@ -23,9 +25,10 @@ from datetime import date
 from pathlib import Path
 
 RACINE = Path(__file__).resolve().parents[2]
-CODEX = RACINE / "codexcreuset.md"
-INDEX = RACINE / "codex" / "INDEX.md"
-FRONT = RACINE / "codex" / "SKILL-FRONT.md"
+ARCHIVE = RACINE / "archive" / "creuset"
+CODEX = ARCHIVE / "codexcreuset.md"
+INDEX = ARCHIVE / "INDEX.md"
+FRONT = ARCHIVE / "SKILL-FRONT.md"
 RULE = RACINE / "codex" / "RULE-MJ.md"
 SEUILS = RACINE / "codex" / "SEUILS.md"
 BUILD = RACINE / "build" / "skill-creuset"
@@ -49,6 +52,14 @@ def main() -> None:
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     except AttributeError:
         pass
+
+    print(
+        "NEUTRALISÉ — le skill `creuset` appartient à la campagne close.\n"
+        "Le régénérer réinstallerait des règles mortes qui se déclenchent sur\n"
+        "le vocabulaire de la campagne courante. Voir l'en-tête du fichier.",
+        file=sys.stderr,
+    )
+    sys.exit(1)
 
     stamp = estampille()
     front = FRONT.read_text(encoding="utf-8").replace("{{STAMP}}", stamp)
