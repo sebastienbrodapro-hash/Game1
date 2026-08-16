@@ -5,7 +5,7 @@
 > Écrit le **2026-08-15** — **strate I, avant la scène 1**.
 > Dimensionné pour **~150 scènes**, jitter du compteur d'axes **−20 %** compris : les stocks ci-dessous couvrent le pire tirage de chaque cadence.
 > Ce fichier est le **garde-manger des 15 axes** (`.claude/hooks/axes.py`). L'index de service est en **§16** — un MJ en séance doit y trouver en dix secondes.
-> **Aucun tronc dedans — mais un tronc viendra** : il s'écrit **avant la scène 1, côté MJ, et il reste révisable** (décision du joueur : « une grosse partie avant, mais qui peut évoluer » — contrairement à l'ancien monde, où le tronc était intouchable). Les fonds marqués *(non fixé — réserve d'histoire)* en sont la matière première.
+> **Aucun tronc dedans — le tronc vit dans `monde/TRONC.md`** (coffre MJ, révisable — décision du joueur : « une grosse partie avant, mais qui peut évoluer »). **Les anciennes « réserves d'histoire » sont annulées comme trous d'intrigue** (recadrage joueur, 2026-08-16) : régime coupe nette, voir §15.
 > **Les cinq choix de goût ont été soumis au joueur et validés le 2026-08-15** : le registre des noms (français poétique traduit), le sacré (deux couches, **dosé léger**), la lecture du familier-proie (pire que rien), le pont de l'âme (reconduit), l'ancrage de Seb (la halle).
 
 ---
@@ -50,7 +50,7 @@ Pas de registres, pas de teneurs de livres, pas d'archives de poids. **Ce qui se
 
 ### 0.7 · La montée — le seuil et ses quatre noms
 
-Il existe un seuil physique entre la Poussière et ce qui est au-dessus, **et quelque chose le tient** *(où, quoi, comment : non fixé — réserve d'histoire)*. Personne d'en bas n'a vu ce qui se passe réellement. Ceux qui disparaissent vers le haut, on les appelle selon la vallée : **les Redescendus, les Effacés, les Visions des mourants, le débordement** — quatre noms pour la même observation. Les sommets en parlent peu, et jamais aux pierres.
+Il existe un seuil physique entre la Poussière et ce qui est au-dessus, **et quelque chose le tient**. Personne d'en bas n'a vu ce qui se passe réellement. Ceux qui disparaissent vers le haut, on les appelle selon la vallée : **les Redescendus, les Effacés, les Visions des mourants, le débordement** — quatre noms pour la même observation. Les sommets en parlent peu, et jamais aux pierres.
 
 ### 0.8 · Le sacré *(canon — validé par le joueur le 2026-08-15 : « tant que ça reste dans le xianxia ça me va mais force pas trop »)*
 
@@ -58,7 +58,7 @@ Il existe un seuil physique entre la Poussière et ce qui est au-dessus, **et qu
 
 Deux couches, la jeune posée sur la vieille :
 - **Le Ciel qui pèse** — le culte populaire, simple et partout : le Ciel pèse toute chose, les pierres d'éveil sont ses doigts, les temples sont des maisons de la pesée. On y fait crier les naissances, les rites, les morts. Dictons : *« Le Ciel pèse juste. » · « Ce qui monte a payé. »*
-- **Les vieux autels** — d'avant le culte, à demi effacés, aux cols et dans les combes. Plus personne ne sait les lire ; le cloître (§2.6) les entretient **sans les prier**. Les images qui y survivent ne correspondent à rien de connu *(ce qu'elles montrent : voir §15)*.
+- **Les vieux autels** — d'avant le culte, à demi effacés, aux cols et dans les combes. Plus personne ne sait les lire ; le cloître (§2.6) les entretient **sans les prier**. Les images qui y survivent ne correspondent à rien de connu.
 
 ### 0.9 · Le nom de la strate
 
@@ -93,7 +93,7 @@ Personne ici ne dit vivre « dans la Poussière ». On dit **le monde**, ou **so
 **Le compte boucle** — sur mille adultes : ~914 du commun · ~50 pratiquants · ~33 restés vides · ~3 confirmés et au-dessus. Les fermés, eux, se comptent par génération, pas par millier.
 
 **Les preuves dans le paysage** — ce que fait un sommet, tout le monde l'a vu :
-- **Le Trait** : la falaise au-dessus du bourg de départ, **tranchée net sur trois cents pas de haut**, polie comme un miroir. Œuvre de **l'Arpenteur**, il y a trois cents ans, en un geste *(ce qu'il est devenu : voir §15)*. On montre le Trait aux enfants : *« ça, c'est ce que pèse cent mille. »*
+- **Le Trait** : la falaise au-dessus du bourg de départ, **tranchée net sur trois cents pas de haut**, polie comme un miroir. Œuvre de **l'Arpenteur**, il y a trois cents ans, en un geste. On montre le Trait aux enfants : *« ça, c'est ce que pèse cent mille. »*
 - **La digue de Sept-Bannières** : fendue d'un doigt par **la Dame** il y a vingt ans, pour saigner une crue. La fente est droite comme une règle ; les vieux du bourg y étaient.
 
 **Les sommets vivants de la strate** *(visages-fonctions, jamais nommés)* :
@@ -168,7 +168,7 @@ Ce que ça lui a donné, et que personne n'a remarqué :
 | **le col du Vieux Sel** | 1 jour, montée | la route du sel, le **cloître des Cendres-Vieilles** (moines-gardiens des vieux autels, §0.8, §10.6), le Vieux Crapaud terré (§7.5) |
 | **le hameau brûlé** | 1 jour | ruines d'un feu d'il y a dix ans ; le Coq de Minuit (§7.3) |
 | **la forêt d'Encre** | 2 jours, rive gauche | terres de la **secte du Fleuve d'Encre** — formations, calligraphie de force, robes noir et blanc ; le Cerf (§7.6) |
-| **Sept-Bannières** | 2 jours de barge | **la ville** : dix mille feux, l'arène, les grandes enchères, la pierre haute, la Dame. Sept hampes à la porte d'eau — six bannières ; **la septième hampe est vide** *(voir §15)* |
+| **Sept-Bannières** | 2 jours de barge | **la ville** : dix mille feux, l'arène, les grandes enchères, la pierre haute, la Dame. Sept hampes à la porte d'eau — six bannières ; **la septième hampe est vide** |
 | **la secte de la Lance Levée** | 3 jours, pic de l'est | corps et lances, monastère-forteresse ; le Tripode de la Porte (§8.1) ; la chambre scellée qui se loue (§10.4) |
 | **le tarn de Givre** | 3 jours, haut pays | le Héron (§7.10) |
 | **les Vieilles Mines** | 4 jours, lande de l'est | galeries mortes, la Truie de Fer (§7.9) |
@@ -223,7 +223,7 @@ La partition de la salle, dans l'ordre :
 5. **Le surnom** — la cohorte en aura un avant le soir : **« Civet »**, ou **« la Marmite »**, ou **« Deux-Mailles »** (le prix qu'un boucher criera au marché, §11). Le MJ en fixe un en scène, il collera.
 6. **La pierre** — la paire traverse le parvis sous le silence. **Ce que rend la pierre d'éveil sur cette paire-là se joue en scène 1** — le canon n'impose que le dispositif, pas le résultat.
 
-**Le fond ancien** *(côté MJ seulement)* : sur deux des vieux autels du col, parmi les images à demi effacées, il y a **un lièvre debout dans un rond** — dressé, tenant quelque chose à deux pattes, quelque chose d'usé que la pierre ne dit plus. Les moines l'appellent « le lièvre à la lune » sans savoir pourquoi. Personne au bourg n'a jamais fait le rapprochement, et il n'y a aucune raison que ça change vite *(ce que l'image montre vraiment : non fixé — réserve d'histoire)*.
+**Le fond ancien** *(côté MJ seulement)* : sur deux des vieux autels du col, parmi les images à demi effacées, il y a **un lièvre debout dans un rond** — dressé, tenant quelque chose à deux pattes, quelque chose d'usé que la pierre ne dit plus. Les moines l'appellent « le lièvre à la lune » sans savoir pourquoi. Personne au bourg n'a jamais fait le rapprochement, et il n'y a aucune raison que ça change vite.
 
 ---
 
@@ -309,7 +309,7 @@ Cœurs, moelles, sèves, gelées, écailles, mues : **tout ce qui a porté un ch
 
 ## 5 · L'ÉQUIPEMENT — 21 OBJETS
 
-*Réels, utiles, désirables — du prix d'un manteau au prix d'une maison de secte. **L'équipement qui évolue n'existe pas en boutique** : on raconte qu'il existe, dans toute la strate, trois objets qui grandissent — personne n'en a vu un *(non fixé — réserve d'histoire)*.*
+*Réels, utiles, désirables — du prix d'un manteau au prix d'une maison de secte. **L'équipement qui évolue n'existe pas en boutique** : on raconte qu'il existe, dans toute la strate, trois objets qui grandissent — personne n'en a vu un.*
 
 | # | Objet | Ce que c'est | Prix / voie |
 |---|---|---|---|
@@ -348,11 +348,11 @@ Cœurs, moelles, sèves, gelées, écailles, mues : **tout ce qui a porté un ch
 5. **Le Champ de Foudre** — le plateau où les orages nichent. Tenir un orage debout : trempe rare — et la foudre grave parfois ce qu'elle touche. Mord : **ligne mort**, simple et vraie. Les bergers parient de loin.
 6. **La Fosse aux Racines** — sous la futaie de l'adret, **une demi-journée du bourg** : les racines du Grand Arbre mort — il portait des cloches, disent les vieux — boivent encore, et son bois de cœur **sonne comme du bronze**. En détacher : matière noble des graveurs et des luthiers. Mord : les bêtes qui tiennent la futaie pour leur temple, et la futaie qui tourne — on ressort ailleurs qu'on est entré.
 7. **La Corne du Col** — une corne de bronze prise dans le roc, plus vieille que la route. Qui souffle dedans appelle — **ce qui répond est à la mesure du souffle**. Mord : ce qui répond. Le cloître interdit d'en jouer ; il y a des tombes au pied.
-8. **Les Trois Jarres du Gué Noyé** — sous le bief, un sanctuaire englouti, trois jarres scellées visibles à l'étiage. Les ouvrir : des offrandes d'avant le culte, chargées d'âge. Mord : l'apnée, la Carpe-Mère, et le sacrilège — le temple paierait pour savoir qui. *(Ce qu'il y a dans la troisième : non fixé — réserve d'histoire.)*
+8. **Les Trois Jarres du Gué Noyé** — sous le bief, un sanctuaire englouti, trois jarres scellées visibles à l'étiage. Les ouvrir : des offrandes d'avant le culte, chargées d'âge. Mord : l'apnée, la Carpe-Mère, et le sacrilège — le temple paierait pour savoir qui.
 9. **Le Four des Tuiliers** — la grande cuisson d'hiver, sept jours de feu continu. Entrer se paie : on tient la chambre de chauffe **avec** les tuiles. Trempe sèche, brûlures franches. Le maître-tuilier laisse entrer qui stoke — c'est sa seule morale.
 10. **Les Écailles du Trait** — la falaise tranchée s'écaille, rarement : des lamelles de pierre vitrifiée par le geste d'il y a trois cents ans — matière de premier ordre. Mord : trois cents pas de paroi-miroir sans prise. Le bourg tient le Trait pour un monument : on grimpe de nuit ou on assume.
 11. **La Passe des Migrateurs** — chaque automne, des oies d'esprit passent le col de nuit, haut et en formation. En prendre une : viande et duvet chargés. Mord : elles défendent — les oies sont féroces, celles-ci pèsent — et le col de nuit n'est jamais vide.
-12. **Le Puits Sec** — le neuvième puits. En bas, un froid qui n'est pas de saison et un noir qui mange les torches. Descendre et tenir : trempe froide, et des glaces noires qu'on remonte comme matière. Mord : la remontée. *(Ce qu'il y a sous le fond : non fixé — réserve d'histoire.)*
+12. **Le Puits Sec** — le neuvième puits. En bas, un froid qui n'est pas de saison et un noir qui mange les torches. Descendre et tenir : trempe froide, et des glaces noires qu'on remonte comme matière. Mord : la remontée.
 13. **La Tanière Vide** — la caverne du vieil ours, **combe du versant est, un jour de marche** : son tas y est toujours, dit-on, car il est mort dehors. « Vide » est une rumeur ; il y a des allées et venues. Mord : les autres preneurs, armés — et ce qui s'y est installé depuis.
 14. **La Saignée du Vieux Pin** — le pin millénaire du versant saigne une résine d'ambre **une semaine par décennie**. La décennie arrive. Mord : le cloître le revendique, un essaim l'habite, et la semaine exacte ne s'annonce pas.
 15. **Le Jeu du Passeur** — le passeur (58, quarante ans de rivière) tient un vieux pari : tenir sa perche dans le passage des rapides, aller-retour. Qui tient choisit dans son coffre — quarante ans de choses repêchées sous les noyés. Qui lâche lui doit une saison de rame. Mord : les rapides, et la saison.
@@ -376,10 +376,10 @@ Cœurs, moelles, sèves, gelées, écailles, mues : **tout ce qui a porté un ch
 9. **La Truie de Fer** — **47 200** — les Vieilles Mines. Protégée par : elle **mange les outils** — talismans, fanions, gravures s'éteignent à cent pas et finissent dans son ventre ; on vient à elle nu de tout ce qui rassure.
 10. **Le Héron de Givre** — **58 900** — le tarn du haut pays. Protégé par : il ne se bat que **sur sa glace**, qu'il amincit sous les pas de l'autre — et le froid éteint les souffles courts avant le premier échange.
 11. **La Renarde aux Cent Visages** — **72 500** — terrée dans le vieux quartier effondré, sous Sept-Bannières. On lui prête neuf queues ; personne n'en a compté plus de trois sans se réveiller ailleurs. Protégée par : ses visages — elle marche la ville **en gens** : l'épicière, le garde, l'enfant. La frapper, c'est d'abord jurer qu'on sait qui elle est. Rend : une fourrure qui ment encore, et des queues qui valent chacune une fortune.
-12. **Le Bœuf qui Porte la Colline** — **91 400** — la plaine d'aval. Protégé par : la colline sur son dos est **habitée** — un hameau y vit, qui sait, et qui défend sa maison *(ce que le hameau fait de lui : non fixé — réserve d'histoire)*.
+12. **Le Bœuf qui Porte la Colline** — **91 400** — la plaine d'aval. Protégé par : la colline sur son dos est **habitée** — un hameau y vit, qui sait, et qui défend sa maison.
 13. **La Grue du Vieux Feu** — **103 000** — **au-dessus du sommet humain.** Terrée au fond du cratère d'un volcan mort, à des jours au-delà de la Combe Blanche ; on ne l'a pas vue voler de mémoire de secte. Protégée par : son ciel — elle ne touche jamais terre, le cratère n'offre aucun appui (la cendre y coule comme l'eau), et son vent d'ailes éteint les images des arts. Rend : des plumes de feu froid, matière de légende.
 14. **Le Tigre de Chaux** — **117 000** — la Combe Blanche. **Au-dessus du sommet humain.** Protégé par : son territoire décolore tout — les arts y perdent leurs images, les couleurs s'éteignent, les formations pâlissent. On se bat en blanc sur blanc, à l'ancienne.
-15. **Ce qui Dort sous l'Étang-Miroir** — **158 000** — les Monts d'Ouest. **D'avant les pierres.** Protégé par : l'étang rend un reflet exact, **et le reflet frappe le premier**. Personne n'a jamais vu le corps — on ne connaît que le reflet. *(Sa nature : non fixé — réserve d'histoire.)*
+15. **Ce qui Dort sous l'Étang-Miroir** — **158 000** — les Monts d'Ouest. **D'avant les pierres.** Protégé par : l'étang rend un reflet exact, **et le reflet frappe le premier**. Personne n'a jamais vu le corps — on ne connaît que le reflet.
 
 ---
 
@@ -439,7 +439,7 @@ Cœurs, moelles, sèves, gelées, écailles, mues : **tout ce qui a porté un ch
 16. **L'appel des quinze-ans** — à la foire, le crieur redonne les bandes et les bêtes du printemps, cohorte par cohorte, de mémoire. Toute la vallée compare.
 17. **La lanterne du Gué** — la vieille lanterne de la salle commune baisse, dit-on, devant ce qui ne pèse pas. Trucage d'aubergiste ou vraie relique — le bourg y croit, c'est tout ce qui compte.
 18. **Le portier des enchères** — entrée 5 pierres, **franche pour les pourpres et au-dessus** : il jauge à l'œil, publiquement, et son pouce vaut sentence.
-19. **La borne du carrefour** — la pierre morte où l'on s'assoit : elle n'a rien lu de mémoire d'homme. On y pose les sacs. *(Pourquoi elle s'est tue : non fixé — réserve d'histoire.)*
+19. **La borne du carrefour** — la pierre morte où l'on s'assoit : elle n'a rien lu de mémoire d'homme. On y pose les sacs.
 20. **Le banc des paris** — à l'arène et aux foires, les preneurs de paris affichent leurs cotes à la craie : une cote est une lecture publique — fausse souvent, cruelle toujours, et elle se crie.
 21. **Les trois files des recruteurs** — aux foires d'automne, les petites sectes trient les candidats **à vue**, avant toute épreuve : trois files, et c'est un regard qui vous range. Se tromper de file coûte cher aux deux.
 22. **Le salut de la route** — le code est ancien : le plus léger cède le pas, les caravanes se saluent à l'étoffe. Chaque croisement est une pesée silencieuse — et céder le pas à plus léger que soi est une insulte qui se raconte.
@@ -509,7 +509,7 @@ Cœurs, moelles, sèves, gelées, écailles, mues : **tout ce qui a porté un ch
 
 *Le sale n'est jamais une texture : il a un nom, des praticiens, et le dégoût unanime des gens ordinaires. Préexistant — aucune n'attend Seb.*
 
-1. **Les Brise-Liens** — casser le familier pour tuer le porteur : l'assassinat double, l'arme des lâches d'en haut. Hors-la-loi partout, engagés quand même. *(Qui les paie dans la vallée : non fixé — réserve d'histoire.)*
+1. **Les Brise-Liens** — casser le familier pour tuer le porteur : l'assassinat double, l'arme des lâches d'en haut. Hors-la-loi partout, engagés quand même.
 2. **Le Fourneau de Chair** — la pilule tirée de l'homme ou du familier lié. Le Pavillon brûle les praticiens **et leurs clients** ; les enchères elles-mêmes n'en touchent pas. Il en circule pourtant.
 3. **La Voie du Gavage** — se gaver de cœurs crus, sans raffinage : monter vite, brûler tout. Les gaveurs se reconnaissent aux veines noires du cou ; on crache derrière leur passage. C'est la voie de la hâte — et le monde est plein de gens pressés.
 
@@ -525,21 +525,11 @@ Cœurs, moelles, sèves, gelées, écailles, mues : **tout ce qui a porté un ch
 
 ---
 
-## 15 · LES PROFONDEURS — *(non fixé — réserve d'histoire)*
+## 15 · COUPE NETTE — *(recadrage joueur, 2026-08-16)*
 
-*Le **tronc** de cette campagne s'écrit **avant la scène 1, côté MJ — et il reste révisable** (décision du joueur : « une grosse partie avant, mais qui peut évoluer » ; l'ancien tronc, lui, était intouchable). Les onze fonds ci-dessous sont sa matière première — aucun n'a de réponse aujourd'hui, et rien dans le reste du fichier n'en dépend.*
+*Les onze « réserves d'histoire » qui vivaient ici sont **annulées comme trous d'intrigue** — le joueur a tranché : « je veux une succession de choses que j'aime », « j'aime les découvertes, juste pas que ça traîne et des énigmes à la con ». Le tronc (`monde/TRONC.md`, coffre MJ) porte un socle, des jalons courts et une destination — **rien dans ce fichier n'est un fil à tirer.***
 
-- **Ce qui tient le seuil** entre la Poussière et le Verger (§0.7).
-- **Ce que montre vraiment** le lièvre à la lune des vieux autels (§3.3).
-- **Ce qu'il y a dans la troisième jarre** du Gué Noyé (§6.8).
-- **Ce qu'il y a sous le fond** du Puits Sec (§6.12).
-- **Pourquoi la borne du carrefour s'est tue** (§9.19).
-- **À qui était la septième bannière** de Sept-Bannières (§2.6).
-- **Ce que le hameau fait du Bœuf** qu'il habite (§7.12).
-- **La nature de ce qui dort** sous l'Étang-Miroir (§7.15).
-- **Ce qu'est devenu l'Arpenteur** après le Trait (§1).
-- **Qui paie les Brise-Liens** dans la vallée (§13.1).
-- **Les trois objets qui grandissent**, dont personne n'a jamais vu un seul (§5).
+*Régime **coupe nette** (errata §31.1), définitivement, pour tout ce qui intriguait ici : le seuil et ses quatre noms · le lièvre des vieux autels · les jarres du Gué Noyé · le fond du Puits Sec · la borne muette · la septième hampe · le hameau du Bœuf · l'Étang-Miroir · l'Arpenteur · qui engage les Brise-Liens · les trois objets des contes. **Du décor signifiant** : ça ne produit ni scène, ni bloc, ni horloge, et aucune bouche n'en fera une question à résoudre. Si l'un de ces décors sert un jour, c'est comme théâtre d'une prise, d'une montée, d'une domination ou d'une bascule d'elle — jamais comme mystère. Les découvertes de la campagne sont rares, centrales, et vivent au tronc.*
 
 ---
 
