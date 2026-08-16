@@ -1,8 +1,8 @@
 # SEUILS — LES NOMBRES, RIEN D'AUTRE
 
 > **Relu avant chaque réponse.** Une demi-page exprès : si ce fichier grossit, il ne sert plus à rien.
-> Aucune prose, aucun secret, aucun état de partie — **que des invariants**. L'état courant est au codex §4.
-> **Miroir** : le skill `creuset` en embarque une copie **octet pour octet** (`references/SEUILS.md`), refaite à chaque `codex` par `generer-skill.py`. **En cas de divergence, GitHub gagne.**
+> Aucune prose, aucun secret, aucun état de partie — **que des invariants**.
+> *(Le miroir dans le skill `creuset` est retiré le 2026-08-16 : le skill est celui de la campagne close, sa copie embarquée avait divergé de 33 lignes, et une déclaration de miroir fausse est pire que pas de miroir du tout.)*
 
 ---
 
@@ -56,7 +56,7 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 
 `CORPS — 2/4` · `bête 3/9` · `jetons 9/15` · `ART 2/?` · `porte 3/?`
 
-*Exemples **inventés et figés** — l'état courant vit au codex §4, jamais ici (§54 : le pourquoi est à l'errata).*
+*Exemples **inventés et figés** — l'état courant vit sur la fiche de séance, jamais ici (§54 : le pourquoi est à l'errata).*
 
 ## `!` — LE CARACTÈRE DU JOUEUR
 

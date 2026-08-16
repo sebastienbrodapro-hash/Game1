@@ -54,7 +54,9 @@ Ce que les gens d'en bas appellent *les Redescendus, les Effacés, les Visions d
 
 **Un seul chiffre pour la paire.** Ce que l'un gagne, l'autre le porte.
 
-**Ce qui reste acquis de l'ancienne campagne** *(règles, pas événements)* : elle a une volonté propre — elle veut, refuse, conteste ; **son corps est son domaine**, ce qu'elle devient ne se négocie pas ; **aucune créance, aucun prélèvement, jamais** ; elle n'est **jamais du décor** (le hook la compte à chaque scène) ; description franche, anthropomorphe assumé ; **aucune romance avant la majorité de Seb**.
+**Ce qui reste acquis de l'ancienne campagne** *(règles, pas événements)* : **son corps est son domaine**, ce qu'elle devient ne se négocie pas — **dès l'origine, et sans attendre aucun palier** ; **aucune créance, aucun prélèvement, jamais** ; elle n'est **jamais du décor** (le hook la compte à chaque scène) ; description franche, anthropomorphe assumé ; **aucune romance avant la majorité de Seb**.
+
+**Ce qui n'est PAS acquis d'entrée : la volonté.** Elle *aura* une volonté propre — elle voudra, refusera, contestera — mais **à partir du palier C**, pas avant (§3.5). Le veto sur son corps n'est pas une volonté : c'est un refus animal, et il vaut dès la scène 1.
 
 ### 3.1 · L'échelle — corps et esprit, entrelacés
 
@@ -64,13 +66,15 @@ Ce que les gens d'en bas appellent *les Redescendus, les Effacés, les Visions d
 |---|---|---|---|---|
 | **1** | **LE LAPEREAU** | animal | — | Trente centimètres, quatre pattes, tient dans une main. Personne n'est impressionné. |
 | **A** | **ELLE COMPREND** | — | — | Elle réagit à ce qu'il **dit**, pas à son ton. Préférences visibles. Elle refuse en se détournant. |
-| **2** | **LA TAILLE** | ~40 % | ~10 ans | Elle grandit jusqu'à un enfant, se dresse sur les pattes arrière, s'assied comme on s'assied. |
-| **3** | **LES MAINS** | ~60 % | ~14 ans | Vraies mains. Elle prend, elle tient, elle **rend**. Bipède la plupart du temps. |
+| **2** | **DEBOUT** | ~40 % | ~10 ans | Elle grandit jusqu'à un enfant. **Torse vertical, épaules, bras** — mais des pattes au bout. C'est aussi là qu'apparaît le museau. |
+| **3** | **LES MAINS** | ~60 % | ~14 ans | Vraies mains, cinq doigts. Elle prend, elle tient, elle **rend**. Profil plat : plus de museau. |
 | **B** | **ELLE PARLE** | — | — | Des mots d'abord, un par scène. Puis des phrases. Elle énonce, elle nomme. |
 | **C** | **ELLE VEUT** | — | — | Des désirs propres, **qui divergent des siens**. Elle demande, elle argumente, elle le fait changer d'avis. |
-| **4** | **DEBOUT** | **75 %** | **18 ans — majeure** | Silhouette humaine, debout en permanence, le museau raccourcit. Fourrure encore partout. |
-| **5** | **LE VISAGE** | **85 %** | **22 ans** | Visage humain. La fourrure recule vers les membres. |
-| **6** | **LA FEMME** | **95 %** | **26 ans** | `refs/lapine-forme-finale.png`. **Atteint à la mi-campagne.** |
+| **4** | **LA SILHOUETTE** | **75 %** | **18 ans — majeure** | Silhouette humaine, **et un visage humain aux traits de lièvre**. Fourrure encore partout. |
+| **5** | **LE VISAGE** | **85 %** | **22 ans** | Visage **entièrement** humain. La fourrure recule vers les membres. |
+| **6** | **LA FEMME** | **95 %** | **26 ans** | `refs/lapine-forme-finale.png`. Oreilles et queue, rien d'autre. |
+
+> **`refs/` fait foi sur la morphologie** *(aligné le 2026-08-16)* : les six paliers ont été générés du dernier au premier et **validés cran par cran par le joueur**, ce texte non. La règle de composition qui en sort : **75 % d'humanité veut dire une femme aux traits de lièvre, jamais un lièvre aux traits humains.** Les invariants — les yeux vert jade pâle, le pompon, aucune dent visible, pas de griffes — sont dans `refs/README.md` et ne bougent sur aucun palier.
 
 **La propriété qui fait tout le sel** : B et C tombent **avant** le 4. Pendant tout un pan de campagne, elle discute, elle conteste et elle veut des choses **avec encore un museau et des pattes**. Les gens verront une bête ; lui saura qu'il vient de perdre une discussion contre elle.
 
@@ -105,12 +109,13 @@ Ce choix répond directement à l'audit du psy du 2026-08-15 : sur 320 scènes, 
 **ELLE PILE.** Ce n'est pas un pouvoir, c'est sa nature. Toute matière chargée qu'ils rapportent — une prise, un cœur d'épreuve, une relique — elle la **transforme**. Et ce qui sort de son mortier **ne vaut que donné à quelqu'un d'autre** : entre ses mains, ça ne sert jamais à celui qui l'a fabriqué.
 
 - **Il monte en prenant, elle existe en rendant.** Deux natures opposées attachées au même chiffre : c'est le moteur permanent de la paire, pas un désaccord ponctuel.
-- **Le choix de à qui ça va lui appartient.** C'est là qu'elle le contredit, et son refus est légitime.
-- **Ça remplit structurellement deux axes ratés au palier précédent** : l'économie (elle fabrique ce que ce monde veut le plus) et l'équipement (au xianxia, les pilules *sont* l'équipement). Et ça donne une raison d'aller chercher les **chances** et les **grosses pièces** : c'est sa matière première.
+- **Le destinataire est son choix à elle, jamais négociable.** Mais **ce choix ne s'argumente pas avant le palier C** : au début, c'est un geste — elle pose la chose devant quelqu'un, et c'est tout. **Elle ne plaide pas, elle ne conteste pas, elle ne le fait pas changer d'avis** : ça, c'est C (§3.5).
+- **⛔ CE N'EST PAS UNE ÉCONOMIE** (`monde/POUSSIERE.md` §0.10, recadrage du joueur du 2026-08-16, **canon dur**). Ni revenu, ni filière, ni actif, ni matière première. **Aucun débit, aucun rendement, aucun canal, aucune règle d'activation à optimiser.** Ce qu'elle pile produit **des scènes**, pas des ressources — et si Seb en profite un jour, c'est qu'elle a décidé de le lui donner : **un moment, pas une ressource.** L'économie du monde (POUSSIERE §4) tient debout sans elle, et l'axe `marchandage` se sert **avec le monde, jamais avec elle**.
+- **Les chances et les grosses pièces se cherchent pour elles-mêmes** — parce que c'est ce que le joueur aime, et parce que le corps de la compagne monte en absorbant (§3.3). Pas « pour l'approvisionner ».
 
-**LE REVERS — quand il n'y a rien à piler, elle se pile elle-même.** Son mythe d'origine, appliqué. Son corps est son domaine (§47), donc **on ne l'en empêche pas** : on peut seulement faire en sorte qu'elle ait autre chose sous la main.
+**LE REVERS — quand il n'y a rien à piler, elle se pile elle-même.** Son mythe d'origine, appliqué. Son corps est son domaine (§47), donc **on ne l'en empêche pas** : on peut seulement faire en sorte qu'elle ait autre chose sous la main. **Rare et dramatique, jamais une jauge.**
 
-> ⛔ **Ce n'est ni une taxe, ni une créance, ni un prélèvement** (errata §40, règle dure). Rien n'est ponctionné sur ce qu'il prend. C'est une volonté propre qu'il peut nourrir ou négliger — et le prix, quand il la néglige, se joue **en scène et entre eux**, jamais en malus chiffré. À servir **rare et dramatique**, jamais comme une jauge de culpabilité.
+> ⛔ **Ce n'est ni une taxe, ni une créance, ni un prélèvement** (errata §40, règle dure). Rien n'est ponctionné sur ce qu'il prend. **Toute résurgence en rendement, tarif ou filière est une faute au même titre qu'une dîme.** Les offres qui la traitent comme un actif se servent **pour qu'il ait le plaisir de les refuser** — jamais pour qu'il cède. Le prix, quand il la néglige, se joue **en scène et entre eux**, jamais en malus chiffré.
 
 ### 3.5 · AU DÉBUT, ELLE EST CE QU'ON REGARDE — PAS ENCORE QUELQU'UN
 
@@ -125,6 +130,8 @@ Le psy a relevé la tension : le palier **C** (elle veut, elle argumente) tombe 
 - **Le jour où elle bascule d'objet à sujet est un événement de campagne**, pas une progression douce. C'est le moment où celui qui la regardait cesse d'être le sujet de la phrase.
 
 > ⚠ **Conséquence pour l'axe `bete` du compteur** (une ligne par scène, jamais du décor) : *jamais du décor* **ne veut pas dire** *une volonté propre*. Au début, l'axe se sert par ce que le monde lui fait et par ce qu'elle fait d'animal — pas en lui prêtant des intentions qu'elle n'a pas encore. **Lui donner une volonté avant le palier C est une faute**, au même titre que la laisser en décor.
+
+> **§3.5 PRIME SUR §3.4 ET SUR §3** *(c'est la décision la plus récente du joueur, et le palier C tombe désormais vers la scène 25-40)*. Partout où un texte plus ancien prête à la compagne une volonté « dès l'origine », c'est §3.5 qui gagne. **La seule chose qu'elle refuse avant C, c'est ce qu'on veut faire de son corps** (§47) — un refus animal, pas un argument.
 
 ## 3ter · LA DURÉE D'UNE CHASSE — 1 à 5 scènes
 
@@ -164,9 +171,9 @@ Le psy avait signalé trois risques dans `monde/POUSSIERE.md`. Le joueur en a é
 
 > ⚠ **Le moteur de l'esprit doit suivre.** Le corps a des dizaines de déclencheurs (chaque grosse pièce, chaque relique, chaque cœur d'épreuve) ; **A, B et C n'en ont aucun d'écrit**. Avec C dû vers la scène 25-40, le MJ ne peut plus attendre « les moments qui comptent » : il lui faut de quoi les déclencher. **À écrire avant la scène 1.**
 
-### 3.7 · Rythme
+### 3.7 · Rythme — **voir §3.6**
 
-Neuf jalons avant le 6, atteint à mi-campagne : **un tous les ~50 scènes**. Puis trois paliers divins sur la seconde moitié. Le moteur n'est jamais à l'arrêt, et il ne peut plus caler en silence : le compteur d'axes sonne.
+*Ce paragraphe donnait « un jalon tous les ~50 scènes, le 6 à mi-campagne ». Le joueur a tranché autrement le 2026-08-16 : la cadence réelle et les tranches sont au **§3.6**, et c'est lui qui fait foi.* Ce qui demeure : le moteur n'est jamais à l'arrêt, et il ne peut plus caler en silence — le compteur d'axes sonne.
 
 ---
 
@@ -179,9 +186,25 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 
 ---
 
-## 5 · CE QUI RESTE À DÉCIDER
+## 5 · L'ÉTAT RÉEL — CE QUI EST TRANCHÉ, CE QUI RESTE
 
-- **Le nom de la campagne** et celui du personnage principal.
-- **Le début** : le rite, où, devant qui, et ce qui se passe quand rien ne sort.
-- **Le contenu de la strate I** : douze chances, dix grosses pièces, quinze objets, une économie, cinq réclusions — **écrit avant la scène 1** (errata §39 : un palier se construit avant d'y jouer).
-- **L'espèce est fixée : le lièvre** — les six paliers de son corps sont établis et illustrés (`refs/`). Reste à décider ce que les gens de ce monde *pensent* d'un familier-lièvre : dans un monde de prédateurs, invoquer une proie n'est probablement pas un bon présage.
+*Réécrit le 2026-08-16 : la version précédente rouvrait des points déjà tranchés et donnait des quotas faux.*
+
+### 5.1 · Tranché — ne se rediscute plus
+
+- **Le personnage principal : Seb**, quinze ans, **garçon de courses de la halle** de Neuf-Puits — il connaît les prix et les pesées avant de peser quoi que ce soit (`POUSSIERE` §2.5).
+- **Le début** : le rite du printemps au temple, le cercle de bronze, la cloche, trois souffles, les recruteurs au premier rang, le crieur à la porte — puis la pierre d'éveil sur le parvis (`POUSSIERE` §3.1-3.2). **Ce que la pierre rend sur cette paire-là se joue en scène 1** : le canon fixe le dispositif, pas le résultat.
+- **La lecture sociale de l'espèce** : une proie, **c'est pire que rien** — *« Mieux vaut porte close que porte moquée »*. La partition de la salle est écrite dans l'ordre, jusqu'au surnom (`POUSSIERE` §3.3).
+- **L'espèce et ses six paliers de corps** : le lièvre, établi et illustré cran par cran (`refs/`, §3.1).
+- **Le contenu de la strate I, écrit avant la scène 1** (errata §39) : **17 chances · 15 grosses pièces · 21 objets · 15 rites et examens · 22 occasions de mesure · 7 réclusions · 15 figures d'arrogance × 6 registres · 8 arts · 3 voies sombres**, plus l'économie complète (4 monnaies, 33 lignes de prix) et onze directions de région. `POUSSIERE` **§16** est l'index de service : axe → où piocher.
+- **Le rythme** : palier 4 visé entre les scènes 30 et 50, palier C vers 25-40, palier 6 à la charnière strate I / strate II (§3.6).
+- **Ce qui ne se « corrige » plus** : l'économie peut être grosse, un peu de social est bienvenu, **une seule devinette dans tout le monde** (§3bis) — et le mortier n'est **pas** une économie (§3.4, `POUSSIERE` §0.10).
+
+### 5.2 · Reste à décider — **avant la scène 1**
+
+- ⚠ **Les déclencheurs de l'esprit.** Le corps a des dizaines de déclencheurs écrits ; **A, B et C n'en ont aucun**, et C est dû vers la scène 25-40 (§3.6). Sans eux, le MJ attend « les moments qui comptent » et le moteur cale en silence.
+- ⚠ **L'échelle chiffrée du Corps de ce monde.** `SEUILS.md` la déclare à fixer sur la feuille ; celle du Creuset est morte avec lui. **L'axe `corps` du compteur a des occasions (`POUSSIERE` §6, §8, §10) mais aucune échelle derrière.**
+- ⚠ **Le système des portes.** `POUSSIERE` §16 dit *où* les critiques tombent, mais la campagne neuve n'a **aucune liste de portes, aucun budget, aucune règle de crans** — alors que le compteur a un axe `porte` et que l'errata §23/§27/§41 en suppose un.
+- ⚠ **L'échelle de progression des arts.** Huit arts et quatre voies d'acquisition sont écrits ; **rien ne dit ce que « monter » dans un art veut dire**, ni en combien de crans. La fiche impose pourtant `n/max` (§54).
+- **La feuille de départ** : le chiffre, les jetons, ce que Seb porte — à poser avant le premier jet.
+- **Le nom de la campagne.**
