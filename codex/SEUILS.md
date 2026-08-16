@@ -37,39 +37,24 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 
 1 → **+20** · 3 → réussite pleine garantie, ou avantage gros annoncé avant le jet · 6 → **triomphe garanti, porte comprise**
 
-## CORPS — 4 couches = 1 grade
+## LES ÉCHELLES DU MONDE — RENVOI
 
-**faible → dur → trempé → CORROYÉ → CORPS D'OR → CORPS DE JADE → CORPS DE DIAMANT → la suite en jeu**
+**Les tables-monde de l'ancienne campagne — paliers, échelle humaine du Murim, Corps en grades, bête en six crans — sont sorties de ce fichier le 2026-08-16** : elles décrivaient le Creuset, clos à la scène 299, et contredisaient le monde neuf. Ce qui décrit un monde vit dans le monde :
 
-- Voie de l'épreuve uniquement, **une couche d'un coup, sur jet**. La réclusion peut en donner une. **Ouvrir le Masque annule l'épreuve.**
-- **4/4 = le grade est pris, dans la scène même.** Jamais « mûr et pas encore fait ».
-- **OR** = l'indestructible (rien du palier n'entame). **JADE** = reprend les cicatrices dites définitives, une par grade. Pas avant le jade.
-- **Le Corps ne plafonne jamais ce qu'il ouvre. Ouvrir ne blesse jamais.**
-- *Design refusé par le joueur : « les coups encaissés nourrissent la couche ». Le Corps reste une voie d'épreuve pure.*
+- **Les quatre strates et la conversion ×1000** : `FONDATION.md` §2.
+- **La compagne — 9 jalons de corps et d'esprit entrelacés, puis 3 divins** : `FONDATION.md` §3.
+- **L'échelle humaine, les bandes publiques, les chiffres MJ de la strate I** : `monde/POUSSIERE.md` §1 et §9.
+- **Le Corps du monde neuf** : se fixe avant la scène 1, sur la feuille — les règles de design validées restent à l'errata (§50 : voie d'épreuve pure ; §11 : ouvrir ne blesse jamais).
 
-## LA BÊTE — 6 crans
-
-**1 debout · 2 les mains · 3 la face · 4 la phrase · 5 la question · 6 la conversation**
-
-- Un cran par **grosse prise** *(qui se bat, **au-dessus de ce qu'elle a déjà mangé**)* **ou par réclusion**. Jamais deux dans la même scène. Jamais annoncé à l'avance.
-- **Un mort ne rend qu'un quart. Ce qui a cessé de vouloir ne se mange pas.**
-- Sa forme est faite de ce qu'elle mange. Au cran 6, la métamorphose s'ouvre.
-
-## PALIERS
-
-| I | II | III | IV | V |
-|---|---|---|---|---|
-| 1 – 10³ | **10² – 10⁴** | 10³ – 10⁷ | 10⁶ – 10¹¹ | 10⁹ – 10¹⁵ |
-
-**Échelle humaine du Murim** : ordinaires 100-350 · disciples 350-800 · confirmés 800-2 000 · maîtres 2 000-4 000 · sommets 4 000-8 000 · légendes 8 000-10 000. **Au-dessus : le vieux monde, hors mesure.**
+**Invariants de conduite maintenus** (ils ne décrivent aucun monde) :
 **AUCUN PLAFOND SUR LE PORTEUR — ce qui sature, ce sont les instruments.**
-**Aucun plafond non plus à l'intérieur d'une strate.** Arriver au plafond du palier suivant n'est pas un défaut à corriger.
+**Aucun plafond à l'intérieur d'une strate.** Arriver au plafond de la strate suivante n'est pas un défaut à corriger.
 
 ## FORMAT DE FICHE — OBLIGATOIRE
 
 **Toute progression s'écrit `n/max`. Jamais en prose.**
 
-`CORPS — 2/4` · `bête 1/6` · `jetons 9/15` · `ART 2/?` · `porte 3/?`
+`CORPS — 2/4` · `bête 3/9` · `jetons 9/15` · `ART 2/?` · `porte 3/?`
 
 *Exemples **inventés et figés** — l'état courant vit au codex §4, jamais ici (§54 : le pourquoi est à l'errata).*
 

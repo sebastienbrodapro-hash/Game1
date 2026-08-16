@@ -112,7 +112,7 @@ AXES: dict[str, tuple[int, str, str]] = {
     ),
     "marchandage": (
         10, "L'ÉCONOMIE",
-        "un prix, une vente, un échange, une bourse qui bouge — MONDE §5. "
+        "un prix, une vente, un échange, une bourse qui bouge — POUSSIERE §4. "
         "Faute du 2026-08-15 : 111 scènes à zéro fer sans une transaction",
     ),
     "atout": (
@@ -122,14 +122,15 @@ AXES: dict[str, tuple[int, str, str]] = {
     ),
     "chance": (
         12, "UNE CHANCE",
-        "MONDE §9.3 : le palier est troué d'épreuves à gain propre. Faute du "
-        "2026-08-15 : une seule servie en 111 scènes",
+        "POUSSIERE §6 : la strate est trouée d'épreuves à gain propre. Faute "
+        "du 2026-08-15 : une seule servie en 111 scènes",
     ),
     "rite": (
         15, "UN RITE — il PASSE une épreuve",
         "quelque chose de codifié qu'il traverse en produisant un effort : "
-        "une pile à frapper, un concours, une épreuve d'entrée, un passage "
-        "devant une secte. Un cadre, des témoins, un résultat qu'IL "
+        "un tripode à porter, un concours, une épreuve d'entrée, un passage "
+        "devant une secte (POUSSIERE §8 — la pile de l'ancien monde est "
+        "interdite de retour). Un cadre, des témoins, un résultat qu'IL "
         "fabrique. **Ne pas confondre avec `mesure`** : dans un rite il "
         "agit, dans une mesure on le lit. Un rite peut finir par une mesure, "
         "jamais l'inverse. Faute du 2026-08-15 : deux en 111 scènes, et "
