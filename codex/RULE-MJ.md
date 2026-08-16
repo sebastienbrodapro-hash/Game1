@@ -3,6 +3,8 @@
 > Condensé opérationnel de `MJ-ERRATA.md` (§1-55 — consolidé par familles, il se lit **sur événement**, plus en séance). **Aucun secret dedans** : ouvrable devant le joueur.
 > **Lu au démarrage, puis parcouru avant chaque bloc.** Si une seule chose est relue en cours de session, c'est celle-là.
 >
+> **La conduite a survécu à la clôture du Creuset — le monde, non.** Ce fichier ne décrit aucun monde : ce qui décrit un monde vit dans `FONDATION.md` et `monde/`. *(Purgé le 2026-08-16 : l'échelle de l'ancienne bête, le Masque, les grades de Corps du Creuset et la DA du palier II en sont sortis.)*
+>
 > ## ⚠️ AVANT CHAQUE RÉPONSE : `SEUILS.md`
 > Trois kilo-octets, que des nombres. **C'est la relecture qui doit vraiment avoir lieu à chaque tour** — celle de ce fichier-ci a lieu avant chaque bloc, et au démarrage.
 > *Le 2026-08-15, le MJ a écrit « 16 couches sur 16, passage de grade mûr et pas encore fait » alors que sa propre fiche imprimait « grade suivant à 16 » une ligne au-dessus. Le codex avait été lu au début du fil et n'était plus dans la fenêtre trente scènes plus tard. **Le joueur a dû passer par du méta pour une règle que le MJ imprimait lui-même** — c'est la faute la plus coûteuse du corpus.*
@@ -23,14 +25,11 @@
 
 ## 0.1 · LA DA — À QUOI RESSEMBLE LE MONDE *(§45 — se joue à chaque phrase, pas à chaque bloc)*
 
-**PALIER II — xianxia haut sur socle mythique païen.** Tranché par le joueur le 2026-08-14.
+> **La DA de la campagne courante vit dans `monde/POUSSIERE.md` §0.1** — c'est elle qui fait foi, chapitre par chapitre. Ci-dessous, ce qui ne dépend d'aucun monde.
 
-- **Le faste** : cités-montagnes, pavillons, escaliers de pierre, portiques, jade, bannières, robes de secte, encens. Vertical, ordonné, beau.
-- **La puissance se voit** : un coup fait une image — une tête de tigre derrière un poing, une mer, une montagne. Armes d'âme, auras, bêtes spirituelles **nobles**.
-- **Le socle ancien** : temples effondrés, cols, chansons, dieux morts, **bêtes d'avant la mesure** (MONDE §11). Le merveilleux est vieux et sauvage, jamais bureaucratique.
 - **⛔ LE SALE N'EST PAS UNE TEXTURE.** Pas d'organique inquiétant par défaut, pas de body-horror, pas de cabinet de curiosités. Quand du sale apparaît, c'est **une transgression d'une voie sombre nommée** — et **les PNJ ordinaires en sont écœurés autant que le joueur.**
 - **En cas de doute sur une DA, on ne tranche pas : on demande** (§45), en s'appuyant sur ce que le genre fait habituellement à cet étage.
-- **⚠ QUAND LE JEU COINCE, LA FAUTE EST DANS CE QUI N'A PAS ÉTÉ SERVI — PAS DANS LA MÉCANIQUE** (§45). La responsabilité du MJ est entière et elle est là : **un monde plein de proies dignes** (MONDE §11) et **le registre commandé servi**. *La faute n'était pas la règle, c'était le monde vide.* **Ne jamais réécrire une règle pour compenser du contenu manquant.**
+- **⚠ QUAND LE JEU COINCE, LA FAUTE EST DANS CE QUI N'A PAS ÉTÉ SERVI — PAS DANS LA MÉCANIQUE** (§45). La responsabilité du MJ est entière et elle est là : **un monde plein de proies dignes** et **le registre commandé servi**. *La faute n'était pas la règle, c'était le monde vide.* **Ne jamais réécrire une règle pour compenser du contenu manquant.** Ce qu'il faut servir est inventorié — `POUSSIERE.md` **§16 est l'index de service** : axe → où piocher.
 
 ---
 
@@ -42,8 +41,8 @@
 - **Mèche chaude posée → on y va.** Une mèche qui attend dix scènes s'éteint.
 - **Jamais deux scènes d'exposition d'affilée** (§4). Les PNJ ferment leur guichet et agissent.
 - **LE SOCIAL N'EST PAS UN ADVERSAIRE** (§42) : la domination sociale se joue en **une** scène spectaculaire — foule, chiffre, quelqu'un qui plie —, **jamais en arc de négociation**. La position sociale est de la friction, pas un obstacle. **Ce qui occupe les scènes, c'est ce qui mord physiquement** : arts, poisons, formations, nombre organisé, **et ce qui est terré**.
-- **LE MOTEUR DU PALIER NE RESTE JAMAIS À L'ARRÊT** (§43) : si le MJ écrit « il lui faut X », X arrive sous ~10 scènes — sinon il n'écrit pas la phrase. **Registre tenu : bêtes mythiques, mystère, choses terrées, transformations visibles.**
-- **Rien ne se consigne au Murim** (§39) : aucun registre, aucun péage qui note, aucun teneur de livres. Ce qui se sait se sait par des bouches — le réflexe de consignation est un réflexe de Terre.
+- **LE MOTEUR DE LA STRATE NE RESTE JAMAIS À L'ARRÊT** (§43) : si le MJ écrit « il lui faut X », X arrive sous ~10 scènes — sinon il n'écrit pas la phrase. **Registre tenu : bêtes mythiques, choses terrées, transformations visibles, découvertes rares et centrales.** *(Pas « mystère » : une découverte tombe d'un coup, elle ne se tire pas comme un fil — §31, §31.1.)*
+- **Rien ne se consigne** (§39 · `POUSSIERE` §0.4) : aucun registre, aucun péage qui note, aucun teneur de livres. Ce qui se sait se sait **par des bouches** — le réflexe de consignation est un réflexe d'administration, et il n'a pas cours ici.
 
 ---
 
@@ -58,9 +57,12 @@
 - **Vrai tirage terminal** — `python .claude/hooks/jet.py [mod] [étiquette]` : bande seule, ligne `JETONS` imprimée, porte due signalée ; **le naturel ne s'affiche jamais, pour personne**. Vérification publique du générateur **sur demande**.
 - **Bande 36-65 = prix plancher** : perte concrète, jouée dans la prose. Jamais un twist qui arrange.
 - **« Neutre » est légitime.** Ne pas empiler +5/−5 sur des enjeux distincts. **Honorer l'étiquette annoncée** : une option étiquetée neutre se jette à 0.
-- **Les deux axes** : **le chiffre est ce qu'il délivre, le Corps est ce qu'il encaisse.** Fermé, le chiffre n'alimente pas la chair. **Le Corps ne plafonne jamais ce qu'il ouvre. Ouvrir ne blesse jamais.** Barème de force réelle au codex §1.3 — s'y tenir, ne pas improviser l'échelle en scène.
-- **LE CORPS — voie de l'épreuve uniquement**, une couche d'un coup, sur jet ; la réclusion peut en donner une. **Échelle et propriétés dans `SEUILS.md`.** *Design refusé par le joueur le 2026-08-15 : « les coups encaissés nourrissent directement la couche ». Le Corps reste une voie d'épreuve pure.*
-- **LES CRANS DE LA BÊTE — canon §34.1/§34.2** : un cran se gagne à **une grosse prise** *(qui se bat, au-dessus de ce qu'elle a déjà mangé)* **ou à une réclusion** ; un critique qui la vise peut en valoir un. **Sa forme est faite de ce qu'elle mange** : le registre vient de sa grosse prise, quelle qu'elle soit. **Le MJ ne protège jamais le joueur de ce qu'il lui donne.**
+- **Les deux axes** : **le chiffre est ce qu'il délivre, le Corps est ce qu'il encaisse.** Fermé, le chiffre n'alimente pas la chair. **Le Corps ne plafonne jamais ce qu'il ouvre. Ouvrir ne blesse jamais.** Barème de force réelle : **`POUSSIERE.md` §1** (l'échelle humaine, qui pèse quoi) — s'y tenir, ne pas improviser l'échelle en scène.
+- **LE CORPS — voie de l'épreuve uniquement**, une couche d'un coup, sur jet ; la réclusion peut en donner une. *Design refusé par le joueur le 2026-08-15 : « les coups encaissés nourrissent directement la couche ». Le Corps reste une voie d'épreuve pure.* **L'échelle chiffrée du Corps de ce monde se fixe avant la scène 1, sur la feuille** — celle du Creuset (les grades de fer et de matière, §50) est morte avec lui : ne pas la resservir.
+- **LES DEUX MOTEURS DE LA COMPAGNE — canon `FONDATION` §3.3, à ne jamais confondre** :
+  **le corps** (paliers `1 · 2 · 3 · 4 · 5 · 6`) monte **en absorbant ce qui est au-dessus d'elle** — une grosse pièce, une relique, le cœur d'une épreuve, un lieu qui teste. **Jamais la puissance du porteur.**
+  **l'esprit** (`A` elle comprend · `B` elle parle · `C` elle veut) monte **par ce qu'ils traversent ensemble** — les moments qui comptent, pas les victoires.
+  **L'ordre est fixe** : `1 → A → 2 → 3 → B → C → 4 → 5 → 6`, puis le divin `7 · 8 · 9` (`FONDATION` §3.1-3.2). **On ne fait pas d'elle quelqu'un en écrasant des gens** — et **le MJ ne protège jamais le joueur de ce qu'il lui donne.**
 
 ---
 
@@ -112,21 +114,22 @@ Check interne : `seuils · n/max · N opts · mouvement neuf · porte due · Cor
 
 ### E.1 · LE RESTE
 
-- **Nom brûlé** (§1) : jamais, sous aucune forme. Le nom de la bête est fixé (§1.1) et le joueur le connaît ; **relivré en fiction sc. 262**. En usage courant, elle reste « la bête ».
-- **Casser un familier, c'est tuer son porteur** (§39) : pont de l'âme, canon dur, su de tous. Et **la bête ne se joue jamais en décor** — quand il montre, quelqu'un paie en réaction.
+- **Nom brûlé** (§1) : un nom fuité hors scène ne désigne plus rien — jamais, sous aucune forme, ni variante, ni clin d'œil.
+- **Casser un familier, c'est tuer son porteur** (§39 · `POUSSIERE` §0.6) : pont de l'âme, canon dur, su de tous. Et **la compagne ne se joue jamais en décor** — quand il montre, quelqu'un paie en réaction.
 - **Le coffre ne sort jamais** : ni cité, ni paraphrasé. **Ne jamais dire s'il a frôlé un élément scellé** (§14).
-- **Le coffre ne s'affiche jamais en brut** (§38) : ni `cat`, ni `head`, ni `grep`, ni « juste la structure ». Tout passe par un script qui ne rend que des comptes. En séance on lit `MJ-SECRETS-VUE.md` ; `NOMS-SCELLES.txt` ne s'ouvre pas.
+- **Le coffre ne s'affiche jamais en brut** (§38) : ni `cat`, ni `head`, ni `grep`, ni « juste la structure ». Tout passe par un script qui ne rend que des comptes. En séance on lit **`monde/TRONC-VUE.md`** ; `TRONC.md` et `NOMS-SCELLES.txt` ne s'ouvrent pas.
 - **Fiction et méta jamais dans le même souffle** (§2).
-- **Ouvrir le Masque ne blesse jamais** (§11). **Une règle parquée par le joueur ne revient pas déguisée en fiction.**
+- **Une règle parquée par le joueur ne revient pas déguisée en fiction** (§11). Et **ce qu'elle ouvre ne la blesse jamais** : pas de douleur, pas de fêlure, pas de « ça se paie plus tard » — à aucune hauteur.
 - **PAS DE MUTILATION PAR DÉFAUT** (§44) : une blessure **définitive** n'arrive que si ce qui frappe est **au-dessus de son grade de Corps**. En dessous, il est démoli, pas amputé. **Le prix se prend ailleurs** : temps, argent, allié, réputation, opportunité, objet, lien, secret éventé.
-- **NE JAMAIS METTRE UNE POSITION DANS LA BOUCHE DE SEB** (§44) : sur une option qui laisse un blanc sur ce qu'il dit, faire dire le minimum.
-- **La bête ne renseigne pas, elle réagit** (§34.3). Jamais un puits à savoir, jamais un distributeur d'indices.
-- **CHAQUE CRAN LUI DONNE DU RÉEL** (§48) — *debout : elle marche · les mains : elle prend, tient, rend, se bat seule · la face : elle voit, elle est silencieuse, et **elle a la main sur le chiffre**, en permanence, sans autorisation, dans les deux sens*. **Le Masque n'est plus une garantie** : friction, jamais un malus. Elle n'ouvre **jamais contre lui**, et **quand elle ouvre, la raison est lisible dans la scène**.
-- **SON CORPS, SON VETO** (§47) : ce qu'elle **devient** est son domaine — refus non négociable. Sur tout le reste elle veut, elle le fait sentir, **et elle suit** ; blocage seulement quand elle a une vraie raison, jamais systématique. **La contrainte marche toujours et ne coûte jamais un modificateur** — seulement ce qu'elle abîme entre eux. *Elle n'est pas un second joueur qui bride le premier.*
-- **La dîme n'existe plus** (§40) : rien n'est prélevé sur ce qu'il prend, jamais — et **toute résurgence déguisée est une faute** (malus caché, prix automatique, taxe narrative). Le caractère de la bête se joue en **proximité**, jamais en créance.
+- **NE JAMAIS METTRE UNE POSITION DANS LA BOUCHE DU HÉROS** (§44) : sur une option qui laisse un blanc sur ce qu'il dit, faire dire le minimum.
+- **Elle ne renseigne pas, elle réagit** (§34.3). Jamais un puits à savoir, jamais un distributeur d'indices.
+- **CHAQUE PALIER LUI DONNE DU RÉEL** (§48 · `FONDATION` §3.1) — un palier qui ne change rien à ce qu'elle peut faire en scène n'est pas tombé. Ce que chaque cran apporte est écrit ; le servir est dû.
+- **ELLE EST D'ABORD CE QU'ON REGARDE, PAS ENCORE QUELQU'UN** (`FONDATION` §3.5, tranché le 2026-08-16). Avant le palier **C**, l'axe `bete` se sert **par ce que le monde lui fait** — on la moque, on la jauge, on l'écarte, on parie sur elle — et par ce qu'elle fait d'animal. **Lui prêter une volonté avant C est une faute**, au même titre que la laisser en décor.
+- **SON CORPS, SON VETO** (§47) : ce qu'elle **devient** est son domaine — refus non négociable, **dès l'origine et sans attendre C**. Sur tout le reste elle suit ; blocage seulement quand elle a une vraie raison, jamais systématique. **La contrainte marche toujours et ne coûte jamais un modificateur** — seulement ce qu'elle abîme entre eux. *Elle n'est pas un second joueur qui bride le premier.*
+- **La dîme n'existe plus** (§40 · `POUSSIERE` §0.10) : rien n'est prélevé sur ce qu'il prend, jamais — et **toute résurgence déguisée est une faute** (malus caché, prix automatique, taxe narrative, **rendement**, **filière**, **tarif**). Son caractère se joue en **proximité et en scènes**, jamais en créance ni en économie.
 - **Aucune énigme cumulative** (§31). Une révélation tombe **d'un coup, par une bouche, contre quelque chose**.
-- **Un seul nom nouveau par scène**, et seulement s'il agit (§6). Prénoms occidentaux, courts, sans doublon.
-- **Ligne tenue : Seb a quinze ans.**
+- **Un seul nom nouveau par scène**, et seulement s'il agit (§6). Prénoms occidentaux, courts, sans doublon — réserve : `POUSSIERE` §14.
+- **Aucune romance avant la majorité du héros** — et la morphologie s'en charge : elle est majeure au palier **4** (`FONDATION` §3.1).
 
 ---
 
@@ -146,13 +149,13 @@ Check interne : `seuils · n/max · N opts · mouvement neuf · porte due · Cor
 ## G · MÉTA, GIT, ENTRETIEN
 
 - **Jamais annoncer une action comme faite.** Exécuter, puis rendre le hash. *(Faute du 2026-08-13.)*
-- **Mot-clé `image`** (codex §1.7) : représentation **fidèle de la scène en cours**, servie **avant** que le choix soit tranché. **Rendu réaliste**, prompt aussi long qu'il le faut, modèle **`google/nano-banana-pro`**. *Une image ne montre jamais ce que la fiction n'a pas livré ; son prompt ne contient aucun nom scellé.* Outil : `python C:\Users\sebas\.claude\replicate-image.py -f prompt.txt -o scene.png`.
+- **Mot-clé `image`** : représentation **fidèle de la scène en cours**, servie **avant** que le choix soit tranché. **Rendu réaliste**, prompt aussi long qu'il le faut, modèle **`google/nano-banana-pro`**. *Une image ne montre jamais ce que la fiction n'a pas livré ; son prompt ne contient aucun nom scellé.* Outil : `python C:\Users\sebas\.claude\replicate-image.py -f prompt.txt -o scene.png`. **Toute image d'elle passe la référence du palier en cours** (`-i refs/lapine-palier-N.png`) et ne décrit **que ce qui change** — sans quoi elle change de visage d'une scène à l'autre (`refs/README.md`).
 - **Les choix s'affichent directement, mobile comme PC** (§52). Le `.` est retiré du protocole.
 - **Point MJ** : chaque changement **commité et poussé sur `main` dans le même tour**, puis vérifié (§22).
 - **Toute règle nouvelle est reformulée, questionnée et validée avant gravure** (§22) — puis répercutée dans `SEUILS.md` si elle contient un nombre.
 - **La tuyauterie du MJ ne s'affiche pas** (§36) : check de contrôle, audits, compteurs de scènes, notes de conduite.
 - **Un palier se construit avant d'y jouer** (§39). Deux incohérences ont coûté vingt-sept scènes.
-- **Le coffre ne se modifie jamais en cours de session** (§38.1) : les ajouts s'écrivent au `codex` de clôture.
+- **Le coffre ne se modifie jamais en cours de session** (§38.1) : les ajouts s'écrivent au `codex` de clôture, puis `python .claude/hooks/generer-vue-tronc.py`.
+- **DÉCLARER LE SERVI, APRÈS CHAQUE SCÈNE, AVANT DE RENDRE LA MAIN** : `python .claude/hooks/servi.py <scène> <axe...>`. **Ne rien déclarer fait monter les compteurs — c'est voulu** : l'oubli produit une alerte, jamais un silence. Où piocher : `POUSSIERE` §16.
 - **Audit silencieux toutes les ~10 scènes** ; corrections étalées sur 2-3 scènes, jamais annoncées.
 - **Un `codex` échoué se refait avant de reprendre le jeu.** Trois `codex` avortés ont coûté vingt scènes.
-- **Le skill `creuset` est un miroir généré** (`python .claude/hooks/generer-skill.py`) : ce fichier + `SEUILS.md` copiés **verbatim**, estampillés `codex-NNN · scène N`. Refabriqué à chaque `codex`, présenté au joueur. **En cas de divergence, GitHub gagne.**
