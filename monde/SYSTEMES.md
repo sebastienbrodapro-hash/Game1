@@ -40,8 +40,19 @@ Il **ne peut pas cultiver** : sa part de qi est nulle et le restera tant que la 
 | **III** | **LE JADE** | il ne garde plus les marques : ce qui est écrit dessus s'efface. **C'est ici, et pas avant, que reprennent les cicatrices dites définitives** — une par grade. | **+4 000** · *1 000 la couche* |
 | **IV** | **LA LUMIÈRE** | plus rien de son plan ne l'atteint. La suite se fixe en jeu. | **+40 000** · *10 000 la couche* |
 
-> **UN GRADE = UNE BANDE.** *(Tranché par le joueur le 2026-08-16, sur faute : `CORPS — 1/4` imprimé douze scènes avec un chiffre figé.)* Chaque grade achevé fait franchir **une bande publique entière** (`POUSSIERE` §9 : cendre · chanvre · blanc · bleu · pourpre · or). Les valeurs sont en unités de la strate I.
+> **UN GRADE = UNE BANDE.** *(Tranché par le joueur le 2026-08-16, sur faute : `CORPS — 1/4` imprimé douze scènes avec un chiffre figé.)* Chaque grade achevé fait franchir **une bande publique entière** (`POUSSIERE` §9 : cendre · chanvre · blanc · bleu · pourpre · or). Les valeurs ci-dessus sont en unités de la strate I.
 > **⛔ C'EST LA COUCHE QUI COMPTE, PAS LE GRADE.** Chaque couche prise monte le chiffre **immédiatement, dans la scène même** (§51) — trois couches sur quatre ne valent pas rien. Le chiffre est une **somme** (§0) : tout ce qui entre dans le Corps entre dans le total.
+
+### 1.0 · L'ÉCHELLE NE S'ARRÊTE JAMAIS — cycles de quatre
+
+*Tranché par le joueur le 2026-08-16, sur défaut qu'il a relevé : à quatre grades, le Corps plafonnait à 40 000 — **sous les sommets de la strate I**, et à trois strates de la fin.*
+
+**Seb ne peut pas cultiver** (§0.2). Son chiffre ne vient que du Corps et de ce qu'elle porte. **Un plafond sur le Corps est donc un plafond sur lui**, et `RULE-MJ` §E.0 n'en tolère aucun, nulle part.
+
+- **Chaque grade vaut ×10 le précédent. Indéfiniment.**
+- **Les grades se nomment par cycles de quatre** : quatre grades = **×1000** = exactement la conversion entre deux strates (`FONDATION` §2). Le cycle I est celui de la Poussière.
+- **Le cycle II s'ouvre quand LA LUMIÈRE est achevée** — ses grades valent **+400 000 · +4 M · +40 M · +400 M** en unités de la strate I, et **ses noms se fixent à la charnière, jamais d'avance** (errata §39 : un palier se construit avant d'y jouer ; vingt-sept scènes perdues sur cette faute).
+- **Corollaire à ne pas oublier** : LA LUMIÈRE (40 000) reste **sous** les sommets de la Poussière (60 000-100 000). Le cycle II s'ouvre donc **pendant la strate I** pour qui va au bout de sa chair. Il n'y a pas de mur entre les deux, il n'y a qu'un ×10 de plus.
 
 ### 1.1 · Les règles, toutes reconduites de ce qui marchait
 

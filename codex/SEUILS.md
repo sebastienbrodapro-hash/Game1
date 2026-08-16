@@ -65,6 +65,8 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 
 **C'est LA COUCHE qui compte, pas le grade** — et elle monte le chiffre **dans la scène même** (§51). Unités de la strate I. *(Tranché par le joueur le 2026-08-16, sur faute.)*
 
+**⛔ L'ÉCHELLE NE S'ARRÊTE JAMAIS.** Chaque grade vaut **×10** le précédent, indéfiniment. Les grades se nomment par **cycles de quatre** (= ×1000 = la conversion entre strates) ; le cycle II s'ouvre à LA LUMIÈRE achevée — **+400 000 · +4 M · +40 M · +400 M** — et **ses noms se fixent à la charnière, jamais d'avance** (§39). *Seb ne cultive pas : un plafond sur le Corps serait un plafond sur lui (§E.0).*
+
 **Invariants de conduite maintenus** (ils ne décrivent aucun monde) :
 **AUCUN PLAFOND SUR LE PORTEUR — ce qui sature, ce sont les instruments.**
 **Aucun plafond à l'intérieur d'une strate.** Arriver au plafond de la strate suivante n'est pas un défaut à corriger.
