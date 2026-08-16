@@ -126,6 +126,14 @@ Le psy a relevé la tension : le palier **C** (elle veut, elle argumente) tombe 
 
 > ⚠ **Conséquence pour l'axe `bete` du compteur** (une ligne par scène, jamais du décor) : *jamais du décor* **ne veut pas dire** *une volonté propre*. Au début, l'axe se sert par ce que le monde lui fait et par ce qu'elle fait d'animal — pas en lui prêtant des intentions qu'elle n'a pas encore. **Lui donner une volonté avant le palier C est une faute**, au même titre que la laisser en décor.
 
+## 3ter · LA DURÉE D'UNE CHASSE — 1 à 5 scènes
+
+*Tranché par le joueur le 2026-08-16, sur défaut relevé en audit.*
+
+Le tronc avait appliqué à une chasse la règle **« un jalon se consomme en 1-2 scènes »** — une directive anti-longueur qui visait les jalons, pas les prises. Or la grosse pièce est le **sommet de plaisir n°1** du joueur, et son meilleur souvenir de chasse n'a pas duré deux scènes.
+
+**Une grosse pièce se joue en 1 à 5 scènes.** L'approche, le terrain, ce qu'elle fait pour se défendre, ce qu'elle coûte : tout ça a le droit d'exister. La règle des 1-2 scènes reste valable pour **les autres formes de jalons** — ce qui ne doit ni traîner ni devenir un arc.
+
 ## 3bis · CE QUI EST VALIDÉ ET NE SE « CORRIGE » PLUS
 
 *Tranché par le joueur le 2026-08-16, en réponse à l'audit du psy sur le monde neuf.*
@@ -135,9 +143,28 @@ Le psy avait signalé trois risques dans `monde/POUSSIERE.md`. Le joueur en a é
 - **L'ÉCONOMIE PEUT ÊTRE GROSSE.** *« économie importante ça me va. »* Quatre monnaies, la table de prix, les bourses-types : c'est voulu. Le héros commence garçon de courses d'une halle — il connaît les prix et les pesées avant de peser quoi que ce soit, et c'est son arme, pas une corvée. **La limite reste l'errata §28** : ce qui s'achète et se paie se règle **en une ligne de fiche**, jamais en scène — sauf si quelque chose peut casser.
 - **UN PEU DE SOCIAL EST BIENVENU.** *« un peu de sociale ça me va. »* Des proies protégées par une communauté, un interdit, une réputation : légitime **en variété**. La limite reste l'errata §42 : le social est de la **friction**, jamais un adversaire, et la domination se joue en **une** scène spectaculaire — jamais en arc de négociation.
 
+- **« DEVINETTE » NE COUVRE QUE L'ÉNIGME À RÉSOUDRE.** *(Tranché le 2026-08-16.)* Une protection qui oblige à **savoir où elle est, quand exactement, ou laquelle c'est** avant de pouvoir frapper **n'entre pas dans l'exception** : c'est une énigme au sens de l'errata §31, et §31.3 y range explicitement les problèmes de dates et de moments. Toute proie ou chance qui repose là-dessus doit voir sa protection **retournée en obstacle physique ou de terrain**.
 - **LA PROIE QU'IL FAUT IDENTIFIER RESTE, ET ELLE RESTE SEULE.** *« 1 devinette me tuera pas. »* Sur quinze proies, **une** demande d'être reconnue avant d'être frappée — et c'est précisément parce qu'elle est unique qu'elle vaut : une exception qui fait ressortir les quatorze autres, pas un mode de jeu. **Aucune seconde du même genre ne s'ajoute**, dans cette strate ni dans les suivantes. L'errata §31 reste entier partout ailleurs : pas de révélation par déduction, pas de progression en pourcentage de déchiffrement, pas de tableau d'indices.
 
-### 3.6 · Rythme
+### 3.6 · LE RYTHME RÉEL — tranché par le joueur le 2026-08-16
+
+**Le palier 4 (majeure, 75 %) est visé entre la scène 30 et la scène 50.** Comme l'ordre est fixe, cela met **sept jalons** (`1 · A · 2 · 3 · B · C · 4`) dans les quarante premières scènes — **un tous les six scènes environ**. C'est rapide, c'est voulu, et c'est la cadence de progression que le joueur réclame depuis toujours.
+
+**Le palier C — elle veut contre lui — tombe donc vers la scène 25-40**, pas à mi-campagne. C'est le chiffre que le joueur a validé en connaissance de cause : *« oui, et la moitié de sa progression »*.
+
+**Le palier 6 descend à la charnière strate I / strate II — vers la scène 120-180**, et non plus à la moitié de la campagne. Raison arithmétique, montrée au joueur et acceptée : garder le 6 à la scène 300 avec un 4 à la scène 40 aurait donné un jalon tous les six scènes puis un tous les cent trente — un rapport de un à vingt, et deux cent soixante scènes de stagnation.
+
+**Conséquence, et c'est un gain** : elle finit d'être une femme **en bas**, avant de changer de monde — et toute la seconde moitié de campagne est libre pour **le divin** (§3.2), qui n'avait que trois paliers pour trois strates.
+
+| Tranche | Ce qui tombe | Cadence |
+|---|---|---|
+| scènes 1-40 | `1 · A · 2 · 3 · B · C · 4` | un tous les ~6 |
+| scènes 40-180 | `5` puis `6` | un tous les ~70 |
+| seconde moitié | `7 · 8 · 9` — le divin | un par strate environ |
+
+> ⚠ **Le moteur de l'esprit doit suivre.** Le corps a des dizaines de déclencheurs (chaque grosse pièce, chaque relique, chaque cœur d'épreuve) ; **A, B et C n'en ont aucun d'écrit**. Avec C dû vers la scène 25-40, le MJ ne peut plus attendre « les moments qui comptent » : il lui faut de quoi les déclencher. **À écrire avant la scène 1.**
+
+### 3.7 · Rythme
 
 Neuf jalons avant le 6, atteint à mi-campagne : **un tous les ~50 scènes**. Puis trois paliers divins sur la seconde moitié. Le moteur n'est jamais à l'arrêt, et il ne peut plus caler en silence : le compteur d'axes sonne.
 
