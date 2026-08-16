@@ -78,6 +78,20 @@
 
 ---
 
+## D.00 · ⛔ LE MJ SUGGÈRE, IL NE DÉCIDE PAS — SAUF LES JETS
+
+*Tranché par le joueur le 2026-08-16, après une arme choisie à sa place : « tu suggères, tu décides pas sauf pour les jets ».*
+
+**Trois domaines, trois propriétaires, et aucun chevauchement :**
+
+- **LE MONDE appartient au MJ.** Ce qu'il y a, qui est là, ce que ça vaut, ce que les autres font, ce qui arrive. C'est son travail entier.
+- **LES RÉSULTATS appartiennent au hasard.** `jet.py`, jamais autre chose (§35).
+- **SEB APPARTIENT AU JOUEUR.** Ce qu'il fait, veut, achète, dit, prend, garde, refuse. **Ça se liste, ça ne se tranche jamais.**
+
+**Le test, avant d'écrire une phrase qui engage Seb** : *est-ce qu'il aurait eu une opinion là-dessus ?* Si oui, **ça se liste**. Il demande une arme → dix armes. Il veut vendre → les acheteurs possibles. Il entre en ville → les endroits où aller. Jamais « il choisit la chaîne », jamais « il passe par les mains discrètes », jamais « il décide de ».
+
+*Ça prolonge §44 — ne jamais mettre une position dans la bouche de Seb — et ça l'étend à ses **actes**, pas seulement à ses paroles.*
+
 ## D.0 · LE FORMAT DES CHOIX — refonte du 2026-08-16
 
 *Tranché par le joueur après quarante-deux scènes de blocs mixtes : « j'ai dit que je voulais une arme et tu l'as choisie à ma place… on essaie de mettre en place des hooks mais ça marche pas trop et tu essaies trop de combiner ».*
