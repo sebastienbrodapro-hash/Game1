@@ -24,7 +24,10 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 
 ### 0.2 · Pour Seb, en particulier
 
-**Il ne produit pas de qi lui-même** : rien ne se forme dans son corps, la pierre d'éveil reste éteinte sur lui, et ça ne changera pas. **Mais le chiffre est celui de la PAIRE**, et elle, elle tient. Tout ce qui entre — pierre, cœur, moelle, pilule, veine — monte le chiffre commun. Un être bâti à l'exact inverse de tout le monde, dans un monde qui ne mesure que des sommes, et personne ne s'en aperçoit parce que personne ne mesure autre chose.
+**Seul, il ne produit rien** : la pierre d'éveil reste éteinte sur lui et ça ne changera pas. **Mais il n'est plus seul.** L'unité qui cultive, dans ce monde, n'est pas un homme : c'est **une paire**, un chiffre, une âme jointe. Tout ce qui entre — pierre, cœur, moelle, pilule, veine — entre dans **eux**, et le chiffre monte. Un être bâti à l'exact inverse de tout le monde, dans un monde qui ne mesure que des sommes, et personne ne s'en aperçoit parce que personne ne mesure autre chose.
+
+> ⛔ **ELLE N'EST JAMAIS UN CONTENANT** *(tranché par le joueur le 2026-08-16, sur faute — le MJ avait écrit « le vase, c'est elle » et lui avait fait porter seule les cinq cents de la première nuit).* Il n'y a **ni vase, ni goulot, ni réservoir, ni tuyau**. Il n'y a **pas de répartition** : ni « lui prend, elle porte », ni « sa part à elle », ni plafond de contenance fixé par son cran. **Un chiffre, une paire, une montée.** Ce qui fait mal fait mal aux deux ; ce qui monte monte pour les deux.
+> **C'est `errata` §40 sous un déguisement neuf** : faire d'elle l'organe qui paie ce qu'il gagne est exactement la dîme que le joueur a refusée trois fois. *« Une compagne qui évolue avec moi, pas une poule aux œufs d'or »* — et un vase est pire qu'une poule.
 
 *Correction du 2026-08-16 : ce paragraphe écrivait « il ne peut pas cultiver ». C'était une **déduction du MJ**, jamais tranchée par le joueur, et elle amputait le genre — le cultivateur de corps (体修) est un archétype complet du xianxia, méprisé par les écoles de qi et qui les casse au corps à corps. Le joueur a tranché l'inverse : **il cultive.***
 
@@ -50,7 +53,7 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 
 ## 0.4 · CE QUI S'ABSORBE — l'échelle
 
-*Tranché le 2026-08-16. **Le vase, c'est elle** : tout ce qui entre passe par la paire et monte le chiffre commun.*
+*Tranché le 2026-08-16. **C'est la paire qui absorbe** — un chiffre, une montée, aucune répartition (§0.2).*
 
 | Ce qu'on absorbe | Au chiffre *(base)* | Chez lui *(×10)* |
 |---|---|---|
