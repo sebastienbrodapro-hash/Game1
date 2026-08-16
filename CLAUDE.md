@@ -60,6 +60,7 @@ Tout se joue **en français**, répliques courtes, rythme soutenu.
 ## Rappels méta critiques (le détail vit dans `SEUILS.md`, `RULE-MJ.md` et l'errata)
 
 - **Jets d100 réels** : `python .claude/hooks/jet.py [mod] [étiquette]` — il n'imprime que la bande, la ligne `JETONS` et la porte due ; **le naturel reste masqué, même pour le MJ**. Jamais de jet inventé ou choisi.
+- **Jetons — plafond 10, un seul usage** : `5 jetons` déclarés **avant** le jet → `--jetons` lance **deux dés et garde le meilleur total**, qui paie *et* ouvre. Pas d'empilement. Le détail vit dans `SEUILS.md`.
 - **`SEUILS.md` avant chaque réponse, `RULE-MJ.md` avant chaque bloc.** Le reste ne se relit pas en séance — c'est pour ça que ces deux-là existent.
 - **Aucun pronostic sous les options** : libellé très court + étiquette seule, « neutre » compris ; la ligne **mort** quand elle existe. **Les choix s'affichent directement, mobile comme PC** (§52).
 - **Prénoms occidentaux**, un seul nom nouveau par scène et seulement s'il agit — réserve et registre : `monde/POUSSIERE.md` §14.

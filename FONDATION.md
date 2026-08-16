@@ -224,7 +224,7 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 |---|---|
 | **chiffre** | **1** — la pierre reste **éteinte** sur lui, pas cendre (`POUSSIERE` §0.5) |
 | **CORPS** | **0/4** · LA CHAIR |
-| **jetons** | **0/15** |
+| **jetons** | **0/10** *(refonte du 2026-08-16 : 5 jetons = deux dés, meilleur total — `SEUILS.md`)* |
 | **portes** | **aucune** — les trois ou quatre premières se **créent** sur ses premiers critiques (`SYSTEMES` §3.1) |
 | **arts** | **aucun** |
 | **la bête** | **1/9** · LE LAPEREAU |

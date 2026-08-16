@@ -33,9 +33,16 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 **L'étiquette annoncée est honorée** : une option étiquetée neutre se jette à 0.
 **Ligne mort** seulement quand la mort est réellement sur la table — pas comme décoration de tension.
 
-## JETONS — plafond 15
+## JETONS — plafond 10
 
-1 → **+20** · 3 → réussite pleine garantie, ou avantage gros annoncé avant le jet · 6 → **triomphe garanti, porte comprise**
+**Un seul usage : `5 jetons`, déclarés AVANT le jet → deux dés, le meilleur TOTAL l'emporte, automatiquement.**
+
+- **Le dé gardé paie ET ouvre.** Si son naturel est critique, la porte tombe ; si c'est l'autre dé qui l'avait, **elle est perdue**. Le dé écarté ne s'affiche pas.
+- **Pas d'empilement** : 5 jetons = 2 dés, quel que soit le stock.
+- **Gain inchangé** : `01-10` → **+2** · `11-35` → **+1**.
+- Outil : `python .claude/hooks/jet.py [mod] --jetons [étiquette]`.
+
+*(Refonte tranchée par le joueur le 2026-08-16. Remplace **définitivement** : `+20` à 1 jeton, réussite garantie à 3, triomphe garanti à 6 — l'échelle de la campagne close.)*
 
 ## LES ÉCHELLES DU MONDE — RENVOI
 
@@ -55,7 +62,7 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 
 **Toute progression s'écrit `n/max`. Jamais en prose.**
 
-`CORPS — 2/4` · `bête 3/9` · `jetons 9/15` · `ART 2/?` · `porte 3/?`
+`CORPS — 2/4` · `bête 3/9` · `jetons 7/10` · `ART 2/?` · `porte 3/?`
 
 *Exemples **inventés et figés** — l'état courant vit sur la fiche de séance, jamais ici (§54 : le pourquoi est à l'errata).*
 
