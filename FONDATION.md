@@ -126,6 +126,17 @@ Le psy a relevé la tension : le palier **C** (elle veut, elle argumente) tombe 
 
 > ⚠ **Conséquence pour l'axe `bete` du compteur** (une ligne par scène, jamais du décor) : *jamais du décor* **ne veut pas dire** *une volonté propre*. Au début, l'axe se sert par ce que le monde lui fait et par ce qu'elle fait d'animal — pas en lui prêtant des intentions qu'elle n'a pas encore. **Lui donner une volonté avant le palier C est une faute**, au même titre que la laisser en décor.
 
+## 3bis · CE QUI EST VALIDÉ ET NE SE « CORRIGE » PLUS
+
+*Tranché par le joueur le 2026-08-16, en réponse à l'audit du psy sur le monde neuf.*
+
+Le psy avait signalé trois risques dans `monde/POUSSIERE.md`. Le joueur en a écarté deux **explicitement** — ils sont donc du canon, et toute passe d'audit ultérieure qui voudrait les « réparer » commet une faute :
+
+- **L'ÉCONOMIE PEUT ÊTRE GROSSE.** *« économie importante ça me va. »* Quatre monnaies, la table de prix, les bourses-types : c'est voulu. Le héros commence garçon de courses d'une halle — il connaît les prix et les pesées avant de peser quoi que ce soit, et c'est son arme, pas une corvée. **La limite reste l'errata §28** : ce qui s'achète et se paie se règle **en une ligne de fiche**, jamais en scène — sauf si quelque chose peut casser.
+- **UN PEU DE SOCIAL EST BIENVENU.** *« un peu de sociale ça me va. »* Des proies protégées par une communauté, un interdit, une réputation : légitime **en variété**. La limite reste l'errata §42 : le social est de la **friction**, jamais un adversaire, et la domination se joue en **une** scène spectaculaire — jamais en arc de négociation.
+
+**Ce qui reste ouvert et non tranché** : parmi les proies signalées, celle dont la protection **oblige à identifier la cible avant de pouvoir la frapper**. Ce n'est pas de la friction sociale, c'est une **énigme avec une bête derrière** (errata §31 : jamais de révélation par déduction, jamais de progression en pourcentage de déchiffrement). À traiter séparément.
+
 ### 3.6 · Rythme
 
 Neuf jalons avant le 6, atteint à mi-campagne : **un tous les ~50 scènes**. Puis trois paliers divins sur la seconde moitié. Le moteur n'est jamais à l'arrêt, et il ne peut plus caler en silence : le compteur d'axes sonne.
