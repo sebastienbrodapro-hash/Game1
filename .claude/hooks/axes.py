@@ -259,9 +259,25 @@ def declarer(etat: dict, scene: int, axes: list[str]) -> list[str]:
 
 
 def amorcer(etat: dict, scene: int) -> None:
-    """Première scène vue : tout est réputé servi, aucune alerte au démarrage."""
-    for a in AXES:
-        etat["servi"].setdefault(a, scene)
+    """Première scène vue : tout est réputé servi — plus un DIFFÉRÉ ALÉATOIRE.
+
+    Sans lui, un début de campagne sonne en GRAPPES : cinq axes partagent la
+    cadence 10, trois la cadence 8, deux la 15 — ils arriveraient donc tous à
+    échéance dans la même poignée de scènes, et le MJ recevrait six alertes
+    d'un coup à la scène onze. Un hook qui sonne en rafale est un hook qu'on
+    éteint (même raison que le jitter).
+
+    Chaque axe reçoit donc un décalage tiré dans [0, sa cadence] : les
+    premières échéances s'étalent au lieu de s'agglutiner, et le monde a le
+    temps de s'installer avant que le compteur ne commande.
+
+    Les règles dures (cadence < JITTER_MINI : la bête à chaque scène, une
+    bifurcation par bloc) n'ont AUCUN différé — elles s'appliquent dès la
+    scène 1. *(Tranché par le joueur le 2026-08-16, avant la scène 1.)*
+    """
+    for a, (base, _, _) in AXES.items():
+        differe = 0 if base < JITTER_MINI else random.randint(0, base)
+        etat["servi"].setdefault(a, scene + differe)
         etat.setdefault("seuil", {}).setdefault(a, tirer_seuil(a))
 
 
