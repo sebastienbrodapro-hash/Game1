@@ -1,18 +1,27 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Coffre expurgé — LE CREUSET.
+⛔ ANCIENNE CAMPAGNE — « LE CREUSET », CLOSE À LA SCÈNE 299 (2026-08-16).
 
-Produit, depuis codex/MJ-SECRETS.md :
+CE SCRIPT NE SERT PLUS À JOUER. Il traite le coffre du Creuset, archivé dans
+`archive/creuset/`. Le dispositif de cloison de la campagne courante est
+**`generer-vue-tronc.py`** (monde/TRONC.md → monde/TRONC-VUE.md).
 
-  codex/MJ-SECRETS-VUE.md   la vue lue en séance. Contenu intégral, mais
+Conservé pour que l'archive reste régénérable, et pour rien d'autre : il
+refuse de tourner sans `--archive`, afin qu'un lancement d'habitude ne
+réécrive pas des fichiers morts.
+
+Produit, depuis archive/creuset/MJ-SECRETS.md :
+
+  MJ-SECRETS-VUE.md         la vue lue en séance. Contenu intégral, mais
                             chaque nom scellé remplacé par un jeton stable
                             ⟦SCELLE-N⟧. Le MJ garde la matière — donc ses
                             préfigurations — et perd l'étiquette : il ne
                             peut plus taper le nom, il ne l'a pas.
 
-  codex/NOMS-SCELLES.txt    la correspondance jeton → nom. ⛔ NE SE LIT PAS.
-                            Sert au hook, et à livrer-nom.py le jour venu.
+  NOMS-SCELLES.txt          la correspondance jeton → nom. ⛔ NE SE LIT PAS.
+                            (Le hook et livrer-nom.py, eux, ne regardent plus
+                            que la carte du tronc courant.)
 
 Deux listes, deux objectifs opposés :
   - la VUE veut du rappel     — sur-expurger ne coûte qu'une gêne de lecture,
@@ -23,9 +32,7 @@ Deux listes, deux objectifs opposés :
 
 CE SCRIPT N'AFFICHE AUCUN NOM. Il ne rend que des comptes.
 
-    python .claude/hooks/generer-vue.py
-
-À relancer à chaque codex, et après toute modification de MJ-SECRETS.
+    python .claude/hooks/generer-vue.py --archive
 """
 import glob
 import json
@@ -37,9 +44,14 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 RACINE = Path(__file__).resolve().parents[2]
-SECRETS = RACINE / "codex" / "MJ-SECRETS.md"
-VUE = RACINE / "codex" / "MJ-SECRETS-VUE.md"
-CARTE = RACINE / "codex" / "NOMS-SCELLES.txt"
+# Le corpus du Creuset a été déplacé dans archive/creuset/ ; on accepte encore
+# l'ancien emplacement pour que le script tourne sur une copie non migrée.
+COFFRE = RACINE / "archive" / "creuset"
+if not COFFRE.exists():
+    COFFRE = RACINE / "codex"
+SECRETS = COFFRE / "MJ-SECRETS.md"
+VUE = COFFRE / "MJ-SECRETS-VUE.md"
+CARTE = COFFRE / "NOMS-SCELLES.txt"
 TRANSCRIPTS = Path.home() / ".claude" / "projects" / "C--Users-sbroda-Documents-Claude-story"
 
 # Mot capitalisé (Xxx) ou tout en capitales (XXX), accents compris.
@@ -51,10 +63,11 @@ MOT = (
 
 def _corpus() -> str:
     """Tout le corpus sauf le coffre : ce qui y figure est déjà sorti."""
-    fichiers = [p for p in (RACINE / "codex").glob("*.md")
+    fichiers = [p for p in COFFRE.glob("*.md")
                 if p.name not in {"MJ-SECRETS.md", "MJ-SECRETS-VUE.md"}]
-    fichiers.append(RACINE / "codexcreuset.md")
-    return "\n".join(p.read_text(encoding="utf-8") for p in fichiers if p.exists())
+    fichiers += [p for p in (RACINE / "codex").glob("*.md")]
+    fichiers.append(COFFRE / "codexcreuset.md")
+    return "\n".join(p.read_text(encoding="utf-8") for p in set(fichiers) if p.exists())
 
 
 CALIBRATION = re.compile(r"^##\s*11\s*·", re.MULTILINE)
@@ -127,6 +140,16 @@ def carte_existante() -> dict[str, tuple[int, str]]:
 
 
 def main() -> int:
+    if "--archive" not in sys.argv[1:]:
+        print(
+            "ANCIENNE CAMPAGNE — « Le Creuset », close à la scène 299.\n"
+            "Ce script ne sert plus à jouer. Le dispositif courant est :\n"
+            "    python .claude/hooks/generer-vue-tronc.py\n"
+            "Pour régénérer quand même le coffre archivé : --archive",
+            file=sys.stderr,
+        )
+        return 1
+
     if not SECRETS.exists():
         print(f"ERREUR : {SECRETS} introuvable", file=sys.stderr)
         return 1
@@ -174,8 +197,8 @@ def main() -> int:
         "> encore livré en jeu. Le MJ garde toute la matière et n'a pas les\n"
         "> étiquettes : il ne peut donc pas les faire fuiter.\n"
         ">\n"
-        "> Le jour où la fiction livre un nom : `python .claude/hooks/livrer-nom.py N`\n"
-        "> — acte délibéré, jamais un nom qui traîne dans le contexte.\n"
+        "> ⛔ **ANCIENNE CAMPAGNE — « Le Creuset », close à la scène 299.**\n"
+        "> Archive : ne jamais charger ce coffre pour jouer.\n"
         ">\n"
         "> **Généré. Ne pas éditer à la main** : écrire dans `MJ-SECRETS.md`,\n"
         "> puis relancer `generer-vue.py`.\n\n"

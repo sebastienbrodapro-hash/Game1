@@ -3,8 +3,9 @@
 > livré en jeu. Le MJ garde toute la matière et n'a pas les étiquettes :
 > il ne peut donc pas les faire fuiter.
 >
-> Le jour où la fiction livre un nom : lire **la ligne N** de
-> `NOMS-SCELLES.txt` — cette ligne-là, jamais le fichier.
+> Le jour où la fiction livre un nom : `python .claude/hooks/livrer-nom.py N`
+> — ou, sans shell, lire **la ligne N** de `NOMS-SCELLES.txt` : cette
+> ligne-là, jamais le fichier.
 >
 > **Généré. Ne pas éditer à la main** : écrire dans `TRONC.md`,
 > puis relancer `generer-vue-tronc.py`.

@@ -1,20 +1,21 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Livraison d'un nom scellé — LE CREUSET.
+Livraison d'un nom scellé — CAMPAGNE COURANTE (le tronc).
 
     python .claude/hooks/livrer-nom.py 3
 
 Rend le nom propre derrière ⟦SCELLE-3⟧, le marque livré, et régénère la vue
-pour qu'il y apparaisse désormais en clair.
+du tronc pour qu'il y apparaisse désormais en clair.
 
 C'EST LE SEUL ENDROIT OÙ UN NOM SCELLÉ ENTRE DANS LE CONTEXTE DU MJ, et
 c'est délibéré : errata §31 — une révélation tombe d'un coup, par une bouche,
 contre quelque chose. Un nom ne traîne pas dans le contexte pendant quarante
 scènes en attendant son heure ; on va le chercher le jour où on l'écrit.
 
-Après livraison : inscrire le nom au registre MJ-CASTING §0.0 et à l'errata,
-comme le 2026-08-13 pour la bête (§1.1).
+Après livraison : l'inscrire au canon public de la campagne
+(`monde/POUSSIERE.md` — la réserve de prénoms §14 si c'en est un) et à
+l'errata, comme le 2026-08-13 pour la bête du Creuset (§1.1).
 """
 import subprocess
 import sys
@@ -23,7 +24,8 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 RACINE = Path(__file__).resolve().parents[2]
-CARTE = RACINE / "codex" / "NOMS-SCELLES.txt"
+CARTE = RACINE / "monde" / "NOMS-SCELLES.txt"
+GENERATEUR = RACINE / ".claude" / "hooks" / "generer-vue-tronc.py"
 
 
 def main() -> int:
@@ -34,7 +36,8 @@ def main() -> int:
 
     cible = int(sys.argv[1])
     if not CARTE.exists():
-        print(f"ERREUR : {CARTE} introuvable — lancer generer-vue.py", file=sys.stderr)
+        print(f"ERREUR : {CARTE} introuvable — lancer generer-vue-tronc.py",
+              file=sys.stderr)
         return 1
 
     lignes = CARTE.read_text(encoding="utf-8").splitlines()
@@ -59,7 +62,7 @@ def main() -> int:
     CARTE.write_text("\n".join(sortie) + "\n", encoding="utf-8")
 
     r = subprocess.run(
-        [sys.executable, str(RACINE / ".claude" / "hooks" / "generer-vue.py")],
+        [sys.executable, str(GENERATEUR)],
         capture_output=True, text=True, encoding="utf-8", errors="replace",
     )
     if r.returncode != 0:
@@ -73,8 +76,8 @@ def main() -> int:
     print()
     if deja:
         print("(ce nom était déjà marqué livré)")
-    print("Il est maintenant en clair dans la vue.")
-    print("À faire : l'inscrire au registre MJ-CASTING §0.0 et à l'errata.")
+    print("Il est maintenant en clair dans la vue du tronc.")
+    print("À faire : l'inscrire au canon public (monde/POUSSIERE.md) et à l'errata.")
     return 0
 
 

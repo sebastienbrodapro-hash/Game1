@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Hook Stop — LE CREUSET. Quatre métiers, à chaque fin de tour du MJ.
+Hook Stop — CAMPAGNE COURANTE. Quatre métiers, à chaque fin de tour du MJ.
 
 1. GARDE-FOU  : cherche un nom scellé dans la sortie joueur. Si touche,
                 sort en code 2 — le MJ est repris avant de rendre la main.
@@ -37,7 +37,9 @@ except ImportError:  # le compteur ne doit jamais empêcher de jouer
     AXES = None
 
 RACINE = Path(__file__).resolve().parents[2]
-NOMS = RACINE / "codex" / "NOMS-SCELLES.txt"
+# Le coffre courant est le TRONC (monde/). L'ancien coffre du Creuset est
+# archivé et n'est plus surveillé : la campagne est close.
+NOMS = RACINE / "monde" / "NOMS-SCELLES.txt"
 DEPOT = RACINE / ".claude" / "derniere-scene.md"
 ETAT = RACINE / ".claude" / "psy-etat.txt"
 
@@ -48,7 +50,7 @@ TITRE_SCENE = re.compile(r"^##\s*(\d{1,4})\s*·", re.MULTILINE)
 def charger_noms() -> list[str]:
     """Noms encore scellés ET assez rares pour ne pas faire sonner à tort.
 
-    Format : id <TAB> nom <TAB> statut <TAB> alerte — voir generer-vue.py.
+    Format : id <TAB> nom <TAB> statut <TAB> alerte — voir generer-vue-tronc.py.
     Les entrées alerte=non sont expurgées de la vue du coffre mais pas
     surveillées ici : elles apparaissent en jeu, elles feraient du bruit.
     """
