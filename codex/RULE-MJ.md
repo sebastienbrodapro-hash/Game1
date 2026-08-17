@@ -131,7 +131,7 @@
 | `rite` | 6 | `grosse_piece` | **3** |
 
 - **⛔ LE MJ NE CHOISIT JAMAIS DANS UN AXE À LA PLACE DU JOUEUR.** Il demande une arme → on liste **dix armes**. On n'en désigne pas une.
-- **⛔ ON NE COMBINE PLUS.** Une option = un tag demandé. Fini les options qui portent trois axes.
+- **⛔ ON NE COMBINE PLUS — mais le tag demandé est le PRINCIPAL, pas le seul** *(précision du joueur, 2026-08-16 : « tu peux ajouter des tags, je te donne juste le principal »)*. **Toutes les options d'une liste servent le tag demandé** — c'est lui qui commande le contenu. Le MJ peut **ajouter** les axes qu'une option touche réellement, honnêtement, sans jamais s'en servir pour glisser autre chose dans la liste. *Ce qui reste interdit : composer une liste mixte pour cocher des cases, et taguer un axe que l'option ne touche pas.*
 - **`bete` reste hors système** : une phrase sur elle dans **chaque** scène, inchangé — mais elle n'entre dans les choix que si le joueur demande le tag.
 - **Les étiquettes de jet, la ligne `mort` et l'interdiction de pronostic (§10) restent entières** sur chaque ligne de la liste.
 - **⛔ UNE LISTE N'EST PAS UN CATALOGUE DE BOUTIQUE** *(précision du joueur, 2026-08-16 : « l'équipement c'est pas que des achats, il me faut pouvoir trouver de l'extraordinaire sur de l'extraordinaire »)*. `POUSSIERE` §5 le dit déjà : **l'équipement qui évolue n'existe pas en boutique.** Une liste doit mêler les **cinq voies** :
