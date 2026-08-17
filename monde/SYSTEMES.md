@@ -116,6 +116,11 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 - **On monte par l'usage marquant et par la réclusion.** Un art employé dans une scène qui mord progresse ; un art récité ne progresse pas.
 - **Aucun art ne touche le chiffre.** Ils sont la **puissance invisible** de §0 : c'est là qu'un petit chiffre bat un grand, et c'est là que le monde se trompe sur ce qu'il croit avoir mesuré.
 - **Voies d'acquisition** : un maître, un manuel, un cadavre, un vol, une chance. Le monde en propose huit *(POUSSIERE §12)*.
+- **⛔ ET LE STYLE DE MÉTIER RETOURNÉ** *(tranché par le joueur le 2026-08-16)*. `POUSSIERE` §12 dit que **les familles gardent des styles de métier, donnés contre service rendu** — ce ne sont pas des arts de combat, ce sont des gestes vrais appris sur trente ans. **Un geste vrai se retourne.**
+  - **Le cran 1 s'apprend** du métier, contre le service rendu qu'on lui demande. C'est le geste tel qu'il est : honnête, utile, désarmé.
+  - **Les crans suivants sont l'adaptation**, et ils se prennent **par l'usage marquant** (règle inchangée) — c'est-à-dire en s'en servant pour ce à quoi ça n'était pas destiné.
+  - **Le maître décide du geste, donc du cran 1.** Cinq métiers de fil donnent cinq arts différents.
+  - **Un art né d'un métier n'appartient à aucune maison** : personne ne le reconnaît, personne ne le voit venir, et personne ne peut réclamer qu'on le lui rende.
 
 ---
 
