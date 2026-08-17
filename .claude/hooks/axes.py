@@ -94,11 +94,14 @@ AXES: dict[str, tuple[int, str, str]] = {
         "même titre que la laisser en décor. Après C : elle veut, elle "
         "refuse, elle argumente",
     ),
-    "sortie_plan": (
-        0, "UNE OPTION QUI SORT DU PLAN",
-        "errata §43, à CHAQUE bloc : un bloc dont toutes les sorties donnent "
-        "sur la même pièce est un couloir, pas un choix",
-    ),
+    # ⛔ `sortie_plan` a été RETIRÉ le 2026-08-16, sur décision du joueur :
+    # « supprime sortie de scène vu que je sors quand je veux ». Motif : l axe
+    # mesurait une contrainte de BLOC — « un bloc dont toutes les sorties
+    # donnent sur la même pièce est un couloir » — et le bloc mixte a été
+    # supprimé le même jour (RULE-MJ D.0). Depuis, c'est le joueur qui choisit
+    # le tag : il sort du plan quand il veut, par construction. L'axe sonnait
+    # donc indéfiniment sans que le MJ puisse rien y faire — même défaut que
+    # `porte`, même remède.
     # ⛔ `porte` a été RETIRÉ le 2026-08-16, sur décision du joueur : « vire
     # les portes du hook ». Motif : le compteur mesurait un événement que le
     # MJ ne peut pas produire. SEUILS est catégorique — SEUL un naturel 01-10
