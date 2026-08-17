@@ -89,6 +89,8 @@
 - **CE QUI COURT SUR LUI** — une blessure qui guérit, une commande en cours, un délai annoncé par quelqu'un.
 - **CE QUI S'OUVRE ET CE QUI SE FERME** — la saison ouvre des chances et en ferme d'autres : l'étiage découvre les jarres, l'hiver rend l'île accessible, la décennie fait saigner le pin.
 
+**⛔ CHAQUE HORLOGE PORTE SES TAGS** *(tranché par le joueur le 2026-08-16, même format que les options)*. Une horloge sans tag ne sert à rien : taguée, elle dit **quel axe en retard se débloque et à quelle date**. Une saison qui ouvre trois chances et deux rites se lit alors comme un calendrier de ce qui manque.
+
 **⛔ UNE HORLOGE N'EST PAS UNE DETTE.** C'est une **information temporelle**, pas une créance et pas une pression morale : elle dit *quand*, jamais *tu dois*. Le joueur a coupé les dettes qui courent ; les horloges sont exactement l'inverse — elles existent pour qu'il **choisisse** son moment au lieu de le subir.
 
 ## D.00 · ⛔ LE MJ SUGGÈRE, IL NE DÉCIDE PAS — SAUF LES JETS
