@@ -115,19 +115,19 @@ AXES: dict[str, tuple[int, str, str]] = {
     # — mettre des théâtres à jets sur la table — est déjà porté par `chance`,
     # `grosse_piece` et `rite`, et il n'est donc pas perdu.
     "noir": (
-        8, "OPTION NOIRE",
+        14, "OPTION NOIRE",
         "à proposer régulièrement, en montant en dureté, jamais moralisée "
         "en scène",
     ),
     "arrogance": (
-        8, "QUELQU'UN QUI LE PREND DE HAUT",
+        14, "QUELQU'UN QUI LE PREND DE HAUT",
         "on vient à lui avec mépris, condescendance ou provocation — le "
         "carburant de la domination (§42 : elle se joue en UNE scène, mais "
         "encore faut-il qu'on la lui serve). Faute du 2026-08-15 : réclamé "
         "explicitement, servi trop peu",
     ),
     "mesure": (
-        10, "UNE MESURE — il SUBIT une lecture",
+        16, "UNE MESURE — il SUBIT une lecture",
         "le monde lit un chiffre sur lui sans qu'il ait rien à faire : une "
         "pierre qui affiche, un autel qui rend, quelqu'un qui l'estime tout "
         "haut, un rang qu'on lui colle. Il n'agit pas, on le lit — et ce "
@@ -137,17 +137,17 @@ AXES: dict[str, tuple[int, str, str]] = {
         "d'une mesure",
     ),
     "corps": (
-        10, "LE CORPS",
+        16, "LE CORPS",
         "une occasion d'épreuve, là où le lieu et le moment la portent "
         "(§12/§21) — jamais forcée",
     ),
     "art": (
-        10, "LES ARTS",
+        18, "LES ARTS",
         "un art nommé qui progresse, s'acquiert, se vole ou sert vraiment "
         "en scène",
     ),
     "equipement": (
-        10, "L'ÉQUIPEMENT",
+        18, "L'ÉQUIPEMENT",
         "armes, armures, pilules, objets — réel et important, et il en veut "
         "(§33). **Rien de tout ça ne compte dans le chiffre** (SYSTEMES §0) : "
         "l'équipement est de la puissance invisible, il ne monte pas la fiche, "
@@ -155,12 +155,12 @@ AXES: dict[str, tuple[int, str, str]] = {
         "Faute du 2026-08-15 : 111 scènes sans un seul objet à lui",
     ),
     "marchandage": (
-        10, "L'ÉCONOMIE",
+        16, "L'ÉCONOMIE",
         "un prix, une vente, un échange, une bourse qui bouge — POUSSIERE §4. "
         "Faute du 2026-08-15 : 111 scènes à zéro fer sans une transaction",
     ),
     "atout": (
-        20, "LIGNE ⚑ ATOUT",
+        30, "LIGNE ⚑ ATOUT",
         "seulement quand il pèse vraiment (§36), mais pas jamais — et varier "
         "les personnes (§18). ⚠ **LÉGITIMEMENT GELÉ TANT QUE COURT LE CANON DU "
         "MÉPRIS SEUL** (POUSSIERE §11 : au départ il n'y a QUE le mépris ; "
@@ -171,12 +171,12 @@ AXES: dict[str, tuple[int, str, str]] = {
         "regarde autrement : le dégel remet l'escalade à zéro",
     ),
     "chance": (
-        12, "UNE CHANCE",
+        20, "UNE CHANCE",
         "POUSSIERE §6 : la strate est trouée d'épreuves à gain propre. Faute "
         "du 2026-08-15 : une seule servie en 111 scènes",
     ),
     "rite": (
-        15, "UN RITE — il PASSE une épreuve",
+        25, "UN RITE — il PASSE une épreuve",
         "quelque chose de codifié qu'il traverse en produisant un effort : "
         "un tripode à porter, un concours, une épreuve d'entrée, un passage "
         "devant une secte (POUSSIERE §8 — la pile de l'ancien monde est "
@@ -187,12 +187,12 @@ AXES: dict[str, tuple[int, str, str]] = {
         "c'était deux fois la même pile",
     ),
     "grosse_piece": (
-        15, "LA GROSSE PIÈCE",
+        22, "LA GROSSE PIÈCE",
         "une proie unique, terrée, qui rend coup pour coup — sommet de "
         "plaisir déclaré du joueur (§30)",
     ),
     "reclusion": (
-        30, "LA RÉCLUSION",
+        45, "LA RÉCLUSION",
         "servie ou rendue accessible — un cran d'art, une couche, un cran "
         "d'elle, et le monde qui bouge sans lui (§33)",
     ),
