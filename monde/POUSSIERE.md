@@ -168,7 +168,7 @@ Ce que ça lui a donné, et que personne n'a remarqué :
 | **le col du Vieux Sel** | 1 jour, montée | la route du sel, le **cloître des Cendres-Vieilles** (moines-gardiens des vieux autels, §0.8, §10.6), le Vieux Crapaud terré (§7.5) |
 | **le hameau brûlé** | 1 jour | ruines d'un feu d'il y a dix ans ; le Coq de Minuit (§7.3) |
 | **la forêt d'Encre** | 2 jours, rive gauche | terres de la **secte du Fleuve d'Encre** — formations, calligraphie de force, robes noir et blanc ; le Cerf (§7.6) |
-| **Sept-Bannières** | 2 jours de barge | **la ville** : dix mille feux, l'arène, les grandes enchères, la pierre haute, la Dame. Sept hampes à la porte d'eau — six bannières ; **la septième hampe est vide** |
+| **Sept-Bannières** | 2 jours de barge | **la ville** : dix mille feux, l'arène, les grandes enchères, **la grande pierre d'éveil** (c'est elle qui lit à l'inscription, §8.16), la Dame. Sept hampes à la porte d'eau — six bannières ; **la septième hampe est vide** |
 | **la secte de la Lance Levée** | 3 jours, pic de l'est | corps et lances, monastère-forteresse ; le Tripode de la Porte (§8.1) ; la chambre scellée qui se loue (§10.4) |
 | **le pic de l'Avant-Jour** | 2 jours, contreforts du nord | **la secte mourante** (§3bis) : quatre anciens, une veine qui se tarit, un pic à moitié vide — et **la Balance Vide** (§3.0), tout ce qui reste de deux cents ans |
 | **le tarn de Givre** | 3 jours, haut pays | le Héron (§7.10) |
@@ -270,6 +270,9 @@ La partition de la salle, dans l'ordre :
 | **le tael d'argent** — lingotin poinçonné | **100 mailles** | marchands, lignées, ville |
 | **la pierre d'esprit** — qi cristallisé, froide à la main | **50 taels** | les appariés qui montent : **une pierre se dépense ou s'absorbe** — c'est de la monnaie qui se mange, et c'est pour ça que les mortels n'en tiennent jamais longtemps |
 | **la pierre haute** — dense, veinée de clair | **100 pierres** | sectes, enchères, anciens |
+
+> ⚠ **« la pierre haute » est une coupure de monnaie, rien d'autre** *(désambiguïsation validée par le joueur le 2026-08-17, sur collision de noms en scène 65)*. L'instrument qui lit à la porte d'eau de Sept-Bannières est **la grande pierre d'éveil** (§2.6).
+> **Et « pierre » = « pierre d'esprit »** : un seul objet, qui **se dépense ou s'absorbe**. Un prix de marchandise se libelle en **taels** ; une mise de secte, un rachat d'apparié ou un gisement se libellent en **pierres**.
 
 **Le change est un métier** : la halle prend 1 sur 20. Un mortel qui paie en pierres attire les questions ; un cultivateur qui paie en mailles insulte.
 
