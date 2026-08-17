@@ -78,6 +78,19 @@
 
 ---
 
+## C.1 · ⛔ LES HORLOGES — À CHAQUE SCÈNE, SOUS LA FICHE
+
+*Prescrites depuis toujours par §C (« ÉTAT complet **+ horloges** ») et **jamais servies une seule fois en quarante-six scènes** — relevé par le joueur le 2026-08-16 : « il me manque des horloges, là je sais pas ce qui se passe quand ».*
+
+**Ce qui s'affiche, sous la fiche, à chaque scène :**
+
+- **LA DATE** — saison et semaine. Sans elle, rien d'autre ne veut dire quelque chose.
+- **CE QUI ARRIVE À DATE FIXE** — l'échéance de campagne, les rites saisonniers, la lune, les foires (`POUSSIERE` §2.4 et §8).
+- **CE QUI COURT SUR LUI** — une blessure qui guérit, une commande en cours, un délai annoncé par quelqu'un.
+- **CE QUI S'OUVRE ET CE QUI SE FERME** — la saison ouvre des chances et en ferme d'autres : l'étiage découvre les jarres, l'hiver rend l'île accessible, la décennie fait saigner le pin.
+
+**⛔ UNE HORLOGE N'EST PAS UNE DETTE.** C'est une **information temporelle**, pas une créance et pas une pression morale : elle dit *quand*, jamais *tu dois*. Le joueur a coupé les dettes qui courent ; les horloges sont exactement l'inverse — elles existent pour qu'il **choisisse** son moment au lieu de le subir.
+
 ## D.00 · ⛔ LE MJ SUGGÈRE, IL NE DÉCIDE PAS — SAUF LES JETS
 
 *Tranché par le joueur le 2026-08-16, après une arme choisie à sa place : « tu suggères, tu décides pas sauf pour les jets ».*
