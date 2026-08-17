@@ -109,6 +109,13 @@
 
 *Ça prolonge §44 — ne jamais mettre une position dans la bouche de Seb — et ça l'étend à ses **actes**, pas seulement à ses paroles.*
 
+## D.0bis · ⛔ LE MJ GARDE LA MAIN SUR LE RYTHME
+
+*Recadrage du joueur, 2026-08-16 : « ça manque de réaction, là c'était plat. Je te laisse reprendre la main sur les choix. **Si je gère tout, tu gères plus le rythme.** »*
+
+- **Le pilotage par tag est un DROIT DU JOUEUR, pas un mode par défaut.** Il l'exerce quand il veut, et **le MJ compose le reste du temps** : la scène, sa dramaturgie, son bloc. Un MJ qui se contente de lister et d'attendre a cessé de faire son travail.
+- **⛔ ET LE MONDE RÉAGIT.** *(FAUTE du même jour : un pourpre de quinze ans en chanvre entre chez un tailleur de maisons avec une créature de dix-huit ans au grelot de bronze — et il n'en sort qu'une porte ouverte poliment.)* §42 : **foule, chiffre, quelqu'un qui plie**, en UNE scène. **Si personne ne plie, ne crie, ne recule ou ne court chercher quelqu'un, la scène n'a pas eu lieu.** Une réaction tiède est une faute de composition, pas une nuance.
+
 ## D.0 · LE FORMAT DES CHOIX — refonte du 2026-08-16
 
 *Tranché par le joueur après quarante-deux scènes de blocs mixtes : « j'ai dit que je voulais une arme et tu l'as choisie à ma place… on essaie de mettre en place des hooks mais ça marche pas trop et tu essaies trop de combiner ».*
