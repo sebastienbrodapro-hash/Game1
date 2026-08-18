@@ -67,3 +67,23 @@ verrouille pas ces détails, ils dérivent d'un tirage à l'autre.
 Il contient aussi la manière de demander le **velours** : décrire le
 comportement de la lumière sur le poil — ce qui l'absorbe, ce qui l'éclate,
 l'absence de reflet spéculaire — et jamais l'adjectif « velours ».
+
+---
+
+## Le palier 7 — LE HALO *(versé le 2026-08-18, validé en séance)*
+
+Corps de la forme finale (`lapine-forme-finale.png`), tenue de combat fermée au
+dos, écusson cousu à plat entre les omoplates, et **l'auréole** — un anneau de
+lumière froide, debout derrière elle, qui n'éclaire rien. En xianxia l'auréole
+n'a pas la connotation occidentale : c'est un signe de rang, pas de sainteté.
+
+| Fichier | Quoi |
+|---|---|
+| `lapine-palier-7.png` | **LA référence canon du palier** — l'auréole style ange, validée par le joueur |
+| `lapine-palier-7-equipement.png` | l'équipement à plat : bottes, sangles, ceinture à anneau de fer, cordelette à poignée d'os, clochette |
+| `lapine-ecusson-dos.png` | le dos propre : écusson brodé à plat, lièvre assis devant la porte |
+| `lapine-tenue-face.png` · `lapine-tenue-dos.png` | les planches de base face/dos — **la face ne se regénère pas de zéro** : les générateurs la refusent, on dérive toujours de cette planche |
+| `lapine-scene-etalon.png` | l'étalon « photogramme de film » — cadrage, grain, lumière : c'est ce rendu qu'on vise |
+| `lapine-scene-cour.png` · `-porte-eau.png` · `-cape-dos.png` | les trois scènes de dos validées (cour, quai, cape de voyage au même écusson) |
+
+**Règles de génération apprises à la dure** : le changement demandé s'écrit **en tête** de prompt, la préservation en queue — l'inverse fait copier la référence. Une modification par passe. Jamais de chaînage pour la matière (le velours meurt passe après passe) : repartir de la planche pristine. Deux références = deux rôles, dits explicitement (image 1 le personnage et la matière, image 2 le design). Outil : Kling `gemini-3-pro-image` (voir la mémoire `kling-cli-setup`).

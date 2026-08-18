@@ -1,0 +1,40 @@
+{
+  "escalade": {
+    "chance": 2
+  },
+  "gel": {},
+  "scene": 113,
+  "servi": {
+    "arrogance": 113,
+    "art": 112,
+    "atout": 109,
+    "bete": 113,
+    "chance": 88,
+    "corps": 101,
+    "equipement": 98,
+    "grosse_piece": 112,
+    "marchandage": 113,
+    "mesure": 113,
+    "noir": 113,
+    "reclusion": 84,
+    "rite": 113
+  },
+  "seuil": {
+    "arrogance": 13,
+    "art": 21,
+    "atout": 24,
+    "bete": 0,
+    "chance": 20,
+    "corps": 18,
+    "equipement": 19,
+    "grosse_piece": 23,
+    "marchandage": 18,
+    "mesure": 17,
+    "noir": 15,
+    "reclusion": 45,
+    "rite": 30
+  },
+  "sonnerie": {
+    "chance": 113
+  }
+}
