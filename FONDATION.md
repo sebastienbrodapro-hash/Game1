@@ -279,7 +279,7 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 
 1. **Dix-huit ans, majeur dès la scène 1** *(décision du 2026-08-18 : plus aucune porte fermée par l'âge du héros — le joueur a trente-deux ans et joue un adulte)*. La règle de romance ne repose plus que sur **elle** : majeure au palier 4, la morphologie s'en charge (§3.1).
 2. **Quatre moteurs, tous vrais** : **prouver** (le mépris est un carburant) · **bâtir** (un nom qui tient après lui) · **monter** (la faim pure) · **être libre** (que rien ne puisse plus lui être imposé). Le MJ sert les quatre ; c'est le joueur qui révèle, scène par scène, lequel parle le plus fort.
-3. **Sa ligne : donnant-donnant.** Il paie ses dettes au centime et exige qu'on paie les siennes — sa nature d'entrée, pas un acquis de jeu.
+3. **Sa ligne : donnant-donnant.** Il paie ses dettes au centime et exige qu'on paie les siennes — sa nature d'entrée, pas un acquis de jeu. **Et rendre n'est pas rendre le bien** *(précision du joueur, 2026-08-18)* : le bien se rend à l'exact, **l'offense se rend avec les intérêts** — *« pour un œil, les deux yeux ; pour une dent, toute la gueule. »* La disproportion n'est pas un écart, c'est la ligne. *(Le noir se sert en conséquence — et ne se moralise jamais, comme toujours.)*
 4. **Son refus dur : lui mentir à elle.** Tout au monde est négociable — ruse, masque, silence — sauf entre eux deux. *Corollaire MJ : aucune option ne lui met jamais un mensonge à elle dans la bouche.*
 
 ### 6.3 · LES CHANTIERS SYSTÈMES — dus avant la scène 1 *(directives du joueur, 2026-08-18 — le détail se conçoit et se valide avant d'entrer dans `SYSTEMES.md`)*
