@@ -3,7 +3,7 @@
 # LES CENT VALLÉES — LE CONTENU MJ DE LA STRATE I
 
 > **Le monde neuf, ouvert le 2026-08-18** après l'archivage du civet. Construit sur les directives de `FONDATION` §3.6 et §6 : **vaste d'entrée** — *« 1 ville 1 village c'est pas un monde »* —, le voyage comme contenu, ~200 scènes dans la strate.
-> **PASSES 1 ET 2 FAITES** (l'armature, puis les axes de contenu §5-§13 servis **larges** — l'abondance est un principe, §5). Reste la **passe 3** : le tronc scellé, la vue, l'audit. ⛔ **On ne joue pas avant la fin de la passe 3** (errata §39).
+> **CONSTRUCTION COMPLÈTE — passes 1 à 4 faites, audit passé, feuille validée** *(2026-08-18)*. Passe 4, sur audit et décision du joueur : **le premier acte redessiné** — personne ne mise (§3.4), l'échine est la faim et le fil (§3.5) —, **elle dans le monde** (§2.2bis), **les vallées en détail** (§2.1bis). ⚑ **Prêt pour la scène 1.**
 
 ---
 
@@ -105,6 +105,26 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 *(D'autres vallées existent et se nomment quand la route les traverse — une par scène au plus, comme les PNJ.)*
 
+### 2.1bis · Les vallées en détail *(passe 4 — « vaste » se livre en monde, pas en table)*
+
+**LA GRANDE COUPE — Hautefoire, ~8 000 feux.** La ville. **Lieux** : la halle aux Cent Piliers (les grandes enchères), l'arène de la Coupe et son Mur des Prises, le quartier des courtiers, la douane qui pèse tout, les maisons du Fil Blanc et du Pavois d'Étain qui se font face sur la place haute. **Qui pèse** : les deux sectes, l'huissier des nœuds, Aymon et sa confrérie, la maîtresse d'armes. **Accroches** : le Tirage des Chartes (§6.17), l'examen du Fil Blanc (§8.8), le Grand Portage (E7) — et tout ce qui se vend finit ici.
+
+**LE LONG PRÉ — le bourg des Haras, ~600 feux, et vingt hameaux d'élevage.** L'herbe, les bêtes de trait d'esprit, les foires. **Lieux** : les haras des lignées, le Gué des Bêtes, les silos, le champ de foire d'automne. **Qui pèse** : trois lignées de dresseurs qui se marient entre elles depuis toujours et se détestent pareil. **Accroches** : le Taureau (§7.3), la Mère des Rats (§7.14), le Silo Noir (§6.15), la tonte (§8.13) — et le fouet de trait qu'aucun argent n'achète (§5.1.30).
+
+**LA VALLÉE DES FOURS — les Terrasses, ~700 feux étagés dans la fumée.** L'air pique, les pluies sont noires, tout le monde tousse et tout le monde est riche. **Lieux** : les fours-mères en terrasses, le filon de fil-d'or-froid, la halle au métal. **Qui pèse** : le maître des Fours et la Voie des Fours, les syndics du charbon. **Accroches** : le Fondeur (§7.5), le Four-Mère (§6.7), la traversée de fumée (E3) — et la matière du cran 4 de ⟨LE FIL⟩ dort ici (§6.6).
+
+**LA SALINIÈRE — le bourg-galerie, ~500 feux, la moitié sous terre.** Les lampes à sel, les concessions, les poumons courts. **Lieux** : les galeries concédées, la chambre de sel, le fond de mine, le marché noir du Feu-de-Mine. **Qui pèse** : les concessionnaires, et ce qui se vend sous le manteau. **Accroches** : le Sel-qui-Marche (§7.6), le sel-roi (§5.1.29), deux réclusions de premier ordre (§10.3-10.4).
+
+**LA VALLÉE NOYÉE — le bourg des Pilotis, ~800 feux au-dessus de l'eau.** Le lac monte et descend sans marée connue ; on bâtit haut et on prie bas. **Lieux** : les villes sur pilotis, la maison-île des Sœurs, les cloches englouties, l'à-sec qui découvre. **Qui pèse** : les Sœurs du Lac, les patrons-pêcheurs. **Accroches** : le Vieux (§7.10), le Noyeur (§7.15), la Truite-Mère (§7.4), la Fonte de printemps (§6.5), l'île de l'à-sec (§10.5).
+
+**LA COMBE AUX ICÔNES — le cloître et son bourg-parvis, ~400 feux.** La mémoire des morts, les processions, les interdits. **Lieux** : le grand cloître, la crypte des nœuds, le bûcher des Adieux, le Mélèze-Roi à l'adret. **Qui pèse** : le cloître — personne ne lui doit rien, tout le monde lui doit tout. **Accroches** : l'Abbé Couché (§7.7), l'ordalie et son Carreau (§8.11, §5.2.1), la veillée qui fait des atouts (§8.14), la Saignée dont **la décennie approche** (§6.16).
+
+**LES CLOCHES MORTES — le hameau des Sonnailles, ~60 feux, au pied des temples.** Plus haut, personne ne vit : des temples effondrés au-dessus des arbres, et un silence qu'on remarque. **Lieux** : l'escalier aux mille marches rompues, les tombes hautes, la tombe qui se loue en rêve (§10.7 — réprouvée). **Accroches** : le Carillonneur (§7.8) et sa Cloche (§5.2.2) — les nuits sans lune, les Sonnailles dorment mal.
+
+**LA VALLÉE MUETTE — pas de bourg : trois auberges qui chuchotent.** Les caravanes la traversent vite, les vieux la contournent, et le col Muet (E6) se passe sans un mot — l'usage a une raison que personne ne donne. **Accroches** : la Nuit Muette (§6.12), la Nichée (§7.17) — **ligne mort écrite d'avance**.
+
+**LA DERNIÈRE MARCHE — la Dernière Auberge, 9 feux.** La plus haute, la plus vide. Au fond, **le seuil** — le passage de strate dont personne ne redescend rien dire (`FONDATION` §2.1). **Lieux** : le dernier pâturage, le relais, le sentier qui monte et que l'auberge ne regarde pas. **Accroches** : le Bouc (§7.12), le pâturage en réclusion (§10.8) — et la fin de la strate, le jour venu.
+
 ### 2.2 · La Vallée qui File — le départ
 
 **Le bourg de Fuseau**, ~900 feux, étagé au-dessus d'une rivière froide. La soie d'esprit a fait sa gloire il y a trois générations ; les grandes commandes sont parties vers la Grande Coupe, les ateliers tournent à moitié, et la vallée vit sur son nom plus que sur ses carnets.
@@ -119,7 +139,24 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 **Qui pèse quoi à Fuseau** : le syndic de la halle (**Norbert**, 120, blanc) · la doyenne des teinturiers (**Sidonie**, 80) · le porteur du Portefaix (**Gaspard**, 1 800, bleu) · deux disciples de la secte du Fil Blanc en résidence (300-500) · et la milice, vingt hommes de chanvre.
 
-**Le calendrier** : le rite du printemps (§3) · la vente d'été à la halle · **la Montre des Cols** à l'automne (§3.5) · l'hiver qui ferme tout.
+**Le calendrier** : le rite du printemps (§3) · la vente d'été à la halle · **la Montre des Cols** à l'automne (§8.1) · l'hiver qui ferme tout.
+
+### 2.2bis · ELLE DANS LE MONDE *(passe 4 — l'audit avait raison : elle n'était nulle part)*
+
+**La lecture sociale d'un familier-proie, partout dans l'archipel** : *pire que rien*. Concrètement, et c'est de la matière à scènes (`FONDATION` §3.5 — avant le palier C, l'axe `bete` se sert par ce que le monde lui fait) :
+
+- **la pesée d'embauche la compte pour zéro** — on pèse la paire, on lit un, on sourit ;
+- **les aubergistes de col font payer « la bête »** — une maille, le tarif des chiens ;
+- **l'arène de Hautefoire affiche des cotes** — et une proie en écurie, ça se parie *contre*, par principe et pour rire ;
+- **le Fil Blanc a un règlement** : pas de proies dans l'enceinte — on la laisse à la porte, au piquet, comme un âne ;
+- **les dresseurs du Long Pré sont les seuls qui regardent vraiment** — en connaisseurs, et ce qu'ils voient les fait se taire, ce qui est pire ;
+- **les gamins de partout** — on lui court après, on veut la porter, on la lâche quand ça mord.
+
+**Le mortier — les destinataires possibles** *(le produit de son pilage ne vaut que donné à quelqu'un d'autre, et le destinataire est son choix à elle, jamais négociable — `FONDATION` §3.4)* : **Berthe** et ses mains usées · **Perrine** et son orgueil affamé · les **apprentis de la halle** · le **passeur des Trois Ponts** · une **Sœur du Lac** de passage · un **mineur aux poumons courts** · un **porteur cassé** de la Roue. *Le monde en offre à chaque vallée — elle pose la chose devant qui elle veut, et c'est tout (avant C : un geste, jamais un argument).*
+
+**Ce qui s'achète pour elle** *(le carburant du palier C — `SYSTEMES` §4.1 : un achat pour elle compte toujours)* : **le mortier de rivière** — 12 pierres, « le premier vrai outil de la bête » · **le feutre taillé à sa taille** — 3 pierres · **la part de gelée des Ruches** — 1 pierre la noix · **le panier de barge doublé** — 20 taels. *Un monde qui ne lui vend jamais rien lui refuse le palier — celui-ci vend.*
+
+**Sa chasse** : l'échelle des proies (§7) est son garde-manger — toujours au-dessus de sa dernière prise, un cran dans la scène même.
 
 ### 2.3 · Seb avant le rite
 
@@ -161,21 +198,26 @@ Dans la même salle, dans l'heure. Chacun **noue en anneau une longueur de son p
 4. Les recruteurs remontent en selle **dans les dix minutes**. Le surnom colle avant le soir : **« le Fileur »** — celui qui a tout filé et rien tissé. *(Le titre de campagne, à renommer quand elle devient autre chose — `FONDATION` §5.2.)*
 5. **Il en reste une** (§3.4).
 
-### 3.4 · La maison du Dernier Col — le parieur
+### 3.4 · PERSONNE NE MISE — la chute est entière *(refonte du 2026-08-18 : l'audit a montré que le parieur, la mise et l'horloge du civet étaient revenus en habits neufs ; le joueur a tranché — on garde le sommet-puis-la-chute, **rien d'autre**)*
 
-**Le col des Aiguilles est fermé depuis dix-neuf ans** — depuis que la maison qui le tient n'a plus de porteur au rang de la Montre (§3.5). Une maison de col sans col vivant est une maison qui meurt : il leur reste **la charte** (le nœud scellé du droit de péage, vieux de deux cents ans), l'auberge de crête qui se vide, **et cent quatre-vingts pierres d'esprit** — tout ce que trois générations ont mis de côté.
+**Personne ne le ramasse.** Pas de recruteur qui reste, pas de secte qui parie, pas de maison mourante qui pose ses dernières pierres sur la table. La salle a vu le plus grand potentiel jamais filé, puis elle a vu le lapereau, et elle a conclu — *un attelage qui ne tirera jamais* — et elle est rentrée dîner. **C'est ça, la chute : pas un ennemi, pas une dette. L'indifférence totale d'un monde qui a déjà décidé.**
 
-**Ils sont trois** : **Armande**, 74 ans, cheffe de maison, qui lit les nœuds mieux que le cloître · **Basile**, 68, son frère, ancien porteur, une jambe raide · **Perrine**, 22, la petite-fille, dernière du nom, chanvre, têtue.
+Et lui reste debout dans la salle vide avec deux choses que personne n'a voulues : **une bête de trente centimètres, et rien à devoir à personne.** *Le monde n'a pas misé sur moi ? Parfait. Je ne lui dois rien.* — c'est le seul cadeau de la soirée, et c'est exactement celui qu'il fallait à ses quatre moteurs (`FONDATION` §6.2).
 
-**Le soir du rite, Armande pose les cent quatre-vingts pierres sur la table de l'atelier Berthe.** Elle a vu le fil. Elle est la seule de la salle à avoir regardé **la bobine vide** plutôt que le lapereau. Son pari : *un potentiel pareil, même attelé à une proie, vaut plus que tout ce que cette vallée reverra jamais.*
+**Une seule chose disparaît cette nuit-là : son fil.** Le fil que le Cadre a tiré — trois marches de fil hors de la salle, que tout le monde a enjambé en sortant — **n'est plus là au matin.** Ramassé, lové, emporté. Par qui, le bourg l'ignore ; ce que ça veut dire, un tisseur le sait mieux que personne : *dans un monde où tenir le fil de quelqu'un, c'est tenir une créance* — **quelqu'un, quelque part, tient des longueurs de ce qu'il peut devenir.**
 
-**Ce qu'elle achète : la Montre des Cols, dans un an et demi** — un porteur qui place la maison, et le col des Aiguilles qui rouvre. **C'est le contrat entier** : ils misent, il rend la Montre. Pas d'arc « sauver la maison », pas de culpabilité jouée — la règle civet reconduite (`FONDATION` §5.1) : *l'endroit qui te porte jusqu'à l'épreuve, et que tu quitteras ensuite.*
+**Berthe est la seule dette qu'il reconnaît** : trois ans de toit, de table et de métier. Elle se solde — à sa façon, quand il veut, comme il veut. Donnant-donnant. *(Aucun contrat, aucune horloge imposée : Berthe ne demande rien, et c'est bien pour ça que ça compte.)*
 
-### 3.5 · La Montre des Cols — la colonne vertébrale des ~50 premières scènes
+### 3.5 · L'ÉCHINE — la faim, et le fil
 
-**Tous les dix-huit mois, les maisons de col se mesurent** — c'est la Montre : un circuit, **col après col, à travers l'archipel**, où chaque maison présente un porteur. On y gagne **l'ordre des péages** : qui prélève en premier sur la Grand-Traverse, qui ferme quand, qui pèse. Une maison sans porteur classé perd son rang ; à deux Montres sans rang, **sa charte se dénoue** — c'est ce qui pend au nez du Dernier Col.
+Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont à lui :**
 
-**Pourquoi c'est la bonne échine** : la Montre **est un voyage** — elle traverse les vallées (le contenu se trouve en couvrant du pays, `FONDATION` §3.6), elle est datée (l'échéance tire), elle est publique (les bandes, les foires, l'arrogance), et chaque col est un monde. *Les étapes, épreuves et maisons rivales de la Montre : passe 2.*
+1. **Elle doit manger au-dessus de sa dernière prise** (`FONDATION` §3.3) — et l'échelle des proies (§7, de 800 à 45 000) est **répartie sur tout l'archipel**. Sa montée à elle **est** une carte de voyage : chaque cran est dans une autre vallée. Il choisit la proie, il choisit la route, il choisit le rythme.
+2. **Son fil circule** — des longueurs de son propre potentiel, dans des mains inconnues. Les retrouver, c'est son affaire à lui, et personne d'autre ne s'en chargera. *(Où mène ce fil : le tronc. Comment ça s'allume : les mèches.)*
+
+**Autour, le monde a ses propres horloges** — la Montre des Cols (§8.1), l'encan des chartes, la course du dégel, la décennie du Mélèze-Roi — et **aucune n'est la sienne** : ce sont des **occasions**, affichées, datées, qu'il saisit ou laisse passer. L'abondance est le principe (§5) : il choisit, il renonce, rien ne remplace.
+
+**La maison du Dernier Col existe toujours** — Armande, 74 ans, qui lit les nœuds mieux que le cloître · Basile, 68, ancien porteur, une jambe raide · Perrine, 22, dernière du nom, têtue — avec leur col fermé depuis dix-neuf ans, leur charte qui se dénouera à la prochaine Montre faute de porteur, et leurs cent quatre-vingts pierres que personne ne mise sur personne. **C'est du monde, pas un contrat.** Armande a regardé la bobine vide plus longtemps que tout le monde, et elle n'a rien dit. *(Ce qu'elle sait, ce qu'elle tient : le tronc.)*
 
 ---
 
@@ -326,7 +368,9 @@ Dans la même salle, dans l'heure. Chacun **noue en anneau une longueur de son p
 
 ## 8 · LES RITES ET EXAMENS — 18, DONT LA MONTRE
 
-### 8.1-8.7 · LA MONTRE DES COLS — les sept étapes *(l'échine des ~50 premières scènes, §3.5)*
+### 8.1-8.7 · LA MONTRE DES COLS — les sept étapes *(le grand rendez-vous des maisons de col — **une occasion du monde, pas son contrat** : il s'y inscrit si une maison le présente ou s'il rachète une place, ou il n'y va pas du tout, §3.5)*
+
+**Tous les dix-huit mois, les maisons de col se mesurent** : un circuit col après col, à travers l'archipel. On y gagne **l'ordre des péages** — qui prélève en premier sur la Grand-Traverse, qui ferme quand, qui pèse. Une maison sans porteur classé perd son rang ; à deux Montres sans rang, **sa charte se dénoue**. La prochaine se court **à l'automne**.
 
 | | Étape | L'épreuve |
 |---|---|---|
@@ -476,6 +520,6 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | `arrogance` | **§11** (5 sectes, 10 figures, registres variés) |
 | `art` | **§12** (⟨LE FIL⟩ cran par cran + 11 arts d'en face) |
 | `noir` | **§13** (3 voies) · §5.1.26-30 (ce qui se vole) · §6.10, §6.17, §6.23 |
-| `bete` | chaque scène (règle dure) — et §7 comme échelle de nourriture (`FONDATION` §3.3) |
+| `bete` | chaque scène (règle dure) — **§2.2bis** (le regard du monde, le mortier, ce qui s'achète pour elle) · §7 comme échelle de nourriture (`FONDATION` §3.3) |
 | `atout` | §8.14 (la veillée) · §8.16 (la sente) · les maisons de col rencontrées en Montre · Berthe, Armande |
 | `corps` | §6.1, §6.2, §6.7, §6.9, §6.19 (occasions taillées dans le paysage) · §10.3, §10.8 (réclusions de chair) |
