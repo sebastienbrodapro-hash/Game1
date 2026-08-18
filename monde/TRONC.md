@@ -10,7 +10,7 @@ Les Cent Vallées ne sont pas un accident de montagne : les crêtes sont **le ca
 
 ## 2 · Le Cadre et le fil de Seb
 
-Le Cadre ne s'est pas vidé : **il s'est arrêté** — il a cessé de filer parce qu'il a reconnu quelque chose dans ce sang-là, et ses bobines ne se vident pas. Le fil tiré ce jour-là — trois marches de fil de potentiel pur — **n'a pas tous été brûlé au rite** : l'anneau n'en a pris qu'une longueur. Le reste a été ramassé dans la nuit. **Trois mains en tiennent** : Armande (une brasse, dans le coffre aux chartes), le cloître (une coudée, montée aux Icônes sans un mot), et une troisième que personne n'a vue. Un fil de potentiel se tisse, se vend, ou **s'absorbe** — et le sien vaut ce que vaut son porteur.
+Le Cadre ne s'est pas vidé : **il s'est arrêté** — il a cessé de filer parce qu'il a reconnu quelque chose dans ce sang-là, et ses bobines ne se vident pas. Le fil tiré ce jour-là — une douzaine de mètres de fil de potentiel pur — **n'a pas tout été brûlé au rite** : l'anneau n'en a pris qu'une longueur. Le reste a été ramassé dans la nuit. **Trois mains en tiennent** : Armande (deux mètres, dans le coffre aux chartes), le cloître (un demi-mètre, monté aux Icônes sans un mot), et une troisième que personne n'a vue. Un fil de potentiel se tisse, se vend, ou **s'absorbe** — et le sien vaut ce que vaut son porteur.
 
 ## 3 · Elle
 
@@ -18,7 +18,7 @@ Le rite n'est pas allé chercher un lapin dans les murets : le fil était sans f
 
 ## 4 · Le col des Aiguilles
 
-Le col n'a pas été fermé par le Chien : **il a été fermé PAR la maison, et le Chien posé dessus**. Il y a dix-neuf ans, les mineurs du versant nord ont percé une galerie dans quelque chose de tissé — une poche de l'ouvrage (§1) — et ce qui suintait rendait les bêtes folles. Le père d'Armande a acheté le silence, dénoué son propre rang à la Montre pour que plus personne ne monte, et posé le Chien (la bête liée de la maison, 6 500) en garde. **Armande sait.** Elle n'a rien misé sur le garçon — mais c'est elle qui tient **la brasse de son fil** (§2), et pas pour la vendre : pour avoir barre le jour où il vaudra quelque chose. Parce qu'une charte dénouée rendrait la galerie à qui la trouve, et qu'il lui faudra ce jour-là **une main assez forte pour tenir le col rouvert** — la sienne ne l'est plus.
+Le col n'a pas été fermé par le Chien : **il a été fermé PAR la maison, et le Chien posé dessus**. Il y a dix-neuf ans, les mineurs du versant nord ont percé une galerie dans quelque chose de tissé — une poche de l'ouvrage (§1) — et ce qui suintait rendait les bêtes folles. Le père d'Armande a acheté le silence, dénoué son propre rang à la Montre pour que plus personne ne monte, et posé le Chien (la bête liée de la maison, 6 500) en garde. **Armande sait.** Elle n'a rien misé sur le garçon — mais c'est elle qui tient **les deux mètres de son fil** (§2), et pas pour la vendre : pour avoir barre le jour où il vaudra quelque chose. Parce qu'une charte dénouée rendrait la galerie à qui la trouve, et qu'il lui faudra ce jour-là **une main assez forte pour tenir le col rouvert** — la sienne ne l'est plus.
 
 ## 5 · La Muette
 

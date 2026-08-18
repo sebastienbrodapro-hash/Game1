@@ -44,6 +44,14 @@
 
 ---
 
+## 0.3 · LES UNITÉS SONT MÉTRIQUES *(tranché par le joueur, 2026-08-18)*
+
+- **Les longueurs en centimètres, mètres, kilomètres.** Jamais de coudées, brasses, pas, lieues, toises, pouces — ni en prose, ni en fiche, ni au canon. *(Les noms propres restent : la maison de la Toise est un nom, pas une mesure.)*
+- **La force se dit en poids** : grammes, kilos, tonnes. Ce qu'un corps soulève, arrête, tire ou casse s'écrit en masse réelle — jamais en images vagues.
+- Les distances de voyage peuvent rester en **jours de marche** (c'est du temps, pas de la longueur) — mais un « jour de marche » vaut **~30 km**, et le kilomètre est toujours disponible.
+
+---
+
 ## A · AVANT D'OUVRIR UNE SCÈNE
 
 - **« Qu'est-ce qui peut mal tourner ici ? »** Si la réponse est *« rien, il va apprendre un truc »* → ce n'est pas une scène (§31). C'est une ligne de fiche.

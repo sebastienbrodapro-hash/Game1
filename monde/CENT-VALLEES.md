@@ -174,8 +174,8 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 **Un métier à tisser d'avant la mesure**, haut comme deux hommes, remisé à la maison de la Toise. Une fois l'an, au printemps, la cohorte des dix-huit ans passe devant lui, un par un. On pique le doigt, une goutte au peigne, et **le Cadre tire le fil** — il file de vous ce que vous pourriez devenir.
 
-- La plupart : **une main de fil**. Un apprenti prometteur : **une coudée**. Un génie de secte : **une brasse** — on descend alors de la Grande Coupe pour venir le voir.
-- Le record des Cent Vallées, il y a cent soixante ans : **onze pas de fil**. La maison qui l'a produit en vit encore.
+- La plupart : **une vingtaine de centimètres de fil**. Un apprenti prometteur : **un demi-mètre**. Un génie de secte : **deux mètres** — on descend alors de la Grande Coupe pour venir le voir.
+- Le record des Cent Vallées, il y a cent soixante ans : **huit mètres de fil**. La maison qui l'a produit en vit encore.
 - **Une fois dans une vie.** Le Cadre ne refile jamais le même sang.
 
 **Sur Seb : le fil court.** Il traverse la salle, passe la porte, descend trois marches — et quand il s'arrête, ce n'est pas parce que le fil finit : **c'est la bobine du Cadre qui est vide.** Personne n'a jamais vu le Cadre à vide. Personne ne sait combien il aurait filé.
@@ -280,7 +280,7 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 14. **la fourrure de l'Hivernant** (§7.16) — elle porte la foudre sans la rendre.
 
 **Ce qui se trouve dans un lieu** *(§6 — les chances rendent de la matière, pas de l'or)* :
-15. **le fil-d'or-froid** (§6.6) — le fil de métal qui coupe : **la matière du ⟨FIL⟩ cran 4**. ~20 pierres la brasse, quand il s'en vend.
+15. **le fil-d'or-froid** (§6.6) — le fil de métal qui coupe : **la matière du ⟨FIL⟩ cran 4**. ~10 pierres le mètre, quand il s'en vend.
 16. **les maillons du Vieux Pont** (§6.13) — matière de graveur, chargée d'âge.
 17. **les glaces noires du fond de mine** (§10.4).
 18. **la cendre des Adieux** (§6.10) — ce qui était chargé le reste.
@@ -318,7 +318,7 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 3. **les Ruches de l'adret** *(Long Pré)* — la cire à sceaux et la gelée qui charge le sang. Mord : l'essaim, la chute.
 4. **le Grenier aux Cocons** *(File, futaie haute)* — des cocons d'esprit sauvages. Mord : ce qui les garde (§7.1), et la futaie qui tourne — on ressort ailleurs qu'on est entré.
 5. **la Fonte de printemps** *(Noyée)* — plonger aux cloches englouties à l'à-sec. Mord : l'apnée, la vase, le Vieux (§7.10).
-6. **le filon de fil-d'or-froid** *(Fours)* — en tirer une brasse à main nue. Mord : le fil coupe les doigts qui le tirent, et la galerie est disputée.
+6. **le filon de fil-d'or-froid** *(Fours)* — en tirer deux mètres à main nue. Mord : le fil coupe les doigts qui le tirent, et la galerie est disputée.
 7. **le Four-Mère** *(Fours)* — tenir la chambre de chauffe sept jours avec les tuiles. Trempe sèche, brûlures franches. Le maître laisse entrer qui stoke — c'est sa seule morale.
 8. **la Corde des Aiguilles** *(File)* — traverser le col fermé par la sente des chèvres. Mord : ce qui a fermé le col (§7.2), le vide, l'hiver.
 9. **le Champ de Foudre** *(crêtes du nord)* — tenir un orage debout. Mord : **ligne mort**, simple et vraie. L'Hivernant y chasse (§7.16).
