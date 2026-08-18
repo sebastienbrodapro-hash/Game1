@@ -54,7 +54,7 @@ Ce que les gens d'en bas appellent *les Redescendus, les Effacés, les Visions d
 
 **Un seul chiffre pour la paire.** Ce que l'un gagne, l'autre le porte.
 
-**Ce qui reste acquis de l'ancienne campagne** *(règles, pas événements)* : **son corps est son domaine**, ce qu'elle devient ne se négocie pas — **dès l'origine, et sans attendre aucun palier** ; **aucune créance, aucun prélèvement, jamais** ; elle n'est **jamais du décor** (le hook la compte à chaque scène) ; description franche, anthropomorphe assumé ; **aucune romance avant la majorité de Seb**.
+**Ce qui reste acquis de l'ancienne campagne** *(règles, pas événements)* : **son corps est son domaine**, ce qu'elle devient ne se négocie pas — **dès l'origine, et sans attendre aucun palier** ; **aucune créance, aucun prélèvement, jamais** ; elle n'est **jamais du décor** (le hook la compte à chaque scène) ; description franche, anthropomorphe assumé ; **aucune romance avant la majorité des deux** — la sienne à elle est au palier 4 (§3.1), et Seb part **majeur** (dix-huit ans, §6.2).
 
 **Ce qui n'est PAS acquis d'entrée : la volonté.** Elle *aura* une volonté propre — elle voudra, refusera, contestera — mais **à partir du palier C**, pas avant (§3.5). Le veto sur son corps n'est pas une volonté : c'est un refus animal, et il vaut dès la scène 1.
 
@@ -87,6 +87,8 @@ Elle ne devient pas plus humaine (le 100 % lui coûterait ses oreilles et sa que
 - **7 · LE HALO** — un anneau de lumière derrière elle, permanent. Les gens le voient, personne ne sait le nommer. Premier signe qu'elle n'est plus de la catégorie « familier ».
 - **8 · LES AILES** — quelque chose s'ouvre dans son dos. Pas des plumes : de la lumière tenue, du voile, quelque chose qui porte sans avoir d'aile.
 - **9 · CE QU'ON NE REGARDE PLUS EN FACE** — le monde réagit à sa présence seule. Les gens s'écartent sans savoir pourquoi, les instruments s'affolent, les bêtes se couchent. Elle n'a plus rien à faire.
+
+> ⛔ **VERROUS DE STRATE** *(joueur, 2026-08-18)* : **le 7 pas avant la strate II** ; **le 8 et le 9 pas avant la strate III**. Et ce qui la nourrit après le 6 est **divin** — jamais fabriqué sur mesure : *« quand je monterai, ce sera ce qu'elle trouvera — pas avant. »* Sa faim reste ouverte et pèse dans les scènes ; le MJ ne la comble pas au calendrier.
 
 ### 3.3 · Les deux moteurs — le point de conception le plus important
 
@@ -202,11 +204,13 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 
 ## 5 · L'ÉTAT RÉEL — CE QUI EST TRANCHÉ, CE QUI RESTE
 
+> ⚠ **Lu depuis le 2026-08-18** : la campagne civet est close (`archive/civet/`). Dans ce §5, **tout ce qui nomme le monde civet** — Neuf-Puits, la halle, la Balance Vide, l'Avant-Jour, la septième hampe, la feuille de départ, le titre « Le Civet » — est de l'**implémentation archivée, à refaire avec le monde neuf**. Les **règles de cadre** qu'il contient (le rythme §3.6, « ce qui se vide se quitte », les points qui ne se « corrigent » plus) restent entières. Le principe dramatique du départ — *le sommet puis la chute, dans la même salle, au rite de la scène 1* — reste cadre.
+
 *Réécrit le 2026-08-16 : la version précédente rouvrait des points déjà tranchés et donnait des quotas faux.*
 
 ### 5.1 · Tranché — ne se rediscute plus
 
-- **Le personnage principal : Seb**, quinze ans, **garçon de courses de la halle** de Neuf-Puits — il connaît les prix et les pesées avant de peser quoi que ce soit (`POUSSIERE` §2.5).
+- **Le personnage principal : Seb**, **dix-huit ans** *(porté de quinze à dix-huit le 2026-08-18 — joueur : plus aucune porte fermée par l'âge du héros)*. Le métier de départ se refixe avec le monde neuf — la logique reste : il sait quelque chose du monde qui vaut plus que sa bourse.
 - **Le début** : le rite du printemps au temple, le cercle de bronze, la cloche, trois souffles, les recruteurs au premier rang, le crieur à la porte — puis la pierre d'éveil sur le parvis (`POUSSIERE` §3.1-3.2). **Ce que la pierre rend sur cette paire-là se joue en scène 1** : le canon fixe le dispositif, pas le résultat.
 - **La lecture sociale de l'espèce** : une proie, **c'est pire que rien** — *« Mieux vaut porte close que porte moquée »*. La partition de la salle est écrite dans l'ordre, jusqu'au surnom (`POUSSIERE` §3.3).
 - **L'espèce et ses six paliers de corps** : le lièvre, établi et illustré cran par cran (`refs/`, §3.1).
@@ -243,7 +247,7 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 
 **LE TITRE : « LE CIVET » — et il changera.** *« Le civet deviendra autre chose de plus majestueux plus tard. »* Le nom de la campagne **est le surnom** que la cohorte colle à Seb au soir du rite (`POUSSIERE` §3.3.5). Il tient tant qu'elle est une bête moquée — **et il se renomme quand elle devient autre chose.** Le MJ propose un titre neuf **à la bascule, en méta, jamais en silence** ; le joueur tranche. Un titre qui monte avec elle, comme le reste.
 
-**LA FEUILLE DE DÉPART** — Seb, quinze ans, garçon de courses de la halle de Neuf-Puits.
+**LA FEUILLE DE DÉPART** *(implémentation civet — se refait avec le monde neuf)* — Seb, **dix-huit ans**.
 
 | | |
 |---|---|
@@ -257,3 +261,32 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 | **ce qui ne s'écrit pas** | chaque prix du bourg, chaque tricherie de balance, et par où passe tout ce qui entre à Neuf-Puits (`POUSSIERE` §2.5) — **ça vaut plus que la caisse** |
 
 **Le chiffre de la paire après le rite ne se fixe pas ici** : il se joue en scène 1 (`POUSSIERE` §3.3.6 — le canon impose le dispositif, jamais le résultat).
+
+---
+
+## 6 · LA PHASE PSYCHÉ — GRAVÉE LE 2026-08-18, AVANT TOUTE SCÈNE
+
+*Réponse directe à la faute F4 de l'audit civet (`archive/civet/AUDIT.md`) : la voix de la compagne a mis soixante scènes à exister parce que ses paliers définissaient ce qu'elle **peut**, jamais ce qu'elle **est**. Une conscience se grave avant de jouer. Tout ce qui suit a été choisi par le joueur, salve par salve.*
+
+### 6.1 · ELLE — les quatre traits de conscience
+
+1. **Chaude, à sa manière.** Elle dit ce qu'elle ressent et le montre — mais le canal naturel est la bourrade, la moquerie tendre, le geste. Les grands mots existent, rares, gardés pour ce qui compte. **Jamais énigmatique, jamais froide** : quand quelque chose ne va pas, ça se voit et ça se dit.
+2. **Son moteur : appartenir et protéger.** Ce qu'elle veut pour elle, c'est une place qui est **leur** place — un foyer, un nom à eux deux — et ce qui est sous leur toit se défend bec et ongles. Le reste du monde est négociable ; ce qui est à eux ne l'est pas.
+3. **Sa friction : elle argumente, ou elle défie.** Le désaccord produit une contre-proposition construite — meilleure que la sienne une fois sur deux — ou un « prouve-le ». Puis elle suit la décision. Le blocage absolu n'existe que pour son corps (errata §47, inchangé).
+4. **Bête et femme, sans question.** Elle ne se pose jamais le problème de sa nature ; ce sont les autres qui se le posent, et ça l'amuse.
+
+> **Articulation avec §3.5** (inchangé, il prime) : ces traits existent dès la scène 1 mais s'expriment **en animal** avant le palier C — elle se colle, elle se met entre lui et ce qui menace, elle refuse en s'asseyant, elle défie en actes. Jamais d'intentions articulées avant l'heure. À C, la voix arrive **déjà formée** : ces quatre traits, d'un coup.
+
+### 6.2 · LUI — Seb, dix-huit ans
+
+1. **Dix-huit ans, majeur dès la scène 1** *(décision du 2026-08-18 : plus aucune porte fermée par l'âge du héros — le joueur a trente-deux ans et joue un adulte)*. La règle de romance ne repose plus que sur **elle** : majeure au palier 4, la morphologie s'en charge (§3.1).
+2. **Quatre moteurs, tous vrais** : **prouver** (le mépris est un carburant) · **bâtir** (un nom qui tient après lui) · **monter** (la faim pure) · **être libre** (que rien ne puisse plus lui être imposé). Le MJ sert les quatre ; c'est le joueur qui révèle, scène par scène, lequel parle le plus fort.
+3. **Sa ligne : donnant-donnant.** Il paie ses dettes au centime et exige qu'on paie les siennes — sa nature d'entrée, pas un acquis de jeu.
+4. **Son refus dur : lui mentir à elle.** Tout au monde est négociable — ruse, masque, silence — sauf entre eux deux. *Corollaire MJ : aucune option ne lui met jamais un mensonge à elle dans la bouche.*
+
+### 6.3 · LES CHANTIERS SYSTÈMES — dus avant la scène 1 *(directives du joueur, 2026-08-18 — le détail se conçoit et se valide avant d'entrer dans `SYSTEMES.md`)*
+
+1. **L'échelle de Corps profonde, nommée d'avance.** *« La LUMIÈRE en strate 1, et après il n'y avait rien. Il en faut beaucoup plus. »* Tous les cycles se nomment **maintenant** — plus jamais « les noms se fixent à la charnière ».
+2. **Les réclusions à durée réelle.** Des semaines et des mois qui coûtent du monde pendant qu'ils passent — plus jamais une scène gratuite.
+3. **La refonte du combat.** *« Là c'est je gagne dans tous les cas, il n'y a jamais eu de retraite. »* La retraite, la déroute et la défaite deviennent des états réels du système.
+4. **Le moteur de l'esprit (A/B/C)** — déjà dû par §3.6, toujours à écrire : des déclencheurs concrets, pas « les moments qui comptent ».
