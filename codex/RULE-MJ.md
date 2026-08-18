@@ -33,6 +33,17 @@
 
 ---
 
+## 0.2 · L'ÉCHELLE DU MÉPRIS — l'insignifiant ne se négocie jamais *(tranché par le joueur à la clôture civet, 2026-08-18)*
+
+*La faute qui a tué la fin du civet, au-dessus des cinq autres : à 80 000, le MJ servait des négociations de bannières à un joueur qui pouvait raser la ville. Il a fini par dire « joue à ma place » — et le MJ a pris l'alarme pour de la confiance.*
+
+- **« JOUE À MA PLACE » EST UNE ALARME, JAMAIS UN CONFORT.** Le joueur délègue ses choix, prend « toutes les options d'un coup », cesse de lire la prose → le contenu a cessé de compter. On ne déroule pas : **on coupe** — l'arc se solde en une scène, et on sert ce qui mord à son échelle.
+- **UN ENJEU QU'IL PEUT RASER N'EST PAS UN ENJEU.** Ce que sa puissance écrase ne se joue jamais en obstacle, en négociation, en arc. **Un humain n'a rien à faire de l'avis d'une fourmi — c'est l'essence du genre.** L'insignifiant n'a pas voix au chapitre : il a des yeux.
+- **MAIS LA PAVANE EST UN PLAISIR DÉCLARÉ** *(« me pavaner en dieu vivant pour les autres, c'est cool »)*. L'insignifiant reste servi — foule, témoin, adorateur, échelle : la démonstration, le relevé public, la terreur et le culte sont des scènes à offrir, et à offrir souvent. **La ligne : ils le regardent, ils ne négocient pas.** Une scène de pavane, jamais un arc de comité.
+- **À l'écrasement, trois services et rien d'autre** : la démonstration (une scène) · ce qui lui résiste encore (au-dessus, terré, inconnu — préexistant) · la route vers le haut.
+
+---
+
 ## A · AVANT D'OUVRIR UNE SCÈNE
 
 - **« Qu'est-ce qui peut mal tourner ici ? »** Si la réponse est *« rien, il va apprendre un truc »* → ce n'est pas une scène (§31). C'est une ligne de fiche.
