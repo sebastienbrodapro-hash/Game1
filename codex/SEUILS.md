@@ -75,11 +75,33 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 
 **C'est LA COUCHE qui compte, pas le grade** — et elle monte le chiffre **dans la scène même** (§51). Unités de la strate I. *(Tranché par le joueur le 2026-08-16, sur faute.)*
 
-**⛔ L'ÉCHELLE NE S'ARRÊTE JAMAIS.** Chaque grade vaut **×10** le précédent, indéfiniment. Les grades se nomment par **cycles de quatre** (= ×1000 = la conversion entre strates) ; le cycle II s'ouvre à LA LUMIÈRE achevée — **+400 000 · +4 M · +40 M · +400 M** — et **ses noms se fixent à la charnière, jamais d'avance** (§39). *Seb ne cultive pas : un plafond sur le Corps serait un plafond sur lui (§E.0).*
+**⛔ L'ÉCHELLE NE S'ARRÊTE JAMAIS.** Chaque grade vaut **×10** le précédent, indéfiniment — cycles de quatre (= ×1000 = une strate). **Tous les cycles sont nommés d'avance** *(2026-08-18)* : **II** LA FOUDRE · LA LUNE · LE SOLEIL · LE FIRMAMENT (**+400 k · +4 M · +40 M · +400 M**) · **III** L'ÉTOILE · LE FLEUVE D'ÉTOILES · LE VIDE · L'AUBE · **IV** LE MOT · LA TRAME · LA LOI · LE PEU (`SYSTEMES` §1.0). *Un plafond sur le Corps serait un plafond sur lui (§E.0).*
 
 **Invariants de conduite maintenus** (ils ne décrivent aucun monde) :
 **AUCUN PLAFOND SUR LE PORTEUR — ce qui sature, ce sont les instruments.**
 **Aucun plafond à l'intérieur d'une strate.** Arriver au plafond de la strate suivante n'est pas un défaut à corriger.
+
+## LE COMBAT — RÉGIMES ET FENÊTRES
+
+**Le régime se lit sur la puissance ENGAGÉE** — max( chiffre · poids d'objet · portée d'art dans son domaine ), des deux côtés (`SYSTEMES` §5).
+
+| Strate | « à hauteur » | écrasement dès |
+|---|---|---|
+| **I** | ×⅔ – ×1,5 | **×1,5** |
+| **II** | ×½ – ×2 | **×2** |
+| **III** | ×⅓ – ×3 | **×3** |
+| **IV** | ×⅕ – ×5 | **×5** |
+
+**Échanges : 1 à 5** · un jet par échange · **01-25 : son coup à lui passe** · **bascule : 2 mauvaises bandes d'affilée** → le bloc n'offre plus que des sorties · **la retraite renchérit d'échange en échange**.
+**Écrasement : victoire gratuite** — jet seulement sur vraie question ; perdre/fuir n'existent pas. **Au-dessus : l'intention se scale** — survivre, marquer, retarder, voler, fuir.
+
+## L'ESPRIT DE LA COMPAGNE — MOMENTS COMPTÉS
+
+**A = 2 · B = 3 · C = 4** moments, notés à la fiche (`esprit B 2/3`). Familles et auto-qualifiants : `SYSTEMES` §4.0. **C au plus tard vers ~30-35.**
+
+## RÉCLUSIONS — DURÉE RÉELLE
+
+**Une lune = un gain de ligne** (couche, cran, raffinage × les nuits) · **une saison = deux** · un an = trois à quatre · **un seul jet, à la sortie** · **le monde bouge : 1-2 évolutions imprimées par lune.**
 
 ## FORMAT DE FICHE — OBLIGATOIRE
 

@@ -169,23 +169,21 @@ Le psy avait signalé trois risques dans `monde/POUSSIERE.md`. Le joueur en a é
 - **« DEVINETTE » NE COUVRE QUE L'ÉNIGME À RÉSOUDRE.** *(Tranché le 2026-08-16.)* Une protection qui oblige à **savoir où elle est, quand exactement, ou laquelle c'est** avant de pouvoir frapper **n'entre pas dans l'exception** : c'est une énigme au sens de l'errata §31, et §31.3 y range explicitement les problèmes de dates et de moments. Toute proie ou chance qui repose là-dessus doit voir sa protection **retournée en obstacle physique ou de terrain**.
 - **LA PROIE QU'IL FAUT IDENTIFIER RESTE, ET ELLE RESTE SEULE.** *« 1 devinette me tuera pas. »* Sur quinze proies, **une** demande d'être reconnue avant d'être frappée — et c'est précisément parce qu'elle est unique qu'elle vaut : une exception qui fait ressortir les quatorze autres, pas un mode de jeu. **Aucune seconde du même genre ne s'ajoute**, dans cette strate ni dans les suivantes. L'errata §31 reste entier partout ailleurs : pas de révélation par déduction, pas de progression en pourcentage de déchiffrement, pas de tableau d'indices.
 
-### 3.6 · LE RYTHME RÉEL — tranché par le joueur le 2026-08-16
+### 3.6 · LE RYTHME RÉEL — refondu le 2026-08-18 *(phase psyché ; remplace la version du 2026-08-16)*
 
-**Le palier 4 (majeure, 75 %) est visé entre la scène 30 et la scène 50.** Comme l'ordre est fixe, cela met **sept jalons** (`1 · A · 2 · 3 · B · C · 4`) dans les quarante premières scènes — **un tous les six scènes environ**. C'est rapide, c'est voulu, et c'est la cadence de progression que le joueur réclame depuis toujours.
+**~200 scènes par strate, ~800 la campagne — la strate IV s'atteint pour de vrai.** *« Je veux pas courir et je veux voyager, sinon trop dur de trouver des vraies chances. »* **Le voyage est un contenu, pas un trajet** : les chances et les grosses pièces se trouvent en couvrant du pays.
 
-**Le palier C — elle veut contre lui — tombe donc vers la scène 25-40**, pas à mi-campagne. C'est le chiffre que le joueur a validé en connaissance de cause : *« oui, et la moitié de sa progression »*.
+**Directive de construction du monde** *(pour le chantier monde, gravée ici)* : une strate = **plusieurs régions, plusieurs villes, des routes** — *« 1 ville 1 village c'est pas un monde. »* La strate I neuve se construit **vaste d'entrée**.
 
-**Le palier 6 descend à la charnière strate I / strate II — vers la scène 120-180**, et non plus à la moitié de la campagne. Raison arithmétique, montrée au joueur et acceptée : garder le 6 à la scène 300 avec un 4 à la scène 40 aurait donné un jalon tous les six scènes puis un tous les cent trente — un rapport de un à vingt, et deux cent soixante scènes de stagnation.
+| Tranche | Ce qui tombe |
+|---|---|
+| scènes ~1-50 | `1 · A · 2 · 3 · B · C · 4` — **C au plus tard vers 30-35** |
+| ~50-100 | `5` vers ~70-80, puis **`6` vers la ~100ᵉ** — son corps finit quand il finit : *« elle n'a pas à évoluer à tout prix »*, la charnière de strate n'attend pas après elle |
+| strate II | **7 · LE HALO** |
+| strate III | **8 · LES AILES** |
+| strate IV | **9 · CE QU'ON NE REGARDE PLUS EN FACE** |
 
-**Conséquence, et c'est un gain** : elle finit d'être une femme **en bas**, avant de changer de monde — et toute la seconde moitié de campagne est libre pour **le divin** (§3.2), qui n'avait que trois paliers pour trois strates.
-
-| Tranche | Ce qui tombe | Cadence |
-|---|---|---|
-| scènes 1-40 | `1 · A · 2 · 3 · B · C · 4` | un tous les ~6 |
-| scènes 40-180 | `5` puis `6` | un tous les ~70 |
-| seconde moitié | `7 · 8 · 9` — le divin | un par strate environ |
-
-> ⚠ **Le moteur de l'esprit doit suivre.** Le corps a des dizaines de déclencheurs (chaque grosse pièce, chaque relique, chaque cœur d'épreuve) ; **A, B et C n'en ont aucun d'écrit**. Avec C dû vers la scène 25-40, le MJ ne peut plus attendre « les moments qui comptent » : il lui faut de quoi les déclencher. **À écrire avant la scène 1.**
+**Le moteur de l'esprit est chiffré** : **A = 2 · B = 3 · C = 4 moments** (`SYSTEMES` §4.0, nombres dans `SEUILS`) — plus jamais « les moments qui comptent » laissés à l'œil du MJ. **Les budgets sont des caps de composition, jamais des plafonds de puissance** (E.0 : on peut peser au-dessus bien avant de monter).
 
 ### 3.7 · Rythme — **voir §3.6**
 
@@ -286,7 +284,9 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 
 ### 6.3 · LES CHANTIERS SYSTÈMES — dus avant la scène 1 *(directives du joueur, 2026-08-18 — le détail se conçoit et se valide avant d'entrer dans `SYSTEMES.md`)*
 
-1. **L'échelle de Corps profonde, nommée d'avance.** *« La LUMIÈRE en strate 1, et après il n'y avait rien. Il en faut beaucoup plus. »* Tous les cycles se nomment **maintenant** — plus jamais « les noms se fixent à la charnière ».
-2. **Les réclusions à durée réelle.** Des semaines et des mois qui coûtent du monde pendant qu'ils passent — plus jamais une scène gratuite.
-3. **La refonte du combat.** *« Là c'est je gagne dans tous les cas, il n'y a jamais eu de retraite. »* La retraite, la déroute et la défaite deviennent des états réels du système.
-4. **Le moteur de l'esprit (A/B/C)** — déjà dû par §3.6, toujours à écrire : des déclencheurs concrets, pas « les moments qui comptent ».
+1. **L'échelle de Corps profonde, nommée d'avance.** *« La LUMIÈRE en strate 1, et après il n'y avait rien. Il en faut beaucoup plus. »* **✔ Gravé le 2026-08-18** : seize grades nommés sur quatre cycles — `SYSTEMES` §1.0, valeurs dans `SEUILS`.
+2. **Les réclusions à durée réelle.** **✔ Gravé le 2026-08-18** : déclaration, barème par durée, le monde qui bouge — `SYSTEMES` §6, barème dans `SEUILS`.
+3. **La refonte du combat.** *« Là c'est je gagne dans tous les cas, il n'y a jamais eu de retraite. »* **✔ Gravé le 2026-08-18** : trois régimes sur la puissance engagée, le poids de l'arme (*« un 1 avec une bombe nucléaire raye un 100 000 »*), la portée des arts (*« un maître d'un domaine sans puissance fait des miracles »*) — `SYSTEMES` §5, fenêtres par strate dans `SEUILS`.
+4. **Le moteur de l'esprit (A/B/C).** **✔ Gravé le 2026-08-18** : moments comptés A=2 · B=3 · C=4, trois familles, auto-qualifiants — `SYSTEMES` §4.0, nombres dans `SEUILS`.
+
+**Reste UN chantier avant la scène 1 : LE MONDE.** Vaste d'entrée — plusieurs régions, plusieurs villes, des routes (§3.6) —, écrit hors séance, tronc scellé, validé avant d'y jouer (§39).

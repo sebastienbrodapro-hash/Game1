@@ -3,6 +3,7 @@
 > ⛔ **JOUEUR : NE PAS LIRE.** *(Aucun secret dedans — mais c'est l'outillage du MJ.)*
 > Écrit le **2026-08-16, avant la scène 1.** Comble les quatre trous relevés par le double audit : les axes `porte`, `corps` et `art` étaient comptés par le hook sans qu'aucun système existe derrière, et les paliers d'esprit de la compagne n'avaient aucun déclencheur.
 > **Tranché par le joueur.** Ce qui suit est du canon.
+> **Refondu le 2026-08-18** (phase psyché, `FONDATION` §6.3) : échelle de Corps nommée d'avance (§1.0), moments d'esprit comptés (§4.0), **le combat** (§5), **les réclusions à durée réelle** (§6). Les références `POUSSIERE` pointent le monde civet, archivé — elles se re-pointent à la construction du monde neuf.
 
 ---
 
@@ -88,11 +89,20 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 
 *Tranché par le joueur le 2026-08-16, sur défaut qu'il a relevé : à quatre grades, le Corps plafonnait à 40 000 — **sous les sommets de la strate I**, et à trois strates de la fin.*
 
-**Seb ne peut pas cultiver** (§0.2). Son chiffre ne vient que du Corps et de ce qu'elle porte. **Un plafond sur le Corps est donc un plafond sur lui**, et `RULE-MJ` §E.0 n'en tolère aucun, nulle part.
+**Le Corps est une moitié entière du chiffre** (§0) — et c'est la moitié qu'il forge de ses mains. **Un plafond sur le Corps est un plafond sur lui**, et `RULE-MJ` §E.0 n'en tolère aucun, nulle part.
 
 - **Chaque grade vaut ×10 le précédent. Indéfiniment.**
 - **Les grades se nomment par cycles de quatre** : quatre grades = **×1000** = exactement la conversion entre deux strates (`FONDATION` §2). Le cycle I est celui de la Poussière.
-- **Le cycle II s'ouvre quand LA LUMIÈRE est achevée** — ses grades valent **+400 000 · +4 M · +40 M · +400 M** en unités de la strate I, et **ses noms se fixent à la charnière, jamais d'avance** (errata §39 : un palier se construit avant d'y jouer ; vingt-sept scènes perdues sur cette faute).
+- **⛔ TOUS LES CYCLES SE NOMMENT D'AVANCE** *(joueur, 2026-08-18 : « la LUMIÈRE en strate 1, et après il n'y avait rien. Il en faut beaucoup plus. » — l'horizon vide était la faute, pas l'inverse)* :
+
+| Cycle | Grades | L'image |
+|---|---|---|
+| **I · la matière** | LE GRÈS · LE BRONZE · LE JADE · LA LUMIÈRE | la chair devient matière, puis lumière |
+| **II · le ciel** | **LA FOUDRE · LA LUNE · LE SOLEIL · LE FIRMAMENT** | ce qui frappe, ce qui éclaire, puis le ciel entier — **+400 k · +4 M · +40 M · +400 M** |
+| **III · le cosmos** | **L'ÉTOILE · LE FLEUVE D'ÉTOILES · LE VIDE · L'AUBE** | la galaxie est un fleuve d'étoiles ; l'AUBE est la lumière d'avant la création |
+| **IV · la règle** | **LE MOT · LA TRAME · LA LOI · LE PEU** | sa chair est la règle — le dernier grade porte le nom de la dernière strate |
+
+  **Ce que chaque grade *fait* se fixe quand on l'atteint** (§39 reste entier là-dessus) ; les **noms et les valeurs** sont écrits — l'horizon n'est plus jamais vide.
 - **Corollaire à ne pas oublier** : LA LUMIÈRE (40 000) reste **sous** les sommets de la Poussière (60 000-100 000). Le cycle II s'ouvre donc **pendant la strate I** pour qui va au bout de sa chair. Il n'y a pas de mur entre les deux, il n'y a qu'un ×10 de plus.
 
 ### 1.1 · Les règles, toutes reconduites de ce qui marchait
@@ -161,6 +171,19 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 | **B** | **ELLE PARLE** | Il se passe quelque chose que **personne d'autre qu'elle ne peut nommer** — elle a vu, elle a compris, et son silence coûte quelque chose. Le premier mot sort par nécessité, pas par progrès. | *Est-ce que ne rien dire aurait laissé passer quelque chose ?* |
 | **C** | **ELLE VEUT** | Il fait un choix **contre son propre intérêt, pour elle** — ou elle voit qu'il avait le choix et qu'il l'a fait quand même. C'est le jour où elle découvre qu'elle compte, donc qu'elle peut demander. | *Est-ce que ça lui a coûté quelque chose de réel ?* |
 
+### 4.0 · LES MOMENTS COMPTÉS — refonte du 2026-08-18 *(phase psyché)*
+
+**Chaque palier exige son compte de moments : A = 2 · B = 3 · C = 4** *(nombres dans `SEUILS`)*. Le déclencheur unique de 2026-08-16 s'élargit en compte — l'objectivité, elle, est conservée entière.
+
+- **Trois familles de moments qualifiants** :
+  **une première** — la première fois qu'il fait quelque chose *pour* elle sans calcul ; **un achat pour elle compte toujours** (§4.1, le renoncement chiffré) ·
+  **une épreuve à deux** — réclusion partagée, fuite, blessure veillée ; **un jet de bande basse où elle est présente compte toujours** ·
+  **un refus d'elle respecté** — il plie devant son veto animal.
+- **Les auto-qualifiants ne se discutent pas** : ils comptent sans appréciation du MJ. Un moment qualifiant se **note à la fiche** (`esprit A 1/2`) — un compte invisible est un compte qui n'existe pas.
+- **Le palier tombe sur le dernier moment, dans la scène même** (§51) — jamais rétroactif, jamais annoncé d'avance.
+- **La psyché est déjà écrite** (`FONDATION` §6.1) : à C, la voix arrive **formée** — les quatre traits, d'un coup.
+- **Cadence** : C au plus tard vers la scène ~30-35 (`FONDATION` §3.6). Si le compte n'avance pas, la faute est dans la composition (§4.1), jamais dans le joueur.
+
 ### 4.1 · Les règles
 
 - **Jamais deux paliers dans la même scène — SAUF SAUT MASSIF.** L'esprit et le corps ne tombent **ensemble** que si la paire multiplie son chiffre par **plusieurs dizaines d'un seul coup** — l'ordre de grandeur du **×55** de la première nuit. *(Tranché par le joueur le 2026-08-16 : « A + 2 sur 50x je trouverais pas ça déconnant » puis, en précision, « elle doublera, elle fera pas ×50 comme là, donc le double palier se justifie sur un multiplicateur de puissance pareil ».)*
@@ -209,7 +232,40 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 - **⛔ ÇA NE FERME AUCUNE OPTION** *(§49)*. Ça teinte les réactions du monde, ça ouvre des voies (`POUSSIERE` §13), ça alimente leurs divergences. Rien de plus.
 - **L'axe `noir` du compteur** sert désormais **les options qui font pencher** — dans un sens ou dans l'autre, pour l'un ou pour l'autre.
 
-## 5 · CE QUI RESTE À FIXER EN JEU
+## 5 · LE COMBAT — TROIS RÉGIMES *(gravé le 2026-08-18, tranché par le joueur)*
+
+**Le régime se lit sur la PUISSANCE ENGAGÉE, jamais sur le chiffre nu — des deux côtés :**
+
+> **puissance engagée = max( chiffre · poids de l'objet engagé · portée de l'art, dans son domaine )**
+
+Les fenêtres par strate sont dans `SEUILS` (« à hauteur » : ×1,5 en I · ×2 en II · ×3 en III · ×5 en IV).
+
+### 5.1 · Les trois régimes
+
+- **L'ÉCRASEMENT** *(lui au-dessus de la fenêtre)* — **la victoire est gratuite : ce n'est pas un combat, c'est une action.** Perdre et fuir **n'existent pas** dans ce régime. Un jet n'a lieu que s'il reste une **vraie question** (règle `[Libre]`/`[Chiffré]`) : *prendre vivant · rester discret · ne rien casser · protéger quelqu'un pendant*. Les bandes lisent **cette question-là**, jamais la victoire. Pas de question → pas de jet : une ligne de prose, et le monde qui regarde.
+- **À HAUTEUR** *(dans la fenêtre)* — **les échanges : 1 à 5**, un jet par échange, énumérés comme des actions (§25 intact). **Sur 01-25, c'est SON coup à lui qui passe** — nommé, concret : son art, son terrain, son nombre. Pas « tu obtiens moins » : **il te fait quelque chose**. **Bascule : deux mauvaises bandes d'affilée** → le bloc suivant n'offre plus que des sorties — rompre · céder le terrain · payer pour sortir · se rendre · s'acharner (étiquetée **mort**). **La retraite renchérit d'échange en échange** : rompre tôt coûte peu, rompre tard coûte cher.
+- **AU-DESSUS** *(lui sous la fenêtre)* — **l'intention se scale** : survivre, marquer, retarder, voler quelque chose, fuir. « Je gagne » n'est pas sur la table, et le bloc le dit **par ses options**, sans pronostic.
+
+### 5.2 · LE POIDS — l'équipement et les arts entrent au régime
+
+- **Un objet de portée** — rare, nommé, préexistant — porte une ligne écrite : **« raye jusqu'à N »**. *Un 1 avec la bombe joue au régime de la bombe : ça fait boom, et ça raye un 100 000.* **Ses conditions sont la scène** — mise en œuvre, délai, munition, zone qui n'épargne pas le porteur — et c'est là que le dé travaille.
+- **Un art au dernier cran donne à son maître le régime de son art, dans son domaine** — *« un maître d'un domaine sans puissance peut faire des miracles. »* Hors domaine, le chiffre reprend.
+- **L'équipement ordinaire et les arts en cours de route ne pèsent rien au régime** : ils restent la puissance invisible du §0 — circonstances, avantages, surprises.
+- **⛔ §55 intact** : le poids ne touche jamais une bande — il change **le régime** et **ce qui est tentable** ; le dé lit la circonstance. **⛔ Aucun instrument ne lit le poids** (§0) : la mesure lit ce qu'on **est** — les renversements viennent de là, dans les deux sens.
+- **La passerelle entre régimes, c'est l'invisible révélé** : un art inconnu, un objet caché, une formation, un terrain préparé font basculer le régime **à l'échange où ils sortent**. Préexistant, jamais réactif (§15).
+
+---
+
+## 6 · LES RÉCLUSIONS — LA DURÉE EST RÉELLE *(gravé le 2026-08-18)*
+
+- **Une réclusion se déclare** : le lieu, **la durée** — une lune, une saison, un an —, et ce qu'on y travaille (couche, cran d'art, raffinage, palier). **Le gain suit la durée** — barème dans `SEUILS`.
+- **Le monde continue pendant qu'elle passe** : à la sortie, **une ou deux choses ont bougé** — prix, rivaux, horloges — imprimées dans la fiche. Le temps coûte du monde : c'est le prix, il est réel, et il n'est jamais une punition surprise.
+- **Un seul jet, à la sortie** : la bande lit **ce que la réclusion a rendu**, jamais un réussi/raté binaire. L'interruption existe, rare — jamais un métronome.
+- **Une réclusion partagée est un moment d'épreuve pour son esprit à elle** (§4.0).
+
+---
+
+## 7 · CE QUI RESTE À FIXER EN JEU
 
 - **Le nombre de crans du premier art** qu'il acquiert (3 à 6, selon sa profondeur — décidé à l'acquisition).
 - **Le nom et le mordant des trois ou quatre premières portes** — ils naîtront de ses premiers critiques.
