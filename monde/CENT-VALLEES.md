@@ -3,7 +3,7 @@
 # LES CENT VALLÉES — LE CONTENU MJ DE LA STRATE I
 
 > **Le monde neuf, ouvert le 2026-08-18** après l'archivage du civet. Construit sur les directives de `FONDATION` §3.6 et §6 : **vaste d'entrée** — *« 1 ville 1 village c'est pas un monde »* —, le voyage comme contenu, ~200 scènes dans la strate.
-> **PASSE 1 — l'armature** : les lois, l'archipel, le départ, l'ouverture. Les axes de contenu (§5 à §13) se remplissent en **passe 2** ; le tronc se scelle en **passe 3**. ⛔ **On ne joue pas avant la fin de la passe 3** (errata §39).
+> **PASSES 1 ET 2 FAITES** (l'armature, puis les axes de contenu §5-§13 servis **larges** — l'abondance est un principe, §5). Reste la **passe 3** : le tronc scellé, la vue, l'audit. ⛔ **On ne joue pas avant la fin de la passe 3** (errata §39).
 
 ---
 
@@ -194,19 +194,265 @@ Dans la même salle, dans l'heure. Chacun **noue en anneau une longueur de son p
 
 ---
 
-## 5 à 13 · LES AXES DE CONTENU — **PASSE 2**
+> ⚠ **L'ABONDANCE EST VOULUE** *(joueur, 2026-08-18 : « je veux choisir ce que je fais, et si je renonce, rien ne remplace »)*. Chaque axe est servi **large** : il choisit, il renonce, et ce qu'il renonce **reste renoncé** — le monde en a assez pour que renoncer ne coûte jamais le contenu. Aucune de ces choses n'a été posée pour lui : elles étaient là avant, d'autres y vont, certaines ont des listes de morts.
 
-*À écrire avant la scène 1, répartis **sur les vallées** (le voyage est le contenu) :*
+## 5 · L'ÉCONOMIE ET L'ÉQUIPEMENT
 
-- **§5 · L'équipement** — ~20 objets sur les cinq voies, **dont 2-3 objets de portée** (« raye jusqu'à N », `SYSTEMES` §5.2).
-- **§6 · Les chances** — ~17 épreuves à gain propre, réparties sur l'archipel.
-- **§7 · Les grosses pièces** — ~15 proies uniques, terrées, qui rendent coup pour coup.
-- **§8 · Les rites et examens** — ~15, dont les étapes de la Montre.
-- **§9 · Les mesures** — ~22 occasions où le monde le lit.
-- **§10 · Les réclusions** — ~7 lieux, **avec leurs durées** (`SYSTEMES` §6).
-- **§11 · L'arrogance** — le vivier, par vallée et par registre.
-- **§12 · Les arts** — ~8, **dont ⟨LE FIL⟩ détaillé cran par cran** (l'adaptation Walter : du geste de métier au fil qui tue), et les arts à domaine des maîtres d'en face.
-- **§13 · Les voies sombres** — 3, nommées, réprouvées.
+### 5.0 · La table des prix — canon
+
+| Quoi | Prix |
+|---|---|
+| une place de dortoir · une nuit d'auberge de col | 1 maille · 5 mailles |
+| un repas · une nuit de lampe à sel | 2 mailles · 1 maille |
+| péage d'un col majeur | 10 mailles l'homme · 1 tael le chariot |
+| gages : journalier · compagnon · maître | 3 mailles/j · 10 mailles/j · 1 tael/j |
+| un couteau honnête · une lame de compagnon | 1 tael · 10-30 taels |
+| une bête de bât · un manteau de feutre des hauts | 8 taels · 8 taels |
+| une pièce de soie ordinaire · de soie d'esprit | 15 taels · 2-10 pierres |
+| un bracelet de bande (tissage vérifié) | 20 mailles |
+| soins : rebouteux · chirurgien de secte · os ressoudé | 5 taels · 2 pierres · 5 pierres |
+| l'inscription d'une maison à la Montre | 60 pierres |
+| une charte de col en déshérence, à l'encan | 200-800 pierres |
+| un pic secondaire et sa veine | ~3 000 pierres hautes |
+
+**Bourses-types** : un paysan voit ~30 taels l'an · un maître de métier ~300 · un porteur de col plus de 1 000 · une secte de vallée tient 3 000-8 000 pierres de fonds.
+
+### 5.1 · L'équipement — trente objets sur les cinq voies
+
+**Ce qui s'achète** *(le courant — le reste ne s'achète pas)* :
+1. **le couteau de col** — 1 tael ; celui que tout le monde porte.
+2. **les bottes cloutées de crête** — 5 taels ; la moitié des morts de col sont mal chaussés.
+3. **les gants de teinturier** — 3 taels ; l'acide, le froid, et les fils qui coupent.
+4. **la corde de portage tressée** — 2 taels.
+5. **la lampe à sel** — 4 taels ; brûle sans flamme, les galeries l'exigent.
+6. **les crampons d'à-sec** — 6 taels (la Noyée).
+7. **la trousse d'aiguilles fines** — 12 taels ; l'outil avant l'arme.
+8. **le feutre des hauts** — 8 taels ; dormir dehors sans mourir.
+
+**Ce qui se prend sur une bête** *(§7 — chaque proie rend une matière que quelqu'un s'arrache)* :
+9. **la soie de la Doyenne** (§7.1) — le fil qui ne casse pas : **la matière du ⟨FIL⟩ cran 3**.
+10. **le crin de l'Arpenteuse** (§7.9) — des câbles qu'on prend pour des ponts.
+11. **le cuir du Taureau** (§7.3) — les plastrons que les forges s'arrachent.
+12. **les dents du Vieux du Lac** (§7.10) — des hameçons qui prennent ce qui ne se pêche pas.
+13. **la laine du Bouc** (§7.12) — tissée, elle tient le froid du seuil.
+14. **la fourrure de l'Hivernant** (§7.16) — elle porte la foudre sans la rendre.
+
+**Ce qui se trouve dans un lieu** *(§6 — les chances rendent de la matière, pas de l'or)* :
+15. **le fil-d'or-froid** (§6.6) — le fil de métal qui coupe : **la matière du ⟨FIL⟩ cran 4**. ~20 pierres la brasse, quand il s'en vend.
+16. **les maillons du Vieux Pont** (§6.13) — matière de graveur, chargée d'âge.
+17. **les glaces noires du fond de mine** (§10.4).
+18. **la cendre des Adieux** (§6.10) — ce qui était chargé le reste.
+19. **les cocons sauvages du Grenier** (§6.4).
+20. **la rosée lourde des hauts prés** (§6.14) — la matière fine des alchimistes.
+
+**Ce qui se gagne** *(§8 — un rite ouvre une commande, un accès, une arme)* :
+21. **la navette de jade** — le concours de la halle (§8.9) ; l'outil d'un maître, et le bourg le sait.
+22. **une charte de sente** — étape des Aiguilles de la Montre : le droit de passer une sente haute à péage nul.
+23. **le Carreau du Serment** — l'ordalie du cloître (§8.11) — **objet de portée** (§5.2).
+24. **la clef de l'auberge morte** — la maison du Dernier Col la prête à qui elle croit (§10.6).
+25. **le manteau des Sœurs** — cousu sur mesure pour un service rendu (§8.13) ; l'eau ne le mouille pas.
+
+**Ce qui se vole** :
+26. **le bracelet-menteur** — un faux bracelet de bande ; le porter est un crime de nœud. ~15 pierres au noir.
+27. **les nœuds de la crypte** — voler à l'Abbé Couché (§7.7), c'est voler des titres.
+28. **la cloche de main du Carillonneur** — elle appelle ce qui écoute ; personne ne la garde longtemps.
+29. **le sel-roi** — le bloc au cœur de la Salinière ; la concession n'a jamais été accordée à personne.
+30. **le fouet de trait** — les dresseurs du Long Pré ne le vendent jamais, à aucun prix.
+
+### 5.2 · LES OBJETS DE PORTÉE — cinq, préexistants, connus par rumeur *(`SYSTEMES` §5.2 : « raye jusqu'à N », les conditions sont la scène)*
+
+1. **le Carreau du Serment** *(cloître — se gagne à l'ordalie, §8.11)* — un carreau béni, **raye jusqu'à 20 000**. Conditions : se charge une lune sur l'autel · le tireur jure sa cause **à voix haute, audible de tous** · un seul tir, le carreau se consume · un mensonge dans le serment, et le carreau se retourne.
+2. **la Cloche Fêlée** *(Cloches Mortes — le Carillonneur la garde, §7.8)* — décrochée et sonnée, elle **couche tout ce qui l'entend sous 5 000** — zone, sans tri, le sonneur compris s'il pèse moins.
+3. **le Feu-de-Mine** *(Salinière — s'achète au noir, ~40 pierres)* — un tonnelet ; en galerie, **raye ~10 000** — et le gisement, et la galerie. Mèche : dix souffles, pas un de plus.
+4. **la Grande Aiguille** *(Hautefoire — aux enchères une fois par génération)* — une aiguille d'avant la mesure : **ce qu'elle coud reste cousu, chair comprise**. Raye 8 000 au contact — mais un seul point par jour.
+5. **le Licol du Portefaix** *(sur la bête, §7.11)* — qui le tient tient la bête : **25 000 de trait**. Le licol n'obéit qu'à qui a porté lui-même (Corps au BRONZE au moins).
+
+---
+
+## 6 · LES CHANCES — 25 ÉPREUVES À GAIN PROPRE
+
+1. **le Bassin des Teintures** *(File)* — tenir une nuit dans la cuve-mère froide et chargée : la chair en sort **teinte** — occasion de Corps. Mord : le froid, et la teinture marque à vie qui sort avant l'aube.
+2. **la Roue du Portefaix** *(col du Portefaix)* — porter la charge-étalon du col en un jour de crête. Corps, et le col s'en souvient (§9). Mord : le vide, les genoux.
+3. **les Ruches de l'adret** *(Long Pré)* — la cire à sceaux et la gelée qui charge le sang. Mord : l'essaim, la chute.
+4. **le Grenier aux Cocons** *(File, futaie haute)* — des cocons d'esprit sauvages. Mord : ce qui les garde (§7.1), et la futaie qui tourne — on ressort ailleurs qu'on est entré.
+5. **la Fonte de printemps** *(Noyée)* — plonger aux cloches englouties à l'à-sec. Mord : l'apnée, la vase, le Vieux (§7.10).
+6. **le filon de fil-d'or-froid** *(Fours)* — en tirer une brasse à main nue. Mord : le fil coupe les doigts qui le tirent, et la galerie est disputée.
+7. **le Four-Mère** *(Fours)* — tenir la chambre de chauffe sept jours avec les tuiles. Trempe sèche, brûlures franches. Le maître laisse entrer qui stoke — c'est sa seule morale.
+8. **la Corde des Aiguilles** *(File)* — traverser le col fermé par la sente des chèvres. Mord : ce qui a fermé le col (§7.2), le vide, l'hiver.
+9. **le Champ de Foudre** *(crêtes du nord)* — tenir un orage debout. Mord : **ligne mort**, simple et vraie. L'Hivernant y chasse (§7.16).
+10. **les Cendres d'Adieu** *(Icônes, automne)* — glaner le grand bûcher à l'aube, à mains nues. Mord : les braises, être vu — et ce que certaines familles brûlent précisément pour que ça disparaisse.
+11. **le Pari du Passeur** *(les Trois Ponts)* — tenir sa perche dans le courant, aller-retour. Qui tient choisit dans quarante ans de coffre ; qui lâche doit une saison de rame.
+12. **la Nuit Muette** *(Muette)* — passer une nuit dehors au fond de la vallée. Ceux qui reviennent ont quelque chose en plus — jamais deux fois la même chose. Mord : certains ne reviennent pas (**ligne mort**).
+13. **les Maillons du Vieux Pont** *(Grand-Traverse)* — desceller un maillon chargé du pont de chaîne primordial. Mord : trois cents pas de vide — et le pont sert : on grimpe de nuit ou on assume.
+14. **la Traite des Brumes** *(hauts prés)* — la rosée lourde avant le jour. Mord : la grimpe de nuit, et ce qui chasse dans la brume.
+15. **le Silo Noir** *(Long Pré)* — le grain d'avant, enterré, chargé. Mord : la Mère des Rats (§7.14), et le propriétaire du champ.
+16. **la Saignée du Mélèze-Roi** *(adret des Icônes)* — l'ambre une semaine par décennie ; **la décennie approche**. Mord : le cloître le revendique, un essaim l'habite, la semaine ne s'annonce pas.
+17. **le Tirage des Chartes** *(Hautefoire, une fois l'an)* — l'encan des nœuds en déshérence : des droits réels à qui ose. Mord : ce que le nœud engage — on achète aussi les dettes qui pendent au fil.
+18. **la Chambre de Sel** *(Salinière)* — se murer une saison au sel (double emploi réclusion, §10.3).
+19. **le Gué des Bêtes** *(Long Pré, aux migrations)* — traverser le gué au milieu du troupeau d'esprit. Trempe — et le troupeau retient les odeurs. Mord : le piétinement (**ligne mort**).
+20. **l'Écheveau du Noyé** *(Noyée)* — démêler les filets d'un mort sans couper un fil. Les pêcheurs paient, et le lac rend parfois autre chose. Mord : ce qui a noyé le pêcheur.
+21. **le Toit du Cloître** *(Icônes)* — retisser la grande tenture du porche, un mois sous les yeux des morts. L'art y monte (usage marquant garanti), et le cloître doit ensuite une réponse. Mord : rater devant tous.
+22. **la Course du Dégel** *(Portefaix, printemps)* — la première caravane passée au dégel prend les prix de l'hiver. Une course, littéralement. Mord : les avalanches, et les autres.
+23. **les Trois Jarres du Bief** *(File)* — sous le bief de la halle, trois jarres scellées d'avant le bourg. Mord : l'apnée, le sacrilège — le syndic paierait pour savoir qui.
+24. **le Mur des Prises** *(Hautefoire, l'arène)* — les primes affichées : des bêtes à prendre **vivantes** pour les jeux. Mord : vivantes — c'est toute la difficulté.
+25. **la Borne Descellée** *(Grand-Traverse)* — une borne de cadastre descellée par le gel : qui la ressoude à sa place gagne le droit qu'elle marque. Mord : les arpenteurs du Pavois d'Étain, et le faux pas de titre.
+
+---
+
+## 7 · LES GROSSES PIÈCES — 18 PROIES UNIQUES
+
+*Terrées, elles rendent coup pour coup et coûtent du sang. **Elles sont aussi son garde-manger à elle** (`FONDATION` §3.3 : un cran par prise au-dessus de sa dernière prise) — l'échelle ci-dessous est une échelle de chasse ET une échelle de nourriture.*
+
+1. **la Doyenne des Cocons** — **800** — la futaie du Grenier (File). Un ver d'avant la mesure, aveugle, qui entend le pas. Rend : **la soie qui ne casse pas** (⟨FIL⟩ cran 3). Protégée par : ses fils partout, et la futaie qui tourne.
+2. **le Chien des Aiguilles** — **6 500** — **ce qui a fermé le col il y a dix-neuf ans**. Personne ne l'a vu entier. Rend : dix-neuf ans de charges perdues, et une peau qui tient le gel.
+3. **le Taureau du Long Pré** — **1 200** — échappé des haras, trois hivers de rapines. Rend : le cuir, le cœur, la prime des dresseurs.
+4. **la Truite-Mère** — **2 000** — sous les pilotis de la Noyée. Rend : des œufs qui chargent l'eau où on les pose.
+5. **le Fondeur** — **4 000** — un serviteur de four abandonné qui tourne encore, et coule qui entre. Rend : son cœur de fonte — un creuset que les forges s'arrachent.
+6. **le Sel-qui-Marche** — **3 000** — une concrétion qui a pris goût aux mineurs. Rend : le sel-roi de son cœur.
+7. **l'Abbé Couché** — **9 000** — le mort qui garde la crypte des nœuds (Icônes). Rend : les titres en déshérence qu'il couve. Le cloître ne dira jamais merci.
+8. **le Carillonneur** — **12 000** — ce qui sonne aux Cloches Mortes les nuits sans lune. Rend : **la Cloche Fêlée** (§5.2), et le silence de la vallée.
+9. **l'Arpenteuse** — **15 000** — l'araignée de crête qui tisse des ponts qu'on croit vrais. Rend : le crin-câble. Protégée par : on ne sait jamais lequel des ponts est à elle.
+10. **le Vieux du Lac** — **20 000** — le fond de la Noyée ; c'est pour lui qu'on bâtit sur pilotis. Rend : les dents, et l'à-sec qui n'ose plus rien.
+11. **la Portefaix** — **25 000** — la bête de somme d'avant, qui marche la Grand-Traverse de nuit, chargée d'on ne sait quoi. Rend : **le Licol** (§5.2) — et ce qu'elle porte.
+12. **le Bouc de la Dernière Marche** — **30 000** — le gardien à cornes du dernier pâturage. Rend : la laine du seuil — et le passage regarde autrement celui qui l'a tondue.
+13. **le Roi-Cocon** — **45 000** — ce que la Doyenne nourrit, au cœur de la futaie. **Dort tant que la Doyenne vit** — la chaîne de chasse est écrite. Rend : la soie dont on fait les bannières de secte.
+14. **la Mère des Rats** — **1 500** — sous les silos du Long Pré. Rend : la prime des lignées, et le grain dort enfin.
+15. **le Noyeur** — **7 000** — ce qui tire les pêcheurs par leurs propres filets. Rend : sa poigne — des gants qui ne se desserrent pas.
+16. **l'Hivernant** — **10 000** — l'ours blanc du Champ de Foudre, qui mange l'orage. Rend : une fourrure qui porte la foudre sans la rendre.
+17. **la Nichée de la Muette** — **?** — personne n'est revenu la compter. (**ligne mort** sur la fiche le jour où on y va.)
+18. **ce que garde le seuil** *(la Dernière Marche)* — s'écrit au tronc, passe 3.
+
+---
+
+## 8 · LES RITES ET EXAMENS — 18, DONT LA MONTRE
+
+### 8.1-8.7 · LA MONTRE DES COLS — les sept étapes *(l'échine des ~50 premières scènes, §3.5)*
+
+| | Étape | L'épreuve |
+|---|---|---|
+| **E1** | **le Portefaix** | **la Roue** : porter la charge-étalon, classement au poids et au temps |
+| **E2** | **les Meules** | **la nuit de garde** : tenir le péage une nuit d'affluence — pas un incident, pas un tael perdu |
+| **E3** | **la passe des Fours** | **la traversée de fumée** : le col fume ; passer, et ramener la balise |
+| **E4** | **le col du Sel** | **la lecture** : un chargement, ses nœuds, trois mensonges dedans — les trouver au doigt |
+| **E5** | **le col des Sœurs** | **le pont de corde** : un aller-retour de nuit, chargé |
+| **E6** | **le col Muet** | l'étape qu'on passe **sans un mot** — parler, c'est abandonner |
+| **E7** | **le Grand Portage** *(Hautefoire)* | **la finale** : un contre un, champ de craie, au premier genou posé |
+
+Classement cumulé ; une maison sans étape finie perd rang — à deux Montres sans rang, **sa charte se dénoue** (§3.4).
+
+### 8.8-8.18 · Les autres rites
+
+8. **l'examen du Fil Blanc** *(printemps, Hautefoire)* — la secte prend à l'examen, jamais à la naissance ; trois portes, un refus par porte.
+9. **le concours de la halle** *(File, été)* — la pièce maîtresse de l'année ; gagne **la navette de jade** et les commandes qui vont avec.
+10. **la pesée d'embauche** *(partout)* — on pèse qui on embauche ; refuser la pierre, c'est doubler le soupçon.
+11. **l'ordalie du cloître** *(Icônes)* — jurer sa cause à voix haute et tirer : **le Carreau du Serment** se gagne là, et nulle part ailleurs.
+12. **le rachat de charte** *(Hautefoire, l'encan annuel)* — huissiers de nœuds, enchères, dettes au bout du fil (§6.17).
+13. **la tonte du Long Pré** — un an de laine en trois jours : la toison-mère à qui tient la cadence.
+14. **la veillée des Icônes** — porter un mort au feu et redire sa vie **sans une faute** : la famille doit ensuite une réponse (⚑ atout).
+15. **le duel de seuil** — l'usage qui règle les affronts entre maisons : champ de craie, témoins, premier genou.
+16. **l'adoubement de sente** — le rite des contrebandiers : qui le passe a les sentes hautes ouvertes, et le pouce marqué à vie.
+17. **la nuit du Cadre** *(File, une fois l'an)* — la maison de la Toise retisse le drap du Grand Cadre ; y être invité se remarque.
+18. **l'appel du dégel** *(Portefaix)* — le premier convoi de l'an est béni au parvis ; y être nommé compte (§6.22).
+
+---
+
+## 9 · LES MESURES — 22 OCCASIONS OÙ LE MONDE LE LIT
+
+**L'infrastructure** : les **pierres de col** à chaque passage (§0.8) · les **pierres de parvis** des cités · les **bracelets tissés** au poignet de tous (§0.7).
+
+1. passer un col — la main sur la pierre, devant la file
+2. la pesée d'embauche (§8.10)
+3. le bracelet vérifié aux foires — les huissiers sondent au hasard
+4. l'entrée d'arène — on pèse avant d'inscrire
+5. **la coupe du bracelet** — publique, en place, au couteau ; le poignet nu raconte
+6. le duel de seuil pèse d'abord — les témoins l'exigent
+7. les grandes enchères pèsent qui enchérit au-dessus de cent pierres
+8. le cloître pèse qui jure — l'ordalie commence là
+9. chaque étape de la Montre pèse ses porteurs, à voix haute
+10. les recruteurs du printemps pèsent les cohortes
+11. la halle pèse l'inconnu qui vend — l'usage contre les voleurs
+12. le péage double pour qui refuse la pierre
+13. la milice pèse qui elle arrête
+14. l'aubergiste de col a le droit de peser qui dort seul
+15. un maître pèse l'apprenti qu'il accepte — et le bourg regarde
+16. les Sœurs ne parlent qu'à qui elles ont pesé
+17. la douane de Hautefoire pèse les chargements *et* les porteurs
+18. le passeur des Trois Ponts pèse par jeu — et parie
+19. une maison de col peut exiger la pesée d'un voyageur « au faciès » — l'humiliation ordinaire
+20. le dégel : le premier convoi est pesé homme par homme, en bénédiction
+21. la crypte : l'Abbé Couché *pèse autrement* — ce qu'il lit, personne ne le sait
+22. **le Grand Cadre** — une fois dans une vie, et jamais deux (§3.1)
+
+---
+
+## 10 · LES RÉCLUSIONS — 9 LIEUX, AVEC LEURS DURÉES *(`SYSTEMES` §6 : déclarée, le monde bouge, un jet à la sortie)*
+
+1. **le grenier de l'atelier Berthe** *(File)* — **une lune** — l'art au calme ; Berthe monte voir, et corrige sans un mot.
+2. **la cellule de crête du cloître** *(Icônes)* — **une lune** — l'esprit ; se loue contre service rendu.
+3. **la chambre de sel** *(Salinière)* — **une saison** — le Corps : le sel entre ; on en sort sec et dur. Mord : les poumons courts.
+4. **le fond de mine** *(Salinière)* — **une saison** — le raffinage : le noir absolu concentre ; les glaces noires en prime.
+5. **l'île de l'à-sec** *(Noyée)* — **une lune** — n'existe qu'à l'étiage : **c'est le lac qui décide de la fin**.
+6. **l'auberge morte des Aiguilles** *(File)* — **une lune** — le froid, le silence, la charte au mur ; la maison du Dernier Col la prête à qui elle croit.
+7. **la tombe haute** *(Cloches Mortes)* — **réprouvée** — les rêves y travaillent le dormeur, et ne se choisissent pas.
+8. **le pâturage du Bouc** *(Dernière Marche)* — **une saison** — au froid du seuil ; personne n'a tenu l'hiver entier.
+9. **la loge du Four-Mère** *(Fours)* — **une lune** — la trempe sèche continue ; compte comme chance **ou** réclusion, au choix du déclarant.
+
+---
+
+## 11 · L'ARROGANCE — LE VIVIER
+
+**Les cinq sectes qui comptent** : **le Fil Blanc** (Hautefoire — la soie, les examens, le mépris courtois) · **le Pavois d'Étain** (Hautefoire — le cadastre, les arpenteurs, les bornes qu'on déplace en souriant) · **la Voie des Fours** (les forges — vend au double aux vallées sans feu) · **les Sœurs du Lac** (la Noyée — ne parlent qu'à qui elles ont pesé) · **le cloître des Icônes** (pas une secte — pire : personne ne lui doit rien, tout le monde lui doit tout).
+
+**Les figures** *(un registre chacune — servir varié)* :
+1. **Aymon**, courtier de Hautefoire — achète la soie de File à moitié prix depuis dix ans : « le rabais du déclin ».
+2. les **disciples du Fil Blanc en résidence** à Fuseau — le bourg entier leur dit « maître », ils ne disent le nom de personne.
+3. **Josselin**, fils de la maison des Meules — porte le rang de son père au poignet, et le montre.
+4. la **maîtresse d'armes de l'arène** — ne pèse plus « les moins de mille », par principe affiché.
+5. le **chef du cadastre** du Pavois — « votre borne a bougé, c'est ennuyeux » — et elle a bougé pour lui.
+6. l'**huissier des nœuds** de Hautefoire — « votre titre n'existe pas », dit avec une joie de métier.
+7. le **champion du Grand Portage** en titre — trois Montres sans poser un genou, et il le rappelle en s'asseyant.
+8. **Perrine** *(Dernier Col)* — l'arrogance des ruinés : refuser la pitié, mordre la main, y compris la sienne.
+9. le **maître des Fours** — reçoit assis, fait attendre debout, chauffe la pièce exprès.
+10. la **doyenne des Sœurs** — répond aux questions par des pesées.
+
+---
+
+## 12 · LES ARTS
+
+### 12.1 · ⟨LE FIL⟩ — 6 crans — l'art de Seb *(style de métier retourné, `SYSTEMES` §2 ; l'adaptation Walter, validée le 2026-08-18)*
+
+| Cran | Nom | Ce que ça donne |
+|---|---|---|
+| **1** | **le geste vrai** *(acquis, feuille de départ)* | tendre un fil parfaitement, le nouer pour qu'il ne cède pas, lire au doigt ce qui pèse au bout. Honnête, utile, désarmé. |
+| **2** | **la ligne posée** | un fil tendu dans une pièce, un passage, un camp — il sait **tout ce qui le touche**, dormant compris. Le piège simple devient son métier. |
+| **3** | **le fil qui tient** | nouer un homme **en mouvement** ; l'entrave portée à la ceinture devient une arme. *La soie de la Doyenne (§7.1) tient ce que le chanvre lâche.* |
+| **4** | **le fil qui coupe** | la tension juste : son fil tranche chair et cuir. *Le fil-d'or-froid (§6.6) tranche l'os et l'acier doux.* **C'est ici que Walter arrive.** |
+| **5** | **la toile** | plusieurs lignes à la fois : une pièce entière tenue, et il se bat dedans comme chez lui. |
+| **6** | **la marionnette** *(la maîtrise — domaine : tout espace qu'il a filé)* | ce que tient le fil se **guide** : membres, armes, portes. La salle entière est son métier à tisser. *(Au dernier cran, le régime de l'art vaut dans son domaine — `SYSTEMES` §5.2.)* |
+
+**On monte par l'usage marquant et la réclusion** — et chaque cran est **l'adaptation d'un geste honnête** : personne ne le reconnaît, personne ne le voit venir, personne ne peut le réclamer.
+
+### 12.2 · Les arts d'en face *(chaque maître au dernier cran a le régime de son art dans son domaine)*
+
+1. **la Lecture des Nœuds** — les titres ; au sommet : **Armande** (§3.4) — rien ne se contrefait devant elle.
+2. **le Portage** — porter, tenir, ne pas tomber ; au sommet : le champion du Grand Portage.
+3. **le Pas de Crête** — marcher où rien ne tient ; l'art des contrebandiers.
+4. **le Souffle des Fours** — la chaleur commandée ; au sommet : le maître des Fours — dans sa forge, des miracles.
+5. **la Meule** — le poids posé : immobiliser, écraser, tenir fermé ; l'art de la maison des Meules.
+6. **l'Aiguille des Sœurs** — recoudre ce qui devrait mourir ; au sommet : la doyenne.
+7. **la Voix du Cloître** — l'appel qui porte d'une crête à l'autre — et les morts écoutent.
+8. **le Filet** *(Noyée)* — jeter, envelopper, tirer ; le Noyeur (§7.15) le pratique sans l'avoir appris.
+9. **la Balance de l'œil** — estimer au regard : l'art civil des courtiers ; au sommet : Aymon ne se trompe jamais de trois taels.
+10. **le Fouet de trait** — la longe et la bête ; les dresseurs du Long Pré.
+11. **le Tison** — frapper là où ça a déjà brûlé ; la voie de l'arène.
+
+---
+
+## 13 · LES VOIES SOMBRES — 3, NOMMÉES, RÉPROUVÉES
+
+1. **la Voie du Ver** — se gaver sans raffiner : monter vite, tout brûler ; les veines noires au cou, que tout le monde reconnaît. Réprouvée, enviée en secret.
+2. **la Voie du Fil Coupé** — toucher au pont de l'âme d'autrui (§0.6). L'interdit absolu : ceux qui essaient, le monde entier les chasse — c'est la seule chose sur quoi toutes les sectes s'entendent.
+3. **la Voie des Bouches Cousues** — défaire les titres en tuant les bouches qui savent. L'horreur civile d'un monde sans écrit ; les huissiers de nœuds pendent ceux qu'on prend, et le cloître refuse leurs cendres.
 
 ## 14 · LA RÉSERVE DE PRÉNOMS
 
@@ -218,4 +464,18 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 
 ## 16 · INDEX DE SERVICE — axe → où piocher
 
-*Se remplit en passe 2, section par section.*
+| Axe | Où |
+|---|---|
+| `equipement` | **§5.1** (30 objets, cinq voies) · **§5.2** (5 objets de portée) · §5.0 (prix) |
+| `marchandage` | §5.0 (prix, bourses) · la halle de Fuseau · Hautefoire et ses enchères · §6.17 (l'encan des chartes) · §8.12 |
+| `chance` | **§6** (25, réparties sur l'archipel — le voyage les découvre) |
+| `grosse_piece` | **§7** (18, de 800 à 45 000 — l'échelle de chasse est aussi son garde-manger à elle) |
+| `rite` | **§8** (18, dont la Montre E1-E7 — l'échine) |
+| `mesure` | **§9** (22 occasions + l'infrastructure) |
+| `reclusion` | **§10** (9 lieux, durées écrites) |
+| `arrogance` | **§11** (5 sectes, 10 figures, registres variés) |
+| `art` | **§12** (⟨LE FIL⟩ cran par cran + 11 arts d'en face) |
+| `noir` | **§13** (3 voies) · §5.1.26-30 (ce qui se vole) · §6.10, §6.17, §6.23 |
+| `bete` | chaque scène (règle dure) — et §7 comme échelle de nourriture (`FONDATION` §3.3) |
+| `atout` | §8.14 (la veillée) · §8.16 (la sente) · les maisons de col rencontrées en Montre · Berthe, Armande |
+| `corps` | §6.1, §6.2, §6.7, §6.9, §6.19 (occasions taillées dans le paysage) · §10.3, §10.8 (réclusions de chair) |
