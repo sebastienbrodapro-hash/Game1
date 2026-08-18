@@ -50,6 +50,10 @@
 - **La force se dit en poids** : grammes, kilos, tonnes. Ce qu'un corps soulève, arrête, tire ou casse s'écrit en masse réelle — jamais en images vagues.
 - Les distances de voyage peuvent rester en **jours de marche** (c'est du temps, pas de la longueur) — mais un « jour de marche » vaut **~30 km**, et le kilomètre est toujours disponible.
 
+## 0.4 · LES TERMES DE JEU S'EXPLIQUENT EN PASSANT *(demandé par le joueur, 2026-08-18)*
+
+Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de lui-même — *nœud de titre, charte qui se dénoue, déshérence, bande, régime, couche* —, la prose glisse **une incise d'une ligne** qui le dit, dans le flux, sans casser la fiction. Un joueur ne doit jamais choisir sur un mot qu'il n'a pas les moyens de comprendre.
+
 ---
 
 ## A · AVANT D'OUVRIR UNE SCÈNE
