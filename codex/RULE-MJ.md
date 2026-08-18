@@ -181,7 +181,9 @@
 Check interne : `seuils · n/max · N opts · mouvement neuf · porte due · Corps · mort · délestage · portes ouvertes · options non périmées`
 
 - **Confronter la fiche à `SEUILS.md` avant de l'imprimer.** Tout compteur au max déclenche son effet **maintenant**.
-- **Viser 4 options** (§26), 5-6 si le monde l'exige. Regrouper les logiques ; ne pas gonfler une option pour faire long.
+- **3 À 4 OPTIONS, UN SEUL CŒUR** *(resserré par le joueur le 2026-08-18 : « j'ai trop de choix importants » — cinq bifurcations lourdes d'un coup, c'est de la pression, pas du choix)*. Le bloc suit **la tension vive de la scène** ; **une seule grande bifurcation stratégique par bloc**. Regrouper les logiques ; ne pas gonfler une option pour faire long.
+- **⛔ « DERNIÈRE FOIS » NE S'AFFICHE PLUS.** La comptabilité §53 (une option non prise deux fois se retire du bloc) est **interne au MJ** — et **ce qui sort des blocs ne sort pas du monde** : tout reste accessible par tag (D.0, pilotage du joueur). Le retrait n'est jamais une pression affichée.
+- **LA FICHE PORTE « OUVERT ICI »** : une ligne d'état listant ce que le lieu offre en continu (arène, enchères, examens, primes…). Les blocs portent **le moment**, jamais le magasin.
 - **AU MOINS UNE OPTION QUI SORT DU PLAN EN COURS** (§43) — pas un repli, une bifurcation réelle. Un bloc dont toutes les sorties donnent sur la même pièce est un couloir, pas un choix.
 - **NE JAMAIS RESSERVIR LE MÊME MOUVEMENT DE BLOC EN BLOC** (§53). Si une option n'a pas été prise deux fois, elle est morte : la retirer, pas la reformuler. *Faute du 2026-08-15 : « se mettre en travers » servi trois blocs de suite, et un bloc entier sans art, sans équipement, sans Corps, sans voie pour la bête.*
 - **AUCUNE OPTION RETIRÉE PAR LA LECTURE DE PALIER DU MJ** (§49). La chasse, la grosse pièce et la recherche de puissance restent servies **même quand le chiffre ne rapporte plus rien**.
