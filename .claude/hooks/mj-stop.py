@@ -44,7 +44,12 @@ DEPOT = RACINE / ".claude" / "derniere-scene.md"
 ETAT = RACINE / ".claude" / "psy-etat.txt"
 
 SEUIL_PSY = 8
-TITRE_SCENE = re.compile(r"^##\s*(\d{1,4})\s*·", re.MULTILINE)
+# 2026-08-18 — dérive : les titres MÉTA numérotés (« ## 1 · L'échelle de
+# Corps ») comptaient comme des scènes, et une scène ne recule jamais. Un
+# titre de SCÈNE est en capitales (« ## 112 · CENT VISAGES ») : on exige
+# qu'aucune minuscule ne suive le point médian.
+TITRE_SCENE = re.compile(r"^##\s*(\d{1,4})\s*·(?![^
+]*[a-zà-öø-ÿ])", re.MULTILINE)
 
 
 def charger_noms() -> list[str]:
