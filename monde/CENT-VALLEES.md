@@ -382,7 +382,9 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 | **E6** | **le col Muet** | l'étape qu'on passe **sans un mot** — parler, c'est abandonner |
 | **E7** | **le Grand Portage** *(Hautefoire)* | **la finale** : un contre un, champ de craie, au premier genou posé |
 
-Classement cumulé ; une maison sans étape finie perd rang — à deux Montres sans rang, **sa charte se dénoue** (§3.4).
+**Le format, verrouillé d'avance** *(la faute civet — un tournoi incohérent improvisé en scène — ne se rejoue pas)* : **une trentaine de maisons** présentent chacune **un porteur** · chaque étape rend **des points de rang** (premier arrivé, premier servi — le barème s'affiche au départ de chaque étape) · **le classement cumulé des sept étapes EST le résultat** : tout porteur qui finit a un rang, du premier au dernier — pas de places fantômes, pas de paradoxe de sièges. Le prix : **l'ordre des péages** suit l'ordre du classement, jusqu'à la Montre suivante. Une maison sans étape finie perd rang — à deux Montres sans rang, **sa charte se dénoue** (§3.4).
+
+**Et c'est un tournoi qui mord, pas un salon** *(errata §42, toujours en vigueur : le social est de la friction, jamais un adversaire)* : les sept épreuves sont **physiques ou de savoir-faire** — porter, garder, traverser, lire au doigt, franchir de nuit, se taire, se battre. Ce qui se joue entre les étapes — alliances, coups bas, paris — existe, **en une scène spectaculaire quand ça paie, jamais en arc de négociation**.
 
 ### 8.8-8.18 · Les autres rites
 
