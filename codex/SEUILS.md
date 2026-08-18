@@ -43,6 +43,8 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 **L'étiquette annoncée est honorée** : une option étiquetée neutre se jette à 0.
 **Ligne mort** seulement quand la mort est réellement sur la table — pas comme décoration de tension.
 
+**⛔ LA LIGNE MORT S'ARME SUR LE NATUREL** *(tranché par le joueur, 2026-08-18)* : sur une option `mort`, une **catastrophe naturelle** met la mort elle-même en scène. La survie n'existe que si la scène offre un **prix réel, payable, déjà présent** — et il se paie au maximum : le corps cassé, une porte négative, ce que la scène réclame. **S'il n'y a pas de prix payable, c'est la mort — jamais un coût inventé pour faire survivre.** Sans naturel critique, la mort reste une présence, pas un verdict. En combat, la bascule puis l'acharnement restent l'autre chemin de la mort.
+
 ## JETONS — plafond 10
 
 **Un seul usage : `5 jetons`, déclarés AVANT le jet → deux dés, le meilleur TOTAL l'emporte, automatiquement.**
