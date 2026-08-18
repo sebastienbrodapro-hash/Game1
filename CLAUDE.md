@@ -2,12 +2,10 @@
 
 Cette branche (`main`) contient **le jeu d'histoire IA** : un jeu de rôle solo mené par Claude en Maître du Jeu — c'est l'objet des sessions de jeu.
 
-> **⚠ ENTRE DEUX CAMPAGNES** *(depuis le 2026-08-18)*. La campagne « **Civet** » (héros Seb, 113 scènes) est **CLOSE** et archivée dans `archive/civet/` — son post-mortem est `archive/civet/AUDIT.md`. La suivante reprend **le même cadre** (`FONDATION.md`) avec **un monde entièrement neuf**. Avant toute scène, dans l'ordre :
-> 1. **La phase psyché** — les traits de conscience de **la compagne ET du héros**, choisis avec le joueur, gravés dans `FONDATION.md` (qui se revalide à cette occasion).
-> 2. **La construction du monde** — le contenu de la strate I réécrit à neuf (fichier-monde + `monde/TRONC.md` scellé), hors séance, validé avant d'y jouer (errata §39).
-> 3. **La scène 1.** La compagne recommence **du début** : l'arc bête→femme se rejoue entier, conscience définie dès le premier jour.
->
-> Décisions du joueur, actées le 2026-08-18 : même cadre + monde neuf · psyché pour elle et le héros · elle du début. **Paliers 8-9 de la compagne : pas avant la strate 3 ; ensuite sa nourriture est divine** — à graver dans FONDATION en phase psyché.
+> **⚠ CAMPAGNE NEUVE : « LES CENT VALLÉES » — prête, scène 1 non jouée** *(état au 2026-08-18)*. La campagne « **Civet** » (113 scènes) est close dans `archive/civet/` (post-mortem : `archive/civet/AUDIT.md`). Depuis :
+> 1. **✔ La phase psyché** — traits de conscience d'elle et de lui, gravés dans `FONDATION.md` §6. Seb a **18 ans**. Elle recommence **du début**, conscience définie.
+> 2. **✔ Les systèmes refondus** — combat à trois régimes, seize grades de Corps nommés, réclusions à durée, moments d'esprit comptés (`SYSTEMES.md`, `SEUILS.md`).
+> 3. **✔ Le monde** — `monde/CENT-VALLEES.md` (passes 1-2 : l'archipel, l'abondance par axe) + tronc scellé (passe 3). **Restent avant la scène 1 : l'audit du monde, et la validation de la feuille de départ par le joueur.**
 
 > **Les campagnes closes ne se chargent jamais pour jouer** : « Le Creuset » (299 scènes) dans `archive/creuset/`, « Civet » (113 scènes) dans `archive/civet/`. Ce qui survit d'elles, ce sont les **règles de conduite** (`codex/`) : c'est le monde qui change, pas la conduite.
 
@@ -18,7 +16,7 @@ Cette branche (`main`) contient **le jeu d'histoire IA** : un jeu de rôle solo 
 | Où | Quoi | Statut |
 |---|---|---|
 | **`FONDATION.md`** | le document de conception : genre, strates, la compagne, son échelle, le rythme | **vivant — à revalider en phase psyché** |
-| **`monde/`** | `SYSTEMES.md` (le cadre mécanique : Corps, arts, portes, esprit) · `TRONC.md` **neuf et vide** + `TRONC-VUE.md` / `NOMS-SCELLES.txt` régénérés | **en construction** |
+| **`monde/`** | **`CENT-VALLEES.md`** (le contenu MJ de la strate I — son **§16** est l'index de service) · `SYSTEMES.md` (le cadre mécanique) · **`TRONC-VUE.md`** (la vue expurgée — **c'est elle qu'on lit**) · `TRONC.md` et `NOMS-SCELLES.txt` (**jamais**) | **vivant** |
 | **`codex/`** | **la conduite, toujours en vigueur** : `RULE-MJ.md` (avant chaque bloc) · `SEUILS.md` (avant chaque réponse) · `MJ-ERRATA.md` (sur événement) | **vivant** |
 | **`refs/`** | les références visuelles validées de la compagne : paliers 1→7, tenue, écusson, scènes-étalons, règles de génération | **vivant** |
 | **`archive/creuset/`** · **`archive/civet/`** | l'état complet des campagnes closes (+ `AUDIT.md` pour civet) | ⛔ **ne se charge jamais pour jouer** |
@@ -37,10 +35,11 @@ Puis, **en entier et en silence** :
 2. **`codex/RULE-MJ.md`** — la carte de conduite.
 3. **`codex/SEUILS.md`** — les nombres, rien d'autre.
 4. **`monde/SYSTEMES.md`** — le cadre mécanique.
-5. Le fichier-monde de la strate et **`monde/TRONC-VUE.md`** — quand ils existeront. **Jamais `TRONC.md`.**
-6. Le git log récent.
+5. **`monde/TRONC-VUE.md`** — le dessous du monde, expurgé. **Jamais `TRONC.md`.**
+6. **`monde/CENT-VALLEES.md`** — le contenu jouable de la strate I. Son **§16** est l'index de service : axe → où piocher.
+7. Le git log récent.
 
-**Tant que la phase psyché n'est pas close, on la mène — on ne joue pas.** Rien d'`archive/` ne se lit pour jouer.
+**Tant que la feuille de départ n'est pas validée par le joueur, on ne joue pas.** Rien d'`archive/` ne se lit pour jouer.
 
 Tout se joue **en français**, répliques courtes, rythme soutenu.
 
