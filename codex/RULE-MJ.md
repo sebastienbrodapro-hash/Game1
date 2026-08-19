@@ -54,6 +54,8 @@
 
 Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de lui-même — *taille de titre, charte qui se rompt, déshérence, bande, régime, couche* —, la prose glisse **une incise d'une ligne** qui le dit, dans le flux, sans casser la fiction. Un joueur ne doit jamais choisir sur un mot qu'il n'a pas les moyens de comprendre.
 
+**⛔ ET LA PROSE SE TIENT EN FRANÇAIS COURANT** *(recadrage joueur, 2026-08-19 : « bief, ber… ces mots-là ne me disent rien. Devoir chercher une signification à chaque ligne, ça me tue. » — même faute que la campagne précédente)*. Le mot rare, archaïque ou de métier ne se place jamais pour la couleur : **on prend le mot simple** (la retenue d'eau, le berceau de bois, la vente aux enchères). Un mot spécial n'est toléré que s'il est un **nom propre du monde** ou un terme de règle — et alors il s'explique en incise à sa première apparition, comme ci-dessus. Le test : *un lecteur pressé sur téléphone comprend-il la ligne sans dictionnaire ?*
+
 ---
 
 ## A · AVANT D'OUVRIR UNE SCÈNE
