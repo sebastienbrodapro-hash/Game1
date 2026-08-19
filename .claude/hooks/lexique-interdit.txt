@@ -1,0 +1,32 @@
+# LEXIQUE INTERDIT — les mots non courants qui ne doivent jamais paraître
+# dans la sortie joueur (RULE-MJ §0.4 : la prose se tient en français courant).
+# Un mot par ligne. Le hook Stop sonne s'il en voit un (mot entier, toute casse).
+# La liste grandit sur signalement du joueur : un mot le gêne -> il entre ici, pour toujours.
+# Les NOMS PROPRES du monde ne se mettent pas ici (ils ont leur incise à la première apparition).
+bief
+ber
+muletier
+muletiers
+bâtier
+arrimage
+arrimer
+aviver
+avive
+sellerie
+roulage
+coudée
+brasse
+toise
+lieue
+encan
+déshérence
+grevé
+grevance
+grège
+calame
+étiage
+ourdir
+bourrelier
+palefrenier
+corroyé
+estoc

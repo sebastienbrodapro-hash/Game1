@@ -522,7 +522,7 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | 1 | le boulanger de Charmoy | 30 mailles de farine d'avance | il paie le jour même, rouge jusqu'aux oreilles — la mise en jambes |
 | 2 | Jacquette, mercière de Charmoy | 2 taels | morte l'an passé ; sa fille tient l'étal et découvre la dette en même temps que lui |
 | 3 | le passeur des Trois Ponts | 5 taels | offre de payer **en passages, à vie** — la nature contre la maille |
-| 4 | un maître-bourrelier du Long Pré | 12 taels | prospère ; paie sans ciller — et propose du travail, parce qu'un garçon qui recouvre sait tenir un compte |
+| 4 | un fabricant de harnais du Long Pré | 12 taels | prospère ; paie sans ciller — et propose du travail, parce qu'un garçon qui recouvre sait tenir un compte |
 | 5 | la doyenne d'un hameau des Meules | 8 taels | le hameau a brûlé il y a quatre ans — plus de débiteur, plus de bouches : une dette peut mourir |
 | 6 | Odile, aubergiste au col des Charrettes | 20 taels | conteste tout : sa moitié « a brûlé » — un doigt sur la cire dirait si elle ment |
 | 7 | un compagnon des Fours | 1 pierre | muré en réclusion au fond de mine pour une saison : attendre, ou descendre le chercher |

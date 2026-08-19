@@ -40,6 +40,7 @@ RACINE = Path(__file__).resolve().parents[2]
 # Le coffre courant est le TRONC (monde/). L'ancien coffre du Creuset est
 # archivé et n'est plus surveillé : la campagne est close.
 NOMS = RACINE / "monde" / "NOMS-SCELLES.txt"
+LEXIQUE = Path(__file__).resolve().parent / "lexique-interdit.txt"
 DEPOT = RACINE / ".claude" / "derniere-scene.md"
 ETAT = RACINE / ".claude" / "psy-etat.txt"
 
@@ -68,6 +69,23 @@ def charger_noms() -> list[str]:
         if len(parts) >= 4 and parts[2] == "scelle" and parts[3] == "oui":
             noms.append(parts[1])
     return noms
+
+
+def charger_lexique() -> list[str]:
+    """Mots non courants interdits en sortie joueur (RULE-MJ 0.4).
+
+    2026-08-19 -- demande joueur : « bief, ber... devoir chercher une
+    signification a chaque ligne, ca me tue. » La regle seule ne suffit pas :
+    une regle qu'on peut oublier doit etre portee par un outil. La liste
+    grandit sur signalement -- un mot le gene, il entre ici pour toujours.
+    """
+    if not LEXIQUE.exists():
+        return []
+    return [
+        l.strip().lower()
+        for l in LEXIQUE.read_text(encoding="utf-8").splitlines()
+        if l.strip() and not l.startswith("#")
+    ]
 
 
 def dernier_tour(transcript: Path) -> str:
@@ -179,6 +197,25 @@ def main() -> int:
             "de se produire, et ouvrir l'errata.\n"
             "Si c'est un faux positif (mot commun capté par l'extraction), le dire "
             "en une ligne et continuer.",
+            file=sys.stderr,
+        )
+        return 2
+
+    # LEXIQUE (RULE-MJ 0.4) : un mot non courant dans la sortie joueur.
+    # Mot entier, toute casse ; les noms propres du monde ne sont pas listés.
+    mots = [
+        m for m in charger_lexique()
+        if re.search(rf"\b{re.escape(m)}\b", texte, re.IGNORECASE)
+    ]
+    if mots:
+        ecrire_etat(derniere, dernier_psy)
+        print(
+            "LEXIQUE — mot(s) non courant(s) dans la sortie joueur : "
+            + ", ".join(sorted(set(mots)))
+            + ".\nRULE-MJ §0.4 : la prose se tient en français courant.\n"
+            "Donner au joueur l'équivalent simple EN UNE LIGNE, et ne plus "
+            "jamais employer ce mot. Si le mot est devenu un nom propre du "
+            "monde, le retirer de .claude/hooks/lexique-interdit.txt.",
             file=sys.stderr,
         )
         return 2
