@@ -136,15 +136,15 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 **Le carrefour bas de l'archipel.** Les routes de colportage descendent de six cols pour se croiser au bord de la **rivière à barges** — personne n'y est né pour rien : on y charge, on y relaie, on y repart. **Le bourg de Charmoy**, ~700 feux, étagé entre la route haute et **la grande Retenue** — le barrage qui tient l'eau des moulins et des lavoirs, reconstruit après la crue d'il y a neuf ans.
 
 **Les lieux qui servent** :
-- **le grand relais** — trente attelages sous un seul toit : les convois s'y louent, s'y chargent, s'y défont. **Margot**, la patronne, qui a logé l'orphelin d'Honoré neuf ans sans jamais en parler à personne. **Gaucher**, le vieux maître de bât aux mains cassées — *c'est de lui, et du père avant lui, que Seb tient le geste* (§12, ⟨LE FIL⟩).
-- **la halle de roulage** — les prix du fret, les courtiers, ce que les convois déclarent — et ce qu'ils portent vraiment.
+- **le grand relais** — trente attelages sous un seul toit : les convois s'y louent, s'y chargent, s'y défont. **Margot**, la patronne, qui a logé l'orphelin d'Honoré neuf ans sans jamais en parler à personne. **Gaucher**, le vieux chef des chargements, les mains cassées par quarante ans de sangles — *c'est de lui, et du père avant lui, que Seb tient le geste* (§12, ⟨LE FIL⟩).
+- **la halle aux convois** — les prix du transport, les courtiers, ce que les convois déclarent — et ce qu'ils portent vraiment.
 - **la grande Retenue et les lavoirs** — reconstruits depuis la crue ; on n'y lave plus après le coucher, et on n'en parle pas (§7.5).
 - **la chapelle des morts** — au-dessus de la Retenue : **frère Colin**, les autels, la mémoire du bourg, les dépôts des défunts — et **la cloche du rite** à son porche (§3.1).
 - **le col des Charrettes** (est, vers la Grande Coupe, 2 jours) — le col vivant, péage et pierre de passage.
 
 **Qui pèse quoi à Charmoy** : le syndic **Firmin** (110, blanc) · **Margot** (60) · **Gaucher** (40) · deux disciples de la secte du Gant Blanc en résidence (300-500) · **frère Colin** (30, chanvre) · et la milice, vingt hommes de chanvre.
 
-**Le calendrier** : le rite du printemps (§3) · la foire de roulage d'été · **le Grand Ban** aux premières gelées (§8.1) · l'hiver qui ferme tout.
+**Le calendrier** : le rite du printemps (§3) · la foire aux convois, l'été · **le Grand Ban** aux premières gelées (§8.1) · l'hiver qui ferme tout.
 
 ### 2.2bis · ELLE DANS LE MONDE *(la lecture sociale d'un familier-proie, partout dans l'archipel : pire que rien — matière à scènes, `FONDATION` §3.5)*
 
@@ -155,7 +155,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 - **les dresseurs du Long Pré sont les seuls qui regardent vraiment** — en connaisseurs, et ce qu'ils voient les fait se taire, ce qui est pire ;
 - **les gamins de partout** — on lui court après, on veut la porter, on la lâche quand ça mord.
 
-**Le mortier — les destinataires possibles** *(le produit de son pilage ne vaut que donné, et le destinataire est son choix à elle, jamais négociable — `FONDATION` §3.4)* : **Gaucher** et ses mains cassées de bâtier · **la fille de Jacquette** et son étal en deuil (liasse 2) · les **gamins du relais** · le **passeur des Trois Ponts** (liasse 3) · une **Sœur du Lac** de passage · un **mineur aux poumons courts** · un **batelier cassé** de la rivière. *Le monde en offre à chaque vallée — elle pose la chose devant qui elle veut, et c'est tout (avant C : un geste, jamais un argument).*
+**Le mortier — les destinataires possibles** *(le produit de son pilage ne vaut que donné, et le destinataire est son choix à elle, jamais négociable — `FONDATION` §3.4)* : **Gaucher** et ses mains cassées · **la fille de Jacquette** et son étal en deuil (liasse 2) · les **gamins du relais** · le **passeur des Trois Ponts** (liasse 3) · une **Sœur du Lac** de passage · un **mineur aux poumons courts** · un **batelier cassé** de la rivière. *Le monde en offre à chaque vallée — elle pose la chose devant qui elle veut, et c'est tout (avant C : un geste, jamais un argument).*
 
 **Ce qui s'achète pour elle** *(le carburant du palier C — `SYSTEMES` §4.1 : un achat pour elle compte toujours)* : **le mortier de rivière** — 12 pierres, « le premier vrai outil de la bête » · **le feutre taillé à sa taille** — 3 pierres · **la part de gelée des Ruches** — 1 pierre la noix · **le panier de barge doublé** — 20 taels. *Un monde qui ne lui vend jamais rien lui refuse le palier — celui-ci vend.*
 
@@ -163,7 +163,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 ### 2.3 · Seb avant le rite
 
-**Dix-huit ans, garçon de bât au grand relais depuis neuf ans.** Fils d'**Honoré**, colporteur-crédit connu de huit vallées, et de **Denise** — noyés tous deux dans la crue de la Retenue. Recueilli par le relais : logé à la sellerie, nourri, payé en mailles. **Ce qui ne s'écrit pas** : il sait **charger** — l'arrimage qui tient les cols, le nœud qui ne rend pas, la sangle qui ment de quarante kilos ; il connaît les prix du roulage, les tailles de dépôt et leur lecture (§0.4), ce que vaut un convoi avant qu'il se déclare — et les mains de tous les colporteurs de l'archipel, parce que le garçon de bât voit passer les poignets. *Ça vaut plus que sa bourse.*
+**Dix-huit ans, chargeur au grand relais depuis neuf ans.** Fils d'**Honoré**, colporteur-crédit connu de huit vallées, et de **Denise** — noyés tous deux dans la crue de la Retenue. Recueilli par le relais : logé dans la remise, nourri, payé en mailles. **Ce qui ne s'écrit pas** : il sait **charger** — le chargement qui tient jusqu'au col, le nœud qui ne lâche pas, la sangle qui ment de quarante kilos ; il connaît les prix du transport, les tailles de dépôt et leur lecture (§0.4), ce que vaut un convoi avant qu'il se déclare — et les mains de tous les colporteurs de l'archipel, parce que le garçon de bât voit passer les poignets. *Ça vaut plus que sa bourse.*
 
 **Sa lecture sociale** : le garçon du relais. Poli, exact, invisible. Personne n'est méchant — personne ne le voit. Le rite va le rendre très visible, deux fois.
 
@@ -223,10 +223,10 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 | **CORPS** | **0/4 · LA CHAIR** |
 | **jetons** | **0/10** |
 | **portes** | **aucune** — les 3-4 premières se créent sur ses premiers critiques |
-| **arts** | **⟨LE FIL⟩ 1/6** — le geste vrai du bâtier (§12) : tendre une ligne parfaitement, la nouer pour qu'elle ne cède pas, lire au doigt ce qui pèse au bout. Honnête, utile, désarmé — *les crans suivants seront l'adaptation.* |
+| **arts** | **⟨LE FIL⟩ 1/6** — le geste vrai du chargeur (§12) : tendre une ligne parfaitement, la nouer pour qu'elle ne cède pas, lire au doigt ce qui pèse au bout. Honnête, utile, désarmé — *les crans suivants seront l'adaptation.* |
 | **la bête** | **1/9 · LE LAPEREAU** · esprit **A 0/2** |
-| **ce qu'il porte** | un couteau de bâtier, un rouleau de sangle, trente mètres de ligne de chanvre cirée, **40 mailles** |
-| **ce qui ne s'écrit pas** | l'arrimage, les tailles de dépôt et leur lecture, les prix du roulage, les mains des colporteurs (§2.3) |
+| **ce qu'il porte** | un couteau de travail, un rouleau de sangle, trente mètres de corde fine cirée, **40 mailles** |
+| **ce qui ne s'écrit pas** | l'art de charger, les tailles de dépôt et leur lecture, les prix du transport, les mains des colporteurs (§2.3) |
 
 ---
 
@@ -282,7 +282,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 20. **la rosée lourde des hauts prés** (§6.14) — la matière fine des alchimistes.
 
 **Ce qui se gagne** *(§8 — un rite ouvre une commande, un accès, une arme)* :
-21. **la boucle de jade** — la Grande Pesée (§8.9) ; l'outil d'un maître-bâtier, et le bourg le sait.
+21. **la boucle de jade** — la Grande Pesée (§8.9) ; l'outil d'un maître chargeur, et le bourg le sait.
 22. **une charte de sente** — une prime de sente rendue au Grand Ban : le droit de passer une sente haute à péage nul.
 23. **le Carreau du Serment** — l'ordalie du cloître (§8.11) — **objet de portée** (§5.2).
 24. **la clef de l'auberge morte** — la petite maison du col des Aiguilles la prête à qui elle croit (§10.6).
@@ -376,7 +376,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 ### 8.8-8.18 · Les autres rites
 
 8. **l'examen du Gant Blanc** *(printemps, Hautefoire)* — la secte prend à l'examen, jamais à la naissance ; trois portes, un refus par porte.
-9. **la Grande Pesée** *(Charmoy, été)* — le concours des chargements : arrimer la charge impossible, la monter au col et revenir entière. Gagne **la boucle de jade** — l'outil d'un maître-bâtier — et les commandes de l'année.
+9. **la Grande Pesée** *(Charmoy, été)* — le concours des chargements : attacher la charge impossible, la monter au col et revenir entière. Gagne **la boucle de jade** — l'outil d'un maître chargeur — et les commandes de l'année.
 10. **la pesée d'embauche** *(partout)* — on pèse qui on embauche ; refuser la pierre, c'est doubler le soupçon.
 11. **l'ordalie du cloître** *(Icônes)* — jurer sa cause à voix haute et tirer : **le Carreau du Serment** se gagne là, et nulle part ailleurs.
 12. **le rachat de charte** *(Hautefoire, l'encan annuel)* — huissiers des tailles, enchères, dettes au bout de la taille (§6.17).
@@ -420,7 +420,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 
 ## 10 · LES RÉCLUSIONS — 9 LIEUX, AVEC LEURS DURÉES *(`SYSTEMES` §6 : déclarée, le monde bouge, un jet à la sortie)*
 
-1. **la sellerie du grand relais** *(Charmoy)* — **une lune** — l'art au calme, dans l'odeur du cuir ; Gaucher passe une fois par jour, tape le montant du bât, repart.
+1. **la remise du grand relais** *(Charmoy)* — **une lune** — l'art au calme, dans l'odeur du cuir ; Gaucher passe une fois par jour, jette un œil, repart.
 2. **la cellule de crête du cloître** *(Icônes)* — **une lune** — l'esprit ; se loue contre service rendu.
 3. **la chambre de sel** *(Salinière)* — **une saison** — le Corps : le sel entre ; on en sort sec et dur. Mord : les poumons courts.
 4. **le fond de mine** *(Salinière)* — **une saison** — le raffinage : le noir absolu concentre ; les glaces noires en prime.
@@ -456,7 +456,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 
 | Cran | Nom | Ce que ça donne |
 |---|---|---|
-| **1** | **le geste vrai** *(acquis, feuille de départ)* | tendre une ligne parfaitement, la nouer pour qu'elle ne cède pas, lire au doigt ce qui pèse au bout. Le geste du bâtier. Honnête, utile, désarmé. |
+| **1** | **le geste vrai** *(acquis, feuille de départ)* | tendre une corde parfaitement, la nouer pour qu'elle ne lâche pas, lire au doigt ce qui pèse au bout. Le geste du chargeur. Honnête, utile, désarmé. |
 | **2** | **la ligne posée** | un fil tendu dans une pièce, un passage, un camp — il sait **tout ce qui le touche**, dormant compris. Le piège simple devient son métier. |
 | **3** | **le fil qui tient** | nouer un homme **en mouvement** ; l'entrave portée à la ceinture devient une arme. *La soie de la Doyenne (§7.1) tient ce que le chanvre lâche.* |
 | **4** | **le fil qui coupe** | la tension juste : son fil tranche chair et cuir. *Le fil-d'or-froid (§6.6) tranche l'os et l'acier doux.* **C'est ici que Walter arrive.** |
