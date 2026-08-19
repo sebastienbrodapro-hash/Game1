@@ -1,7 +1,7 @@
 # RULE-MJ — CARTE DE CONDUITE
 
 > Condensé opérationnel de `MJ-ERRATA.md` (§1-55 — consolidé par familles, il se lit **sur événement**, plus en séance). **Aucun secret dedans** : ouvrable devant le joueur.
-> **Lu au démarrage — avec `codex/TON-ETALON.md`, l'étalon de voix (trois actes de la version perdue) — puis parcouru avant chaque bloc.** Si une seule chose est relue en cours de session, c'est celle-là.
+> **Lu au démarrage, puis parcouru avant chaque bloc.** *(La voix vit dans la phase psyché — `FONDATION` §6 — et l'errata §56 ; `codex/TON-ETALON.md` est une référence qui se consulte au besoin, pas une relecture obligée — tranché par le joueur le 2026-08-19.)* Si une seule chose est relue en cours de session, c'est celle-là.
 >
 > **La conduite a survécu à la clôture du Creuset — le monde, non.** Ce fichier ne décrit aucun monde : ce qui décrit un monde vit dans `FONDATION.md` et `monde/`. *(Purgé le 2026-08-16 : l'échelle de l'ancienne bête, le Masque, les grades de Corps du Creuset et la DA du palier II en sont sortis.)*
 >
