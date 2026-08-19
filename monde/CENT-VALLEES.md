@@ -163,7 +163,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 ### 2.3 · Seb avant le rite
 
-**Dix-huit ans, chargeur au grand relais depuis neuf ans.** Fils d'**Honoré**, colporteur-crédit connu de huit vallées, et de **Denise** — noyés tous deux dans la crue de la Retenue. Recueilli par le relais : logé dans la remise, nourri, payé en mailles. **Ce qui ne s'écrit pas** : il sait **charger** — le chargement qui tient jusqu'au col, le nœud qui ne lâche pas, la sangle qui ment de quarante kilos ; il connaît les prix du transport, les tailles de dépôt et leur lecture (§0.4), ce que vaut un convoi avant qu'il se déclare — et les mains de tous les colporteurs de l'archipel, parce que le garçon de bât voit passer les poignets. *Ça vaut plus que sa bourse.*
+**Dix-huit ans, chargeur au grand relais depuis neuf ans.** Fils d'**Honoré**, colporteur-crédit connu de huit vallées, et de **Denise** — noyés tous deux dans la crue de la Retenue. Recueilli par le relais : logé dans la remise, nourri, payé en mailles. **Ce qui ne s'écrit pas** : il sait **charger** — le chargement qui tient jusqu'au col, le nœud qui ne lâche pas, la sangle qui ment de quarante kilos ; il connaît les prix du transport, les tailles de dépôt et leur lecture (§0.4), ce que vaut un convoi avant qu'il se déclare — et les mains de tous les colporteurs de l'archipel, parce que le chargeur voit passer les poignets. *Ça vaut plus que sa bourse.*
 
 **Sa lecture sociale** : le garçon du relais. Poli, exact, invisible. Personne n'est méchant — personne ne le voit. Le rite va le rendre très visible, deux fois.
 
@@ -243,7 +243,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 | péage d'un col majeur | 10 mailles l'homme · 1 tael le chariot |
 | gages : journalier · compagnon · maître | 3 mailles/j · 10 mailles/j · 1 tael/j |
 | un couteau honnête · une lame de compagnon | 1 tael · 10-30 taels |
-| une bête de bât · un manteau de feutre des hauts | 8 taels · 8 taels |
+| une mule de charge · un manteau de feutre des hauts | 8 taels · 8 taels |
 | une pièce de soie ordinaire · de soie d'esprit | 15 taels · 2-10 pierres |
 | un brassard de bande (marque vérifiée) | 20 mailles |
 | soins : rebouteux · chirurgien de secte · os ressoudé | 5 taels · 2 pierres · 5 pierres |
