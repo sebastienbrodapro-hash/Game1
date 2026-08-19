@@ -157,7 +157,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 - **les dresseurs du Long Pré sont les seuls qui regardent vraiment** — en connaisseurs, et ce qu'ils voient les fait se taire, ce qui est pire ;
 - **les gamins de partout** — on lui court après, on veut la porter, on la lâche quand ça mord.
 
-**Le mortier — les destinataires possibles** *(le produit de son pilage ne vaut que donné à quelqu'un d'autre, et le destinataire est son choix à elle, jamais négociable — `FONDATION` §3.4)* : **Berthe** et ses mains usées · **Perrine** et son orgueil affamé · les **apprentis de la halle** · le **passeur des Trois Ponts** · une **Sœur du Lac** de passage · un **mineur aux poumons courts** · un **porteur cassé** de la Roue. *Le monde en offre à chaque vallée — elle pose la chose devant qui elle veut, et c'est tout (avant C : un geste, jamais un argument).*
+**Le mortier — les destinataires possibles** *(le produit de son pilage ne vaut que donné à quelqu'un d'autre, et le destinataire est son choix à elle, jamais négociable — `FONDATION` §3.4)* : **Berthe** et ses mains usées · **la fille de Jacquette** et son étal en deuil (liasse 2) · les **apprentis de la halle** · le **passeur des Trois Ponts** (liasse 3) · une **Sœur du Lac** de passage · un **mineur aux poumons courts** · un **porteur cassé** du Portefaix. *Le monde en offre à chaque vallée — elle pose la chose devant qui elle veut, et c'est tout (avant C : un geste, jamais un argument).*
 
 **Ce qui s'achète pour elle** *(le carburant du palier C — `SYSTEMES` §4.1 : un achat pour elle compte toujours)* : **le mortier de rivière** — 12 pierres, « le premier vrai outil de la bête » · **le feutre taillé à sa taille** — 3 pierres · **la part de gelée des Ruches** — 1 pierre la noix · **le panier de barge doublé** — 20 taels. *Un monde qui ne lui vend jamais rien lui refuse le palier — celui-ci vend.*
 
@@ -453,7 +453,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 5. le **chef du cadastre** du Pavois — « votre borne a bougé, c'est ennuyeux » — et elle a bougé pour lui.
 6. l'**huissier des tailles** de Hautefoire — « votre titre n'existe pas », dit avec une joie de métier.
 7. le **champion du Grand Portage** en titre — trois Montres sans poser un genou, et il le rappelle en s'asseyant.
-8. **Perrine** *(Dernier Col)* — l'arrogance des ruinés : refuser la pitié, mordre la main, y compris la sienne.
+8. **le fils du syndic** *(Fuseau)* — quatre souffles de cloche et zéro doute : l'avenir du bourg en personne, et il le sait avant vous.
 9. le **maître des Fours** — reçoit assis, fait attendre debout, chauffe la pièce exprès.
 10. la **doyenne des Sœurs** — répond aux questions par des pesées.
 
@@ -476,7 +476,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 
 ### 12.2 · Les arts d'en face *(chaque maître au dernier cran a le régime de son art dans son domaine)*
 
-1. **la Lecture des Tailles** — les titres ; au sommet : **Armande** (§3.4) — rien ne se contrefait devant elle.
+1. **la Lecture des Tailles** — les titres ; au sommet : **le doyen des huissiers de Hautefoire** — rien ne se contrefait devant lui.
 2. **le Portage** — porter, tenir, ne pas tomber ; au sommet : le champion du Grand Portage.
 3. **le Pas de Crête** — marcher où rien ne tient ; l'art des contrebandiers.
 4. **le Souffle des Fours** — la chaleur commandée ; au sommet : le maître des Fours — dans sa forge, des miracles.
