@@ -132,6 +132,8 @@ Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de
 
 *Ça prolonge §44 — ne jamais mettre une position dans la bouche de Seb — et ça l'étend à ses **actes**, pas seulement à ses paroles.*
 
+- **⛔ UN ACTE DE CONSCIENCE NE SE COMPOSE JAMAIS À SA PLACE** *(faute du 2026-08-19, scène 49 : le MJ a fait faire demi-tour à Seb au milieu du pont pour sauver un inconnu — le joueur : « je l'aurais laissé »)*. Tout geste qui engage **qui il est** — sauver, abandonner, épargner, trahir, donner, venger — **se liste en option, même en pleine action, même quand une seule réponse semble évidente**. L'évidence morale du MJ n'est pas celle du personnage. Le silence du col était le sien ; le sauvetage du pont ne l'était pas.
+
 ## D.0bis · ⛔ LE MJ GARDE LA MAIN SUR LE RYTHME
 
 *Recadrage du joueur, 2026-08-16 : « ça manque de réaction, là c'était plat. Je te laisse reprendre la main sur les choix. **Si je gère tout, tu gères plus le rythme.** »*
