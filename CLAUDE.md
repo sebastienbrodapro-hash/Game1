@@ -5,7 +5,7 @@ Cette branche (`main`) contient **le jeu d'histoire IA** : un jeu de rôle solo 
 > **⚠ CAMPAGNE NEUVE : « LES CENT VALLÉES » — prête, scène 1 non jouée** *(état au 2026-08-18)*. La campagne « **Civet** » (113 scènes) est close dans `archive/civet/` (post-mortem : `archive/civet/AUDIT.md`). Depuis :
 > 1. **✔ La phase psyché** — traits de conscience d'elle et de lui, gravés dans `FONDATION.md` §6. Seb a **18 ans**. Elle recommence **du début**, conscience définie.
 > 2. **✔ Les systèmes refondus** — combat à trois régimes, seize grades de Corps nommés, réclusions à durée, moments d'esprit comptés (`SYSTEMES.md`, `SEUILS.md`).
-> 3. **✔ Le monde** — `monde/CENT-VALLEES.md` (passes 1-2 : l'archipel, l'abondance par axe) + tronc scellé (passe 3). **✔ Audit du monde fait le 2026-08-19** — références re-pointées sur `CENT-VALLEES`, Balance→Cadre dans `SYSTEMES`, alignements remis à zéro — **+ passe 5 : LE FIL EST SON DOMAINE, PAS CELUI DU MONDE** (titres par tailles, brassards de cuir, le Gant Blanc). **Reste : la validation de la feuille de départ par le joueur.** *(Une première tentative — ~60 scènes en session Remote Control, jamais de `codex` — est perdue.)*
+> 3. **✔ Le monde** — `monde/CENT-VALLEES.md` (passes 1-2 : l'archipel, l'abondance par axe) + tronc scellé (passe 3). **✔ Audit du monde fait le 2026-08-19** — références re-pointées sur `CENT-VALLEES`, Balance→Cadre dans `SYSTEMES`, alignements remis à zéro — **+ passe 5 : LE FIL EST SON DOMAINE, PAS CELUI DU MONDE** (titres par tailles, brassards de cuir, le Gant Blanc). **✔ Feuille de départ validée par le joueur le 2026-08-19 — prêt pour la scène 1.** *(Une première tentative — ~60 scènes en session Remote Control, jamais de `codex` — est perdue.)*
 
 > **Les campagnes closes ne se chargent jamais pour jouer** : « Le Creuset » (299 scènes) dans `archive/creuset/`, « Civet » (113 scènes) dans `archive/civet/`. Ce qui survit d'elles, ce sont les **règles de conduite** (`codex/`) : c'est le monde qui change, pas la conduite.
 
@@ -109,6 +109,8 @@ Tout se joue **en français**, répliques courtes, rythme soutenu.
 **Pendant un point MJ** (audit, recadrage, atelier — toute séquence méta qui modifie des fichiers) : chaque changement est **commité et poussé sur `main` immédiatement, dans le même tour** — jamais de branche ni de PR. Après chaque push : `git status -sb` → `## main...origin/main`. **Hors point MJ**, les corrections s'inscrivent au prochain `codex`. Session cloud (push refusé) : commit local immédiat, push dès que possible, état signalé. **Toute règle nouvelle issue d'un point MJ est reformulée, questionnée et validée par le joueur AVANT d'être gravée.**
 
 ## Sauvegarde — quand le joueur dit `codex`
+
+> **Cadence (validée par le joueur le 2026-08-19, après la perte de ~60 scènes jamais sauvées)** : le MJ déclenche un `codex` de lui-même **toutes les ~10 scènes et à chaque fin de session** — sans attendre le mot du joueur.
 
 1. Régénérer l'état courant de la campagne (fiche, portes, casting, point de reprise).
 2. Mettre à jour ce que la scène a bougé dans le fichier-monde (états joués) et les entrées d'errata nouvelles — **obligatoire**.

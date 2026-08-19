@@ -4,7 +4,7 @@
 
 > **Le monde neuf, ouvert le 2026-08-18** après l'archivage du civet. Construit sur les directives de `FONDATION` §3.6 et §6 : **vaste d'entrée** — *« 1 ville 1 village c'est pas un monde »* —, le voyage comme contenu, ~200 scènes dans la strate.
 > **CONSTRUCTION COMPLÈTE — passes 1 à 4 faites, audit passé, feuille validée** *(2026-08-18)*. Passe 4, sur audit et décision du joueur : **le premier acte redessiné** — personne ne mise (§3.4), l'échine est la faim et le fil (§3.5) —, **elle dans le monde** (§2.2bis), **les vallées en détail** (§2.1bis). ⚑ **Prêt pour la scène 1.**
-> **Passe 5 — 2026-08-19, tranché par le joueur : LE FIL EST SON DOMAINE, PAS CELUI DU MONDE.** Une première tentative de campagne (~60 scènes, jamais sauvegardées) a montré que tout tournait autour des fils et des nœuds. Le motif se concentre désormais sur **Seb** — sa vallée d'origine, son art ⟨LE FIL⟩, son fil de potentiel — et les institutions du monde le quittent : titres par **tailles** (§0.4), bandes en **brassards de cuir** (§0.7), la secte du Fil Blanc devenue **le Gant Blanc**. ⚑ **Feuille §4 à revalider.**
+> **Passe 5 — 2026-08-19, tranché par le joueur : LE FIL EST SON DOMAINE, PAS CELUI DU MONDE.** Une première tentative de campagne (~60 scènes, jamais sauvegardées) a montré que tout tournait autour des fils et des nœuds. Le motif se concentre désormais sur **Seb** — sa vallée d'origine, son art ⟨LE FIL⟩, son fil de potentiel — et les institutions du monde le quittent : titres par **tailles** (§0.4), bandes en **brassards de cuir** (§0.7), la secte du Fil Blanc devenue **le Gant Blanc**. ⚑ **Feuille §4 revalidée par le joueur le 2026-08-19 — prêt pour la scène 1.**
 
 ---
 
@@ -222,7 +222,7 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 
 ---
 
-## 4 · LA FEUILLE DE DÉPART *(à valider avec le joueur avant la scène 1)*
+## 4 · LA FEUILLE DE DÉPART *(validée par le joueur le 2026-08-19)*
 
 | | |
 |---|---|
