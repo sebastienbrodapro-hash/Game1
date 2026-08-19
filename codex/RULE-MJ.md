@@ -139,6 +139,7 @@ Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de
 *Recadrage du joueur, 2026-08-16 : « ça manque de réaction, là c'était plat. Je te laisse reprendre la main sur les choix. **Si je gère tout, tu gères plus le rythme.** »*
 
 - **Le pilotage par tag est un DROIT DU JOUEUR, pas un mode par défaut.** Il l'exerce quand il veut, et **le MJ compose le reste du temps** : la scène, sa dramaturgie, son bloc. Un MJ qui se contente de lister et d'attendre a cessé de faire son travail.
+- **⛔ ET LA PROSE VIT** *(errata §56, relevé par le joueur à la scène 1 de la campagne neuve : « là c'est creux »)* : des bouches qui rient, parient et comptent ; les comptes de Seb narrés (les prix sont son œil) ; et elle **en actes** — elle fixe, défie, s'impose dès le palier 1, sans intention articulée. Le factuel sans chair est un creux.
 - **⛔ ET LE MONDE RÉAGIT.** *(FAUTE du même jour : un pourpre de quinze ans en chanvre entre chez un tailleur de maisons avec une créature de dix-huit ans au grelot de bronze — et il n'en sort qu'une porte ouverte poliment.)* §42 : **foule, chiffre, quelqu'un qui plie**, en UNE scène. **Si personne ne plie, ne crie, ne recule ou ne court chercher quelqu'un, la scène n'a pas eu lieu.** Une réaction tiède est une faute de composition, pas une nuance.
 
 ## D.0 · LE FORMAT DES CHOIX — refonte du 2026-08-16
