@@ -555,4 +555,44 @@ Classement après E2 : 3ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ — et l'écart 
 
 ---
 
-*Lacunes de l'archive : les scènes 39-40 (le départ de la caravane, E1 — la Roue) et 43 (E3 — la traversée de fumée, le zéro assumé pendant la chasse à l'Hivernant) n'ont pas survécu. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive est close à dix-huit actes.*
+*Lacunes de l'archive : seules les scènes 39-40 (le départ de la caravane, E1 — la Roue) n'ont pas survécu. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive est close à dix-huit actes.*
+
+---
+
+## 43 · L'HOMME QUI MANGE L'ORAGE *(version perdue — verbatim ; jet : 86-100 ⚑ triomphe naturel. Retrouvé après la clôture — c'est la scène qui fabrique le fil-d'orage et arme « c'est ma prise ».)*
+
+Le Champ de Foudre est un plateau nu au-dessus de la Traverse, où les orages d'automne viennent nicher comme des bêtes au gîte. Les bergers parient de loin, à couvert. Personne ne monte — c'est le principe.
+
+Il monte. Et il monte en tisserand : la veille, il a gréé le plateau — ses deux mètres de fil-d'or-froid déployés en cage autour de lui, tendus entre quatre piquets de fer trouvés aux ruines du vieux cairn, un ouvrage de folie calculée : le métal appelle la foudre, alors autant lui tisser un chemin — autour d'un corps de pierre, pas dedans.
+
+« Tu disais que tu craquerais pas », siffle la voix de jade depuis le rebord du plateau, où Perrine l'a presque attachée. « Tenir un orage, c'est quoi, si c'est pas chercher à craquer ?! »
+
+« C'est vérifier. »
+
+« ...Compte les éclairs, alors. Je veux le total. »
+
+L'orage arrive au crépuscule, noir-violet, énorme — et la nuit devient une forge.
+
+Le premier éclair prend la cage et court le fil-d'or en hurlant, un cercle de soleil blanc autour de lui — le tonnerre le frappe en pleine poitrine comme une porte de grange, et le grès tient. Le deuxième plie un piquet. Le troisième passe entre les fils et le prend à l'épaule — la douleur d'un monde entier concentrée sur deux phalanges de large — et le grès tient encore, et lui derrière le grès, cloué debout, à compter.
+
+Quarante minutes. Dix-neuf éclairs au fil, trois au corps. La chair, quelque part au milieu, cesse de subir et se met à apprendre — le bronze commence là, dans le vacarme, une couche prise au ciel lui-même.
+
+Et puis, au cœur de l'orage, l'au-delà arrive sur quatre pattes.
+
+Une masse blanche entre dans le champ des éclairs — haute comme un chariot, la fourrure dressée d'électricité, des yeux d'ambre tranquilles au milieu de l'apocalypse. L'Hivernant. L'ours blanc du Champ de Foudre, dix mille au bas mot, monté manger son orage comme chaque automne — et qui trouve, au milieu de sa table, un homme debout dans une cage d'or en train de faire la même chose.
+
+Ils se regardent, à vingt mètres, pendant que le ciel tombe autour d'eux.
+
+L'ours penche la tête. Renifle l'odeur du Gué, la marque du fil, le grès neuf. Quelque chose passe — pas une menace : une prise de note entre professionnels. Puis il tourne sa montagne de fourrure et va manger l'orage plus loin, comme on change de table dans une auberge.
+
+Quand le ciel se vide, Seb est toujours debout. La cage a bu dix-neuf éclairs — et le fil-d'or-froid n'est plus froid : il a pris un lustre d'huile sombre, un chant nouveau sous le doigt. La foudre grave ce qu'elle touche. Sur son épaule et son bras, une fougère blanche est écrite dans la peau — la marque de foudre, que les bergers racontent déjà dans trois vallées.
+
+⚑ CORPS — LE BRONZE 1/4 (la couche du ciel : +100 — chiffre 10 565 → 10 665)
+⚑ ⟨LA MAIN DE MAÎTRE⟩ 1/4 → 2/4 — ses ouvrages conduisent : ce qu'il grée détourne les forces — charges, foudres, tensions — au-delà de ce que la matière promet.
+⚑ LE FIL-D'ORAGE — les deux mètres de fil-d'or, trempés à dix-neuf éclairs : la matière du cran 4, devenue quelque chose que les Fours n'ont jamais coulé.
+
+Au rebord du plateau, elle l'attend, trempée, furieuse, soulagée — et les yeux de jade suivent la silhouette blanche qui redescend l'autre versant avec son orage.
+
+« Vingt-deux éclairs. J'ai compté. » Un temps. « Et celle-là — la blanche. La prochaine, c'est elle. Je le dis maintenant : c'est ma prise. »
+
+> *Leçons du 43 : une chance se prépare en tisserand (la cage n'annule pas le danger — elle le met en scène) ; le triomphe naturel arrive en RENCONTRE, pas en récompense (l'Hivernant qui change de table, la prise de note entre professionnels — et c'est lui que le 44 paiera) ; la matière s'améliore par l'événement vécu (le fil-d'or devient fil-d'orage) ; la marque sur la peau devient une rumeur à trois vallées ; et sa réplique à elle arme la scène suivante : « c'est ma prise ».*
