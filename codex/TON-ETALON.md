@@ -168,3 +168,55 @@ Un temps. Les lumières de l'arène montent de la ville basse, où des équipes 
 « Après la craie, on parle de la maison. » Les yeux jade, tranquilles, définitifs. « Tu perdras. Mais je te laisserai bien argumenter d'abord — tu es mignon quand tu comptes. »
 
 > *Leçon du 53 : les scènes calmes comptent autant que les prises — c'est là que la paire se mesure. Sa voix à C : les comptes appris de lui, retournés contre lui avec tendresse ; le moteur « appartenir » qui avance ses pions (« on parle de la maison ») ; la moquerie comme caresse. Et le monde qui garde la trace d'eux (la gravure au mur, « depuis le soir où vous savez »).*
+
+---
+
+## 10 · CE QUE VOIENT LES CONNAISSEURS *(version perdue — verbatim ; les dresseurs du Long Pré)*
+
+Le bourg des Haras sent le crottin, le cuir et l'argent. Ici les bêtes de trait d'esprit valent plus que les maisons qu'elles tirent, et les trois lignées de dresseurs se jaugent par-dessus les enclos depuis six générations.
+
+Le Fileur y est attendu — pas comme il voudrait. Le colporteur est passé la veille. Quand il demande à voir un maître-dresseur, on le fait poireauter une heure entre deux paddocks, et c'est un rire qui l'accueille avant tout visage.
+
+Le vieux maître de la première lignée refuse tout net de se déplacer — « j'ai pas de temps pour les blagues de Fuseau. » C'est la version réduite : au lieu du maître, on lui envoie Garin, un dresseur de second rang aux mains carrées, qui vient pour s'en débarrasser en trois minutes.
+
+Les trois minutes ne se passent pas comme prévu.
+
+Garin prend le lapereau à deux mains, comme un ballot. La retourne. S'arrête. La retourne encore, plus lentement. Regarde les yeux vert jade — et le lapereau soutient son regard, une seconde de trop. Il dit trois mots à voix basse — « couche l'oreille » — et elle couche l'oreille. Les mots. Pas le geste.
+
+Garin la repose avec un soin qu'il n'avait pas en la prenant. Il ne rit plus du tout.
+
+« Où c'est que vous l'avez invoquée, ça ? » Pas de réponse attendue. Il s'essuie les mains sur les cuisses, regarde autour de lui, baisse la voix : « Écoutez le seul conseil gratuit du Long Pré. Une bête monte en mangeant au-dessus de sa dernière prise — tout le monde sait ça ici. La vôtre a mangé quoi, un rat ? Alors une fouine des haies. Puis un renard jeune. Puis on en reparle. Et— » il hésite, se penche : « —ne la montrez pas trop. Y a des gens dans cette vallée qui achètent ce qu'ils comprennent pas, juste pour pas que d'autres l'aient. »
+
+La complication a dix-neuf ans et des bottes neuves. Un jeune de la troisième lignée, qui a tout regardé depuis la barrière, s'approche avec le sourire de ceux qui n'ont jamais payé un repas : « Combien, le lapin ? » Et quand Seb dit qu'elle n'est pas à vendre, le sourire se referme d'un cran : « Ici, tout se vend. T'es juste pas encore au prix. »
+
+Le soir même, au bourg, le jeune parie dix taels, publiquement, que le Fileur ne passera pas le Gué : « le troupeau le rendra en bouillie, et le lapin sera à ramasser sur la berge. »
+
+## 11 · LE GUÉ DES BÊTES *(version perdue — verbatim ; la première couche de Corps, et la porte qui coûte)*
+
+La migration arrive deux jours plus tard, à l'aube, comme un orage couché.
+
+On l'entend avant de la voir : un tonnerre continu qui descend le Long Pré, et puis c'est là — des centaines de bêtes de trait d'esprit, hautes comme des bœufs et luisant doucement dans le petit jour, qui convergent vers le gué sur un kilomètre de front. Les dresseurs tiennent les rives. L'usage est simple : qui veut traverser dans le troupeau signe du menton, et le gué fait le tri.
+
+Sur la berge, il pose la sacoche. Le lapereau en jaillit et grimpe déjà contre sa jambe — il la décroche doucement, la pose sur la pierre. Elle tambourine, furieuse, les deux pattes arrière, trois coups qui claquent comme des gifles. Il entre dans l'eau quand même.
+
+Le milieu du gué est un autre monde. L'eau à la taille, le fond qui roule, et le troupeau qui arrive dessus — pas méchant : indifférent, ce qui est infiniment pire. On ne combat pas une migration. On tient debout dedans, ou on meurt dessous.
+
+La première épaule le frappe comme une porte de grange. Il tient. La deuxième lui retourne le bras gauche, la troisième — il ne les compte plus, il est un piquet dans un fleuve de muscle, quelque chose lui ouvre l'arcade, quelque chose lui prend trois côtes d'un coup de flanc, il coule une fois, se relève — parce que couler deux fois c'est ne plus se relever — et au milieu exact du gué, là où le troupeau est le plus dense, quelque chose se passe dans lui :
+
+la douleur cesse d'être un cri et devient une information. Sa peau, quelque part sous les bleus, prend le grain de la pierre. La chair apprend ce que l'eau et le muscle lui enseignent à coups de tonne.
+
+⚑ CORPS 0/4 → 1/4 — la première couche, prise au milieu du Gué, dans la scène même. chiffre 10 → 20.
+
+Il sort de l'eau quarante mètres en aval du point prévu, à quatre pattes, en crachant — trois côtes fêlées, l'épaule gauche démontée, l'arcade ouverte. Le minimum vital de l'intention : il a traversé. Debout, aucun ne pourra dire le contraire — le vieux maître de la première lignée a regardé toute la traversée depuis sa barrière, et quand Seb se redresse sur la rive, le vieux hoche la tête, une fois, et s'en va. C'est le premier geste de cette vallée qui ne soit pas un rire.
+
+Le lapereau est déjà là — elle a descendu la berge en longeant chaque mètre de sa dérive, et elle lui rentre le front dans la joue, fort, deux fois, imbécile, imbécile.
+
+Et la catastrophe sort de l'eau avec lui.
+
+Parce que le troupeau se souvient — c'est écrit dans le gué depuis toujours — et ce qu'il retient de cette odeur-là, cette chose minuscule et dure qui n'a pas cassé au milieu du courant, il le retient comme un danger. Et le troupeau du Long Pré est la souche de toutes les bêtes de somme d'esprit de l'archipel : mules de bât, trains de caravane, attelages de barge. La mémoire descendra les lignées comme une teinture dans l'eau.
+
+En remontant au bourg, les mules du premier enclos hurlent sur son passage et se jettent contre les barrières. Les dresseurs tournent la tête. Quelqu'un ne rit plus du tout — pour de toutes autres raisons.
+
+⚠ ⟨L'ODEUR DU GUÉ⟩ 1/3 — porte négative, ouverte. Les bêtes de somme d'esprit le tiennent pour un danger : elles bronchent, ruent, refusent — lui sur leur dos, lui dans leur convoi, lui près de leur bât. L'archipel entier voyage à dos de mule. Pas lui.
+
+> *Leçons des 10-11 : la version réduite d'un jet est un PERSONNAGE (pas le maître — Garin, venu pour expédier, retourné en trois minutes) ; le monde donne son savoir par des bouches intéressées (le menu de Garin : fouine → renard → « on en reparle ») ; la complication a un visage et un pari public ; une porte négative est une CHARGE qui voyage (l'archipel entier à dos de mule — pas lui) ; la couche de Corps tombe sur le déclencheur objectif, dans la scène, chiffre recalé aussitôt ; et elle : trois coups de pattes comme des gifles, la berge longée mètre par mètre, le front dans la joue — imbécile, imbécile.*
