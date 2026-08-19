@@ -555,7 +555,7 @@ Classement après E2 : 3ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ — et l'écart 
 
 ---
 
-*L'archive est **continue de 37 à 55** — plus le rite (1) et le Gué (10-11) en prologue. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive est close à vingt-et-un actes.*
+*L'archive est **continue de 35 à 55** — plus le rite (1) et le Gué (10-11) en prologue. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive compte vingt-trois actes — et s'agrandit par l'amont à mesure que le joueur retrouve des morceaux.*
 
 ---
 
@@ -668,3 +668,51 @@ Perrine confisque le harnais, blanche de rage — le harnais de son grand-père,
 « Fini au royal sur une sangle morte. T'es soit très bête, soit très autre chose. » Il repart. « Les deux m'intéressent. »
 
 > *Leçons du 40 : la catastrophe frappe l'ÉQUIPEMENT et devient la meilleure scène de l'arc (la sangle coupée transforme une course en voie de l'épreuve — et le grade tombe au trente-septième virage, dans la scène même) ; le barème est aveugle au style, et c'est ce qui rend le style légendaire ; la porte aggravée au naturel s'incarne (⟨LA COTE⟩ : l'argent se masse, et l'argent a des mains) ; l'allié blessé dans son honneur se donne un rôle (Perrine, garde du matériel) ; et l'adversaire d'exception se paie une réplique (« les deux m'intéressent »).*
+
+---
+
+## 35 · CE QUE PORTE UN HOMME *(version perdue — verbatim ; jet de l'été : 26-50 — obtenu, à un prix)*
+
+L'été du col des Aiguilles est une religion à deux offices.
+
+L'aube appartient à Basile. La charge-étalon — le poids réglementaire de la Montre : quarante kilos de bât mort, réglés au grain près — et les lacets du col vivant d'à côté, quarante-et-un virages de caillasse. Le programme tient en une phrase du vieux : « Tu montes jusqu'à ce que ça casse, et le lendemain tu montes encore. C'est la chair qui décide quand elle a compris. »
+
+Elle décide deux fois.
+
+La première, à la mi-été : le trente-huitième lacet, la charge qui bascule, l'épaule qui dit non — et il finit les trois derniers virages quand même, plié en deux, parce que reculer n'est pas au programme. Quelque chose se soude dans le dos et les épaules pendant qu'il s'effondre au sommet : la deuxième couche, prise dans les règles.
+
+La seconde, fin d'été, une nuit de tempête sèche que Basile refuse d'annuler — « la Montre court aussi sous le mauvais temps ». Le vent du col le cloue au vingtième lacet, la charge en ancre, les genoux en feu ; il tient, tient, tient — et la chair, à force, comprend. Le grain de la pierre gagne les avant-bras, la nuque. Le froid mord moins. Les aiguilles de Berthe ne marqueraient plus.
+
+⚑ CORPS 1/4 → 3/4 · vers LE GRÈS — deux couches d'été, prises aux lacets. chiffre 4 035 → 4 055.
+
+Elle court les lacets avec lui, chaque aube, en parallèle — son entraînement à elle, ses jambes neuves qui avalent la caillasse. Un matin, en le regardant se relever d'une chute, elle lâche, mi-moqueuse mi-autre chose :
+
+« Toi, tu montes en cassant. Moi, j'attends toujours ma prise. » Les oreilles pointées vers le nord, vers le col fermé, une seconde de trop. « Elle ne viendra pas toute seule, tu sais. »
+
+Et le prix de l'été tombe en août. Basile, en démontrant l'épaulé de la Roue une fois de trop, s'effondre au milieu du geste — la hanche, la vieille jambe raide, quelque chose qui lâche pour de bon. Le rebouteux du bourg est formel : il remarchera, avec une canne. Il ne portera plus jamais rien.
+
+« J'ai fini de te montrer », dit le vieux depuis son lit, gris de douleur et sec comme un règlement. « T'as fini d'imiter. Ça tombe bien. »
+
+Le soir même, Perrine s'assied en face de Seb, pour la première fois de l'été, et lui adresse sa première phrase sans écorchure :
+
+« Tu vas la gagner, cette Montre. Plus pour la charte. Pour lui. » Un temps. « Et c'est moi qui serai ta seconde sur la route. Ça ne se discute pas. »
+
+## 36 · LA TABLE DES NŒUDS *(version perdue — verbatim)*
+
+Le soir appartient à Armande. La grande table, les cordelettes, l'alphabet qui monte en grade — et l'élève qui dévore.
+
+À la fin de l'été, il lit les chartes : les droits complexes, les grevances emboîtées, les échéances en cascade — et il noue conforme : ses propres nœuds tiendraient devant huissier. « Tu noues mieux que tu ne lis », tranche Armande. « Normal. Menteur de naissance, tisserand de métier. » C'est, venant d'elle, une décoration.
+
+⚑ ⟨LA LECTURE DES NŒUDS⟩ 2/4 → 3/4 — les chartes : lire les droits emboîtés — et nouer en règle, à valeur d'huissier.
+
+Les sept étapes de la Montre passent sur la table, désossées une à une par Basile depuis son fauteuil : la Roue et ses paliers de charge · la nuit de garde des Meules et ses trois pièges classiques · la fumée des Fours qu'on traverse au fil tendu — tiens, tiens — · la lecture du col du Sel, taillée pour ses doigts · le pont des Sœurs · le col Muet · et le Grand Portage, où le champion s'appelle Thibaut, porte pour les Meules, et n'a pas posé un genou en trois Montres.
+
+Le vieux finit par pousser vers Seb, du bout de sa canne, un ballot de cuir patiné : son harnais de porteur — onze Montres au compteur, les sangles moulées par trente ans d'épaules.
+
+« Prends le mien. Il connaît le chemin tout seul. »
+
+Le reste de la maison trouve son rythme d'automne qui vient : elle a installé le mortier près de l'âtre, et son deuxième pilage de l'année — des herbes de crête, une pointe de sel chargé — devient un liniment qu'elle porte cérémonieusement à Basile : « Pour les genoux. Je choisis toujours les vieux — ils tiennent mieux les cadeaux. » Le vieux, qui n'a jamais remercié personne, remercie.
+
+Et deux nouvelles remontent le col avec les colporteurs de fin d'été : une robe grège a été vue à Fuseau, posant des questions sur la futaie haute — la provenance de la soie, encore, cherchée à la source cette fois. Et la liste de la Montre est close : trente-et-une maisons, le Dernier Col dernier inscrit, « la maison morte et son Fileur » en rigolade d'auberge — exactement le genre de rigolade dont il fait son miel depuis le printemps.
+
+> *Leçons des 35-36 : l'entraînement se joue en offices (l'aube au corps, le soir aux nœuds) et rend des couches SUR déclencheur, jamais au forfait ; le prix d'un 26-50 peut être un personnage qu'on aime (Basile à la canne — et sa phrase sèche qui transforme la perte en passation) ; la préparation d'un grand rendez-vous se DÉSOSSE à la table, étape par étape, des semaines avant (le joueur arrive à la Montre en connaissant le terrain — le suspense est dans l'exécution, pas dans l'ignorance) ; le mortier produit des moments, pas des ressources (le liniment de Basile — « je choisis toujours les vieux ») ; et la menace de fond avance par colporteurs (la robe grège, la rigolade d'auberge dont il fait son miel).*
