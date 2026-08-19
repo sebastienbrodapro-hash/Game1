@@ -62,7 +62,7 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 
 - **Les quatre strates et la conversion ×1000** : `FONDATION.md` §2.
 - **La compagne — 9 jalons de corps et d'esprit entrelacés, puis 3 divins** : `FONDATION.md` §3.
-- **L'échelle humaine, les bandes publiques, les chiffres MJ de la strate I** : `monde/POUSSIERE.md` §1 et §9.
+- **L'échelle humaine, les bandes publiques, les chiffres MJ de la strate I** : `monde/CENT-VALLEES.md` §0.7 et §1.
 - **Le Corps, les arts, les portes, les déclencheurs de son esprit** : `monde/SYSTEMES.md`.
 - **La puissance = CORPS + QI**, les deux s'additionnent dans le chiffre ; **ni les arts ni l'équipement ne comptent** — le chiffre mesure ce qu'on **est**, jamais ce qu'on **a** (`SYSTEMES.md` §0).
 
@@ -111,7 +111,7 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 
 `CORPS — 2/4` · `bête 3/9` · `jetons 7/10` · `ART 2/5` · `porte 3/4`
 
-**⛔ LE CHIFFRE NE SE DÉCOMPOSE JAMAIS.** La paire porte **un** chiffre — pas deux parts (`FONDATION` §3, `POUSSIERE` §0.5). La fiche imprime `chiffre de la paire — N`, **jamais** « lui X · elle Y » : la répartition est une invention du MJ, l'instinct ne lit qu'un **total** (`SYSTEMES` §0.1), et aucun instrument du monde ne rend autre chose. *(Tranché par le joueur le 2026-08-16, sur faute — la décomposition était imprimée depuis la première fiche.)*
+**⛔ LE CHIFFRE NE SE DÉCOMPOSE JAMAIS.** La paire porte **un** chiffre — pas deux parts (`FONDATION` §3, `CENT-VALLEES` §0.5). La fiche imprime `chiffre de la paire — N`, **jamais** « lui X · elle Y » : la répartition est une invention du MJ, l'instinct ne lit qu'un **total** (`SYSTEMES` §0.1), et aucun instrument du monde ne rend autre chose. *(Tranché par le joueur le 2026-08-16, sur faute — la décomposition était imprimée depuis la première fiche.)*
 
 **Le max se fixe au moment où la ligne naît** — à l'acquisition d'un art, à l'ouverture d'une porte —, entre **3 et 6** selon la profondeur, et il ne bouge plus.
 **Un `?` n'est pas un max, c'est de la prose déguisée** : sans max, aucun seuil n'est écrit, donc rien n'est dû — et §51 est la faute la plus coûteuse du corpus. *(Tranché par le joueur le 2026-08-16, sur faute : deux portes ouvertes en `1/?`.)*

@@ -71,7 +71,7 @@ SEUIL_GEL = 12    # scènes de gel tolérées avant que le gel lui-même sonne
 # reprocher toutes les trois scènes est exactement le hook qu'on éteint.
 # *(Ajouté le 2026-08-16. Une entrée = une décision du joueur, révisable.)*
 TOLERANCE_GEL: dict[str, int] = {
-    # POUSSIERE §11 : « au départ, il n'y a QUE le mépris ». L'appétit et
+    # CENT-VALLEES §11 : « au départ, il n'y a QUE le mépris ». L'appétit et
     # l'estime naissent en jeu ; FONDATION §3.6 place le basculement vers la
     # scène 25-40. Avant ça, servir un atout fabriquerait de la chaleur
     # d'office — ce que le joueur a refusé explicitement.
@@ -156,14 +156,14 @@ AXES: dict[str, tuple[int, str, str]] = {
     ),
     "marchandage": (
         16, "L'ÉCONOMIE",
-        "un prix, une vente, un échange, une bourse qui bouge — POUSSIERE §4. "
+        "un prix, une vente, un échange, une bourse qui bouge — CENT-VALLEES §5.0. "
         "Faute du 2026-08-15 : 111 scènes à zéro fer sans une transaction",
     ),
     "atout": (
         30, "LIGNE ⚑ ATOUT",
         "seulement quand il pèse vraiment (§36), mais pas jamais — et varier "
         "les personnes (§18). ⚠ **LÉGITIMEMENT GELÉ TANT QUE COURT LE CANON DU "
-        "MÉPRIS SEUL** (POUSSIERE §11 : au départ il n'y a QUE le mépris ; "
+        "MÉPRIS SEUL** (CENT-VALLEES §11 : au départ il n'y a QUE le mépris ; "
         "l'appétit, la fascination et l'estime naissent en jeu). Un atout "
         "servi avant que la chaleur existe fabriquerait de la chaleur "
         "d'office — exactement ce que le joueur a refusé. Le geler à la scène "
@@ -172,14 +172,14 @@ AXES: dict[str, tuple[int, str, str]] = {
     ),
     "chance": (
         20, "UNE CHANCE",
-        "POUSSIERE §6 : la strate est trouée d'épreuves à gain propre. Faute "
+        "CENT-VALLEES §6 : la strate est trouée d'épreuves à gain propre. Faute "
         "du 2026-08-15 : une seule servie en 111 scènes",
     ),
     "rite": (
         25, "UN RITE — il PASSE une épreuve",
         "quelque chose de codifié qu'il traverse en produisant un effort : "
         "un tripode à porter, un concours, une épreuve d'entrée, un passage "
-        "devant une secte (POUSSIERE §8 — la pile de l'ancien monde est "
+        "devant une secte (CENT-VALLEES §8 — la pile de l'ancien monde est "
         "interdite de retour). Un cadre, des témoins, un résultat qu'IL "
         "fabrique. **Ne pas confondre avec `mesure`** : dans un rite il "
         "agit, dans une mesure on le lit. Un rite peut finir par une mesure, "

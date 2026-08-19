@@ -4,6 +4,7 @@
 
 > **Le monde neuf, ouvert le 2026-08-18** après l'archivage du civet. Construit sur les directives de `FONDATION` §3.6 et §6 : **vaste d'entrée** — *« 1 ville 1 village c'est pas un monde »* —, le voyage comme contenu, ~200 scènes dans la strate.
 > **CONSTRUCTION COMPLÈTE — passes 1 à 4 faites, audit passé, feuille validée** *(2026-08-18)*. Passe 4, sur audit et décision du joueur : **le premier acte redessiné** — personne ne mise (§3.4), l'échine est la faim et le fil (§3.5) —, **elle dans le monde** (§2.2bis), **les vallées en détail** (§2.1bis). ⚑ **Prêt pour la scène 1.**
+> **Passe 5 — 2026-08-19, tranché par le joueur : LE FIL EST SON DOMAINE, PAS CELUI DU MONDE.** Une première tentative de campagne (~60 scènes, jamais sauvegardées) a montré que tout tournait autour des fils et des nœuds. Le motif se concentre désormais sur **Seb** — sa vallée d'origine, son art ⟨LE FIL⟩, son fil de potentiel — et les institutions du monde le quittent : titres par **tailles** (§0.4), bandes en **brassards de cuir** (§0.7), la secte du Fil Blanc devenue **le Gant Blanc**. ⚑ **Feuille §4 à revalider.**
 
 ---
 
@@ -21,9 +22,9 @@ Tout ce qui est gros l'était **avant lui**. Les vallées sont pleines : sectes,
 
 Reconduit tel quel (`SEUILS`, §E.0). Les instruments des Cent Vallées lisent jusqu'à leur bande la plus haute et saturent au-delà — le porteur, lui, n'a pas de plafond.
 
-### 0.4 · Rien ne se consigne — des bouches et des nœuds
+### 0.4 · Rien ne se consigne — des bouches et des tailles
 
-Pas de registres, pas d'archives, pas de teneurs de livres. Ce qui se sait se sait par des bouches — et ce qui se prouve se prouve par **des nœuds** : les cordelettes nouées des maisons et des cols, qu'on lit au doigt comme un texte. Un titre, un bail, un rang : **un nœud scellé à la cire, gardé par celui qui doit pouvoir le montrer**. Détruire un nœud, c'est détruire un titre — et tout le monde le sait.
+Pas de registres, pas d'archives, pas de teneurs de livres. Ce qui se sait se sait par des bouches — et ce qui se prouve se prouve par **des tailles** : des bâtons fendus en deux moitiés, la marque de la maison au fer, le droit en encoches, qu'on lit au doigt comme un texte. Un titre, un bail, un rang : **une taille scellée à la cire, chaque partie gardant sa moitié — les réunir prouve**. Briser une taille, c'est détruire un titre — et tout le monde le sait. *(Le fil, lui, n'est pas une institution : c'est un métier — le sien.)*
 
 ### 0.5 · Le chiffre, la paire, et le 1
 
@@ -33,22 +34,22 @@ Reconduit : un seul chiffre pour la paire, la mesure ne rend qu'un total (`SYSTE
 
 Reconduit, canon dur, su de tous : **casser un familier, c'est tuer son porteur.** Personne ne s'y trompe, personne n'essaie « pour voir ».
 
-### 0.7 · Les bandes publiques — les bracelets tissés
+### 0.7 · Les bandes publiques — les brassards de cuir
 
-Les bandes de puissance sont **portées au poignet, en fil teint** — dans un monde de tisserands, la mesure se porte. Échelle inchangée (`SYSTEMES` §1 y renvoie) :
+Les bandes de puissance sont **portées au poignet, en cuir teint** — la mesure se porte, et se lit de loin. Échelle inchangée (`SYSTEMES` §1 y renvoie) :
 
-| Bande | Chiffre | Le bracelet |
+| Bande | Chiffre | Le brassard |
 |---|---|---|
-| **éteint** | 1 | pas de bracelet — on n'en tisse pas pour ça |
-| **cendre** | 3-8 | fil gris, non teint |
+| **éteint** | 1 | pas de brassard — on n'en taille pas pour ça |
+| **cendre** | 3-8 | cuir gris, non teint |
 | **chanvre** | 10-99 | l'écru |
-| **blanc** | 100-999 | blanchi à la neige |
+| **blanc** | 100-999 | blanchi à la chaux |
 | **bleu** | 1 000-4 999 | l'indigo des crêtes |
 | **pourpre** | 5 000-19 999 | le pourpre des cloîtres |
-| **or** | 20 000-59 999 | filé d'or — **les anciens** |
-| **les sommets** | 60 000-100 000 | **pas de bracelet** : au-dessus de l'or, on cesse d'en porter, et tout le monde comprend |
+| **or** | 20 000-59 999 | doré à la feuille — **les anciens** |
+| **les sommets** | 60 000-100 000 | **pas de brassard** : au-dessus de l'or, on cesse d'en porter, et tout le monde comprend |
 
-Un bracelet se **vérifie** aux pierres de col (§0.8) : porter une bande au-dessus de la sienne est un crime de nœud — on vous coupe le bracelet en place publique, et le poignet nu raconte l'histoire.
+Un brassard se **vérifie** aux pierres de col (§0.8) : porter une bande au-dessus de la sienne est un **crime de marque** — on vous coupe le brassard en place publique, et le poignet nu raconte l'histoire.
 
 ### 0.8 · La mesure — les pierres de col
 
@@ -107,7 +108,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 ### 2.1bis · Les vallées en détail *(passe 4 — « vaste » se livre en monde, pas en table)*
 
-**LA GRANDE COUPE — Hautefoire, ~8 000 feux.** La ville. **Lieux** : la halle aux Cent Piliers (les grandes enchères), l'arène de la Coupe et son Mur des Prises, le quartier des courtiers, la douane qui pèse tout, les maisons du Fil Blanc et du Pavois d'Étain qui se font face sur la place haute. **Qui pèse** : les deux sectes, l'huissier des nœuds, Aymon et sa confrérie, la maîtresse d'armes. **Accroches** : le Tirage des Chartes (§6.17), l'examen du Fil Blanc (§8.8), le Grand Portage (E7) — et tout ce qui se vend finit ici.
+**LA GRANDE COUPE — Hautefoire, ~8 000 feux.** La ville. **Lieux** : la halle aux Cent Piliers (les grandes enchères), l'arène de la Coupe et son Mur des Prises, le quartier des courtiers, la douane qui pèse tout, les maisons du Gant Blanc et du Pavois d'Étain qui se font face sur la place haute. **Qui pèse** : les deux sectes, l'huissier des tailles, Aymon et sa confrérie, la maîtresse d'armes. **Accroches** : le Tirage des Chartes (§6.17), l'examen du Gant Blanc (§8.8), le Grand Portage (E7) — et tout ce qui se vend finit ici.
 
 **LE LONG PRÉ — le bourg des Haras, ~600 feux, et vingt hameaux d'élevage.** L'herbe, les bêtes de trait d'esprit, les foires. **Lieux** : les haras des lignées, le Gué des Bêtes, les silos, le champ de foire d'automne. **Qui pèse** : trois lignées de dresseurs qui se marient entre elles depuis toujours et se détestent pareil. **Accroches** : le Taureau (§7.3), la Mère des Rats (§7.14), le Silo Noir (§6.15), la tonte (§8.13) — et le fouet de trait qu'aucun argent n'achète (§5.1.30).
 
@@ -117,7 +118,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 **LA VALLÉE NOYÉE — le bourg des Pilotis, ~800 feux au-dessus de l'eau.** Le lac monte et descend sans marée connue ; on bâtit haut et on prie bas. **Lieux** : les villes sur pilotis, la maison-île des Sœurs, les cloches englouties, l'à-sec qui découvre. **Qui pèse** : les Sœurs du Lac, les patrons-pêcheurs. **Accroches** : le Vieux (§7.10), le Noyeur (§7.15), la Truite-Mère (§7.4), la Fonte de printemps (§6.5), l'île de l'à-sec (§10.5).
 
-**LA COMBE AUX ICÔNES — le cloître et son bourg-parvis, ~400 feux.** La mémoire des morts, les processions, les interdits. **Lieux** : le grand cloître, la crypte des nœuds, le bûcher des Adieux, le Mélèze-Roi à l'adret. **Qui pèse** : le cloître — personne ne lui doit rien, tout le monde lui doit tout. **Accroches** : l'Abbé Couché (§7.7), l'ordalie et son Carreau (§8.11, §5.2.1), la veillée qui fait des atouts (§8.14), la Saignée dont **la décennie approche** (§6.16).
+**LA COMBE AUX ICÔNES — le cloître et son bourg-parvis, ~400 feux.** La mémoire des morts, les processions, les interdits. **Lieux** : le grand cloître, la crypte des tailles, le bûcher des Adieux, le Mélèze-Roi à l'adret. **Qui pèse** : le cloître — personne ne lui doit rien, tout le monde lui doit tout. **Accroches** : l'Abbé Couché (§7.7), l'ordalie et son Carreau (§8.11, §5.2.1), la veillée qui fait des atouts (§8.14), la Saignée dont **la décennie approche** (§6.16).
 
 **LES CLOCHES MORTES — le hameau des Sonnailles, ~60 feux, au pied des temples.** Plus haut, personne ne vit : des temples effondrés au-dessus des arbres, et un silence qu'on remarque. **Lieux** : l'escalier aux mille marches rompues, les tombes hautes, la tombe qui se loue en rêve (§10.7 — réprouvée). **Accroches** : le Carillonneur (§7.8) et sa Cloche (§5.2.2) — les nuits sans lune, les Sonnailles dorment mal.
 
@@ -137,7 +138,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 - **le col du Portefaix** (est, vers la Grande Coupe) — le col vivant, péage et pierre de passage.
 - **le col des Aiguilles** (nord) — **fermé depuis dix-neuf ans**. La maison qui le tient s'appelle encore la maison du Dernier Col (§3.4).
 
-**Qui pèse quoi à Fuseau** : le syndic de la halle (**Norbert**, 120, blanc) · la doyenne des teinturiers (**Sidonie**, 80) · le porteur du Portefaix (**Gaspard**, 1 800, bleu) · deux disciples de la secte du Fil Blanc en résidence (300-500) · et la milice, vingt hommes de chanvre.
+**Qui pèse quoi à Fuseau** : le syndic de la halle (**Norbert**, 120, blanc) · la doyenne des teinturiers (**Sidonie**, 80) · le porteur du Portefaix (**Gaspard**, 1 800, bleu) · deux disciples de la secte du Gant Blanc en résidence (300-500) · et la milice, vingt hommes de chanvre.
 
 **Le calendrier** : le rite du printemps (§3) · la vente d'été à la halle · **la Montre des Cols** à l'automne (§8.1) · l'hiver qui ferme tout.
 
@@ -148,7 +149,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 - **la pesée d'embauche la compte pour zéro** — on pèse la paire, on lit un, on sourit ;
 - **les aubergistes de col font payer « la bête »** — une maille, le tarif des chiens ;
 - **l'arène de Hautefoire affiche des cotes** — et une proie en écurie, ça se parie *contre*, par principe et pour rire ;
-- **le Fil Blanc a un règlement** : pas de proies dans l'enceinte — on la laisse à la porte, au piquet, comme un âne ;
+- **le Gant Blanc a un règlement** : pas de proies dans l'enceinte — on la laisse à la porte, au piquet, comme un âne ;
 - **les dresseurs du Long Pré sont les seuls qui regardent vraiment** — en connaisseurs, et ce qu'ils voient les fait se taire, ce qui est pire ;
 - **les gamins de partout** — on lui court après, on veut la porter, on la lâche quand ça mord.
 
@@ -160,7 +161,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 ### 2.3 · Seb avant le rite
 
-**Dix-huit ans, tisseur à l'atelier Berthe depuis trois ans.** Orphelin de la crue d'il y a neuf ans, logé sous le toit de l'atelier, nourri, payé en mailles et en chutes de soie. **Ce qui ne s'écrit pas** : il connaît **le fil** — la qualité d'une soie au toucher, les nœuds de titre et leur lecture (§0.4), ce que vaut une pièce avant que le courtier ouvre la bouche, et les mains de tout le bourg, parce que le tisseur voit passer les poignets. *Ça vaut plus que sa bourse.*
+**Dix-huit ans, tisseur à l'atelier Berthe depuis trois ans.** Orphelin de la crue d'il y a neuf ans, logé sous le toit de l'atelier, nourri, payé en mailles et en chutes de soie. **Ce qui ne s'écrit pas** : il connaît **le fil** — la qualité d'une soie au toucher, les tailles de titre et leur lecture (§0.4), ce que vaut une pièce avant que le courtier ouvre la bouche, et les mains de tout le bourg, parce que le tisseur voit passer les poignets. *Ça vaut plus que sa bourse.*
 
 **Sa lecture sociale** : le garçon de l'atelier. Poli, exact, invisible. Personne n'est méchant — personne ne le voit. Le rite va le rendre très visible, deux fois.
 
@@ -217,7 +218,7 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 
 **Autour, le monde a ses propres horloges** — la Montre des Cols (§8.1), l'encan des chartes, la course du dégel, la décennie du Mélèze-Roi — et **aucune n'est la sienne** : ce sont des **occasions**, affichées, datées, qu'il saisit ou laisse passer. L'abondance est le principe (§5) : il choisit, il renonce, rien ne remplace.
 
-**La maison du Dernier Col existe toujours** — Armande, 74 ans, qui lit les nœuds mieux que le cloître · Basile, 68, ancien porteur, une jambe raide · Perrine, 22, dernière du nom, têtue — avec leur col fermé depuis dix-neuf ans, leur charte qui se dénouera à la prochaine Montre faute de porteur, et leurs cent quatre-vingts pierres que personne ne mise sur personne. **C'est du monde, pas un contrat.** Armande a regardé la bobine vide plus longtemps que tout le monde, et elle n'a rien dit. *(Ce qu'elle sait, ce qu'elle tient : le tronc.)*
+**La maison du Dernier Col existe toujours** — Armande, 74 ans, qui lit les tailles mieux que le cloître · Basile, 68, ancien porteur, une jambe raide · Perrine, 22, dernière du nom, têtue — avec leur col fermé depuis dix-neuf ans, leur charte qui se rompra à la prochaine Montre faute de porteur, et leurs cent quatre-vingts pierres que personne ne mise sur personne. **C'est du monde, pas un contrat.** Armande a regardé la bobine vide plus longtemps que tout le monde, et elle n'a rien dit. *(Ce qu'elle sait, ce qu'elle tient : le tronc.)*
 
 ---
 
@@ -225,14 +226,14 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 
 | | |
 |---|---|
-| **chiffre** | **1** — éteint sur pierre, pas de bracelet |
+| **chiffre** | **1** — éteint sur pierre, pas de brassard |
 | **CORPS** | **0/4 · LA CHAIR** |
 | **jetons** | **0/10** |
 | **portes** | **aucune** — les 3-4 premières se créent sur ses premiers critiques |
 | **arts** | **⟨LE FIL⟩ 1/6** — le geste vrai du tisseur (§12) : tendre un fil parfaitement, le nouer pour qu'il ne cède pas, lire au doigt ce qui pèse au bout. Honnête, utile, désarmé — *les crans suivants seront l'adaptation.* |
 | **la bête** | **1/9 · LE LAPEREAU** · esprit **A 0/2** |
-| **ce qu'il porte** | une navette d'os, un couteau de tisserand, trois écheveaux de soie de rebut, une pelote de fil de titre (cadeau de Berthe), **40 mailles** |
-| **ce qui ne s'écrit pas** | le fil, les nœuds de titre, les prix de la soie, les mains du bourg (§2.3) |
+| **ce qu'il porte** | une navette d'os, un couteau de tisserand, trois écheveaux de soie de rebut, une pelote de bon fil (cadeau de Berthe), **40 mailles** |
+| **ce qui ne s'écrit pas** | le fil, les tailles de titre, les prix de la soie, les mains du bourg (§2.3) |
 
 ---
 
@@ -251,7 +252,7 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 | un couteau honnête · une lame de compagnon | 1 tael · 10-30 taels |
 | une bête de bât · un manteau de feutre des hauts | 8 taels · 8 taels |
 | une pièce de soie ordinaire · de soie d'esprit | 15 taels · 2-10 pierres |
-| un bracelet de bande (tissage vérifié) | 20 mailles |
+| un brassard de bande (marque vérifiée) | 20 mailles |
 | soins : rebouteux · chirurgien de secte · os ressoudé | 5 taels · 2 pierres · 5 pierres |
 | l'inscription d'une maison à la Montre | 60 pierres |
 | une charte de col en déshérence, à l'encan | 200-800 pierres |
@@ -295,8 +296,8 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 25. **le manteau des Sœurs** — cousu sur mesure pour un service rendu (§8.13) ; l'eau ne le mouille pas.
 
 **Ce qui se vole** :
-26. **le bracelet-menteur** — un faux bracelet de bande ; le porter est un crime de nœud. ~15 pierres au noir.
-27. **les nœuds de la crypte** — voler à l'Abbé Couché (§7.7), c'est voler des titres.
+26. **le brassard-menteur** — un faux brassard de bande ; le porter est un crime de marque. ~15 pierres au noir.
+27. **les tailles de la crypte** — voler à l'Abbé Couché (§7.7), c'est voler des titres.
 28. **la cloche de main du Carillonneur** — elle appelle ce qui écoute ; personne ne la garde longtemps.
 29. **le sel-roi** — le bloc au cœur de la Salinière ; la concession n'a jamais été accordée à personne.
 30. **le fouet de trait** — les dresseurs du Long Pré ne le vendent jamais, à aucun prix.
@@ -329,7 +330,7 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 14. **la Traite des Brumes** *(hauts prés)* — la rosée lourde avant le jour. Mord : la grimpe de nuit, et ce qui chasse dans la brume.
 15. **le Silo Noir** *(Long Pré)* — le grain d'avant, enterré, chargé. Mord : la Mère des Rats (§7.14), et le propriétaire du champ.
 16. **la Saignée du Mélèze-Roi** *(adret des Icônes)* — l'ambre une semaine par décennie ; **la décennie approche**. Mord : le cloître le revendique, un essaim l'habite, la semaine ne s'annonce pas.
-17. **le Tirage des Chartes** *(Hautefoire, une fois l'an)* — l'encan des nœuds en déshérence : des droits réels à qui ose. Mord : ce que le nœud engage — on achète aussi les dettes qui pendent au fil.
+17. **le Tirage des Chartes** *(Hautefoire, une fois l'an)* — l'encan des tailles en déshérence : des droits réels à qui ose. Mord : ce que la taille engage — on achète aussi les dettes qui pendent avec.
 18. **la Chambre de Sel** *(Salinière)* — se murer une saison au sel (double emploi réclusion, §10.3).
 19. **le Gué des Bêtes** *(Long Pré, aux migrations)* — traverser le gué au milieu du troupeau d'esprit. Trempe — et le troupeau retient les odeurs. Mord : le piétinement (**ligne mort**).
 20. **l'Écheveau du Noyé** *(Noyée)* — démêler les filets d'un mort sans couper un fil. Les pêcheurs paient, et le lac rend parfois autre chose. Mord : ce qui a noyé le pêcheur.
@@ -351,7 +352,7 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 4. **la Truite-Mère** — **2 000** — sous les pilotis de la Noyée. Rend : des œufs qui chargent l'eau où on les pose.
 5. **le Fondeur** — **4 000** — un serviteur de four abandonné qui tourne encore, et coule qui entre. Rend : son cœur de fonte — un creuset que les forges s'arrachent.
 6. **le Sel-qui-Marche** — **3 000** — une concrétion qui a pris goût aux mineurs. Rend : le sel-roi de son cœur.
-7. **l'Abbé Couché** — **9 000** — le mort qui garde la crypte des nœuds (Icônes). Rend : les titres en déshérence qu'il couve. Le cloître ne dira jamais merci.
+7. **l'Abbé Couché** — **9 000** — le mort qui garde la crypte des tailles (Icônes). Rend : les titres en déshérence qu'il couve. Le cloître ne dira jamais merci.
 8. **le Carillonneur** — **12 000** — ce qui sonne aux Cloches Mortes les nuits sans lune. Rend : **la Cloche Fêlée** (§5.2), et le silence de la vallée.
 9. **l'Arpenteuse** — **15 000** — l'araignée de crête qui tisse des ponts qu'on croit vrais. Rend : le crin-câble. Protégée par : on ne sait jamais lequel des ponts est à elle.
 10. **le Vieux du Lac** — **20 000** — le fond de la Noyée ; c'est pour lui qu'on bâtit sur pilotis. Rend : les dents, et l'à-sec qui n'ose plus rien.
@@ -370,29 +371,29 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 
 ### 8.1-8.7 · LA MONTRE DES COLS — les sept étapes *(le grand rendez-vous des maisons de col — **une occasion du monde, pas son contrat** : il s'y inscrit si une maison le présente ou s'il rachète une place, ou il n'y va pas du tout, §3.5)*
 
-**Tous les dix-huit mois, les maisons de col se mesurent** : un circuit col après col, à travers l'archipel. On y gagne **l'ordre des péages** — qui prélève en premier sur la Grand-Traverse, qui ferme quand, qui pèse. Une maison sans porteur classé perd son rang ; à deux Montres sans rang, **sa charte se dénoue**. La prochaine se court **à l'automne**.
+**Tous les dix-huit mois, les maisons de col se mesurent** : un circuit col après col, à travers l'archipel. On y gagne **l'ordre des péages** — qui prélève en premier sur la Grand-Traverse, qui ferme quand, qui pèse. Une maison sans porteur classé perd son rang ; à deux Montres sans rang, **sa charte se rompt**. La prochaine se court **à l'automne**.
 
 | | Étape | L'épreuve |
 |---|---|---|
 | **E1** | **le Portefaix** | **la Roue** : porter la charge-étalon, classement au poids et au temps |
 | **E2** | **les Meules** | **la nuit de garde** : tenir le péage une nuit d'affluence — pas un incident, pas un tael perdu |
 | **E3** | **la passe des Fours** | **la traversée de fumée** : le col fume ; passer, et ramener la balise |
-| **E4** | **le col du Sel** | **la lecture** : un chargement, ses nœuds, trois mensonges dedans — les trouver au doigt |
+| **E4** | **le col du Sel** | **la lecture** : un chargement, ses tailles, trois mensonges dedans — les trouver au doigt |
 | **E5** | **le col des Sœurs** | **le pont de corde** : un aller-retour de nuit, chargé |
 | **E6** | **le col Muet** | l'étape qu'on passe **sans un mot** — parler, c'est abandonner |
 | **E7** | **le Grand Portage** *(Hautefoire)* | **la finale** : un contre un, champ de craie, au premier genou posé |
 
-**Le format, verrouillé d'avance** *(la faute civet — un tournoi incohérent improvisé en scène — ne se rejoue pas)* : **une trentaine de maisons** présentent chacune **un porteur** · chaque étape rend **des points de rang** (premier arrivé, premier servi — le barème s'affiche au départ de chaque étape) · **le classement cumulé des sept étapes EST le résultat** : tout porteur qui finit a un rang, du premier au dernier — pas de places fantômes, pas de paradoxe de sièges. Le prix : **l'ordre des péages** suit l'ordre du classement, jusqu'à la Montre suivante. Une maison sans étape finie perd rang — à deux Montres sans rang, **sa charte se dénoue** (§3.4).
+**Le format, verrouillé d'avance** *(la faute civet — un tournoi incohérent improvisé en scène — ne se rejoue pas)* : **une trentaine de maisons** présentent chacune **un porteur** · chaque étape rend **des points de rang** (premier arrivé, premier servi — le barème s'affiche au départ de chaque étape) · **le classement cumulé des sept étapes EST le résultat** : tout porteur qui finit a un rang, du premier au dernier — pas de places fantômes, pas de paradoxe de sièges. Le prix : **l'ordre des péages** suit l'ordre du classement, jusqu'à la Montre suivante. Une maison sans étape finie perd rang — à deux Montres sans rang, **sa charte se rompt** (§3.4).
 
 **Et c'est un tournoi qui mord, pas un salon** *(errata §42, toujours en vigueur : le social est de la friction, jamais un adversaire)* : les sept épreuves sont **physiques ou de savoir-faire** — porter, garder, traverser, lire au doigt, franchir de nuit, se taire, se battre. Ce qui se joue entre les étapes — alliances, coups bas, paris — existe, **en une scène spectaculaire quand ça paie, jamais en arc de négociation**.
 
 ### 8.8-8.18 · Les autres rites
 
-8. **l'examen du Fil Blanc** *(printemps, Hautefoire)* — la secte prend à l'examen, jamais à la naissance ; trois portes, un refus par porte.
+8. **l'examen du Gant Blanc** *(printemps, Hautefoire)* — la secte prend à l'examen, jamais à la naissance ; trois portes, un refus par porte.
 9. **le concours de la halle** *(File, été)* — la pièce maîtresse de l'année ; gagne **la navette de jade** et les commandes qui vont avec.
 10. **la pesée d'embauche** *(partout)* — on pèse qui on embauche ; refuser la pierre, c'est doubler le soupçon.
 11. **l'ordalie du cloître** *(Icônes)* — jurer sa cause à voix haute et tirer : **le Carreau du Serment** se gagne là, et nulle part ailleurs.
-12. **le rachat de charte** *(Hautefoire, l'encan annuel)* — huissiers de nœuds, enchères, dettes au bout du fil (§6.17).
+12. **le rachat de charte** *(Hautefoire, l'encan annuel)* — huissiers des tailles, enchères, dettes au bout de la taille (§6.17).
 13. **la tonte du Long Pré** — un an de laine en trois jours : la toison-mère à qui tient la cadence.
 14. **la veillée des Icônes** — porter un mort au feu et redire sa vie **sans une faute** : la famille doit ensuite une réponse (⚑ atout).
 15. **le duel de seuil** — l'usage qui règle les affronts entre maisons : champ de craie, témoins, premier genou.
@@ -404,13 +405,13 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 
 ## 9 · LES MESURES — 22 OCCASIONS OÙ LE MONDE LE LIT
 
-**L'infrastructure** : les **pierres de col** à chaque passage (§0.8) · les **pierres de parvis** des cités · les **bracelets tissés** au poignet de tous (§0.7).
+**L'infrastructure** : les **pierres de col** à chaque passage (§0.8) · les **pierres de parvis** des cités · les **brassards de cuir** au poignet de tous (§0.7).
 
 1. passer un col — la main sur la pierre, devant la file
 2. la pesée d'embauche (§8.10)
-3. le bracelet vérifié aux foires — les huissiers sondent au hasard
+3. le brassard vérifié aux foires — les huissiers sondent au hasard
 4. l'entrée d'arène — on pèse avant d'inscrire
-5. **la coupe du bracelet** — publique, en place, au couteau ; le poignet nu raconte
+5. **la coupe du brassard** — publique, en place, au couteau ; le poignet nu raconte
 6. le duel de seuil pèse d'abord — les témoins l'exigent
 7. les grandes enchères pèsent qui enchérit au-dessus de cent pierres
 8. le cloître pèse qui jure — l'ordalie commence là
@@ -447,15 +448,15 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 
 ## 11 · L'ARROGANCE — LE VIVIER
 
-**Les cinq sectes qui comptent** : **le Fil Blanc** (Hautefoire — la soie, les examens, le mépris courtois) · **le Pavois d'Étain** (Hautefoire — le cadastre, les arpenteurs, les bornes qu'on déplace en souriant) · **la Voie des Fours** (les forges — vend au double aux vallées sans feu) · **les Sœurs du Lac** (la Noyée — ne parlent qu'à qui elles ont pesé) · **le cloître des Icônes** (pas une secte — pire : personne ne lui doit rien, tout le monde lui doit tout).
+**Les cinq sectes qui comptent** : **le Gant Blanc** (Hautefoire — les examens, le rang, le mépris courtois) · **le Pavois d'Étain** (Hautefoire — le cadastre, les arpenteurs, les bornes qu'on déplace en souriant) · **la Voie des Fours** (les forges — vend au double aux vallées sans feu) · **les Sœurs du Lac** (la Noyée — ne parlent qu'à qui elles ont pesé) · **le cloître des Icônes** (pas une secte — pire : personne ne lui doit rien, tout le monde lui doit tout).
 
 **Les figures** *(un registre chacune — servir varié)* :
 1. **Aymon**, courtier de Hautefoire — achète la soie de File à moitié prix depuis dix ans : « le rabais du déclin ».
-2. les **disciples du Fil Blanc en résidence** à Fuseau — le bourg entier leur dit « maître », ils ne disent le nom de personne.
+2. les **disciples du Gant Blanc en résidence** à Fuseau — le bourg entier leur dit « maître », ils ne disent le nom de personne.
 3. **Josselin**, fils de la maison des Meules — porte le rang de son père au poignet, et le montre.
 4. la **maîtresse d'armes de l'arène** — ne pèse plus « les moins de mille », par principe affiché.
 5. le **chef du cadastre** du Pavois — « votre borne a bougé, c'est ennuyeux » — et elle a bougé pour lui.
-6. l'**huissier des nœuds** de Hautefoire — « votre titre n'existe pas », dit avec une joie de métier.
+6. l'**huissier des tailles** de Hautefoire — « votre titre n'existe pas », dit avec une joie de métier.
 7. le **champion du Grand Portage** en titre — trois Montres sans poser un genou, et il le rappelle en s'asseyant.
 8. **Perrine** *(Dernier Col)* — l'arrogance des ruinés : refuser la pitié, mordre la main, y compris la sienne.
 9. le **maître des Fours** — reçoit assis, fait attendre debout, chauffe la pièce exprès.
@@ -480,7 +481,7 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 
 ### 12.2 · Les arts d'en face *(chaque maître au dernier cran a le régime de son art dans son domaine)*
 
-1. **la Lecture des Nœuds** — les titres ; au sommet : **Armande** (§3.4) — rien ne se contrefait devant elle.
+1. **la Lecture des Tailles** — les titres ; au sommet : **Armande** (§3.4) — rien ne se contrefait devant elle.
 2. **le Portage** — porter, tenir, ne pas tomber ; au sommet : le champion du Grand Portage.
 3. **le Pas de Crête** — marcher où rien ne tient ; l'art des contrebandiers.
 4. **le Souffle des Fours** — la chaleur commandée ; au sommet : le maître des Fours — dans sa forge, des miracles.
@@ -498,7 +499,7 @@ Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont
 
 1. **la Voie du Ver** — se gaver sans raffiner : monter vite, tout brûler ; les veines noires au cou, que tout le monde reconnaît. Réprouvée, enviée en secret.
 2. **la Voie du Fil Coupé** — toucher au pont de l'âme d'autrui (§0.6). L'interdit absolu : ceux qui essaient, le monde entier les chasse — c'est la seule chose sur quoi toutes les sectes s'entendent.
-3. **la Voie des Bouches Cousues** — défaire les titres en tuant les bouches qui savent. L'horreur civile d'un monde sans écrit ; les huissiers de nœuds pendent ceux qu'on prend, et le cloître refuse leurs cendres.
+3. **la Voie des Bouches Cousues** — défaire les titres en tuant les bouches qui savent. L'horreur civile d'un monde sans écrit ; les huissiers des tailles pendent ceux qu'on prend, et le cloître refuse leurs cendres.
 
 ## 14 · LA RÉSERVE DE PRÉNOMS
 

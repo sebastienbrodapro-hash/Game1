@@ -3,7 +3,7 @@
 > ⛔ **JOUEUR : NE PAS LIRE.** *(Aucun secret dedans — mais c'est l'outillage du MJ.)*
 > Écrit le **2026-08-16, avant la scène 1.** Comble les quatre trous relevés par le double audit : les axes `porte`, `corps` et `art` étaient comptés par le hook sans qu'aucun système existe derrière, et les paliers d'esprit de la compagne n'avaient aucun déclencheur.
 > **Tranché par le joueur.** Ce qui suit est du canon.
-> **Refondu le 2026-08-18** (phase psyché, `FONDATION` §6.3) : échelle de Corps nommée d'avance (§1.0), moments d'esprit comptés (§4.0), **le combat** (§5), **les réclusions à durée réelle** (§6). Les références `POUSSIERE` pointent le monde civet, archivé — elles se re-pointent à la construction du monde neuf.
+> **Refondu le 2026-08-18** (phase psyché, `FONDATION` §6.3) : échelle de Corps nommée d'avance (§1.0), moments d'esprit comptés (§4.0), **le combat** (§5), **les réclusions à durée réelle** (§6). Références re-pointées sur `CENT-VALLEES` le 2026-08-19, à l'audit du monde neuf.
 
 ---
 
@@ -38,8 +38,8 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 
 **Deux mesures distinctes existent dans ce monde, et le bourg n'en connaît qu'une.**
 
-- **LA PUISSANCE** — la pierre d'éveil, une bande, à volonté, partout (`POUSSIERE` §9). Sur lui : **éteinte**.
-- **LE POTENTIEL** — **LA BALANCE VIDE**, une fois dans une vie, jamais deux (`POUSSIERE` §3.0). Elle ne pèse pas ce qu'on est : elle pèse **ce qu'on peut devenir**. Neuf crans de fléau. La plupart des enfants : 0 ou 1. Un disciple prometteur : 3. Un génie de secte : 5 ou 6. Le record connu de la vallée : **7**, il y a deux cents ans. Sur lui, **le fléau va au bout et touche le socle**.
+- **LA PUISSANCE** — les pierres de col et de parvis, une bande, à volonté, publiquement (`CENT-VALLEES` §0.8). Sur lui : **éteint**.
+- **LE POTENTIEL** — **LE GRAND CADRE**, une fois dans une vie, jamais deux (`CENT-VALLEES` §3.1). Il ne pèse pas ce qu'on est : il file **ce qu'on peut devenir**. La plupart de la cohorte : une vingtaine de centimètres de fil. Un apprenti prometteur : un demi-mètre. Un génie de secte : deux mètres. Le record des Cent Vallées, il y a cent soixante ans : **huit mètres**. Sur lui, **le fil court jusqu'à vider la bobine — personne ne sait combien il aurait filé**.
 
 **Ce que ça fait, mécaniquement :**
 
@@ -48,7 +48,7 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 | **rendement** | ce que la matière donne | **×10** |
 | **vitesse de raffinage** | une pierre la nuit | **dix la nuit** |
 
-**⛔ Le potentiel ne pèse pas un point dans le chiffre.** C'est de la **puissance invisible** au sens du §0 : aucune pierre, aucune toise, aucun estimateur ne le lit — seule la Balance Vide l'a vu, une fois, et elle ne se repose jamais. Le monde ne peut donc mesurer que son retard.
+**⛔ Le potentiel ne pèse pas un point dans le chiffre.** C'est de la **puissance invisible** au sens du §0 : aucune pierre, aucune toise, aucun estimateur ne le lit — seul le Grand Cadre l'a vu, une fois, et il ne refile jamais le même sang. Le monde ne peut donc mesurer que son retard.
 
 ---
 
@@ -64,8 +64,8 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 | **pilule** | selon la pilule | ×10 |
 
 - **Le raffinage coûte du temps, jamais un plafond** *(§E.0 : aucun mur, nulle part)*. Une pierre = **une nuit** ; chez lui, **dix par nuit**. C'est pour ça qu'un maître garde deux mille pierres au lieu de les avaler : il n'a pas les nuits.
-- **Ça se fait en réclusion** (`POUSSIERE` §10) — le prix est celui qui est déjà écrit : **le monde bouge sans lui**. Un cœur frais fait exception : il se prend sur place, la nuit même, ou il ne vaut plus rien.
-- **Se gaver sans raffiner** existe et marche : `POUSSIERE` §13.3, **la Voie du Gavage** — monter vite, brûler tout, les veines noires du cou. C'est la voie sombre, pas la voie ordinaire.
+- **Ça se fait en réclusion** (`CENT-VALLEES` §10) — le prix est celui qui est déjà écrit : **le monde bouge sans lui**. Un cœur frais fait exception : il se prend sur place, la nuit même, ou il ne vaut plus rien.
+- **Se gaver sans raffiner** existe et marche : `CENT-VALLEES` §13.1, **la Voie du Ver** — monter vite, brûler tout, les veines noires du cou. C'est la voie sombre, pas la voie ordinaire.
 - **Le même cœur fait monter ses crans à elle** (`FONDATION` §3.3). **Un seul geste, deux moteurs.** ⛔ Le seuil est **sa dernière prise**, jamais le chiffre de la paire : une proie plus lourde que la précédente donne un cran, dans la scène même.
 
 ---
@@ -82,7 +82,7 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 | **III** | **LE JADE** | il ne garde plus les marques : ce qui est écrit dessus s'efface. **C'est ici, et pas avant, que reprennent les cicatrices dites définitives** — une par grade. | **+4 000** · *1 000 la couche* |
 | **IV** | **LA LUMIÈRE** | plus rien de son plan ne l'atteint. La suite se fixe en jeu. | **+40 000** · *10 000 la couche* |
 
-> **UN GRADE = UNE BANDE.** *(Tranché par le joueur le 2026-08-16, sur faute : `CORPS — 1/4` imprimé douze scènes avec un chiffre figé.)* Chaque grade achevé fait franchir **une bande publique entière** (`POUSSIERE` §9 : cendre · chanvre · blanc · bleu · pourpre · or). Les valeurs ci-dessus sont en unités de la strate I.
+> **UN GRADE = UNE BANDE.** *(Tranché par le joueur le 2026-08-16, sur faute : `CORPS — 1/4` imprimé douze scènes avec un chiffre figé.)* Chaque grade achevé fait franchir **une bande publique entière** (`CENT-VALLEES` §0.7 : cendre · chanvre · blanc · bleu · pourpre · or). Les valeurs ci-dessus sont en unités de la strate I.
 > **⛔ C'EST LA COUCHE QUI COMPTE, PAS LE GRADE.** Chaque couche prise monte le chiffre **immédiatement, dans la scène même** (§51) — trois couches sur quatre ne valent pas rien. Le chiffre est une **somme** (§0) : tout ce qui entre dans le Corps entre dans le total.
 
 ### 1.0 · L'ÉCHELLE NE S'ARRÊTE JAMAIS — cycles de quatre
@@ -125,8 +125,8 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 - **Chaque cran donne quelque chose de nommé** — un geste, une portée, une tenue, un usage neuf. Jamais « +10 % ». Si un cran ne peut pas se dire en une phrase concrète, il n'existe pas.
 - **On monte par l'usage marquant et par la réclusion.** Un art employé dans une scène qui mord progresse ; un art récité ne progresse pas.
 - **Aucun art ne touche le chiffre.** Ils sont la **puissance invisible** de §0 : c'est là qu'un petit chiffre bat un grand, et c'est là que le monde se trompe sur ce qu'il croit avoir mesuré.
-- **Voies d'acquisition** : un maître, un manuel, un cadavre, un vol, une chance. Le monde en propose huit *(POUSSIERE §12)*.
-- **⛔ ET LE STYLE DE MÉTIER RETOURNÉ** *(tranché par le joueur le 2026-08-16)*. `POUSSIERE` §12 dit que **les familles gardent des styles de métier, donnés contre service rendu** — ce ne sont pas des arts de combat, ce sont des gestes vrais appris sur trente ans. **Un geste vrai se retourne.**
+- **Voies d'acquisition** : un maître, un manuel, un cadavre, un vol, une chance. Le monde en propose huit *(CENT-VALLEES §12)*.
+- **⛔ ET LE STYLE DE MÉTIER RETOURNÉ** *(tranché par le joueur le 2026-08-16)*. Le monde le porte (`CENT-VALLEES` §12) : **les familles gardent des styles de métier, donnés contre service rendu** — ce ne sont pas des arts de combat, ce sont des gestes vrais appris sur trente ans. **Un geste vrai se retourne.**
   - **Le cran 1 s'apprend** du métier, contre le service rendu qu'on lui demande. C'est le geste tel qu'il est : honnête, utile, désarmé.
   - **Les crans suivants sont l'adaptation**, et ils se prennent **par l'usage marquant** (règle inchangée) — c'est-à-dire en s'en servant pour ce à quoi ça n'était pas destiné.
   - **Le maître décide du geste, donc du cran 1.** Cinq métiers de fil donnent cinq arts différents.
@@ -193,7 +193,7 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 - **⛔ LES DEUX DÉCLENCHEURS SONT OBJECTIFS — ILS NE DÉPENDENT PLUS DE L'ŒIL DU MJ.** *(Tranché le 2026-08-16, sur constat du joueur : « tu m'avais promis mon B, j'ai pas eu, et tu proposes pas. Je veux une solution. » Un palier suspendu au jugement du MJ est un palier qui n'arrive jamais.)*
   - **B tombe au PREMIER jet de bande basse** (`01-05` ou `06-25`) **où elle est présente et où elle pouvait voir venir**. C'est littéralement le test écrit — *ne rien dire a laissé passer quelque chose* —, et un jet raté est exactement ça. **Dû dans la scène même** (§51). Aucune appréciation, aucun « le moment ne s'y prêtait pas ».
   - **C tombe dès qu'il renonce à un gain CHIFFRABLE pour elle** — des pierres, une prise, un cran, un rang, des jours. Le test écrit est *« est-ce que ça lui a coûté quelque chose de réel ? »* : un gain chiffré auquel on renonce est réel par construction.
-    **⚙ LE MOYEN — l'argent de ce monde EST de la puissance.** Une pierre d'esprit non raffinée vaut **−50** à son chiffre (§0.4). Donc **tout achat pour elle est un renoncement chiffré**, immédiat et lisible. *C n'a jamais pu tomber parce qu'il n'a jamais rien acheté pour elle : sa lame courte venait d'un râtelier abandonné, elle était gratuite.* **Le MJ doit donc servir régulièrement des choses à acheter POUR ELLE, avec un prix en pierres** — `POUSSIERE` §5 en liste : le mortier de rivière (12 p., « le premier vrai outil de la bête »), les bottes de feutre-qui-tait, la robe de ver-de-brume, le mortier de jade aux enchères. Un monde qui ne lui vend jamais rien pour elle lui refuse le palier.
+    **⚙ LE MOYEN — l'argent de ce monde EST de la puissance.** Une pierre d'esprit non raffinée vaut **−50** à son chiffre (§0.4). Donc **tout achat pour elle est un renoncement chiffré**, immédiat et lisible. *C n'a jamais pu tomber parce qu'il n'a jamais rien acheté pour elle : sa lame courte venait d'un râtelier abandonné, elle était gratuite.* **Le MJ doit donc servir régulièrement des choses à acheter POUR ELLE, avec un prix en pierres** — `CENT-VALLEES` §2.2bis en liste : le mortier de rivière (12 p., « le premier vrai outil de la bête »), le feutre taillé à sa taille, la part de gelée des Ruches, le panier de barge doublé. Un monde qui ne lui vend jamais rien pour elle lui refuse le palier.
   - **⛔ AUCUN PALIER NE SE SERT RÉTROACTIVEMENT.** *(2026-08-16 : le MJ a fait tomber B sur une scène déjà passée — « j'en veux pas comme ça, là c'est trop facile ».)* Le déclencheur objectif vaut pour ce qui **arrive**, jamais pour ce qui a eu lieu. Un palier distribué n'est pas un palier joué.
 - **⛔ NE PAS LES POSER ≠ NE JAMAIS LES RENDRE POSSIBLES.** *(2026-08-16 — FAUTE : quatorze scènes après le palier A, le MJ répétait « le corps est mûr, il attend B » sans avoir composé une seule situation où B pouvait tomber.)* **B** exige que quelque chose morde assez fort pour que son silence coûte ; **C** exige un choix qui lui coûte à lui pour de vrai. Une suite de scènes où rien ne mord — administration, réclusion, comptage de pierres — **les rend mécaniquement impossibles**. Quand un palier d'esprit dépasse la cadence de `FONDATION` §3.6, le défaut est **dans la composition**, jamais dans le joueur : ramener le jeu là où ça mord, et laisser tomber ce qui doit tomber.
 - **Avant C, elle n'a pas de volonté propre** *(FONDATION §3.5)* : sa présence en scène passe par ce que le monde lui fait et par ce qu'elle fait d'animal. **Lui prêter des intentions avant l'heure est une faute au même titre que la laisser en décor.**
@@ -216,20 +216,13 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 | **AXE I** | `−5` **PRENDRE** ↔ `+5` **RENDRE** | le moteur de la paire (`FONDATION` §3.4) : il monte en prenant, elle existe en rendant. Ce n'est pas une morale, c'est une nature. |
 | **AXE II** | `−5` **LA MAIN** ↔ `+5` **LA RÈGLE** | obtient-il par le cadre — rites, contrats, mesures, files — ou par la main : prendre, forcer, contourner ? Dans un monde où tout se pèse, c'est la vraie question. |
 
-**État au 2026-08-16, scène 42 :**
-
-| | I · PRENDRE ↔ RENDRE | II · LA MAIN ↔ LA RÈGLE |
-|---|---|---|
-| **Seb** | **−3** | **+2** |
-| **Elle** | **+4** | **−2** |
-
-*Il prend tout **en respectant chaque règle du jeu** — il se présente à la pierre, monte les six cents marches, paie ses cinquante-deux pierres devant trois cents personnes. Elle donne tout **sans demander la permission à personne** — le grelot contre son avis, les pierres mortes sans consulter, la poussière mise dans les mains de deux gamins qu'elle a choisis seule. Attelés au même chiffre.*
+**État de départ — campagne neuve (2026-08-19) : tout à 0.** *(L'état civet — scène 42, Seb −3/+2, Elle +4/−2 — est archivé avec son monde.)* Les compteurs bougent en jeu, un point à la fois, sur les actes marquants ; le relevé s'imprime à la fiche quand quelque chose a bougé.
 
 ### 4bis.1 · Les règles
 
 - **Ça bouge d'UN POINT À LA FOIS, sur les actes marquants seulement.** Pas à chaque scène, pas sur une nuance.
 - **⛔ JAMAIS MORALISÉ EN SCÈNE** *(errata : « le noir n'est jamais moralisé »)*. Aucun PNJ ne fait la leçon, aucun narrateur ne juge. **Ça décrit, ça ne prescrit jamais** — c'est un relevé, comme le chiffre.
-- **⛔ ÇA NE FERME AUCUNE OPTION** *(§49)*. Ça teinte les réactions du monde, ça ouvre des voies (`POUSSIERE` §13), ça alimente leurs divergences. Rien de plus.
+- **⛔ ÇA NE FERME AUCUNE OPTION** *(§49)*. Ça teinte les réactions du monde, ça ouvre des voies (`CENT-VALLEES` §13), ça alimente leurs divergences. Rien de plus.
 - **L'axe `noir` du compteur** sert désormais **les options qui font pencher** — dans un sens ou dans l'autre, pour l'un ou pour l'autre.
 
 ## 5 · LE COMBAT — TROIS RÉGIMES *(gravé le 2026-08-18, tranché par le joueur)*

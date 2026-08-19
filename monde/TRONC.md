@@ -18,7 +18,7 @@ Le rite n'est pas allé chercher un lapin dans les murets : le fil était sans f
 
 ## 4 · Le col des Aiguilles
 
-Le col n'a pas été fermé par le Chien : **il a été fermé PAR la maison, et le Chien posé dessus**. Il y a dix-neuf ans, les mineurs du versant nord ont percé une galerie dans quelque chose de tissé — une poche de l'ouvrage (§1) — et ce qui suintait rendait les bêtes folles. Le père d'Armande a acheté le silence, dénoué son propre rang à la Montre pour que plus personne ne monte, et posé le Chien (la bête liée de la maison, 6 500) en garde. **Armande sait.** Elle n'a rien misé sur le garçon — mais c'est elle qui tient **les deux mètres de son fil** (§2), et pas pour la vendre : pour avoir barre le jour où il vaudra quelque chose. Parce qu'une charte dénouée rendrait la galerie à qui la trouve, et qu'il lui faudra ce jour-là **une main assez forte pour tenir le col rouvert** — la sienne ne l'est plus.
+Le col n'a pas été fermé par le Chien : **il a été fermé PAR la maison, et le Chien posé dessus**. Il y a dix-neuf ans, les mineurs du versant nord ont percé une galerie dans quelque chose de tissé — une poche de l'ouvrage (§1) — et ce qui suintait rendait les bêtes folles. Le père d'Armande a acheté le silence, rompu son propre rang à la Montre pour que plus personne ne monte, et posé le Chien (la bête liée de la maison, 6 500) en garde. **Armande sait.** Elle n'a rien misé sur le garçon — mais c'est elle qui tient **les deux mètres de son fil** (§2), et pas pour la vendre : pour avoir barre le jour où il vaudra quelque chose. Parce qu'une charte rompue rendrait la galerie à qui la trouve, et qu'il lui faudra ce jour-là **une main assez forte pour tenir le col rouvert** — la sienne ne l'est plus.
 
 ## 5 · La Muette
 
@@ -30,7 +30,7 @@ Le passage de strate au fond de la Dernière Marche est **un péage, pas une por
 
 ## 7 · Le coup du Pavois
 
-Le Pavois d'Étain **achète la Grand-Traverse** — lentement, légalement : bornes déplacées, dettes ramassées à l'encan, chartes dénouées faute de rang. L'homme qui tient le fil s'appelle {{SCELLE:Aldric}}, troisième du cadastre, et il a quinze ans d'avance. La charte du Dernier Col est sur sa liste — **pas pour le péage : pour la galerie** (§4). Il ne sait pas ce qu'il y a dedans ; il sait que le vieux a payé cher pour fermer, donc que ça vaut cher ouvert. La Montre d'automne est sa dernière pièce : le Dernier Col n'a pas de porteur, donc pas de rang, donc tout se dénoue proprement — **c'est une horloge du monde, pas celle de Seb** : personne ne l'oblige à s'en mêler, et elle tournera qu'il regarde ou non.
+Le Pavois d'Étain **achète la Grand-Traverse** — lentement, légalement : bornes déplacées, dettes ramassées à l'encan, chartes rompues faute de rang. L'homme qui mène l'affaire s'appelle {{SCELLE:Aldric}}, troisième du cadastre, et il a quinze ans d'avance. La charte du Dernier Col est sur sa liste — **pas pour le péage : pour la galerie** (§4). Il ne sait pas ce qu'il y a dedans ; il sait que le vieux a payé cher pour fermer, donc que ça vaut cher ouvert. La Montre d'automne est sa dernière pièce : le Dernier Col n'a pas de porteur, donc pas de rang, donc tout se rompt proprement — **c'est une horloge du monde, pas celle de Seb** : personne ne l'oblige à s'en mêler, et elle tournera qu'il regarde ou non.
 
 ## 8 · Les mèches
 

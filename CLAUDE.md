@@ -5,7 +5,7 @@ Cette branche (`main`) contient **le jeu d'histoire IA** : un jeu de rôle solo 
 > **⚠ CAMPAGNE NEUVE : « LES CENT VALLÉES » — prête, scène 1 non jouée** *(état au 2026-08-18)*. La campagne « **Civet** » (113 scènes) est close dans `archive/civet/` (post-mortem : `archive/civet/AUDIT.md`). Depuis :
 > 1. **✔ La phase psyché** — traits de conscience d'elle et de lui, gravés dans `FONDATION.md` §6. Seb a **18 ans**. Elle recommence **du début**, conscience définie.
 > 2. **✔ Les systèmes refondus** — combat à trois régimes, seize grades de Corps nommés, réclusions à durée, moments d'esprit comptés (`SYSTEMES.md`, `SEUILS.md`).
-> 3. **✔ Le monde** — `monde/CENT-VALLEES.md` (passes 1-2 : l'archipel, l'abondance par axe) + tronc scellé (passe 3). **Restent avant la scène 1 : l'audit du monde, et la validation de la feuille de départ par le joueur.**
+> 3. **✔ Le monde** — `monde/CENT-VALLEES.md` (passes 1-2 : l'archipel, l'abondance par axe) + tronc scellé (passe 3). **✔ Audit du monde fait le 2026-08-19** — références re-pointées sur `CENT-VALLEES`, Balance→Cadre dans `SYSTEMES`, alignements remis à zéro — **+ passe 5 : LE FIL EST SON DOMAINE, PAS CELUI DU MONDE** (titres par tailles, brassards de cuir, le Gant Blanc). **Reste : la validation de la feuille de départ par le joueur.** *(Une première tentative — ~60 scènes en session Remote Control, jamais de `codex` — est perdue.)*
 
 > **Les campagnes closes ne se chargent jamais pour jouer** : « Le Creuset » (299 scènes) dans `archive/creuset/`, « Civet » (113 scènes) dans `archive/civet/`. Ce qui survit d'elles, ce sont les **règles de conduite** (`codex/`) : c'est le monde qui change, pas la conduite.
 

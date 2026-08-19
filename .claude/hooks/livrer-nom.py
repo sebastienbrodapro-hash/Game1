@@ -14,7 +14,7 @@ contre quelque chose. Un nom ne traîne pas dans le contexte pendant quarante
 scènes en attendant son heure ; on va le chercher le jour où on l'écrit.
 
 Après livraison : l'inscrire au canon public de la campagne
-(`monde/POUSSIERE.md` — la réserve de prénoms §14 si c'en est un) et à
+(`monde/CENT-VALLEES.md` — la réserve de prénoms §14 si c'en est un) et à
 l'errata, comme le 2026-08-13 pour la bête du Creuset (§1.1).
 """
 import subprocess
@@ -77,7 +77,7 @@ def main() -> int:
     if deja:
         print("(ce nom était déjà marqué livré)")
     print("Il est maintenant en clair dans la vue du tronc.")
-    print("À faire : l'inscrire au canon public (monde/POUSSIERE.md) et à l'errata.")
+    print("À faire : l'inscrire au canon public (monde/CENT-VALLEES.md) et à l'errata.")
     return 0
 
 

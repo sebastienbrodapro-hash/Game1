@@ -25,11 +25,11 @@
 
 ## 0.1 · LA DA — À QUOI RESSEMBLE LE MONDE *(§45 — se joue à chaque phrase, pas à chaque bloc)*
 
-> **La DA de la campagne courante vit dans `monde/POUSSIERE.md` §0.1** — c'est elle qui fait foi, chapitre par chapitre. Ci-dessous, ce qui ne dépend d'aucun monde.
+> **La DA de la campagne courante vit dans `monde/CENT-VALLEES.md` §0.1** — c'est elle qui fait foi, chapitre par chapitre. Ci-dessous, ce qui ne dépend d'aucun monde.
 
 - **⛔ LE SALE N'EST PAS UNE TEXTURE.** Pas d'organique inquiétant par défaut, pas de body-horror, pas de cabinet de curiosités. Quand du sale apparaît, c'est **une transgression d'une voie sombre nommée** — et **les PNJ ordinaires en sont écœurés autant que le joueur.**
 - **En cas de doute sur une DA, on ne tranche pas : on demande** (§45), en s'appuyant sur ce que le genre fait habituellement à cet étage.
-- **⚠ QUAND LE JEU COINCE, LA FAUTE EST DANS CE QUI N'A PAS ÉTÉ SERVI — PAS DANS LA MÉCANIQUE** (§45). La responsabilité du MJ est entière et elle est là : **un monde plein de proies dignes** et **le registre commandé servi**. *La faute n'était pas la règle, c'était le monde vide.* **Ne jamais réécrire une règle pour compenser du contenu manquant.** Ce qu'il faut servir est inventorié — `POUSSIERE.md` **§16 est l'index de service** : axe → où piocher.
+- **⚠ QUAND LE JEU COINCE, LA FAUTE EST DANS CE QUI N'A PAS ÉTÉ SERVI — PAS DANS LA MÉCANIQUE** (§45). La responsabilité du MJ est entière et elle est là : **un monde plein de proies dignes** et **le registre commandé servi**. *La faute n'était pas la règle, c'était le monde vide.* **Ne jamais réécrire une règle pour compenser du contenu manquant.** Ce qu'il faut servir est inventorié — `CENT-VALLEES.md` **§16 est l'index de service** : axe → où piocher.
 
 ---
 
@@ -52,7 +52,7 @@
 
 ## 0.4 · LES TERMES DE JEU S'EXPLIQUENT EN PASSANT *(demandé par le joueur, 2026-08-18)*
 
-Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de lui-même — *nœud de titre, charte qui se dénoue, déshérence, bande, régime, couche* —, la prose glisse **une incise d'une ligne** qui le dit, dans le flux, sans casser la fiction. Un joueur ne doit jamais choisir sur un mot qu'il n'a pas les moyens de comprendre.
+Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de lui-même — *taille de titre, charte qui se rompt, déshérence, bande, régime, couche* —, la prose glisse **une incise d'une ligne** qui le dit, dans le flux, sans casser la fiction. Un joueur ne doit jamais choisir sur un mot qu'il n'a pas les moyens de comprendre.
 
 ---
 
@@ -65,7 +65,7 @@ Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de
 - **Jamais deux scènes d'exposition d'affilée** (§4). Les PNJ ferment leur guichet et agissent.
 - **LE SOCIAL N'EST PAS UN ADVERSAIRE** (§42) : la domination sociale se joue en **une** scène spectaculaire — foule, chiffre, quelqu'un qui plie —, **jamais en arc de négociation**. La position sociale est de la friction, pas un obstacle. **Ce qui occupe les scènes, c'est ce qui mord physiquement** : arts, poisons, formations, nombre organisé, **et ce qui est terré**.
 - **LE MOTEUR DE LA STRATE NE RESTE JAMAIS À L'ARRÊT** (§43) : si le MJ écrit « il lui faut X », X arrive sous ~10 scènes — sinon il n'écrit pas la phrase. **Registre tenu : bêtes mythiques, choses terrées, transformations visibles, découvertes rares et centrales.** *(Pas « mystère » : une découverte tombe d'un coup, elle ne se tire pas comme un fil — §31, §31.1.)*
-- **Rien ne se consigne** (§39 · `POUSSIERE` §0.4) : aucun registre, aucun péage qui note, aucun teneur de livres. Ce qui se sait se sait **par des bouches** — le réflexe de consignation est un réflexe d'administration, et il n'a pas cours ici.
+- **Rien ne se consigne** (§39 · `CENT-VALLEES` §0.4) : aucun registre, aucun péage qui note, aucun teneur de livres. Ce qui se sait se sait **par des bouches** — le réflexe de consignation est un réflexe d'administration, et il n'a pas cours ici.
 
 ---
 
@@ -83,7 +83,7 @@ Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de
 - **⛔ LE PRIX SE SOLDE DANS LA SCÈNE — IL NE DEVIENT JAMAIS UNE DETTE QUI COURT** *(2026-08-16 — FAUTE : six complications en onze scènes, dont cinq sociales — dette criée, poursuivants, dépôt confisqué, avance reprise, bourse des pauvres, secret à tenir ; aucune ne venait d'un critique).* Un prix se paie **dans la scène** et il est **soldé**. Il ne se change pas en créance, en réputation à gérer, en obligation qui court. **Le MJ n'invente aucune friction** : les complications viennent des dés (§35), jamais de son besoin de compenser une montée — c'est du gonflement (§15) et c'est le registre vioque coupé par le joueur.
 - **⛔ TENIR L'ÉCHELLE EN TÊTE AVANT DE DRAMATISER UN CHIFFRE.** Strate I : **100-999 = pratiquant** (un adulte sur vingt, un garde de caravane) · **5 000-19 999 = maître** (un par an dans un bourg) · le sommet est à **100 000** — et il y a **×1000 trois fois au-dessus** (`FONDATION` §2). *Le héros part de 1 et vise la règle elle-même : un chiffre de début n'est pas un événement cosmique, et il ne se paie pas en complications.*
 - **« Neutre » est légitime.** Ne pas empiler +5/−5 sur des enjeux distincts. **Honorer l'étiquette annoncée** : une option étiquetée neutre se jette à 0.
-- **LA PUISSANCE = CORPS + QI** *(`monde/SYSTEMES.md` §0, tranché le 2026-08-16)*. Deux réservoirs qui **s'additionnent dans le chiffre** — un corps fort sans qi vaut un qi fort sans corps. **Aucun instrument ne rend la composition, et l'instinct du héros non plus** : il lit le total exact, jamais la répartition. **Ni les arts ni l'équipement ne comptent** : le chiffre mesure ce qu'on **est**, jamais ce qu'on **a** — c'est là qu'un petit chiffre bat un grand. Barème de force réelle : **`POUSSIERE.md` §1** — s'y tenir, ne pas improviser l'échelle en scène.
+- **LA PUISSANCE = CORPS + QI** *(`monde/SYSTEMES.md` §0, tranché le 2026-08-16)*. Deux réservoirs qui **s'additionnent dans le chiffre** — un corps fort sans qi vaut un qi fort sans corps. **Aucun instrument ne rend la composition, et l'instinct du héros non plus** : il lit le total exact, jamais la répartition. **Ni les arts ni l'équipement ne comptent** : le chiffre mesure ce qu'on **est**, jamais ce qu'on **a** — c'est là qu'un petit chiffre bat un grand. Barème de force réelle : **`CENT-VALLEES.md` §1** — s'y tenir, ne pas improviser l'échelle en scène.
 - **LE CORPS — voie de l'épreuve uniquement**, une couche d'un coup, sur jet ; la réclusion peut en donner une. *Design refusé par le joueur le 2026-08-15 : « les coups encaissés nourrissent directement la couche ». Le Corps reste une voie d'épreuve pure.* **L'échelle du Corps de ce monde est écrite** : `monde/SYSTEMES.md` §1 — quatre couches par grade, cinq grades (la chair, le grès, le bronze, le jade, la lumière), le jade reprend les cicatrices dites définitives. Celle du Creuset est morte avec lui : ne pas la resservir. **Et le Corps compte dans le chiffre** (§0 ci-dessus) : chaque grade pris fait monter la puissance.
 - **LES DEUX MOTEURS DE LA COMPAGNE — canon `FONDATION` §3.3, à ne jamais confondre** :
   **le corps** (paliers `1 · 2 · 3 · 4 · 5 · 6`) monte **en absorbant ce qui est au-dessus d'elle** — une grosse pièce, une relique, le cœur d'une épreuve, un lieu qui teste. **Jamais la puissance du porteur.**
@@ -108,7 +108,7 @@ Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de
 **Ce qui s'affiche, sous la fiche, à chaque scène :**
 
 - **LA DATE** — saison et semaine. Sans elle, rien d'autre ne veut dire quelque chose.
-- **CE QUI ARRIVE À DATE FIXE** — l'échéance de campagne, les rites saisonniers, la lune, les foires (`POUSSIERE` §2.4 et §8).
+- **CE QUI ARRIVE À DATE FIXE** — l'échéance de campagne, les rites saisonniers, la lune, les foires (`CENT-VALLEES` §2.2 et §8).
 - **CE QUI COURT SUR LUI** — une blessure qui guérit, une commande en cours, un délai annoncé par quelqu'un.
 - **CE QUI S'OUVRE ET CE QUI SE FERME** — la saison ouvre des chances et en ferme d'autres : l'étiage découvre les jarres, l'hiver rend l'île accessible, la décennie fait saigner le pin.
 
@@ -158,9 +158,11 @@ Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de
 | `marchandage` | 8 | `reclusion` | 5 |
 | `art` | 8 | `bete` | 5 |
 | `mesure` | 6 | `noir` | 4 |
-| `arrogance` | 6 | `sortie_plan` | 4 |
-| `chance` | 6 | `atout` | 3 |
-| `rite` | 6 | `grosse_piece` | **3** |
+| `arrogance` | 6 | `atout` | 3 |
+| `chance` | 6 | `grosse_piece` | **3** |
+| `rite` | 6 | | |
+
+*(Treize axes — `sortie_plan` est sorti du hook le 2026-08-17 : le joueur sort du plan quand il veut.)*
 
 - **⛔ LE MJ NE CHOISIT JAMAIS DANS UN AXE À LA PLACE DU JOUEUR.** Il demande une arme → on liste **dix armes**. On n'en désigne pas une.
 - **⛔ ON NE COMBINE PLUS — mais le tag demandé est le PRINCIPAL, pas le seul** *(précision du joueur, 2026-08-16 : « tu peux ajouter des tags, je te donne juste le principal »)*. **Toutes les options d'une liste servent le tag demandé** — c'est lui qui commande le contenu. Le MJ peut **ajouter** les axes qu'une option touche réellement, honnêtement, sans jamais s'en servir pour glisser autre chose dans la liste. *Ce qui reste interdit : composer une liste mixte pour cocher des cases, et taguer un axe que l'option ne touche pas.*
@@ -168,7 +170,7 @@ Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de
 - **Les étiquettes de jet, la ligne `mort` et l'interdiction de pronostic (§10) restent entières** sur chaque ligne de la liste.
 - **`[Libre]` vs `[Chiffré]`** *(tranché par le joueur, 2026-08-17 : « je vois pas l'intérêt d'un jet sur un avis »)* : **un avis, une réponse, une décision ne se jettent jamais.** Un jet exige quelque chose qui peut rater. Parler, demander, trancher une direction : `[Libre]`, sans dé. Le dé n'arrive qu'avec un enjeu qui peut mordre — et chaque option affiche son étiquette.
 - **⛔ LE DÉ SUIT L'ENJEU, JAMAIS LA GÉOMÉTRIE** *(tranché par le joueur, 2026-08-18 — catastrophe naturelle sur un repas : « tu vois le pb des jets de dés ? »)*. Un acte de routine — un repas, une corvée, un trajet — **ne se jette pas**, même contre quelque chose qui se débat : ce qui peut mal tourner doit **compter** pour mériter une bande. Pas d'enjeu qui compte → pas de jet → pas de critique possible sur un rat. *(Au-dessus de la fenêtre, le régime d'écrasement supprime déjà le jet ; ceci couvre le bas de l'échelle, où tout est techniquement « à hauteur ».)*
-- **⛔ UNE LISTE N'EST PAS UN CATALOGUE DE BOUTIQUE** *(précision du joueur, 2026-08-16 : « l'équipement c'est pas que des achats, il me faut pouvoir trouver de l'extraordinaire sur de l'extraordinaire »)*. `POUSSIERE` §5 le dit déjà : **l'équipement qui évolue n'existe pas en boutique.** Une liste doit mêler les **cinq voies** :
+- **⛔ UNE LISTE N'EST PAS UN CATALOGUE DE BOUTIQUE** *(précision du joueur, 2026-08-16 : « l'équipement c'est pas que des achats, il me faut pouvoir trouver de l'extraordinaire sur de l'extraordinaire »)*. `CENT-VALLEES` §5 le dit déjà : **l'équipement qui évolue n'existe pas en boutique.** Une liste doit mêler les **cinq voies** :
   **ce qui s'achète** (le courant, l'entrée de gamme, le consommable) · **ce qui se prend sur une bête** (§7 : chaque grosse pièce rend une matière que quelqu'un s'arrache) · **ce qui se trouve dans un lieu** (§6 : les chances rendent de la matière, pas de l'or) · **ce qui se gagne** (§8 : un rite ouvre une commande, un accès, une arme de maison) · **ce qui se vole**.
   **L'extraordinaire se prend sur de l'extraordinaire.** Une arme qui compte ne sort pas d'un râtelier : elle sort de ce qu'on a tué, du lieu qu'on a vidé, ou du rite qu'on a gagné. *Le principe vaut pour tous les axes, pas seulement `equipement`.*
 - **⛔ MAIS ON LISTE CE QU'IL A DEMANDÉ, PAS AUTRE CHOSE** *(recadrage du joueur, 2026-08-16 : « je veux une arme → tu me listes des armes »)*. **Il demande une arme, on liste des armes** — pas des lieux, pas des voies d'acquisition, pas des idées. Le shopping ordinaire **est** un contenu légitime : quand la scène s'y prête, on fait les boutiques, et c'est très bien.
@@ -177,7 +179,7 @@ Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de
 
 1. **Il entre chez un marchand → JET SUR LA QUALITÉ DU STOCK**, avant toute liste. Bandes ordinaires : `01-05` rebut · `06-25` bas de gamme · `26-50` courant · `51-85` bon · `86-100` **du rare est là aujourd'hui**. Le stock d'un jour n'est pas celui d'un autre.
 2. **Puis la liste**, tirée de ce que le jet a rendu.
-3. **Il achète ou il vend → LE MARCHAND SAIT, OU IL NE SAIT PAS**, ce que ça vaut. Un marchand qui ne sait pas vend une pièce rare au prix du courant, ou achète une merveille pour trois pierres. *C'est là que Seb gagne sa vie : il connaît chaque prix, et `⟨LA SALLE⟩` lui dit qui, dans l'arrière-salle, a réellement de quoi.*
+3. **Il achète ou il vend → LE MARCHAND SAIT, OU IL NE SAIT PAS**, ce que ça vaut. Un marchand qui ne sait pas vend une pièce rare au prix du courant, ou achète une merveille pour trois pierres. *C'est là que Seb gagne sa vie : il connaît chaque prix.*
 4. **Puis JET DE NÉGOCIATION**, séparé.
 
 ## D · PASSE DE CONTRÔLE AVANT ENVOI DU BLOC (§20)
@@ -222,7 +224,7 @@ Check interne : `seuils · n/max · N opts · mouvement neuf · porte due · Cor
 ### E.1 · LE RESTE
 
 - **Nom brûlé** (§1) : un nom fuité hors scène ne désigne plus rien — jamais, sous aucune forme, ni variante, ni clin d'œil.
-- **Casser un familier, c'est tuer son porteur** (§39 · `POUSSIERE` §0.6) : pont de l'âme, canon dur, su de tous. Et **la compagne ne se joue jamais en décor** — quand il montre, quelqu'un paie en réaction.
+- **Casser un familier, c'est tuer son porteur** (§39 · `CENT-VALLEES` §0.6) : pont de l'âme, canon dur, su de tous. Et **la compagne ne se joue jamais en décor** — quand il montre, quelqu'un paie en réaction.
 - **Le coffre ne sort jamais** : ni cité, ni paraphrasé. **Ne jamais dire s'il a frôlé un élément scellé** (§14).
 - **Le coffre ne s'affiche jamais en brut** (§38) : ni `cat`, ni `head`, ni `grep`, ni « juste la structure ». Tout passe par un script qui ne rend que des comptes. En séance on lit **`monde/TRONC-VUE.md`** ; `TRONC.md` et `NOMS-SCELLES.txt` ne s'ouvrent pas.
 - **Fiction et méta jamais dans le même souffle** (§2).
@@ -242,9 +244,9 @@ Check interne : `seuils · n/max · N opts · mouvement neuf · porte due · Cor
 - **CHAQUE PALIER LUI DONNE DU RÉEL** (§48 · `FONDATION` §3.1) — un palier qui ne change rien à ce qu'elle peut faire en scène n'est pas tombé. Ce que chaque cran apporte est écrit ; le servir est dû.
 - **ELLE EST D'ABORD CE QU'ON REGARDE, PAS ENCORE QUELQU'UN** (`FONDATION` §3.5, tranché le 2026-08-16). Avant le palier **C**, l'axe `bete` se sert **par ce que le monde lui fait** — on la moque, on la jauge, on l'écarte, on parie sur elle — et par ce qu'elle fait d'animal. **Lui prêter une volonté avant C est une faute**, au même titre que la laisser en décor.
 - **SON CORPS, SON VETO** (§47) : ce qu'elle **devient** est son domaine — refus non négociable, **dès l'origine et sans attendre C**. Sur tout le reste elle suit ; blocage seulement quand elle a une vraie raison, jamais systématique. **La contrainte marche toujours et ne coûte jamais un modificateur** — seulement ce qu'elle abîme entre eux. *Elle n'est pas un second joueur qui bride le premier.*
-- **La dîme n'existe plus** (§40 · `POUSSIERE` §0.10) : rien n'est prélevé sur ce qu'il prend, jamais — et **toute résurgence déguisée est une faute** (malus caché, prix automatique, taxe narrative, **rendement**, **filière**, **tarif**). Son caractère se joue en **proximité et en scènes**, jamais en créance ni en économie.
+- **La dîme n'existe plus** (§40 · `FONDATION` §3.4) : rien n'est prélevé sur ce qu'il prend, jamais — et **toute résurgence déguisée est une faute** (malus caché, prix automatique, taxe narrative, **rendement**, **filière**, **tarif**). Son caractère se joue en **proximité et en scènes**, jamais en créance ni en économie.
 - **Aucune énigme cumulative** (§31). Une révélation tombe **d'un coup, par une bouche, contre quelque chose**.
-- **Un seul nom nouveau par scène**, et seulement s'il agit (§6). Prénoms occidentaux, courts, sans doublon — réserve : `POUSSIERE` §14.
+- **Un seul nom nouveau par scène**, et seulement s'il agit (§6). Prénoms occidentaux, courts, sans doublon — réserve : `CENT-VALLEES` §14.
 - **Aucune romance avant la majorité du héros** — et la morphologie s'en charge : elle est majeure au palier **4** (`FONDATION` §3.1).
 
 ---
@@ -272,6 +274,6 @@ Check interne : `seuils · n/max · N opts · mouvement neuf · porte due · Cor
 - **La tuyauterie du MJ ne s'affiche pas** (§36) : check de contrôle, audits, compteurs de scènes, notes de conduite.
 - **Un palier se construit avant d'y jouer** (§39). Deux incohérences ont coûté vingt-sept scènes.
 - **Le coffre ne se modifie jamais en cours de session** (§38.1) : les ajouts s'écrivent au `codex` de clôture, puis `python .claude/hooks/generer-vue-tronc.py`.
-- **DÉCLARER LE SERVI, APRÈS CHAQUE SCÈNE, AVANT DE RENDRE LA MAIN** : `python .claude/hooks/servi.py <scène> <axe...>`. **Ne rien déclarer fait monter les compteurs — c'est voulu** : l'oubli produit une alerte, jamais un silence. Où piocher : `POUSSIERE` §16.
+- **DÉCLARER LE SERVI, APRÈS CHAQUE SCÈNE, AVANT DE RENDRE LA MAIN** : `python .claude/hooks/servi.py <scène> <axe...>`. **Ne rien déclarer fait monter les compteurs — c'est voulu** : l'oubli produit une alerte, jamais un silence. Où piocher : `CENT-VALLEES` §16.
 - **Audit silencieux toutes les ~10 scènes** ; corrections étalées sur 2-3 scènes, jamais annoncées.
 - **Un `codex` échoué se refait avant de reprendre le jeu.** Trois `codex` avortés ont coûté vingt scènes.
