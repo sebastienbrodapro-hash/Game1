@@ -555,7 +555,7 @@ Classement après E2 : 3ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ — et l'écart 
 
 ---
 
-*L'archive est **continue de 35 à 55** — plus le rite (1) et le Gué (10-11) en prologue. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive compte vingt-trois actes — et s'agrandit par l'amont à mesure que le joueur retrouve des morceaux.*
+*L'archive est **continue de 34 à 55** — plus le rite (1) et le Gué (10-11) en prologue. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive compte vingt-quatre actes — et s'agrandit par l'amont à mesure que le joueur retrouve des morceaux.*
 
 ---
 
@@ -716,3 +716,31 @@ Le reste de la maison trouve son rythme d'automne qui vient : elle a installé l
 Et deux nouvelles remontent le col avec les colporteurs de fin d'été : une robe grège a été vue à Fuseau, posant des questions sur la futaie haute — la provenance de la soie, encore, cherchée à la source cette fois. Et la liste de la Montre est close : trente-et-une maisons, le Dernier Col dernier inscrit, « la maison morte et son Fileur » en rigolade d'auberge — exactement le genre de rigolade dont il fait son miel depuis le printemps.
 
 > *Leçons des 35-36 : l'entraînement se joue en offices (l'aube au corps, le soir aux nœuds) et rend des couches SUR déclencheur, jamais au forfait ; le prix d'un 26-50 peut être un personnage qu'on aime (Basile à la canne — et sa phrase sèche qui transforme la perte en passation) ; la préparation d'un grand rendez-vous se DÉSOSSE à la table, étape par étape, des semaines avant (le joueur arrive à la Montre en connaissant le terrain — le suspense est dans l'exécution, pas dans l'ignorance) ; le mortier produit des moments, pas des ressources (le liniment de Basile — « je choisis toujours les vieux ») ; et la menace de fond avance par colporteurs (la robe grège, la rigolade d'auberge dont il fait son miel).*
+
+---
+
+## 34 · TOUT LE MONDE SAUF UN *(version perdue — verbatim ; jet : 51-85 — pleinement, sans prix)*
+
+À l'heure où la vente ferme, l'usage donne au vendeur le droit de crier sa vente — et Seb monte sur le banc de criée, devant la halle pleine, la pièce derrière lui sur ses deux perches.
+
+« Elle se vend ce soir, au mieux offrant. » Un temps. « Sauf un. Le Fil Blanc garde ses soixante pierres — cette pièce a une provenance, et la provenance refuse. »
+
+La halle exhale ce bruit de foule qui vient d'être servie mieux qu'elle n'espérait. La robe grège se lève, très droite, et sort sans un mot — troisième sortie grège en un été, le bourg commence à collectionner. Et la guerre des prix repart sans eux :
+
+Aymon monte à trente-cinq, en homme qui rachète quinze ans de rabais sur le déclin de Fuseau. Le courtier des Sœurs, quarante-quatre. Puis un troisième enchérisseur se lève du fond, que personne n'attendait : un homme en manteau de crête, l'insigne d'une maison de col au fermail — mandaté, dit-il, par cinq maisons de la Grand-Traverse ensemble.
+
+« Cette pièce montre les cols tels qu'ils sont. Sa place est à un col — là où passent ceux qui la comprendront. »
+
+Cinquante-deux pierres. Aymon s'assied. Les Sœurs saluent. Adjugé.
+
+Les Cent Vallées vues d'une sente pendra à l'auberge du col du Portefaix, dans la salle commune — là où chaque voyageur de la Traverse la verra pendant cent ans, avec le petit nœud de lisière qui dit sa main. On ne pouvait pas acheter mieux que ça : le consortium croit avoir acquis une tenture, il vient d'installer sa publicité au péage du monde.
+
+Aymon repart bredouille de sa propre saison de rapine. Le Fil Blanc collectionne les portes closes. Et Berthe, dans le fond de la halle, dit à Sidonie, pas si bas :
+
+« Trois ans sur mon banc du fond. C'est moi qui l'ai eu pour rien. »
+
+À côté de lui, la voix neuve compte à sa façon, mi-tendre mi-comptable :
+
+« Soixante refusées, cinquante-deux prises — tu sais donc compter au-delà de l'exact. » Un temps, les yeux jade sur la porte où la robe grège a disparu : « Quatre. »
+
+> *Leçons du 34 : le refus public est un acte de marché (« sauf un » — et la provenance qui refuse vaut plus que les soixante pierres) ; l'acheteur inattendu porte du sens (le consortium installe sa « publicité au péage du monde » sans le savoir) ; le monde collectionne les récurrences (« troisième sortie grège en un été ») ; la fierté des siens se dit de biais (Berthe, pas si bas) ; et son décompte à elle referme la scène d'un seul mot : « Quatre. »*
