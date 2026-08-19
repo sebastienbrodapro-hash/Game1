@@ -295,3 +295,70 @@ Derrière elle, sur le seuil, Perrine n'a pas bougé depuis le début — elle r
 *(Suivaient : l'ÉTAT — 10 555 POURPRE, CORPS 3/4, sept portes dont ⟨LA TRAME⟩, ⟨SANS ÉCOLE⟩, ⟨LA MAIN DE MAÎTRE⟩, ⟨SA LECTURE FAIT FOI⟩ ; esprit A✓ B✓ C✓ ; L'ADDITION — le registre des dettes à quatre lignes ; les horloges — LA MONTRE DANS QUATRE JOURS, la montée à la brèche après, « ce qui est dans la montagne écoute vers le bas » ; et le bloc : partir courir la Montre · un jour pour travailler la peau du Chien · monter voir la brèche AVANT, contre le pacte — désavantage gros, ligne mort.)*
 
 > *Leçons des 37-38 : un triomphe retourne une salle entière (le suspect devient l'expert, et la porte qui en naît est sociale) ; l'indice planté accuse tout le monde et personne ; le piège d'un tisserand est de la géométrie racontée (trois degrés qui suffisent) ; la prise nourrit TOUT — le palier, le chiffre, le butin, la révélation, la menace suivante ; une révélation tombe d'un coup, par une bouche, contre quelque chose (Armande, contre le gardien mort) ; et L'ADDITION : Seb tient un registre de dettes nommées, et le jeu le lui affiche.*
+
+---
+
+## 54 · LA REMISE *(version perdue — verbatim)*
+
+La veille au soir, par les ruelles, le constat scellé change de mains dans le cabinet du grand huissier de la Coupe — le même homme qui a validé son bracelet au parvis en grinçant, et qui reçoit aujourd'hui la plus grosse affaire cadastrale de sa décennie des mains du même garçon.
+
+Il lit. Relit. Vieillit de cinq ans en dix minutes.
+
+« Contrebande sous faux sceaux dans les convois de course. Un faussaire unique, encan et transit. Onze mètres de fil-d'or. » Il referme le dossier. « L'instruction s'ouvre demain — publiquement, entre les demi-finales et la finale, comme l'usage l'exige pour les affaires de course. »
+
+Le prix se paie en une phrase : « Et vous témoignerez, sceau en main. Votre lecture fait foi — c'est votre force, jeune homme, et à partir de demain midi c'est votre adresse : tout ce que le cadastre compte d'inquiets saura exactement quel visage empêche leurs tampons de dormir. »
+
+La guerre de l'ombre devient une guerre tout court. Il signe.
+
+## 55 · LE GRAND PORTAGE *(version perdue — verbatim ; jets : quart 51-85 · demi 51-85/51-85/06-25 · finale 06-25 puis 86-100 ⚑ triomphe naturel)*
+
+Le jour de la finale, Hautefoire ferme ses boutiques. Trente mille personnes autour du champ de craie — et au premier rang des couleurs du Dernier Col : Armande, droite comme une charte, et Basile, monté de Fuseau sur un chariot, sa canne posée en travers des genoux comme une épée d'apparat.
+
+Le quart dure quatre-vingts secondes. Le vétéran cordier n'a jamais vu le Fileur se battre — personne ne lit ce qui n'a pas d'école — et sa charge d'ouverture se termine dans une géométrie de fil qu'il ne comprendra qu'en se relevant. Un genou. Suivant.
+
+La demi, c'est Thibaut. Et sur la craie, le champion n'a pas de chiffre — il a son art au dernier cran, et la craie est son domaine : trois Montres sans poser un genou, un homme qui fait du portage un langage. Le duel que Hautefoire attendait.
+
+Premier échange : Thibaut attaque en champion — la prise d'épaule du Grand Portage, celle qui a plié cent hommes. Elle se referme sur du bronze tendu de fil : Seb tourne dans la prise au lieu de la subir, et c'est le champion qui recule d'un pas pour ne pas tomber. Le silence des trente mille a un poids physique. Deuxième échange : Thibaut change de langage, travaille bas, cherche la faute — et la trouve presque : mais la ligne était posée depuis l'échange d'avant, invisible sur la craie, et son appui glisse de trois centimètres au pire moment. Il sauve son genou d'un sursaut de génie pur. Les connaisseurs comprennent, eux : le gamin est en train de gagner l'échange d'avance.
+
+Troisième échange — le prix. Thibaut, dos au mur pour la première fois en trois Montres, joue le coup du champion : tout sacrifier pour une prise. Sa main referme l'épaule gauche de Seb — la vieille, celle du Gué, celle de l'ours — et serre en tordant, l'art du Portage au dernier cran, la douleur comme un outil. Le monde blanchit. Seb plie — et noue en pliant : le fil sauvage passe sous le genou d'appui du champion, un tour, la tension juste —
+
+Le genou de Thibaut touche la craie. Le premier en trois Montres.
+
+Le stade explose. Thibaut regarde son genou, regarde le fil, regarde le garçon plié en deux qui tient son épaule morte — et rit, un vrai rire de montagne : « Enfin quelqu'un. » Il se relève, lève le bras de Seb lui-même, et sort de la craie en champion qu'il n'a jamais cessé d'être.
+
+(L'épaule gauche ne répond plus qu'à moitié. La finale est dans une heure.)
+
+Entre les deux, l'usage ouvre l'instruction d'étain — le grand huissier au centre de la craie, le constat levé, la lecture publique : contrebande, faux sceaux, un faussaire, une filière. Les bancs du Pavois d'étain se vident en silence au milieu de trente mille regards. La bombe de la veille explose à l'heure dite, et la moitié de la ville comprend que l'autre moitié va passer un sale hiver.
+
+La finale, contre Mahaut. La montagne calme du col des Sœurs a regardé les deux demi-finales sans ciller, et elle a compris : ne jamais laisser le tisserand poser sa toile. Premier échange : elle attaque immédiatement, sans lecture, sans respect — une avalanche méthodique sur son épaule morte, et il finit l'échange à un souffle du genou, sauvé par le bronze et par un pivot qui arrache un cri à l'épaule. Réduit, saignant, dominé.
+
+Deuxième échange. Elle revient finir. Et le monde bascule au-delà.
+
+Il n'a plus d'épaule gauche — alors il donne ce qui reste : la main droite lâche le fil sauvage en entier, deux cents mètres libérés d'un geste de semeur, un nuage de soie invisible qui retombe sur la craie entre eux comme une rosée. Mahaut charge à travers — il n'y a rien à travers, croit-elle — et chaque pas pose ses chevilles dans une toile que personne au monde n'aurait pu voir, tissée à l'aveugle, d'une seule main, par le seul homme de l'archipel dont les ouvrages tiennent au-dessus de leur matière.
+
+Il ferme le poing. La toile se ferme avec.
+
+La montagne calme s'agenouille au centre de la craie, liée des chevilles aux épaules, doucement, comme on pose un monument — et Hautefoire cesse d'exister en tant que ville silencieuse.
+
+⚑ LE GRAND PORTAGE EST AU FILEUR. E7 gagnée, points doublés.
+⚑ ⟨LE FIL⟩ 2/6 → 3/6 — LE FIL QUI TIENT · ⚑ ⟨SANS ÉCOLE⟩ 1/4 → 2/4
+
+LE CLASSEMENT FINAL DE LA MONTRE tombe au soir, crié des Cent Piliers : 1ᵉʳ Thibaut, pour les Meules · **2ᵉ SEB, POUR LE DERNIER COL** · 3ᵉ Mahaut, pour les Sœurs.
+
+La charte du Dernier Col est renouée — deuxième maison de l'archipel pour dix-huit mois, elle qui mourait d'un rang manquant. Armande reçoit le nœud de rang des mains du doyen de la Montre sans qu'un muscle de son visage bouge, et Basile pleure tranquillement sur sa canne, sans se cacher, comme un homme qui a le droit.
+
+Et les livres paient. Quarante pierres sur le podium à cinq contre un : deux cents pierres de gain, la mise rendue — le teneur-chef compte les colonnes lui-même, blême, devant témoins.
+
+Sur la barrière, debout dans ses deux manteaux, elle tambourine le code des deux mains — et trente mille personnes, qui l'attendaient depuis le printemps, font trembler Hautefoire à son rythme à elle.
+
+« Deuxième de l'archipel », dit-elle quand il la rejoint, en essuyant ostensiblement une poussière imaginaire de son épaule valide. « Bon. Maintenant, la maison. Et tu as déjà perdu — j'ai compté tes arguments pendant la finale : il t'en reste zéro. »
+
+*(Suivait l'ÉTAT — 20 665 L'OR, BRONZE 1/4, 262 pierres, l'instruction d'étain ouverte, L'ADDITION à six lignes — et le bloc : la brèche avant l'hiver [mort] · la conversation de la maison · la chambre de sel en réclusion.)*
+
+---
+
+## ANNEXE — l'ÉTAT-type de la version perdue *(pré-E7, sortie du col Muet — reconstruit du collage)*
+
+> Un exemple complet du format de fiche en régime de croisière : le chiffre et sa bande, le corps, les jets en tête de message, les arts en crans nommés, **sept portes vivantes** (positives ⚑ / négatives ⚠, toutes en `n/max`), la bête avec palier/esprit/dernière prise, **L'ADDITION** (le registre de dettes nommées : ① payé · ② Perrot · ③ payé · ④ le Fil Blanc · ⑤ la main de la sangle · ⑥ l'auteur de la liste des morts), les acquis narratifs en lignes ⚑ (« le Gué-aux-Saules : passage franc à vie », « la balance des Sœurs : presque soldé »), la caravane, et les horloges en table. Et en tête de message, sur gravure d'une règle : le rappel du commit (« Gravé — 51a13a7 : un acte de conscience ne se compose jamais à ta place »).
+
+> *Leçons des 54-55 : le prix d'un 26-50 est une phrase qui change la vie (« c'est votre adresse désormais ») ; un duel se raconte aux échanges, et l'adversaire a un langage (Thibaut), une lecture (Mahaut), un rire de montagne ; l'épaule blessée est une mémoire du monde (le Gué, l'ours, Thibaut — la même) ; le triomphe naturel est un CONCEPT neuf, pas un gros dégât (la toile semée d'une main) ; la victoire paie partout à la fois — classement, charte, pari, art, porte, et SA phrase à elle qui referme la scène.*
