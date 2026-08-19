@@ -30,5 +30,3 @@ bourrelier
 palefrenier
 corroyé
 estoc
-liasse
-liasses
