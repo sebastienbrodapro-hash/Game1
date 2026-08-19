@@ -10,7 +10,7 @@ Les Cent Vallées ne sont pas un accident de montagne : les crêtes sont **le ca
 
 ## 2 · La Cloche et le sang de Seb
 
-La Cloche ne s'est pas emballée : **elle a reconnu quelque chose dans ce sang-là**, et elle a tout dit d'un coup — une note sans fin, étouffée à trois hommes, jamais finie : personne ne saura jamais combien elle aurait tenu. Et le secret de Seb n'est pas étanche : il est **compté**. **Trois ont su lire cette nuit-là** — le cloître des Icônes (la note a porté jusqu'à eux par les crêtes, et leurs vieux savent compter ce qui ne finit pas), Armande (elle récite encore la vieille règle — *une cloche muette est une cloche qui a déjà sonné* — et elle a vu la paume bandée du garçon au matin du rite), et un troisième que personne n'a vu, qui était dans la rue cette nuit-là. Un fil de potentiel se tisse, se vend, ou **s'absorbe** — et le sien vaut ce que vaut son porteur.
+La Cloche ne s'est pas emballée : **elle a reconnu quelque chose dans ce sang-là**, et elle a tout dit d'un coup — une note sans fin, étouffée à trois hommes, jamais finie : personne ne saura jamais combien elle aurait tenu. Et le secret de Seb n'est pas étanche : il est **compté**. **Trois ont su lire cette nuit-là** — le cloître des Icônes (la note a porté jusqu'à eux par les crêtes, et leurs vieux savent compter ce qui ne finit pas), Armande (elle récite encore la vieille règle — *une cloche muette est une cloche qui a déjà sonné* — et elle a vu la paume bandée du garçon au matin du rite), et un troisième que personne n'a vu, qui était dans la rue cette nuit-là.
 
 ## 3 · Elle
 
