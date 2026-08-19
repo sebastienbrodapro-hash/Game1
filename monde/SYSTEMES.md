@@ -39,7 +39,7 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 **Deux mesures distinctes existent dans ce monde, et le bourg n'en connaît qu'une.**
 
 - **LA PUISSANCE** — les pierres de col et de parvis, une bande, à volonté, publiquement (`CENT-VALLEES` §0.8). Sur lui : **éteint**.
-- **LE POTENTIEL** — **LE GRAND CADRE**, une fois dans une vie, jamais deux (`CENT-VALLEES` §3.1). Il ne pèse pas ce qu'on est : il file **ce qu'on peut devenir**. La plupart de la cohorte : une vingtaine de centimètres de fil. Un apprenti prometteur : un demi-mètre. Un génie de secte : deux mètres. Le record des Cent Vallées, il y a cent soixante ans : **huit mètres**. Sur lui, **le fil court jusqu'à vider la bobine — personne ne sait combien il aurait filé**.
+- **LE POTENTIEL** — **LA CLOCHE DU RITE**, une fois dans une vie, jamais deux (`CENT-VALLEES` §3.1). Elle ne pèse pas ce qu'on est : elle **sonne ce qu'on peut devenir** — une goutte de sang, un coup, et la durée du son dit tout. La plupart : un bruit sourd, un souffle. Un génie de secte : quatre souffles. Le record, il y a cent soixante ans : dix. Sur lui, **elle a sonné seule, toute une nuit d'avance, une note qu'il a fallu étouffer — et au rite, un bruit mat : le monde croit avoir mesuré zéro.**
 
 **Ce que ça fait, mécaniquement :**
 
@@ -48,7 +48,7 @@ Ce n'est pas une jauge unique répartie — ce sont deux réservoirs distincts q
 | **rendement** | ce que la matière donne | **×10** |
 | **vitesse de raffinage** | une pierre la nuit | **dix la nuit** |
 
-**⛔ Le potentiel ne pèse pas un point dans le chiffre.** C'est de la **puissance invisible** au sens du §0 : aucune pierre, aucune toise, aucun estimateur ne le lit — seul le Grand Cadre l'a vu, une fois, et il ne refile jamais le même sang. Le monde ne peut donc mesurer que son retard.
+**⛔ Le potentiel ne pèse pas un point dans le chiffre.** C'est de la **puissance invisible** au sens du §0 : aucune pierre, aucune toise, aucun estimateur ne le lit — seule la Cloche l'a sonné, une fois, dans le noir — et une cloche ne sonne jamais deux fois pour le même sang. Le monde ne peut donc mesurer que son retard.
 
 ---
 

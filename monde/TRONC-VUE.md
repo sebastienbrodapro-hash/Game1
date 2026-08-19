@@ -18,19 +18,19 @@
 
 ## 1 · Le dessous du monde
 
-Les Cent Vallées ne sont pas un accident de montagne : les crêtes sont **le cadre d'un ouvrage**, et les vallées les espaces entre les fils de chaîne. Celle qui a ourdi ça s'appelait ⟦SCELLE-1⟧. Le Grand Cadre, la Grande Aiguille, la Cloche Fêlée sont **ses outils, laissés derrière** — le monde les prend pour des reliques indépendantes, personne n'a fait le lien. La soie du Roi-Cocon est de la même lignée que son fil d'œuvre.
+Les Cent Vallées ne sont pas un accident de montagne : les crêtes sont **le cadre d'un ouvrage**, et les vallées les espaces entre les fils de chaîne. Celle qui a ourdi ça s'appelait ⟦SCELLE-1⟧. Le Grand Cadre, la Grande Aiguille, la Cloche Fêlée, la Cloche du Rite sont **ses outils, laissés derrière** — le monde les prend pour des reliques indépendantes, personne n'a fait le lien. La soie du Roi-Cocon est de la même lignée que son fil d'œuvre.
 
-## 2 · Le Cadre et le fil de Seb
+## 2 · La Cloche et le sang de Seb
 
-Le Cadre ne s'est pas vidé : **il s'est arrêté** — il a cessé de filer parce qu'il a reconnu quelque chose dans ce sang-là, et ses bobines ne se vident pas. Le fil tiré la nuit du drap — une douzaine de mètres de fil de potentiel pur — dort *officiellement* au coffre de la Toise, sous serment de silence. Le coffre n'a pas tenu : **trois mains en tiennent déjà des longueurs** — Armande (deux mètres, dans le coffre aux chartes), le cloître (un demi-mètre, monté aux Icônes sans un mot), et une troisième que personne n'a vue — et le maître de la Toise jure son coffre intact, parce qu'avouer le manque serait avouer la nuit. Un fil de potentiel se tisse, se vend, ou **s'absorbe** — et le sien vaut ce que vaut son porteur.
+La Cloche ne s'est pas emballée : **elle a reconnu quelque chose dans ce sang-là**, et elle a tout dit d'un coup — une note sans fin, étouffée à trois hommes, jamais finie : personne ne saura jamais combien elle aurait tenu. Et le secret de Seb n'est pas étanche : il est **compté**. **Trois ont su lire cette nuit-là** — le cloître des Icônes (la note a porté jusqu'à eux par les crêtes, et leurs vieux savent compter ce qui ne finit pas), Armande (elle récite encore la vieille règle — *une cloche muette est une cloche qui a déjà sonné* — et elle a vu la paume bandée du garçon au matin du rite), et un troisième que personne n'a vu, qui était dans la rue cette nuit-là. Un fil de potentiel se tisse, se vend, ou **s'absorbe** — et le sien vaut ce que vaut son porteur.
 
 ## 3 · Elle
 
-Le rite n'est pas allé chercher un lapin dans les murets : le fil était sans fin, l'appel est allé **au-delà du seuil**. Elle est du lignage de ⟦SCELLE-2⟧ — la bête qui se donne, celle du mythe du mortier (`FONDATION` §3.4). C'est pour ça qu'elle pile, c'est pour ça que la nourriture divine résonnera aux strates hautes — **et rien de tout ça ne s'active avant les verrous** (§6.3 : 7 en strate II, 8-9 en strate III+). En strate I, c'est un lapereau, point.
+Le rite n'est pas allé chercher un lapin dans les murets : ce sang-là avait fait sonner la cloche sans fin, et l'appel est allé **au-delà du seuil**. Elle est du lignage de ⟦SCELLE-2⟧ — la bête qui se donne, celle du mythe du mortier (`FONDATION` §3.4). C'est pour ça qu'elle pile, c'est pour ça que la nourriture divine résonnera aux strates hautes — **et rien de tout ça ne s'active avant les verrous** (§6.3 : 7 en strate II, 8-9 en strate III+). En strate I, c'est un lapereau, point.
 
 ## 4 · Le col des Aiguilles
 
-Le col n'a pas été fermé par le Chien : **il a été fermé PAR la maison, et le Chien posé dessus**. Il y a dix-neuf ans, les mineurs du versant nord ont percé une galerie dans quelque chose de tissé — une poche de l'ouvrage (§1) — et ce qui suintait rendait les bêtes folles. Le père d'Armande a acheté le silence, rompu son propre rang à la Montre pour que plus personne ne monte, et posé le Chien (la bête liée de la maison, 6 500) en garde. **Armande sait.** Elle n'a rien misé sur le garçon — mais c'est elle qui tient **les deux mètres de son fil** (§2), et pas pour la vendre : pour avoir barre le jour où il vaudra quelque chose. Parce qu'une charte rompue rendrait la galerie à qui la trouve, et qu'il lui faudra ce jour-là **une main assez forte pour tenir le col rouvert** — la sienne ne l'est plus.
+Le col n'a pas été fermé par le Chien : **il a été fermé PAR la maison, et le Chien posé dessus**. Il y a dix-neuf ans, les mineurs du versant nord ont percé une galerie dans quelque chose de tissé — une poche de l'ouvrage (§1) — et ce qui suintait rendait les bêtes folles. Le père d'Armande a acheté le silence, rompu son propre rang à la Montre pour que plus personne ne monte, et posé le Chien (la bête liée de la maison, 6 500) en garde. **Armande sait.** Elle n'a rien misé sur le garçon — mais c'est elle qui tient **sa nuit** (§2), et pas pour la dire : pour avoir barre le jour où il vaudra quelque chose. Parce qu'une charte rompue rendrait la galerie à qui la trouve, et qu'il lui faudra ce jour-là **une main assez forte pour tenir le col rouvert** — la sienne ne l'est plus.
 
 ## 5 · La Muette
 
@@ -48,7 +48,7 @@ Le Pavois d'Étain **achète la Grand-Traverse** — lentement, légalement : bo
 
 | Mèche | S'allume quand | Mène à |
 |---|---|---|
-| le fil ramassé | il apprend qu'une longueur de son fil circule | §2 — trois mains, trois routes |
+| la nuit de la cloche | il apprend que quelqu'un a su lire cette nuit-là | §2 — trois lecteurs, trois routes |
 | la sente des Aiguilles | il passe le col fermé (§6.8) ou gagne la confiance d'Armande | §4 — la galerie |
 | l'encan | il touche aux chartes à Hautefoire (§6.17) | §7 — le coup du Pavois |
 | la Nuit Muette | il y va, ou cherche un disparu | §5 |

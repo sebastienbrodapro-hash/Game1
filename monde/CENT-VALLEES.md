@@ -5,6 +5,7 @@
 > **Le monde neuf, ouvert le 2026-08-18** après l'archivage du civet. Construit sur les directives de `FONDATION` §3.6 et §6 : **vaste d'entrée** — *« 1 ville 1 village c'est pas un monde »* —, le voyage comme contenu, ~200 scènes dans la strate.
 > **CONSTRUCTION COMPLÈTE — passes 1 à 4 faites, audit passé, feuille validée** *(2026-08-18)*. Passe 4, sur audit et décision du joueur : **le premier acte redessiné** — personne ne mise (§3.4), l'échine est la faim et le fil (§3.5) —, **elle dans le monde** (§2.2bis), **les vallées en détail** (§2.1bis). ⚑ **Prêt pour la scène 1.**
 > **Passe 5 — 2026-08-19, tranché par le joueur : LE FIL EST SON DOMAINE, PAS CELUI DU MONDE.** Une première tentative de campagne (~60 scènes, jamais sauvegardées) a montré que tout tournait autour des fils et des nœuds. Le motif se concentre désormais sur **Seb** — sa vallée d'origine, son art ⟨LE FIL⟩, son fil de potentiel — et les institutions du monde le quittent : titres par **tailles** (§0.4), bandes en **brassards de cuir** (§0.7), la secte du Fil Blanc devenue **le Gant Blanc**. ⚑ **Feuille §4 revalidée par le joueur le 2026-08-19 — prêt pour la scène 1.**
+> **Passe 7 — 2026-08-19, le joueur recadre passe 6 : « le fil, c'est que moi — pas les épreuves ou le monde. »** Le rite quitte le fil : la mesure devient **la Cloche du Rite** (la durée du son), l'invocation devient **le sang au brasero**, le Grand Cadre devient une relique muette. Le sommet reste anonyme (la cloche qui sonne seule dans la nuit), la chute publique.
 > **Passe 6 — 2026-08-19, décision joueur : LE DÉBUT REFAIT** (« tout ce début, à part le fil comme Walter, tu peux tout refaire »). Le §3 est réécrit : **le sommet devient secret** — la nuit du drap, trois témoins, le fil au coffre sous serment — et la chute reste publique (le Cadre qui grince, le lapereau, « le Fileur » par dérision). Le tronc est réaligné.
 
 ---
@@ -135,7 +136,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 - **la halle aux soies** — les ventes de la saison, les courtiers de Hautefoire qui descendent acheter à moitié prix.
 - **l'atelier Berthe** — le plus vieux des ateliers encore debout ; c'est là que Seb tisse depuis ses quinze ans. **Berthe**, 70 ans, maîtresse-tisseuse, chanvre, des mains qui valent plus que son chiffre — *c'est d'elle qu'il tient le geste* (§12, ⟨LE FIL⟩).
 - **le pont des Teinturiers** — les cuves, les couleurs, les rumeurs.
-- **la maison de la Toise** — là où la cohorte se présente au rite, chaque printemps. **Le Grand Cadre** y est remisé sous un drap le reste de l'année (§3).
+- **la maison de la Toise** — là où la cohorte se présente au rite, chaque printemps : **la Cloche du Rite** y pend (§3.1). Et dans la remise, sous un drap, dort **le Grand Cadre** — un métier à tisser d'avant la mesure, auquel plus personne ne touche et dont plus personne ne sait l'usage. *(Ce qu'il est : le tronc.)*
 - **le col du Portefaix** (est, vers la Grande Coupe) — le col vivant, péage et pierre de passage.
 - **le col des Aiguilles** (nord) — **fermé depuis dix-neuf ans**. La maison qui le tient s'appelle encore la maison du Dernier Col (§3.4).
 
@@ -168,35 +169,37 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 ---
 
-## 3 · LE DÉBUT — LA NUIT DU DRAP, PUIS LE JOUR DU RITE *(redessiné le 2026-08-19 — décision joueur : « tout ce début, à part le fil comme Walter, tu peux tout refaire. » Le sommet devient SECRET ; la chute reste publique.)*
+## 3 · LE DÉBUT — LA NUIT DE LA CLOCHE, PUIS LE JOUR DU RITE *(passe 7, 2026-08-19 — le joueur : « le fil, c'est que moi — pas les épreuves ou le monde. » Le rite quitte entièrement le fil : la mesure est une CLOCHE, l'invocation est du SANG. Le Grand Cadre devient une relique muette — §2.2, et le tronc.)*
 
-### 3.1 · La nuit du drap — le sommet, à trois témoins
+### 3.1 · La Cloche du Rite — le contrôle de potentiel
 
-Une fois l'an, la veille du rite, la maison de la Toise retisse le drap du Grand Cadre — et convoque la meilleure main du bourg. C'est Berthe, depuis trente ans. Cette année, ses mains la trahissent : elle amène son garçon.
+**Une cloche de bronze d'avant la mesure**, pendue à la maison de la Toise, qu'on ne sonne qu'au rite. Chaque dix-huit ans de la cohorte pose **une goutte de sang** sur le bronze, et le maître frappe **un seul coup** : la durée du son dit ce qu'on peut devenir.
 
-**Le dispositif** : Seb travaille au drap, de nuit, seul avec Berthe et le maître de la Toise. Une piqûre au vieux peigne — un accident, une goutte de sang hors protocole — et **le Cadre se met à filer dans le noir**, sans main, jusqu'à vider sa bobine. Personne n'a jamais vu la bobine vide. Personne ne saura jamais combien il aurait filé.
+- La plupart : un bruit sourd, ou **un souffle** de son. Un apprenti prometteur : deux. Un génie de secte : **quatre souffles** — on descend alors de la Grande Coupe pour venir l'entendre.
+- Le record des Cent Vallées, il y a cent soixante ans : **dix souffles**. La maison qui l'a produit en vit encore.
+- **Une fois dans une vie** : *une cloche ne sonne jamais deux fois pour le même sang* — vieille règle, que seuls le cloître et quelques anciens récitent encore.
 
-**Le serment** : le maître de la Toise, terrifié pour sa maison — un Cadre qui file hors rite est un scandale à ruiner la Toise —, enferme le fil au coffre « en attendant les anciens » et fait jurer le silence. **Trois personnes savent. Le monde, non.**
+### 3.2 · La nuit du présage — le sommet, anonyme
 
-### 3.2 · Le jour du rite — la chute, devant tous
+La veille du rite, la cloche est descendue de sa poutre et **avivée à la lime**, comme chaque printemps. Seb — corvée de coursier — aide à la porter sur son ber : le bronze fraîchement avivé lui mord la paume, une goutte, essuyée, oubliée.
 
-Le lendemain, la cohorte des dix-huit ans passe au Cadre, un par un — vingt centimètres, cinquante, le demi-mètre du fils du syndic. **Sur Seb, le Cadre grince et se tait** : la bobine est vide, et seuls trois présents savent pourquoi. Lecture publique : *rien à filer* — le sort des familles les plus pauvres, tombé sur l'orphelin de l'atelier.
+Trois rues plus loin, dans son dos, **la cloche sonne. Seule.** Une note qui ne finit pas — qui tient, tient, réveille le bourg maison par maison, et qu'il faut trois hommes et une couverture pour étouffer. Tout Fuseau l'a entendue. **Personne ne sait.** Le bourg se couche avec un présage ; le garçon rentre avec une paume bandée et un soupçon qui ne le laissera plus dormir.
 
-**L'invocation** : chacun noue en anneau une longueur de son fil tiré, et la brûle au brasero. L'usage des refusés : brûler **un fil de sa propre main**. Seb file le sien devant la salle — le geste vrai d'un tisserand — et ce qui répond à ce fil-là est **un lapereau** blanc argenté, trente centimètres, une proie. *(Pourquoi l'appel est allé si loin : le tronc.)*
+**Au rite du lendemain, sur lui : un bruit mat. Rien.** La cloche a déjà tout dit — elle ne sonne jamais deux fois pour le même sang — mais le monde ne sait pas lire ça : **il croit avoir mesuré zéro.** Le sommet a eu lieu devant tout le monde, et il n'appartient qu'à lui.
 
-**La pesée** : la paire rend **3** — cendre, le brassard de cuir gris non teint, celui qu'on ne teint pas parce que ça n'en vaut pas la teinture.
+### 3.3 · L'invocation et la partition — écrites d'avance
 
-### 3.3 · La partition de la salle — écrite d'avance
+**L'invocation** : trois gouttes de sang au brasero, et ce qui doit répondre répond. Une buse, un chien de crête pour le fils du syndic, une couleuvre, un blaireau. Sur Seb : **un lapereau** blanc argenté, trente centimètres, une proie. *(Pourquoi l'appel est allé si loin : le tronc.)*
 
-1. Le grincement : le silence gêné qu'on réserve aux pauvres. Pas de drame — un embarras.
+1. La cloche muette : le silence gêné qu'on réserve aux pauvres — pire que peu, rien.
 2. Le lapereau : le silence, puis **quelqu'un rit** — un seul, et ça suffit. *(Elle a vu qui. Ses oreilles connaissent le rang.)*
-3. La lecture publique : le garçon de l'atelier, refusé par le Cadre, attelé à une proie. **Le surnom colle avant le soir : « le Fileur »** — par dérision pure : *celui qui file pour les autres, et que le fil refuse.* *(Le titre de campagne — il se retournera le jour où la vérité sortira, `FONDATION` §5.2.)*
-4. **Personne ne mise, personne ne console.** On ne crache pas sur un pauvre gosse : on l'oublie avant le dîner. Il ne doit rien à personne — sauf un repas chez Berthe.
+3. **La pesée** : la paire rend **3** — cendre, le brassard de cuir gris non teint, celui qu'on ne teint pas parce que ça n'en vaut pas la teinture.
+4. **Le surnom colle avant le soir : « le Fileur »** — le mépris de classe à l'état pur : *celui qui n'a que son métier pour nom.* *(Le titre de campagne — il se retournera, `FONDATION` §5.2.)*
+5. **Personne ne mise, personne ne console.** On l'oublie avant le dîner. Il ne doit rien à personne — sauf un repas chez Berthe.
 
 ### 3.4 · Le secret — la vraie échine du début
 
-- **Trois personnes savent** : Seb · Berthe (le serment lui pèse) · le maître de la Toise (le serment le protège). Le fil dort au coffre — *officiellement*.
-- **La vérité est une bombe dont SEB tient la mèche** : la révéler, la prouver, la monnayer, la taire — à lui de choisir l'heure. *(Ce que devient le fil au coffre : le tronc. Comment ça s'allume : les mèches.)*
+- **Lui seul sait ce qu'était la nuit.** Le bourg vit avec un présage sans propriétaire ; le propriétaire vit avec un surnom de mépris. **La vérité est une bombe dont SEB tient la mèche** — la prouver, la monnayer, la taire : à lui de choisir l'heure. *(Qui d'autre a su lire cette nuit-là : le tronc. Comment ça s'allume : les mèches.)*
 - **Sa deuxième traction** : elle doit manger au-dessus de sa dernière prise (`FONDATION` §3.3) — l'échelle des proies (§7, de 800 à 45 000) est sa carte de voyage : chaque cran est dans une autre vallée.
 
 ### 3.5 · Autour — le monde et ses horloges
@@ -381,7 +384,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 14. **la veillée des Icônes** — porter un mort au feu et redire sa vie **sans une faute** : la famille doit ensuite une réponse (⚑ atout).
 15. **le duel de seuil** — l'usage qui règle les affronts entre maisons : champ de craie, témoins, premier genou.
 16. **l'adoubement de sente** — le rite des contrebandiers : qui le passe a les sentes hautes ouvertes, et le pouce marqué à vie.
-17. **la nuit du Cadre** *(File, une fois l'an)* — la maison de la Toise retisse le drap du Grand Cadre ; y être invité se remarque.
+17. **la nuit de la Toise** *(File, une fois l'an)* — la maison descend, avive et réaccorde la Cloche du Rite ; y être invité se remarque.
 18. **l'appel du dégel** *(Portefaix)* — le premier convoi de l'an est béni au parvis ; y être nommé compte (§6.22).
 
 ---
@@ -411,7 +414,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 19. une maison de col peut exiger la pesée d'un voyageur « au faciès » — l'humiliation ordinaire
 20. le dégel : le premier convoi est pesé homme par homme, en bénédiction
 21. la crypte : l'Abbé Couché *pèse autrement* — ce qu'il lit, personne ne le sait
-22. **le Grand Cadre** — une fois dans une vie, et jamais deux (§3.1)
+22. **la Cloche du Rite** — une fois dans une vie, et jamais deux (§3.1)
 
 ---
 
