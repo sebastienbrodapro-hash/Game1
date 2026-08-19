@@ -555,7 +555,7 @@ Classement après E2 : 3ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ — et l'écart 
 
 ---
 
-*Lacunes de l'archive : seule la scène 40 (E1 — la Roue courue) n'a pas survécu. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive est close à dix-huit actes.*
+*L'archive est **continue de 37 à 55** — plus le rite (1) et le Gué (10-11) en prologue. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive est close à vingt-et-un actes.*
 
 ---
 
@@ -630,3 +630,41 @@ Au tableau du barème, le peintre a fini son ouvrage. La Roue, demain, à l'aube
 *(Le bloc : « Quarante. » [avantage, petit] · « Cinquante-cinq. » [neutre] · « Soixante-dix. » [désavantage, petit] · « Quatre-vingt-cinq. » — le palier de Thibaut, dès la première aube, au culot pur [désavantage, moyen].)*
 
 > *Leçons du 39 : une dette d'honneur se paie en scène publique, et le paiement est PIRE que la dette (l'applaudissement forcé noyé dans l'ovation) ; le règlement d'une vieille comptabilité tient en un geste (le nœud gris décroché, glissé dans la poche) ; le détail logistique fait personnage (la mule à vingt mètres réglementaires) ; la pesée publique est une scène de pouvoir (le greffier qui vérifie deux fois, Thibaut qui évalue) ; et une déclaration de charge est le meilleur bloc possible : quatre nombres, quatre culots.*
+
+---
+
+## 40 · LE ROYAL, SUR UNE SANGLE MORTE *(version perdue — verbatim ; jet E1 au royal : 01-05, ⚠ catastrophe naturelle — la dernière pièce de l'archive)*
+
+À l'aube, devant les juges, les déclarations tombent une à une. L'étalon, l'étalon, le fort, l'étalon... « Quatre-vingt-cinq », dit Thibaut, comme on dit bonjour. « Quatre-vingt-cinq », dit Mahaut, la montagne calme du col des Sœurs. Puis le porteur de la maison morte s'avance, et le col entier se penche :
+
+« Quatre-vingt-cinq. »
+
+Le greffier fait répéter. Les livres de paris, dans le fond, entrent en éruption silencieuse.
+
+Le départ est propre. Le kilomètre deux ne l'est pas.
+
+Un claquement sec sous l'omoplate gauche — et la sangle maîtresse du harnais de Basile, onze Montres sans une faiblesse, lâche net. Quatre-vingt-cinq kilos pivotent d'un bloc sur l'épaule droite, le monde bascule, il tient — plié en équerre, la charge en travers, un harnais mort accroché au torse comme un gréement de naufrage.
+
+Le règlement est simple : on finit avec ce qu'on porte, ou on pose et c'est zéro.
+
+Il ne pose pas.
+
+Les quatre kilomètres suivants n'appartiennent pas au récit de course — ils appartiennent à la voie de l'épreuve. Le faux plat qui ment. Le couloir où le vent prend de flanc. La charge qui scie l'épaule vivante à chaque foulée, volontaire, sans reculer, réellement en train de casser — et au trente-septième virage, la chair, à force d'apprendre, finit son année :
+
+⚑ CORPS 4/4 — LE GRÈS TOMBE, dans la scène même. Le grain de pierre court des talons au crâne et se referme. Les coups ordinaires n'entament plus. La charge, soudain, pèse sur du roc — et le roc monte. chiffre 10 555 → 10 565.
+
+Il passe la crête debout, dernier des trois royaux, loin derrière la cloche de Thibaut — mais il la passe, et le barème est aveugle au style : le royal fini paie quadruple. Cinquième de l'étape sur trente-et-un, sur une épaule et une sangle morte.
+
+En bas, elle l'attrape avant qu'il plie — les mains neuves plus sûres que sa propre ossature — et son inquiétude sort en colère, comme toujours chez elle :
+
+« La prochaine fois, tu craques. Je préfère que tu gagnes moins et que tu craques pas — on en reparlera, et tu perdras. »
+
+Puis vient la lecture. Devant l'huissier de course, publiquement, il retourne le harnais de Basile et pose le doigt sur la rupture : « Coupée. À la lame, aux trois quarts, cette nuit — le cuir a travaillé propre jusqu'à ce que la charge fasse le reste. » Sa lecture fait foi : l'huissier constate, l'inscrit au registre de course — sabotage, auteur inconnu — et trente caravanes apprennent avant midi que la Montre a commencé sa guerre de l'ombre sur le porteur de la maison morte.
+
+⚠ ⟨LA COTE DU FILEUR⟩ 1/3 → 2/3 — porte aggravée, due au naturel. Il est devenu la ligne principale des livres de l'archipel : à chaque étape, à chaque déclaration, de l'argent se masse contre lui. Et l'argent a des mains — la sangle n'était que la première.
+
+Perrine confisque le harnais, blanche de rage — le harnais de son grand-père, ouvert à la lame — et s'institue garde du matériel : « Plus rien ne dort hors de ma vue jusqu'à Hautefoire. » Et Thibaut, en passant près du feu du Dernier Col, s'arrête une seconde, regarde Seb de haut en bas :
+
+« Fini au royal sur une sangle morte. T'es soit très bête, soit très autre chose. » Il repart. « Les deux m'intéressent. »
+
+> *Leçons du 40 : la catastrophe frappe l'ÉQUIPEMENT et devient la meilleure scène de l'arc (la sangle coupée transforme une course en voie de l'épreuve — et le grade tombe au trente-septième virage, dans la scène même) ; le barème est aveugle au style, et c'est ce qui rend le style légendaire ; la porte aggravée au naturel s'incarne (⟨LA COTE⟩ : l'argent se masse, et l'argent a des mains) ; l'allié blessé dans son honneur se donne un rôle (Perrine, garde du matériel) ; et l'adversaire d'exception se paie une réplique (« les deux m'intéressent »).*
