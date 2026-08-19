@@ -555,7 +555,7 @@ Classement après E2 : 3ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ — et l'écart 
 
 ---
 
-*L'archive est **continue de 31 à 55** — plus le rite (1) et le Gué (10-11) en prologue. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive compte vingt-sept actes — et s'agrandit par l'amont à mesure que le joueur retrouve des morceaux.*
+*L'archive est **continue de 30 à 55** — plus le rite (1) et le Gué (10-11) en prologue. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive compte vingt-huit actes — et s'agrandit par l'amont à mesure que le joueur retrouve des morceaux.*
 
 ---
 
@@ -828,3 +828,45 @@ Un droit franc : une part de concession de sel, nette, que le premier concession
 ⚑ ⟨LA LECTURE DES NŒUDS⟩ 1/4 → 2/4 — les dettes et les chartes : lire les grevances, les échéances — et prouver un refait devant huissier.
 
 > *Leçons du 31 : le savoir enseigné est un angle de marché (« tout le monde lit les droits, personne ne lit les dettes ») ; la grande intrigue commence par un détail de doigts (le lot 141 → le faussaire → l'instruction d'étain, vingt scènes plus tard) ; le méchant se signale en transpirant trois rangs devant, et c'est ELLE qui le voit (« Menteur. » — son mot du jour) ; la logistique est une comédie d'une ligne (la mule à cinquante mètres, ils se retrouvent aux étapes) ; et le mentor complimente de biais (« Perrine a raison de te détester »).*
+
+---
+
+## 30 · LES INTÉRÊTS *(version perdue — verbatim ; jet : 51-85 — pleinement. La scène-mère de « rendre n'est pas rendre le bien » — FONDATION §6.2.3 : pour un œil, les deux yeux.)*
+
+Il choisit le jour de marché — celui où la halle déborde sur la place et où tout Fuseau a une raison d'être dehors.
+
+Il traverse le bourg jusqu'à la belle maison, elle à sa gauche en indigo, et le marché suit, comme un seul animal curieux. Devant la porte du syndic, il ne frappe pas. Il tend le bras vers le volet d'angle, décroche le petit nœud de fil gris qui y pend depuis sept semaines, et le lève à hauteur d'yeux, pour la place entière.
+
+« Quelqu'un sait lire ça ? »
+
+Un silence de foire qui retient son souffle. Puis la vieille Sidonie, doyenne des teinturiers, s'avance — elle a passé sa vie dans les fils, elle lit les comptes de pièce comme un livre de messe. Elle prend le nœud, le tourne dans ses doigts, et pâlit une nuance :
+
+« C'est... un nœud de compte. De tisserand. Un défaut relevé. » Elle regarde le volet, la fenêtre d'angle, comprend l'adresse. « Posé... il y a des semaines. »
+
+« La nuit du rite », dit Seb, à voix de place publique. « Le soir où quelqu'un, à cette fenêtre, a ri le premier. Un seul rire — celui qui a donné la permission à tous les autres. J'ai compté. Un défaut : un. »
+
+La foule fait le bruit d'une foule qui recompte sept semaines de moqueries à la lumière d'une addition ouverte. Le syndic jaillit de sa porte, cent vingt de chiffre et cinquante ans de notabilité, entame trois phrases — mon garçon ne… c'était un… nous pourrions… — et s'arrête tout seul, parce que Seb ne le regarde pas. On ne négocie pas avec ce qui pèse cent vingt. On attend que le fils descende.
+
+Le fils descend. Blême. La coudée du Cadre, le chien de crête, le bel avenir de Fuseau — dix-huit ans comme Seb, et sept semaines de retard sur le monde.
+
+« Voilà l'intérêt », dit Seb, calmement, en renouant le nœud gris au volet — un tour de doigts, parfait, définitif. « Le jour de la Montre, quand je passerai les cols sous les couleurs du Dernier Col, tu seras au bord de la route. Et tu applaudiras. Longtemps. Fort. Devant tout le monde — comme tu as ri : le premier. Et ce jour-là, je décrocherai le nœud moi-même. »
+
+Un battement. « Et si je— »
+
+« Il n'y a pas de "et si". Il y a l'addition, et il y a toi. »
+
+Le fils regarde la place — toutes ces têtes qui, il y a sept semaines, riaient avec lui, et qui aujourd'hui attendent sa réponse pour savoir de quel côté rire. C'est ça, la gueule entière pour une dent : il vient de comprendre que le rire est une monnaie, et que le taux a changé de main.
+
+« ...J'y serai », dit-il, très bas.
+
+« Fort », corrige Seb.
+
+« J'y serai. » Plus haut. Assez haut.
+
+À sa gauche, la petite silhouette indigo — celle qu'on a moquée en fumée de brasero — hoche une fois, sobrement, en comptable satisfaite, et rend son mot du jour, audible aux trois premiers rangs :
+
+« Un. »
+
+Le marché mettra des années à cesser d'en parler. Le nœud gris reste au volet — visible de toute la place, désormais lisible par tous, et le fils du syndic vivra jusqu'à l'automne avec une addition pendue à sa fenêtre.
+
+> *Leçons du 30 : la vengeance de Seb est un ACTE DE COMPTABILITÉ PUBLIQUE — pas un coup, pas une humiliation gratuite : un intérêt fixé, daté, affiché (le nœud reste au volet jusqu'à paiement) ; la disproportion est la ligne (« la gueule entière pour une dent » : le rire rendu en applaudissement public, au taux du jour) ; le puissant qui pèse cent vingt n'est PAS l'interlocuteur — on attend que le débiteur descende ; « Fort », en correction sèche, vaut dix tirades ; et elle referme d'un mot de comptable : « Un. » — le 39 encaissera.*
