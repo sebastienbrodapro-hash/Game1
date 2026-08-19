@@ -5,7 +5,7 @@
 > **Le monde neuf, ouvert le 2026-08-18** après l'archivage du civet. Construit sur les directives de `FONDATION` §3.6 et §6 : **vaste d'entrée** — *« 1 ville 1 village c'est pas un monde »* —, le voyage comme contenu, ~200 scènes dans la strate.
 > **CONSTRUCTION COMPLÈTE — passes 1 à 4 faites, audit passé, feuille validée** *(2026-08-18)*. Passe 4, sur audit et décision du joueur : **le premier acte redessiné** — personne ne mise (§3.4), l'échine est la faim et le fil (§3.5) —, **elle dans le monde** (§2.2bis), **les vallées en détail** (§2.1bis). ⚑ **Prêt pour la scène 1.**
 > **Passe 5 — 2026-08-19, tranché par le joueur : LE FIL EST SON DOMAINE, PAS CELUI DU MONDE.** Une première tentative de campagne (~60 scènes, jamais sauvegardées) a montré que tout tournait autour des fils et des nœuds. Le motif se concentre désormais sur **Seb** — sa vallée d'origine, son art ⟨LE FIL⟩, son fil de potentiel — et les institutions du monde le quittent : titres par **tailles** (§0.4), bandes en **brassards de cuir** (§0.7), la secte du Fil Blanc devenue **le Gant Blanc**. ⚑ **Feuille §4 revalidée par le joueur le 2026-08-19 — prêt pour la scène 1.**
-> **Passe 8 — 2026-08-19, décision joueur : L'INTRIGUE DU DÉBUT REFAITE À NEUF** (« les 100 scènes, tout doit être nouveau — j'aime bien les dettes à reprendre — sur les psychés, je veux retrouver la même chose »). **Le squelette devient L'HÉRITAGE : la liasse des quinze tailles d'Honoré (§17, §3.4)**, remise par frère Colin au lendemain du rite. Le Dernier Col et la Montre sont démis de l'arc personnel (institutions d'arrière-plan) ; le contenu brûlé par la version perdue est remplacé (Chien→Cerf de Suie, Fondeur→Dame des Lavoirs, Hivernant→Reine de l'Adret, Champ de Foudre→Orgues de Glace, Gué→Débâcle) ; **les psychés (`FONDATION` §6) sont invariantes**. Le tronc est réécrit en conséquence.
+> **Passe 8 — 2026-08-19, décision joueur : L'INTRIGUE DU DÉBUT REFAITE À NEUF** (« les 100 scènes, tout doit être nouveau — j'aime bien les dettes à reprendre — sur les psychés, je veux retrouver la même chose »). **Le squelette devient L'HÉRITAGE : la liasse des quinze tailles d'Honoré (§17, §3.4)**, remise par frère Colin au soir du rite. **La Montre des Cols est retirée du monde et remplacée par LE GRAND BAN, la saison des primes (§8.1)** ; le Dernier Col (Armande, Basile, Perrine) est retiré, décisions joueur. Le Dernier Col et la Montre sont démis de l'arc personnel (institutions d'arrière-plan) ; le contenu brûlé par la version perdue est remplacé (Chien→Cerf de Suie, Fondeur→Dame des Lavoirs, Hivernant→Reine de l'Adret, Champ de Foudre→Orgues de Glace, Gué→Débâcle) ; **les psychés (`FONDATION` §6) sont invariantes**. Le tronc est réécrit en conséquence.
 > **Passe 7 — 2026-08-19, le joueur recadre passe 6 : « le fil, c'est que moi — pas les épreuves ou le monde. »** Le rite quitte le fil : la mesure devient **la Cloche du Rite** (la durée du son), l'invocation devient **le sang au brasero**, le Grand Cadre devient une relique muette. Le sommet reste anonyme (la cloche qui sonne seule dans la nuit), la chute publique.
 > **Passe 6 — 2026-08-19, décision joueur : LE DÉBUT REFAIT** (« tout ce début, à part le fil comme Walter, tu peux tout refaire »). Le §3 est réécrit : **le sommet devient secret** — la nuit du drap, trois témoins, le fil au coffre sous serment — et la chute reste publique (le Cadre qui grince, le lapereau, « le Fileur » par dérision). Le tronc est réaligné.
 
@@ -111,11 +111,11 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 ### 2.1bis · Les vallées en détail *(passe 4 — « vaste » se livre en monde, pas en table)*
 
-**LA GRANDE COUPE — Hautefoire, ~8 000 feux.** La ville. **Lieux** : la halle aux Cent Piliers (les grandes enchères), l'arène de la Coupe et son Mur des Prises, le quartier des courtiers, la douane qui pèse tout, les maisons du Gant Blanc et du Pavois d'Étain qui se font face sur la place haute. **Qui pèse** : les deux sectes, l'huissier des tailles, Aymon et sa confrérie, la maîtresse d'armes. **Accroches** : le Tirage des Chartes (§6.17), l'examen du Gant Blanc (§8.8), le Grand Portage (E7) — et tout ce qui se vend finit ici.
+**LA GRANDE COUPE — Hautefoire, ~8 000 feux.** La ville. **Lieux** : la halle aux Cent Piliers (les grandes enchères), l'arène de la Coupe et son Mur des Prises, le quartier des courtiers, la douane qui pèse tout, les maisons du Gant Blanc et du Pavois d'Étain qui se font face sur la place haute. **Qui pèse** : les deux sectes, l'huissier des tailles, Aymon et sa confrérie, la maîtresse d'armes. **Accroches** : le Tirage des Chartes (§6.17), l'examen du Gant Blanc (§8.8), le Tableau du Grand Ban crié aux Cent Piliers (§8.1) — et tout ce qui se vend finit ici.
 
 **LE LONG PRÉ — le bourg des Haras, ~600 feux, et vingt hameaux d'élevage.** L'herbe, les bêtes de trait d'esprit, les foires. **Lieux** : les haras des lignées, le Gué des Bêtes, les silos, le champ de foire d'automne. **Qui pèse** : trois lignées de dresseurs qui se marient entre elles depuis toujours et se détestent pareil. **Accroches** : le Taureau (§7.3), la Mère des Rats (§7.14), le Silo Noir (§6.15), la tonte (§8.13) — et le fouet de trait qu'aucun argent n'achète (§5.1.30).
 
-**LA VALLÉE DES FOURS — les Terrasses, ~700 feux étagés dans la fumée.** L'air pique, les pluies sont noires, tout le monde tousse et tout le monde est riche. **Lieux** : les fours-mères en terrasses, le filon de fil-d'or-froid, la halle au métal. **Qui pèse** : le maître des Fours et la Voie des Fours, les syndics du charbon. **Accroches** : le Cerf de Suie (§7.2), le Four-Mère (§6.7), la traversée de fumée (E3) — et la matière du cran 4 de ⟨LE FIL⟩ dort ici (§6.6).
+**LA VALLÉE DES FOURS — les Terrasses, ~700 feux étagés dans la fumée.** L'air pique, les pluies sont noires, tout le monde tousse et tout le monde est riche. **Lieux** : les fours-mères en terrasses, le filon de fil-d'or-froid, la halle au métal. **Qui pèse** : le maître des Fours et la Voie des Fours, les syndics du charbon. **Accroches** : le Cerf de Suie (§7.2), le Four-Mère (§6.7), la prime du Cerf au Mur du Grand Ban (§8.1) — et la matière du cran 4 de ⟨LE FIL⟩ dort ici (§6.6).
 
 **LA SALINIÈRE — le bourg-galerie, ~500 feux, la moitié sous terre.** Les lampes à sel, les concessions, les poumons courts. **Lieux** : les galeries concédées, la chambre de sel, le fond de mine, le marché noir du Feu-de-Mine. **Qui pèse** : les concessionnaires, et ce qui se vend sous le manteau. **Accroches** : le Sel-qui-Marche (§7.6), le sel-roi (§5.1.29), deux réclusions de premier ordre (§10.3-10.4).
 
@@ -144,7 +144,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 **Qui pèse quoi à Fuseau** : le syndic de la halle (**Norbert**, 120, blanc) · la doyenne des teinturiers (**Sidonie**, 80) · le porteur du Portefaix (**Gaspard**, 1 800, bleu) · deux disciples de la secte du Gant Blanc en résidence (300-500) · **frère Colin** (30, chanvre) · et la milice, vingt hommes de chanvre.
 
-**Le calendrier** : le rite du printemps (§3) · la vente d'été à la halle · **la Montre des Cols** à l'automne (§8.1) · l'hiver qui ferme tout.
+**Le calendrier** : le rite du printemps (§3) · la vente d'été à la halle · **le Grand Ban** aux premières gelées (§8.1) · l'hiver qui ferme tout.
 
 ### 2.2bis · ELLE DANS LE MONDE *(passe 4 — l'audit avait raison : elle n'était nulle part)*
 
@@ -201,7 +201,7 @@ Trois rues plus loin, dans son dos, **la cloche sonne. Seule.** Une note qui ne 
 
 ### 3.4 · L'HÉRITAGE — les dettes à reprendre *(passe 8 — le squelette du début)*
 
-**Au lendemain du rite — le jour même de sa majorité —, frère Colin le fait monter à la chapelle des morts.** Le dépôt des défunts est inviolable, et il se rend à l'héritier majeur : le frère pose sur la table **le coffret d'Honoré** — le père, colporteur-crédit connu de huit vallées, noyé dans la crue avec sa femme il y a neuf ans.
+**Au soir du rite — le jour même de sa majorité —, frère Colin l'attend sur les marches de la Toise et le fait monter à la chapelle des morts.** Le dépôt des défunts est inviolable, et il se rend à l'héritier majeur : le frère pose sur la table **le coffret d'Honoré** — le père, colporteur-crédit connu de huit vallées, noyé dans la crue avec sa femme il y a neuf ans.
 
 Dedans : **quinze demi-tailles.** Les créances jamais recouvrées d'un homme qui vendait à l'avance et encaissait au retour — et qui n'est jamais revenu. Neuf ans que ces moitiés dorment ; neuf ans que quinze débiteurs, petits et énormes, apprennent à croire que la dette est morte avec le créancier.
 
@@ -213,7 +213,7 @@ Dedans : **quinze demi-tailles.** Les créances jamais recouvrées d'un homme qu
 
 ### 3.5 · Autour — le monde et ses horloges
 
-Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été, l'encan des chartes, la décennie du Mélèze-Roi — et **aucune n'est la sienne** : des occasions, affichées, datées, qu'il saisit ou laisse passer. L'abondance est le principe (§5) : il choisit, il renonce, rien ne remplace.
+Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente d'été, l'encan des chartes, la décennie du Mélèze-Roi — et **aucune n'est la sienne** : des occasions, affichées, datées, qu'il saisit ou laisse passer. L'abondance est le principe (§5) : il choisit, il renonce, rien ne remplace.
 
 ---
 
@@ -249,7 +249,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 | une pièce de soie ordinaire · de soie d'esprit | 15 taels · 2-10 pierres |
 | un brassard de bande (marque vérifiée) | 20 mailles |
 | soins : rebouteux · chirurgien de secte · os ressoudé | 5 taels · 2 pierres · 5 pierres |
-| l'inscription d'une maison à la Montre | 60 pierres |
+| la patente du Grand Ban (par chasseur, la saison) | 10 pierres |
 | une charte de col en déshérence, à l'encan | 200-800 pierres |
 | un pic secondaire et sa veine | ~3 000 pierres hautes |
 
@@ -285,7 +285,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 
 **Ce qui se gagne** *(§8 — un rite ouvre une commande, un accès, une arme)* :
 21. **la navette de jade** — le concours de la halle (§8.9) ; l'outil d'un maître, et le bourg le sait.
-22. **une charte de sente** — étape des Aiguilles de la Montre : le droit de passer une sente haute à péage nul.
+22. **une charte de sente** — une prime de sente rendue au Grand Ban : le droit de passer une sente haute à péage nul.
 23. **le Carreau du Serment** — l'ordalie du cloître (§8.11) — **objet de portée** (§5.2).
 24. **la clef de l'auberge morte** — la petite maison du col des Aiguilles la prête à qui elle croit (§10.6).
 25. **le manteau des Sœurs** — cousu sur mesure pour un service rendu (§8.13) ; l'eau ne le mouille pas.
@@ -362,25 +362,18 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 
 ---
 
-## 8 · LES RITES ET EXAMENS — 18, DONT LA MONTRE
+## 8 · LES RITES ET EXAMENS — LE GRAND BAN, ET ONZE RITES
 
-### 8.1-8.7 · LA MONTRE DES COLS — les sept étapes *(le grand rendez-vous des maisons de col — **une occasion du monde, pas son contrat** : il s'y inscrit si une maison le présente ou s'il rachète une place, ou il n'y va pas du tout, §3.5)*
+### 8.1 · LE GRAND BAN — la saison des primes *(le grand rendez-vous d'automne — une occasion du monde, pas son contrat)*
 
-**Tous les dix-huit mois, les maisons de col se mesurent** : un circuit col après col, à travers l'archipel. On y gagne **l'ordre des péages** — qui prélève en premier sur la Grand-Traverse, qui ferme quand, qui pèse. Une maison sans porteur classé perd son rang ; à deux Montres sans rang, **sa charte se rompt**. La prochaine se court **à l'automne**.
+**Aux premières gelées, les vallées crient leur ban.** Chaque maison, secte, bourg ou cloître affiche au **Mur des Primes** — un par vallée, recopié de col en col — ce qu'il paie pour être débarrassé de ce qui le ronge : bêtes à prendre (mortes ou **vivantes**, c'est écrit), nuisances terrées, routes à rouvrir. La saison dure jusqu'aux neiges.
 
-| | Étape | L'épreuve |
-|---|---|---|
-| **E1** | **le Portefaix** | **la Roue** : porter la charge-étalon, classement au poids et au temps |
-| **E2** | **les Meules** | **la nuit de garde** : tenir le péage une nuit d'affluence — pas un incident, pas un tael perdu |
-| **E3** | **la passe des Fours** | **la traversée de fumée** : le col fume ; passer, et ramener la balise |
-| **E4** | **le col du Sel** | **la lecture** : un chargement, ses tailles, trois mensonges dedans — les trouver au doigt |
-| **E5** | **le col des Sœurs** | **le pont de corde** : un aller-retour de nuit, chargé |
-| **E6** | **le col Muet** | l'étape qu'on passe **sans un mot** — parler, c'est abandonner |
-| **E7** | **le Grand Portage** *(Hautefoire)* | **la finale** : un contre un, champ de craie, au premier genou posé |
+- **La patente** : 10 pierres par chasseur, ou une maison qui vous présente. Sans patente, une prise ne se pèse pas.
+- **La pesée** : toute prise se porte à une pierre de col et se pèse **publiquement** ; le montant s'inscrit à la craie au Mur. Tricher sur une pesée est un crime de marque.
+- **LE TABLEAU** : le cumul des prises pesées, crié chaque semaine — et le classement final, crié aux Cent Piliers de Hautefoire aux premières neiges. **Le premier couteau** — le vainqueur — gagne pour un an : le choix des primes avant tous, partout, et le passage franc des cols.
+- **Ce qui mord** : les primes disent où sont les monstres, jamais comment ils tuent · les chasseurs se marchent dessus — une prime n'appartient qu'à la prise faite · et certaines primes sont affichées pour de mauvaises raisons.
 
-**Le format, verrouillé d'avance** *(la faute civet — un tournoi incohérent improvisé en scène — ne se rejoue pas)* : **une trentaine de maisons** présentent chacune **un porteur** · chaque étape rend **des points de rang** (premier arrivé, premier servi — le barème s'affiche au départ de chaque étape) · **le classement cumulé des sept étapes EST le résultat** : tout porteur qui finit a un rang, du premier au dernier — pas de places fantômes, pas de paradoxe de sièges. Le prix : **l'ordre des péages** suit l'ordre du classement, jusqu'à la Montre suivante. Une maison sans étape finie perd rang — à deux Montres sans rang, **sa charte se rompt** (§3.4).
-
-**Et c'est un tournoi qui mord, pas un salon** *(errata §42, toujours en vigueur : le social est de la friction, jamais un adversaire)* : les sept épreuves sont **physiques ou de savoir-faire** — porter, garder, traverser, lire au doigt, franchir de nuit, se taire, se battre. Ce qui se joue entre les étapes — alliances, coups bas, paris — existe, **en une scène spectaculaire quand ça paie, jamais en arc de négociation**.
+**Format verrouillé d'avance** *(la faute civet — un tournoi incohérent improvisé en scène — ne se rejoue pas)* : chaque prime porte **son montant et sa condition, écrits au Mur** · les pesées sont publiques et datées · le cumul est simple et vérifiable. Ce qui se joue entre chasseurs — alliances, coups bas, paris — existe **en une scène spectaculaire quand ça paie, jamais en arc de négociation** (errata §42).
 
 ### 8.8-8.18 · Les autres rites
 
@@ -410,7 +403,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 6. le duel de seuil pèse d'abord — les témoins l'exigent
 7. les grandes enchères pèsent qui enchérit au-dessus de cent pierres
 8. le cloître pèse qui jure — l'ordalie commence là
-9. chaque étape de la Montre pèse ses porteurs, à voix haute
+9. chaque prise du Grand Ban se pèse à une pierre de col, publiquement (§8.1)
 10. les recruteurs du printemps pèsent les cohortes
 11. la halle pèse l'inconnu qui vend — l'usage contre les voleurs
 12. le péage double pour qui refuse la pierre
@@ -452,7 +445,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 4. la **maîtresse d'armes de l'arène** — ne pèse plus « les moins de mille », par principe affiché.
 5. le **chef du cadastre** du Pavois — « votre borne a bougé, c'est ennuyeux » — et elle a bougé pour lui.
 6. l'**huissier des tailles** de Hautefoire — « votre titre n'existe pas », dit avec une joie de métier.
-7. le **champion du Grand Portage** en titre — trois Montres sans poser un genou, et il le rappelle en s'asseyant.
+7. le **premier couteau** du Grand Ban en titre — deux automnes que le Tableau lui appartient, et il porte un collier des crocs de ses prises.
 8. **le fils du syndic** *(Fuseau)* — quatre souffles de cloche et zéro doute : l'avenir du bourg en personne, et il le sait avant vous.
 9. le **maître des Fours** — reçoit assis, fait attendre debout, chauffe la pièce exprès.
 10. la **doyenne des Sœurs** — répond aux questions par des pesées.
@@ -477,7 +470,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 ### 12.2 · Les arts d'en face *(chaque maître au dernier cran a le régime de son art dans son domaine)*
 
 1. **la Lecture des Tailles** — les titres ; au sommet : **le doyen des huissiers de Hautefoire** — rien ne se contrefait devant lui.
-2. **le Portage** — porter, tenir, ne pas tomber ; au sommet : le champion du Grand Portage.
+2. **le Portage** — porter, tenir, ne pas tomber ; au sommet : le doyen des porteurs de la Grand-Traverse.
 3. **le Pas de Crête** — marcher où rien ne tient ; l'art des contrebandiers.
 4. **le Souffle des Fours** — la chaleur commandée ; au sommet : le maître des Fours — dans sa forge, des miracles.
 5. **la Meule** — le poids posé : immobiliser, écraser, tenir fermé ; l'art de la maison des Meules.
@@ -498,7 +491,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 
 ## 14 · LA RÉSERVE DE PRÉNOMS
 
-**Occidentaux, courts, un nouveau par scène et seulement s'il agit.** Déjà pris : Berthe, Norbert, Sidonie, Gaspard, Armande, Basile, Perrine — et, passe 8 : **Honoré** (le père), **Denise** (la mère), **Colin** (le frère de la chapelle), **Jacquette, Odile, Blaise** (la liasse). ⛔ **Les prénoms consommés par la version perdue ne renomment personne de neuf** : Garin, Thibaut, Mahaut, Aubin, Perrot, Josselin, Félicien, Gros-Jean. Réserve : Isaure, Marceau, Léonce, Tiphaine, Gaucher, Hersent, Aliénor, Firmin, Clémence, Margot. *(Les noms civet — Yvon, Alban, Gilles, Hugues, Renaud, Brice, Maud, Tessa — sont morts avec leur monde et ne se réutilisent pas.)*
+**Occidentaux, courts, un nouveau par scène et seulement s'il agit.** Déjà pris : Berthe, Norbert, Sidonie, Gaspard — et, passe 8 : **Honoré** (le père), **Denise** (la mère), **Colin** (le frère de la chapelle), **Jacquette, Odile, Blaise** (la liasse). ⛔ **Les prénoms consommés par la version perdue ne renomment personne de neuf** : Garin, Thibaut, Mahaut, Aubin, Perrot, Josselin, Félicien, Gros-Jean — **ni Armande, Basile, Perrine (le Dernier Col est retiré du monde, décision joueur passe 8)**. Réserve : Isaure, Marceau, Léonce, Tiphaine, Gaucher, Hersent, Aliénor, Firmin, Clémence, Margot. *(Les noms civet — Yvon, Alban, Gilles, Hugues, Renaud, Brice, Maud, Tessa — sont morts avec leur monde et ne se réutilisent pas.)*
 
 ## 15 · COUPE NETTE
 
@@ -512,7 +505,7 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | `marchandage` | **§17 (la liasse d'Honoré)** · §5.0 (prix, bourses) · la halle de Fuseau · Hautefoire et ses enchères · §6.17 (l'encan des chartes) · §8.12 |
 | `chance` | **§6** (25, réparties sur l'archipel — le voyage les découvre) |
 | `grosse_piece` | **§7** (18, de 800 à 45 000 — l'échelle de chasse est aussi son garde-manger à elle) |
-| `rite` | **§8** (18, dont la Montre E1-E7 — l'échine) |
+| `rite` | **§8** — le Grand Ban (§8.1) et les onze rites (§8.8-8.18) |
 | `mesure` | **§9** (22 occasions + l'infrastructure) |
 | `reclusion` | **§10** (9 lieux, durées écrites) |
 | `arrogance` | **§11** (5 sectes, 10 figures, registres variés) |
@@ -522,7 +515,7 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | `atout` | **§17 — chaque dette soldée peut devenir une porte** · §8.14 (la veillée) · §8.16 (la sente) · Berthe, frère Colin |
 | `corps` | §6.1, §6.2, §6.7, §6.9, §6.19 (occasions taillées dans le paysage) · §10.3, §10.8 (réclusions de chair) |
 
-## 17 · LA LIASSE D'HONORÉ — LES QUINZE TAILLES *(passe 8 — remises par frère Colin au lendemain du rite)*
+## 17 · LA LIASSE D'HONORÉ — LES QUINZE TAILLES *(passe 8 — remises par frère Colin au soir du rite)*
 
 *Chaque taille : le débiteur, le principal — et ce que neuf ans en ont fait. Une taille est une **scène**, jamais une ligne de fiche (sauf quand elle se paie en rougissant).*
 
