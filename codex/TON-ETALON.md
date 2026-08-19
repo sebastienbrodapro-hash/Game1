@@ -414,3 +414,53 @@ Deux porteurs ont craqué au crieur — dont un des quatre de tête. Le silence 
 Classement après E6 : 5ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ · deux vétérans devant lui — et la finale paie double.
 
 > *Leçons des 50-52 : sa ligne se joue en clauses (le droit, pas le sang — et un rôle donné vaut plus qu'une bourse prise) ; une expertise réussie tombe TOUT d'un coup, en trois étages nommés (la cache, la main, le constat), jamais en miettes ; l'ennemi intelligent attaque LÉGALEMENT, proprement, immonde — le crieur à la liste des morts est la meilleure attaque du corpus : elle coûte même quand elle échoue, et elle enseigne que quelqu'un connaît sa vie ; le prix d'un 26-50 se paie en silence porté, pas en malus ; et l'ADDITION accepte des inconnus — comptés d'avance.*
+
+---
+
+## 48 · LA BALANCE DES SŒURS *(version perdue — verbatim ; jet : 51-85 — pleinement)*
+
+La maison-île des Sœurs se rejoint en barque plate, à la lanterne, sur une eau si calme qu'on croit ramer dans le ciel. Les porteurs y sont reçus la veille d'E5 — c'est l'usage — et pesés. Autrement.
+
+La balance de la doyenne ne ressemble à rien : deux plateaux de bois noir, rien dessus, et pourtant ça penche. « La pierre lit ce qu'on pèse », dit la vieille femme aux porteurs alignés. « Ma balance lit ce qu'on doit. »
+
+Les porteurs passent un à un. Ça penche, plus ou moins, toujours du même côté — tout le monde doit. Puis vient Seb, et les plateaux font une chose qui arrache un murmure aux Sœurs : ils oscillent, cherchent, et s'arrêtent presque à plat.
+
+« Presque soldé. » La doyenne le regarde par-dessus la balance, longuement. « Je pèse des porteurs depuis quarante ans. Les presque-soldés, j'en ai vu trois. Deux étaient des saints. Le troisième était la pire chose que ce lac ait portée. » Un temps. « On verra bien. »
+
+Puis elle pèse la paire — et les plateaux tournent lentement sur eux-mêmes, ce qui n'est visiblement pas prévu par le meuble. La doyenne pose un doigt sur le plateau, le retire : « Deux qui pèsent comme un. Et celle-là — » les yeux gris de la vieille glissent vers la silhouette blanche en manteau d'orage — « la pierre vous lit dix mille. Ma balance lit plus loin que la pierre. Gardez-la des collectionneurs, garçon. Je ne le dirai qu'une fois. »
+
+Le marché du manteau se joue après le repas. L'usage des Sœurs : un manteau cousu sur mesure — l'eau ne le mouille pas — contre un service, quand nous l'appellerons. Une dette ouverte. Seb pose sa contre-offre avant que la phrase finisse :
+
+« Pas de dette ouverte. Je paie cette nuit. Montrez-moi ce qui a besoin de mains. »
+
+Les Sœurs échangent un regard — puis la doyenne, presque amusée, fait apporter le grand filet rituel : quarante ans de pêches de fête, plus de reprises que de mailles d'origine, un ouvrage mourant que personne sur l'île ne sait plus refaire. Il y passe la nuit, la navette de jade à la main, main de maître au travail — et au matin, le filet est mieux que neuf : là où ses doigts sont passés, les mailles tiennent au-dessus de leur matière, et les Sœurs le savent au premier regard.
+
+Le manteau est taillé au matin même — pour elle : gris d'eau, léger comme un souffle, et le lac entier ne saurait le mouiller. Elle le passe par-dessus la fourrure d'orage, fait sa pirouette réglementaire, et rend son verdict :
+
+« L'eau ne me mouillera plus jamais. » Un temps, vers la doyenne : « J'aime votre île. On reviendra. »
+
+(Et la doyenne offre le pourboire des gens qu'on a bien servis : « troisième main courante du pont, après le milieu — une corde fatiguée. Nos aiguilles la sentent d'ici. »)
+
+## 49 · E5 — LE PONT *(version perdue — verbatim ; jet : 26-50 — à un prix. **C'est la scène de la faute D.00** : le demi-tour pour sauver Aubin a été composé par le MJ au lieu d'être listé — le joueur : « je l'aurais laissé ». La règle est gravée depuis : un acte de conscience se liste toujours, même en pleine action.)*
+
+La nuit d'épreuve est claire et venteuse. Le pont de corde des Sœurs enjambe la gorge du déversoir — quatre-vingts mètres de vide noir où le lac s'entend sans se voir — et chaque porteur le court chargé, aller-retour, au temps.
+
+Ses doigts lisent le pont comme une pièce montée : chaque toron, chaque épissure — et la corde fatiguée de la doyenne est exactement où promis. Il cale sa foulée pour ne jamais la charger pleine, passe l'aller en souplesse, vire au poteau —
+
+Le prix arrive sur le retour, et il porte le malheur d'un autre.
+
+Le porteur parti derrière lui — Aubin, la petite maison du Gué-aux-Saules, vingt-cinq ans, sa première Montre — a chargé la corde fatiguée en plein, au pire endroit. Le claquement traverse le vent. Le pont fouette, Aubin part à la renverse, se rattrape d'un bras à la sous-corde, sa charge en pendule au-dessus du noir — et il gèle, tétanisé, à quarante mètres de tout.
+
+Le règlement est simple : le temps court, l'assistance n'est pas interdite — elle n'est que ruineuse.
+
+Seb fait demi-tour au milieu du pont. Vingt mètres de fil sauvage partent dans le vent, la ligne se pose sur le poignet d'Aubin — ce qu'il grée conduit les forces — et il hale le garçon jusqu'à la main courante, le remet debout, lui colle sa charge dans les bras : « Marche devant moi. Un pas, un toron. » Ils finissent la traversée en cordée improvisée, le chrono saignant à chaque seconde.
+
+Temps de Seb : douzième de l'étape. L'huissier de course constate, formule l'usage d'une voix neutre : « Assistance constatée. Temps non compensé — l'usage ne paie pas la vertu. » Puis, plus bas, en refermant le registre : « Il la retient. »
+
+Sur la plateforme d'arrivée, elle l'attend, bras croisés dans ses deux manteaux :
+
+« Une maison de plus qui te doit. Tu collectionnes à l'envers, toi. »
+
+Classement après E5 : 7ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ. Deux étapes restantes — le Muet, puis Hautefoire.
+
+> *Leçons des 48-49 : une pesée peut lire autre chose que la puissance — et rendre trois phrases qu'on n'oublie pas (« presque soldé », « ma balance lit plus loin que la pierre », « gardez-la des collectionneurs ») ; la ligne du personnage retourne même les cadeaux (« pas de dette ouverte — je paie cette nuit ») ; le pourboire d'un service bien rendu est une information qui servira ; et la faute D.00 est née ici : même magnifique, un demi-tour de conscience composé à la place du joueur reste une faute — ça se liste, toujours.*
