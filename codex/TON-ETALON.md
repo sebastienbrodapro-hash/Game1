@@ -555,7 +555,7 @@ Classement après E2 : 3ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ — et l'écart 
 
 ---
 
-*L'archive est **continue de 34 à 55** — plus le rite (1) et le Gué (10-11) en prologue. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive compte vingt-quatre actes — et s'agrandit par l'amont à mesure que le joueur retrouve des morceaux.*
+*L'archive est **continue de 32 à 55** — plus le rite (1) et le Gué (10-11) en prologue. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive compte vingt-six actes — et s'agrandit par l'amont à mesure que le joueur retrouve des morceaux.*
 
 ---
 
@@ -744,3 +744,55 @@ Aymon repart bredouille de sa propre saison de rapine. Le Fil Blanc collectionne
 « Soixante refusées, cinquante-deux prises — tu sais donc compter au-delà de l'exact. » Un temps, les yeux jade sur la porte où la robe grège a disparu : « Quatre. »
 
 > *Leçons du 34 : le refus public est un acte de marché (« sauf un » — et la provenance qui refuse vaut plus que les soixante pierres) ; l'acheteur inattendu porte du sens (le consortium installe sa « publicité au péage du monde » sans le savoir) ; le monde collectionne les récurrences (« troisième sortie grège en un été ») ; la fierté des siens se dit de biais (Berthe, pas si bas) ; et son décompte à elle referme la scène d'un seul mot : « Quatre. »*
+
+---
+
+## 32 · DOUZE PIERRES *(version perdue — verbatim ; le palier C — la scène la plus importante du corpus pour SA voix. « Le mortier, lui, ne se jette pas — on n'a jamais fait rater un cadeau. »)*
+
+La travée haute, le droguiste-lapidaire, les mortiers sous l'auvent — rien n'a bougé depuis le printemps, sauf tout.
+
+Il pose douze pierres d'esprit sur le comptoir. Le droguiste regarde les pierres, puis la petite silhouette indigo qui s'est approchée du mortier de rivière sans bruit, comme on approche d'un animal endormi.
+
+« Le premier vrai outil d'une bête, ça se paie », récite l'homme — puis, plus bas, en vrai : « …je l'ai jamais vu se payer. »
+
+Elle pose les deux pattes-mains sur le granit gris. Le soulève — trop lourd d'un tiers pour son mètre, elle vacille, refuse d'un regard la main que Seb avançait, le cale contre sa poitrine. Ferme les yeux.
+
+Et quelque chose se met en place — pas un palier, pas une lumière : un déclic plus vieux qu'elle. La respiration qui change. Les épaules qui trouvent un angle que personne ne lui a montré, celui d'une chose qui a pilé sous une autre lune, dans une autre vie qui n'est pas la sienne et qui l'est quand même.
+
+Quand elle rouvre les yeux, ils sont exactement pareils — vert jade — et complètement autres.
+
+« Douze pierres », dit-elle.
+
+Et ce ne sont plus des mots comptés. C'est une voix — rauque encore, neuve toujours, mais déliée, entière, arrivée d'un seul coup comme une pièce qu'on déroule :
+
+« Tu comptes tout, toi. Les défauts, les dettes, les rires. » Elle hisse le mortier plus haut contre elle. « Alors compte : un mortier. Une route. Toi. » Un temps, les oreilles qui piquent droit : « Il manque une maison. Je le dis maintenant, tu discuteras plus tard — tu perdras, mais tu discuteras, je sais que tu aimes ça. »
+
+Le droguiste en lâche son pilon d'étalage.
+
+⚑ PALIER C — ELLE VEUT. Quatre moments, le dernier au comptoir. La voix arrive formée — les quatre traits d'un coup : chaude à sa manière, appartenir et protéger, elle argumente ou défie, bête et femme sans question. À partir d'ici : elle demande, elle campe, et parfois elle l'emporte.
+
+## 33 · LA PIÈCE *(version perdue — verbatim ; jet : 86-100 ⚑ triomphe naturel)*
+
+Le retour par la Trame prend deux jours, le mortier voyageant sanglé dans son dos à elle — refus définitif de toute aide, question réglée.
+
+Restent cinq jours avant la vente d'été. Berthe libère le grand métier sans qu'on le lui demande.
+
+Ce qu'il tisse, personne ne l'a tissé : les Cent Vallées vues d'une sente — pas une carte : la Trame du pays elle-même, les crêtes en fils de chaîne, les vallées en espaces, la Grand-Traverse en trait de trame, les cols noués un à un aux points exacts où ils se nouent dans le monde. Un pays regardé par quelqu'un qui le lit.
+
+Et au troisième soir, la maison entière y entre. Elle installe son mortier au coin de l'atelier, y verse une mesure de la cuve-mère de Berthe — la teinture chargée qui dort là depuis trente ans — et pile. Longtemps. Sérieusement. Avec l'angle d'épaules d'une autre lune. Ce qui sort du granit est un indigo qui n'a pas de nom de teinturier — profond comme un ciel de col à la nuit — et elle le porte, cérémonieuse, à Berthe : ce qui sort de son mortier ne vaut que donné, et elle choisit à qui.
+
+« Pour la trame », dit-elle.
+
+Berthe teint le fil de trame de nuit, en silence, avec le respect des choses qu'on ne comprend pas et qu'on reconnaît quand même. Le cinquième matin, la pièce descend à la halle sur deux perches — et la vente d'été de Fuseau s'arrête de vendre.
+
+L'indigo bouge. Pas beaucoup. Comme un pays sous un nuage. Les cols semblent à leur vraie distance, la Traverse a l'air praticable au doigt, et quiconque a déjà marché une sente reste planté devant avec le mal du pays d'un endroit où il n'est jamais allé.
+
+La navette de jade est décernée avant midi — le concours n'a pas eu lieu, dit le syndic de halle, il a été constaté. Puis les prix commencent à tomber comme une grêle : Aymon, monté de Hautefoire pour rafler la soie au rabais, offre trente pierres sans respirer. Un courtier des Sœurs, quarante. Et en fin d'après-midi, une robe grège descendue exprès pose soixante pierres sur le comptoir de la halle — le Fil Blanc, qui rachète les belles matières, et qui voudrait tant que celle-ci ait une provenance à eux.
+
+À côté de la pièce, la petite voix neuve tranche le brouhaha, claire, publique, définitive :
+
+« Pas eux. »
+
+⚑ ⟨LA MAIN DE MAÎTRE⟩ 1/4 — porte positive, créée au triomphe. Ses ouvrages tiennent au-dessus de leur matière : ce qu'il noue ne glisse pas, ce qu'il tisse ne cède pas, et un connaisseur reconnaît sa main entre mille — désormais, tout ce qui sort de ses doigts est une signature.
+
+> *Leçons des 32-33 : le palier C tombe sur un ACHAT (douze pierres — le renoncement chiffré) et la voix arrive FORMÉE, les quatre traits d'un coup, dans une réplique qui est déjà tout son programme (« un mortier. Une route. Toi. Il manque une maison. ») ; le mortier produit des scènes, jamais des ressources (l'indigo sans nom, donné à Berthe, « pour la trame ») ; le chef-d'œuvre du héros est une lecture du monde (la Trame du pays), pas une démonstration de force ; un concours peut être « constaté » plutôt que couru ; et le cadeau ne se jette jamais — on n'a jamais fait rater un cadeau.*
