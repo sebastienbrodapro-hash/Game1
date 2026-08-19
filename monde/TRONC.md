@@ -10,7 +10,7 @@ Les Cent Vallées ne sont pas un accident de montagne : les crêtes sont **le ca
 
 ## 2 · Le Cadre et le fil de Seb
 
-Le Cadre ne s'est pas vidé : **il s'est arrêté** — il a cessé de filer parce qu'il a reconnu quelque chose dans ce sang-là, et ses bobines ne se vident pas. Le fil tiré ce jour-là — une douzaine de mètres de fil de potentiel pur — **n'a pas tout été brûlé au rite** : l'anneau n'en a pris qu'une longueur. Le reste a été ramassé dans la nuit. **Trois mains en tiennent** : Armande (deux mètres, dans le coffre aux chartes), le cloître (un demi-mètre, monté aux Icônes sans un mot), et une troisième que personne n'a vue. Un fil de potentiel se tisse, se vend, ou **s'absorbe** — et le sien vaut ce que vaut son porteur.
+Le Cadre ne s'est pas vidé : **il s'est arrêté** — il a cessé de filer parce qu'il a reconnu quelque chose dans ce sang-là, et ses bobines ne se vident pas. Le fil tiré la nuit du drap — une douzaine de mètres de fil de potentiel pur — dort *officiellement* au coffre de la Toise, sous serment de silence. Le coffre n'a pas tenu : **trois mains en tiennent déjà des longueurs** — Armande (deux mètres, dans le coffre aux chartes), le cloître (un demi-mètre, monté aux Icônes sans un mot), et une troisième que personne n'a vue — et le maître de la Toise jure son coffre intact, parce qu'avouer le manque serait avouer la nuit. Un fil de potentiel se tisse, se vend, ou **s'absorbe** — et le sien vaut ce que vaut son porteur.
 
 ## 3 · Elle
 

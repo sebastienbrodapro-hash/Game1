@@ -202,7 +202,7 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 
 ## 5 · L'ÉTAT RÉEL — CE QUI EST TRANCHÉ, CE QUI RESTE
 
-> ⚠ **Lu depuis le 2026-08-18** : la campagne civet est close (`archive/civet/`). Dans ce §5, **tout ce qui nomme le monde civet** — Neuf-Puits, la halle, la Balance Vide, l'Avant-Jour, la septième hampe, la feuille de départ, le titre « Le Civet » — est de l'**implémentation archivée, à refaire avec le monde neuf**. Les **règles de cadre** qu'il contient (le rythme §3.6, « ce qui se vide se quitte », les points qui ne se « corrigent » plus) restent entières. Le principe dramatique du départ — *le sommet puis la chute, dans la même salle, au rite de la scène 1* — reste cadre.
+> ⚠ **Lu depuis le 2026-08-18** : la campagne civet est close (`archive/civet/`). Dans ce §5, **tout ce qui nomme le monde civet** — Neuf-Puits, la halle, la Balance Vide, l'Avant-Jour, la septième hampe, la feuille de départ, le titre « Le Civet » — est de l'**implémentation archivée, à refaire avec le monde neuf**. Les **règles de cadre** qu'il contient (le rythme §3.6, « ce qui se vide se quitte », les points qui ne se « corrigent » plus) restent entières. Le principe dramatique du départ — *le sommet puis la chute, dans la même salle, au rite de la scène 1* — reste cadre. *(Amendé le 2026-08-19, décision joueur : le sommet devient **secret** — la nuit du drap, trois témoins — et la chute reste publique. Le dispositif vit dans `CENT-VALLEES` §3.)*
 
 *Réécrit le 2026-08-16 : la version précédente rouvrait des points déjà tranchés et donnait des quotas faux.*
 

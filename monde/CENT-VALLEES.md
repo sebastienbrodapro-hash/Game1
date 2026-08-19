@@ -5,6 +5,7 @@
 > **Le monde neuf, ouvert le 2026-08-18** après l'archivage du civet. Construit sur les directives de `FONDATION` §3.6 et §6 : **vaste d'entrée** — *« 1 ville 1 village c'est pas un monde »* —, le voyage comme contenu, ~200 scènes dans la strate.
 > **CONSTRUCTION COMPLÈTE — passes 1 à 4 faites, audit passé, feuille validée** *(2026-08-18)*. Passe 4, sur audit et décision du joueur : **le premier acte redessiné** — personne ne mise (§3.4), l'échine est la faim et le fil (§3.5) —, **elle dans le monde** (§2.2bis), **les vallées en détail** (§2.1bis). ⚑ **Prêt pour la scène 1.**
 > **Passe 5 — 2026-08-19, tranché par le joueur : LE FIL EST SON DOMAINE, PAS CELUI DU MONDE.** Une première tentative de campagne (~60 scènes, jamais sauvegardées) a montré que tout tournait autour des fils et des nœuds. Le motif se concentre désormais sur **Seb** — sa vallée d'origine, son art ⟨LE FIL⟩, son fil de potentiel — et les institutions du monde le quittent : titres par **tailles** (§0.4), bandes en **brassards de cuir** (§0.7), la secte du Fil Blanc devenue **le Gant Blanc**. ⚑ **Feuille §4 revalidée par le joueur le 2026-08-19 — prêt pour la scène 1.**
+> **Passe 6 — 2026-08-19, décision joueur : LE DÉBUT REFAIT** (« tout ce début, à part le fil comme Walter, tu peux tout refaire »). Le §3 est réécrit : **le sommet devient secret** — la nuit du drap, trois témoins, le fil au coffre sous serment — et la chute reste publique (le Cadre qui grince, le lapereau, « le Fileur » par dérision). Le tronc est réaligné.
 
 ---
 
@@ -167,58 +168,40 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 ---
 
-## 3 · LE JOUR DU RITE — LA SCÈNE 1
+## 3 · LE DÉBUT — LA NUIT DU DRAP, PUIS LE JOUR DU RITE *(redessiné le 2026-08-19 — décision joueur : « tout ce début, à part le fil comme Walter, tu peux tout refaire. » Le sommet devient SECRET ; la chute reste publique.)*
 
-*Le principe civet reconduit en habits neufs (`FONDATION` §5, validé le 2026-08-18) : **le sommet puis la chute, dans la même salle.***
+### 3.1 · La nuit du drap — le sommet, à trois témoins
 
-### 3.1 · Le Grand Cadre — le contrôle de potentiel
+Une fois l'an, la veille du rite, la maison de la Toise retisse le drap du Grand Cadre — et convoque la meilleure main du bourg. C'est Berthe, depuis trente ans. Cette année, ses mains la trahissent : elle amène son garçon.
 
-**Un métier à tisser d'avant la mesure**, haut comme deux hommes, remisé à la maison de la Toise. Une fois l'an, au printemps, la cohorte des dix-huit ans passe devant lui, un par un. On pique le doigt, une goutte au peigne, et **le Cadre tire le fil** — il file de vous ce que vous pourriez devenir.
+**Le dispositif** : Seb travaille au drap, de nuit, seul avec Berthe et le maître de la Toise. Une piqûre au vieux peigne — un accident, une goutte de sang hors protocole — et **le Cadre se met à filer dans le noir**, sans main, jusqu'à vider sa bobine. Personne n'a jamais vu la bobine vide. Personne ne saura jamais combien il aurait filé.
 
-- La plupart : **une vingtaine de centimètres de fil**. Un apprenti prometteur : **un demi-mètre**. Un génie de secte : **deux mètres** — on descend alors de la Grande Coupe pour venir le voir.
-- Le record des Cent Vallées, il y a cent soixante ans : **huit mètres de fil**. La maison qui l'a produit en vit encore.
-- **Une fois dans une vie.** Le Cadre ne refile jamais le même sang.
+**Le serment** : le maître de la Toise, terrifié pour sa maison — un Cadre qui file hors rite est un scandale à ruiner la Toise —, enferme le fil au coffre « en attendant les anciens » et fait jurer le silence. **Trois personnes savent. Le monde, non.**
 
-**Sur Seb : le fil court.** Il traverse la salle, passe la porte, descend trois marches — et quand il s'arrête, ce n'est pas parce que le fil finit : **c'est la bobine du Cadre qui est vide.** Personne n'a jamais vu le Cadre à vide. Personne ne sait combien il aurait filé.
+### 3.2 · Le jour du rite — la chute, devant tous
 
-*(Mécanique : le potentiel ×10 — rendement et vitesse de raffinage, `SYSTEMES` §0.3. Il ne pèse pas un point dans le chiffre, et aucun instrument ordinaire ne le lit.)*
+Le lendemain, la cohorte des dix-huit ans passe au Cadre, un par un — vingt centimètres, cinquante, le demi-mètre du fils du syndic. **Sur Seb, le Cadre grince et se tait** : la bobine est vide, et seuls trois présents savent pourquoi. Lecture publique : *rien à filer* — le sort des familles les plus pauvres, tombé sur l'orphelin de l'atelier.
 
-### 3.2 · Le rite d'invocation — l'anneau de son fil
+**L'invocation** : chacun noue en anneau une longueur de son fil tiré, et la brûle au brasero. L'usage des refusés : brûler **un fil de sa propre main**. Seb file le sien devant la salle — le geste vrai d'un tisserand — et ce qui répond à ce fil-là est **un lapereau** blanc argenté, trente centimètres, une proie. *(Pourquoi l'appel est allé si loin : le tronc.)*
 
-Dans la même salle, dans l'heure. Chacun **noue en anneau une longueur de son propre fil** — celui que le Cadre vient de tirer — et le pose sur le feu du brasero. Ce qui doit répondre répond : l'anneau se consume, et la bête est là, dans la fumée qui retombe.
-
-**Ce qui sort d'habitude** : un chien de crête, une buse, une couleuvre des murets, un blaireau — des bêtes de bande cendre à chanvre, à la mesure des familles. Les recruteurs des sectes se lèvent pour un félin, un cerf, un serpent d'eau.
-
-**Sur Seb : un lapereau.** Trente centimètres, qui tient dans une main. **Une proie.** La salle qui s'était levée pour le fil se rassied. *(Le résultat de la paire à la pierre — le chiffre — se joue en scène 1 : le canon fixe le dispositif, jamais le résultat.)*
+**La pesée** : la paire rend **3** — cendre, le brassard de cuir gris non teint, celui qu'on ne teint pas parce que ça n'en vaut pas la teinture.
 
 ### 3.3 · La partition de la salle — écrite d'avance
 
-1. Le fil : la stupeur, le syndic qui envoie chercher les recruteurs **avant même l'invocation**.
-2. Le lapereau : le silence, puis **quelqu'un rit** — un seul, et ça suffit.
-3. La lecture publique : *un potentiel sans précédent attelé à une proie* — donc un attelage qui ne tirera jamais. **On ne crache pas sur un pauvre gosse, on crache sur une promesse ratée.**
-4. Les recruteurs remontent en selle **dans les dix minutes**. Le surnom colle avant le soir : **« le Fileur »** — celui qui a tout filé et rien tissé. *(Le titre de campagne, à renommer quand elle devient autre chose — `FONDATION` §5.2.)*
-5. **Il en reste une** (§3.4).
+1. Le grincement : le silence gêné qu'on réserve aux pauvres. Pas de drame — un embarras.
+2. Le lapereau : le silence, puis **quelqu'un rit** — un seul, et ça suffit. *(Elle a vu qui. Ses oreilles connaissent le rang.)*
+3. La lecture publique : le garçon de l'atelier, refusé par le Cadre, attelé à une proie. **Le surnom colle avant le soir : « le Fileur »** — par dérision pure : *celui qui file pour les autres, et que le fil refuse.* *(Le titre de campagne — il se retournera le jour où la vérité sortira, `FONDATION` §5.2.)*
+4. **Personne ne mise, personne ne console.** On ne crache pas sur un pauvre gosse : on l'oublie avant le dîner. Il ne doit rien à personne — sauf un repas chez Berthe.
 
-### 3.4 · PERSONNE NE MISE — la chute est entière *(refonte du 2026-08-18 : l'audit a montré que le parieur, la mise et l'horloge du civet étaient revenus en habits neufs ; le joueur a tranché — on garde le sommet-puis-la-chute, **rien d'autre**)*
+### 3.4 · Le secret — la vraie échine du début
 
-**Personne ne le ramasse.** Pas de recruteur qui reste, pas de secte qui parie, pas de maison mourante qui pose ses dernières pierres sur la table. La salle a vu le plus grand potentiel jamais filé, puis elle a vu le lapereau, et elle a conclu — *un attelage qui ne tirera jamais* — et elle est rentrée dîner. **C'est ça, la chute : pas un ennemi, pas une dette. L'indifférence totale d'un monde qui a déjà décidé.**
+- **Trois personnes savent** : Seb · Berthe (le serment lui pèse) · le maître de la Toise (le serment le protège). Le fil dort au coffre — *officiellement*.
+- **La vérité est une bombe dont SEB tient la mèche** : la révéler, la prouver, la monnayer, la taire — à lui de choisir l'heure. *(Ce que devient le fil au coffre : le tronc. Comment ça s'allume : les mèches.)*
+- **Sa deuxième traction** : elle doit manger au-dessus de sa dernière prise (`FONDATION` §3.3) — l'échelle des proies (§7, de 800 à 45 000) est sa carte de voyage : chaque cran est dans une autre vallée.
 
-Et lui reste debout dans la salle vide avec deux choses que personne n'a voulues : **une bête de trente centimètres, et rien à devoir à personne.** *Le monde n'a pas misé sur moi ? Parfait. Je ne lui dois rien.* — c'est le seul cadeau de la soirée, et c'est exactement celui qu'il fallait à ses quatre moteurs (`FONDATION` §6.2).
+### 3.5 · Autour — le monde et ses horloges
 
-**Une seule chose disparaît cette nuit-là : son fil.** Le fil que le Cadre a tiré — trois marches de fil hors de la salle, que tout le monde a enjambé en sortant — **n'est plus là au matin.** Ramassé, lové, emporté. Par qui, le bourg l'ignore ; ce que ça veut dire, un tisseur le sait mieux que personne : *dans un monde où tenir le fil de quelqu'un, c'est tenir une créance* — **quelqu'un, quelque part, tient des longueurs de ce qu'il peut devenir.**
-
-**Berthe est la seule dette qu'il reconnaît** : trois ans de toit, de table et de métier. Elle se solde — à sa façon, quand il veut, comme il veut. Donnant-donnant. *(Aucun contrat, aucune horloge imposée : Berthe ne demande rien, et c'est bien pour ça que ça compte.)*
-
-### 3.5 · L'ÉCHINE — la faim, et le fil
-
-Pas de tournoi dû, pas d'échéance signée. **Deux tractions, et les deux sont à lui :**
-
-1. **Elle doit manger au-dessus de sa dernière prise** (`FONDATION` §3.3) — et l'échelle des proies (§7, de 800 à 45 000) est **répartie sur tout l'archipel**. Sa montée à elle **est** une carte de voyage : chaque cran est dans une autre vallée. Il choisit la proie, il choisit la route, il choisit le rythme.
-2. **Son fil circule** — des longueurs de son propre potentiel, dans des mains inconnues. Les retrouver, c'est son affaire à lui, et personne d'autre ne s'en chargera. *(Où mène ce fil : le tronc. Comment ça s'allume : les mèches.)*
-
-**Autour, le monde a ses propres horloges** — la Montre des Cols (§8.1), l'encan des chartes, la course du dégel, la décennie du Mélèze-Roi — et **aucune n'est la sienne** : ce sont des **occasions**, affichées, datées, qu'il saisit ou laisse passer. L'abondance est le principe (§5) : il choisit, il renonce, rien ne remplace.
-
-**La maison du Dernier Col existe toujours** — Armande, 74 ans, qui lit les tailles mieux que le cloître · Basile, 68, ancien porteur, une jambe raide · Perrine, 22, dernière du nom, têtue — avec leur col fermé depuis dix-neuf ans, leur charte qui se rompra à la prochaine Montre faute de porteur, et leurs cent quatre-vingts pierres que personne ne mise sur personne. **C'est du monde, pas un contrat.** Armande a regardé la bobine vide plus longtemps que tout le monde, et elle n'a rien dit. *(Ce qu'elle sait, ce qu'elle tient : le tronc.)*
+Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été, l'encan des chartes, la décennie du Mélèze-Roi — et **aucune n'est la sienne** : des occasions, affichées, datées, qu'il saisit ou laisse passer. **La maison du Dernier Col existe toujours** — Armande, 74 ans, qui lit les tailles mieux que le cloître · Basile, 68, ancien porteur, une jambe raide · Perrine, 22, dernière du nom, têtue — avec leur col fermé depuis dix-neuf ans et leur charte qui se rompra à la prochaine Montre faute de porteur. **C'est du monde, pas un contrat.** *(Ce qu'Armande sait, ce qu'elle tient : le tronc.)*
 
 ---
 
