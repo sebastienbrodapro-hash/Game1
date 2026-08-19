@@ -508,3 +508,47 @@ Classement après E4 : 8ᵉ / 31 — Thibaut 1ᵉʳ · Mahaut 2ᵉ — et l'éca
 « Quarante pierres sur toi, une étape gagnée, un faux sceau en cadeau. » Un sourire fermé. « Les livres vont faire des cauchemars de toi. J'adore. »
 
 > *Leçons des 46-47 : l'argent est un adversaire qui a des yeux (la limite maison, la cote qui s'effondre, le commis qui note sans se cacher) ; le monde n'est pas prêt pour lui, et c'est de la scène (l'or qu'on découd du baudrier d'un doyen, le greffier qui tremble) ; l'épreuve prévue rend plus que prévu quand l'expertise est vraie (le quatrième mensonge que personne n'avait planté) ; et sa comptabilité à elle referme chaque scène en une réplique.*
+
+---
+
+## 41 · L'ÉCOLE DE PERRINE *(version perdue — verbatim)*
+
+Trois jours de route, et la caravane change de professeur.
+
+« La nuit de garde, c'est MON monde », annonce Perrine le premier soir, en plantant le trépied de la marmite comme un étendard. « Toi tu sais porter et lire. Moi je suis née derrière une barrière de péage. Alors tu m'écoutes. »
+
+Il l'écoute. Elle sait tout : la fausse cohue — une bousculade organisée pour passer la contrebande pendant qu'on compte les moutons — se casse en fermant la barrière à moitié, jamais en entier. Le seigneur pressé — le gros bonnet qui exige le passage gratuit et te met le rang de sa maison sous le nez — se règle au registre : tout s'inscrit, tout se paie, l'usage n'a pas d'exception et c'est l'usage qui te couvre. La caisse plantée — la fausse pièce ou le faux compte glissés pour te faire accuser d'erreur — se déjoue en comptant à voix haute, devant témoin, à chaque transaction.
+
+« Et la quatrième chose ? » demande Seb.
+
+« Quelle quatrième chose ? »
+
+« Celle que l'argent des livres va inventer pour moi. »
+
+Perrine n'a pas de réponse — alors elle double la garde du matériel, et la fille de jade s'institue troisième œil : depuis le bât, elle apprend la caisse avec Perrine et compte plus vite que les deux réunis, en remuant à peine les lèvres. (« Elle compte comme toi », grommelle Perrine. « C'est vexant, à la fin. »)
+
+Le soir du deuxième jour, le harnais renaît. La main de maître, la navette de jade, et une âme de soie sauvage cousue dans chaque sangle — la lame qui voudra recommencer devra scier du fil que rien dans cette strate ne casse. Basile ne reconnaîtra pas son harnais. Il sera plus fier encore.
+
+(Au passage du Vieux Pont, il ralentit, regarde longtemps les chaînes primordiales et leurs maillons gros comme des têtes — trois cents mètres de vide, une matière que les graveurs s'arrachent. Pas ce soir. Mais le pont est noté, comme on note une dette du monde envers soi.)
+
+## 42 · LA NUIT DE GARDE *(version perdue — verbatim ; jet E2 : 51-85 — pleinement, les modificateurs annulés, « restait le métier, et le métier a parlé »)*
+
+Le col des Meules est le fief du champion — les couleurs de la maison de Thibaut sur chaque mât, et Josselin, le fils, qui accueille les porteurs avec le rang de son père au poignet et un sourire de propriétaire.
+
+« Le Fileur. On te souhaite une nuit... instructive. »
+
+La barrière lui revient du crépuscule à l'aube, seul, sous les yeux des juges — et la nuit envoie tout ce qu'elle a.
+
+La fausse cohue arrive à minuit : trente muletiers soudain pressés, une bousculade montée avec deux chariots en tenaille. Il ferme la barrière à moitié, à la Perrine — la cohue se dégonfle en file, et les deux ballots de contrebande qui comptaient passer dans le chaos se retrouvent à découvert, saisis, inscrits.
+
+Le seigneur pressé arrive à deux heures — et ce n'est pas un hasard : un convoi au pavois d'étain, un intendant qui exige la gratuité de charge « au titre du cadastre ». Seb ouvre le registre, lit à voix haute la charte du col — ses doigts sur les nœuds, sa lecture qui fait foi — et conclut, poliment, que le cadastre paie comme tout le monde : l'usage n'a pas d'exception. L'intendant paie, blême. Les juges notent.
+
+La caisse plantée arrive à quatre heures, glissée par une main anonyme dans un rouleau de mailles — une pièce de plomb doré, l'erreur toute prête. Il compte à voix haute, devant témoin, comme enseigné — et quand la pièce fausse sonne sur le comptoir, il la lève à la lanterne, la lit, et l'épingle au tableau du péage avec une aiguille : exposée, datée, constatée. Le juge de nuit fait « hm » — le son de Berthe, décidément universel.
+
+Et la quatrième chose n'ose pas venir. Peut-être à cause de la silhouette aux yeux de jade assise en silence sur le toit du poste de péage, les oreilles en veille, qui balaie la nuit comme un phare lent. L'argent a des mains, mais les mains ont des yeux, et les yeux, cette nuit, savent qu'on les regarde.
+
+À l'aube : zéro incident, zéro erreur de caisse, deux saisies inscrites. La nuit de garde la plus propre du barème — sur le col du champion. Josselin ne sourit plus du tout en signant le registre.
+
+Classement après E2 : 3ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ — et l'écart se resserre.
+
+> *Leçons des 41-42 : la préparation se JOUE (l'école de Perrine, trois pièges nommés — puis la nuit qui envoie exactement ces trois-là, et le pouvoir du joueur est d'avoir appris) ; « et la quatrième chose ? » — le personnage qui pense en avance nourrit la paranoïa juste ; les PNJ alliés ont un métier et une fierté (« évidemment que ça a marché, c'était mon plan ») ; une victoire propre se compte en registre (zéro, zéro, deux saisies) ; et le monde note ses dettes envers lui aussi (le Vieux Pont, « pas ce soir »).*
