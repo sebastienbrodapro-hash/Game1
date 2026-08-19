@@ -362,3 +362,55 @@ Sur la barrière, debout dans ses deux manteaux, elle tambourine le code des deu
 > Un exemple complet du format de fiche en régime de croisière : le chiffre et sa bande, le corps, les jets en tête de message, les arts en crans nommés, **sept portes vivantes** (positives ⚑ / négatives ⚠, toutes en `n/max`), la bête avec palier/esprit/dernière prise, **L'ADDITION** (le registre de dettes nommées : ① payé · ② Perrot · ③ payé · ④ le Fil Blanc · ⑤ la main de la sangle · ⑥ l'auteur de la liste des morts), les acquis narratifs en lignes ⚑ (« le Gué-aux-Saules : passage franc à vie », « la balance des Sœurs : presque soldé »), la caravane, et les horloges en table. Et en tête de message, sur gravure d'une règle : le rappel du commit (« Gravé — 51a13a7 : un acte de conscience ne se compose jamais à ta place »).
 
 > *Leçons des 54-55 : le prix d'un 26-50 est une phrase qui change la vie (« c'est votre adresse désormais ») ; un duel se raconte aux échanges, et l'adversaire a un langage (Thibaut), une lecture (Mahaut), un rire de montagne ; l'épaule blessée est une mémoire du monde (le Gué, l'ours, Thibaut — la même) ; le triomphe naturel est un CONCEPT neuf, pas un gros dégât (la toile semée d'une main) ; la victoire paie partout à la fois — classement, charte, pari, art, porte, et SA phrase à elle qui referme la scène.*
+
+---
+
+## 50 · CE QUE PAIE UNE PETITE MAISON *(version perdue — verbatim)*
+
+Le Gué-aux-Saules vient au camp en délégation : Aubin, son père, et la doyenne de leur maison — trois personnes, c'est-à-dire la moitié de la maison entière. Ils étalent ce qu'ils ont : dix pierres — des économies de petite maison, ça se voit à l'usure de la bourse — une charte de passage, un vieux fanal de col.
+
+Seb regarde les dix pierres, et fait exactement ce que sa ligne commande : il prend le droit, pas le sang.
+
+« Le passage franc au Gué-aux-Saules, à vie, pour ma maison et les miens. Et vos yeux sur cette Montre — Aubin court au milieu du peloton, il voit ce que je ne vois pas. C'est tout, et c'est soldé. »
+
+Le père serre la main en homme qui n'en revient pas de garder ses pierres. Aubin, lui, comprend le deuxième cadeau : on vient de lui donner un rôle au lieu d'une honte. Il servira mieux qu'une bourse.
+
+« Les amis pèsent plus que les pierres », commente la voix de jade au coin du feu. « Même la balance des Sœurs le dirait. Tu collectionnes à l'envers, mais tu collectionnes bien. »
+
+## 51 · L'ÉTAIN FORGÉ *(version perdue — verbatim ; jet : 51-85 ⚑ triomphe naturel)*
+
+Les huissiers de course détiennent le chariot au faux sceau — et quand l'expert dont la lecture fait foi demande à lire, on lui ouvre les scellés avec presque du soulagement.
+
+Deux heures de doigts, une lanterne, Perrine en greffière improvisée. Et tout sort, pleinement :
+
+La cache d'abord : sous le plancher du chariot, un double-fond au sel — et dedans, bobinés serrés, onze mètres de fil-d'or-froid. La contrebande du filon des Fours : le « voleur au fil » que la vallée cherche depuis le printemps ne dévide pas à la main — il vide le front par chariots entiers, sous de faux sceaux de transit, dans les convois que personne n'inspecte.
+
+La main ensuite : le poinçon du faux sceau tourne à gauche, la cire est montée en deux âges — et ses doigts reconnaissent la même main que le nœud refait du lot 141, à l'encan du solstice. Le faussaire de la créance et le faussaire de l'étain sont une seule personne. Quelqu'un, autour du cadastre du Pavois, forge des sceaux pour une filière : contrebande de fil-d'or, créances ressuscitées, l'argent qui circule sous les tampons.
+
+Le constat enfin — et le triomphe est là : il scelle son constat de sa propre main, nœud de tisserand à valeur d'huissier, contresigné par l'huissier de course. La pièce voyagera avec la Montre jusqu'à Hautefoire, où l'usage la remettra au grand huissier de la Coupe, le jour d'E7 — devant la ville entière rassemblée pour la finale.
+
+⚑ ⟨SA LECTURE FAIT FOI⟩ 1/4 → 2/4 — la contre-expertise : sa lecture défait les experts adverses, et il peut désormais certifier — sceller un constat de sa main, opposable devant tout huissier de l'archipel.
+
+Une bombe cadastrale scellée dans les bagages de la course, programmée pour exploser au milieu de la finale. Les mains de l'argent ont intérêt à ce qu'elle n'arrive jamais.
+
+## 52 · LE COL MUET *(version perdue — verbatim ; jet E6 : 26-50 — à un prix)*
+
+L'étape la plus simple de la Montre, et la plus cruelle : traverser le col sans un mot. Parler, c'est zéro. La vallée en contrebas s'appelle la Muette, personne n'y parle fort, et l'usage du silence a une raison que les vieux ne donnent pas.
+
+Les mains de l'argent ont préparé leur meilleur coup — légal, propre, immonde.
+
+À mi-col, un crieur loué attend les porteurs au bord du chemin, et lit à voix haute, en boucle, « la liste des morts de l'année, pour les prières des passants » — une liste vraie, où quelqu'un a glissé trois noms faux. Le troisième est :
+
+« ...Berthe, tisseuse, de Fuseau. »
+
+Le monde se rétrécit d'un coup. Le crieur guette sa réaction — c'est son vrai métier du jour. Un mot, une question, un quoi ? — zéro à l'étape, et la cote encaisse.
+
+Il ne s'arrête pas. Il ne parle pas. Il traverse le reste du col avec un nom dans la poitrine comme un fer chaud, au prix exact que ça coûte : deux jours à ne pas savoir, la rage à porter en silence, et le chrono qui s'en ressent — bon temps, pas le meilleur, les jambes lestées par autre chose que la charge.
+
+(Au soir, un coursier de Perrine confirme : Berthe va bien. Le mensonge était taillé sur mesure — quelqu'un connaît sa vie, ses gens, l'endroit exact où le fer entre. L'addition s'allonge : ⑥ — l'auteur de la liste. Inconnu. Compté d'avance, comme l'autre.)
+
+Deux porteurs ont craqué au crieur — dont un des quatre de tête. Le silence a redistribué les rangs :
+
+Classement après E6 : 5ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ · deux vétérans devant lui — et la finale paie double.
+
+> *Leçons des 50-52 : sa ligne se joue en clauses (le droit, pas le sang — et un rôle donné vaut plus qu'une bourse prise) ; une expertise réussie tombe TOUT d'un coup, en trois étages nommés (la cache, la main, le constat), jamais en miettes ; l'ennemi intelligent attaque LÉGALEMENT, proprement, immonde — le crieur à la liste des morts est la meilleure attaque du corpus : elle coûte même quand elle échoue, et elle enseigne que quelqu'un connaît sa vie ; le prix d'un 26-50 se paie en silence porté, pas en malus ; et l'ADDITION accepte des inconnus — comptés d'avance.*
