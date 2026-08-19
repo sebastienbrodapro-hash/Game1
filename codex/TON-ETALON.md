@@ -3,8 +3,9 @@
 > **Gravé le 2026-08-19.** La première tentative des Cent Vallées (~60 scènes, session locale,
 > jamais sauvegardée) est perdue — sauf ceci : deux actes recopiés par le joueur depuis son
 > transcript. **C'est l'étalon de voix de la campagne** — le début (scène 1) et un sommet
-> (scène 44). Il se relit quand la prose devient plate, factuelle, creuse — et à chaque
-> reprise de session, après l'ordre de lecture.
+> (scène 44). Il se **consulte au besoin** — quand la prose devient plate,
+> factuelle, creuse. **Jamais une relecture obligée** (joueur, 2026-08-19) : la voix vit
+> dans la phase psyché (`FONDATION` §6) et l'errata §56.
 >
 > **Ce qu'il enseigne** (errata §56 en action) :
 > - **Les bouches et les gestes** : le syndic qui pleure dans sa manche, le maître de la Toise
