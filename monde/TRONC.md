@@ -10,7 +10,7 @@ Les Cent Vallées ne sont pas un accident de montagne : les crêtes sont **le ca
 
 ## 2 · La Cloche et le sang de Seb
 
-La Cloche ne s'est pas emballée : **elle a reconnu quelque chose dans ce sang-là**, et elle a tout dit d'un coup — une note sans fin, étouffée à trois hommes, jamais finie : personne ne saura jamais combien elle aurait tenu. Et le secret de Seb n'est pas étanche : il est **compté**. **Trois ont su lire cette nuit-là** — le cloître des Icônes (la note a porté jusqu'à eux par les crêtes, et leurs vieux savent compter ce qui ne finit pas), frère Colin (il récite encore la vieille règle — *une cloche muette est une cloche qui a déjà sonné* — et il a vu la paume bandée du garçon au matin du rite : le jour où il lui remet la liasse, c'est la main qu'il regarde), et un troisième que personne n'a vu, qui était dans la rue cette nuit-là.
+La Cloche ne s'est pas emballée : **elle a reconnu quelque chose dans ce sang-là**, et elle a tout dit d'un coup — une note sans fin, étouffée à trois hommes, jamais finie : personne ne saura jamais combien elle aurait tenu. Et le secret de Seb n'est pas étanche : il est **compté**. **Trois ont su lire cette nuit-là** — le cloître des Icônes (la note a porté jusqu'à eux par les crêtes, et leurs vieux savent compter ce qui ne finit pas), frère Colin (il récite encore la vieille règle — *une cloche muette est une cloche qui a déjà sonné* — et il a vu la paume bandée du garçon au matin du rite : le jour où il lui remet le paquet, c'est la main qu'il regarde), et un troisième que personne n'a vu, qui était dans la rue cette nuit-là.
 
 ## 3 · Elle
 
@@ -18,7 +18,7 @@ Le rite n'est pas allé chercher un lapin dans les murets : ce sang-là avait fa
 
 ## 4 · La crue
 
-La crue d'il y a neuf ans n'était pas une crue : **la grande Retenue — le barrage au-dessus du bourg — a été ouverte de nuit, en plein orage, par des mains payées** — la Voie des Bouches Cousues appliquée à l'échelle d'un quartier. On ne visait pas un homme : on noyait **une liasse** — et l'homme avec, et sa femme parce qu'elle était là. Honoré avait senti venir l'eau : huit jours avant, il a porté son coffret à la chapelle des morts — le dépôt des défunts est inviolable, même les Bouches Cousues n'y touchent pas — avec une seule phrase pour frère Colin : *« Si je ne reviens pas, ça attendra que le petit soit grand. »* Le commanditaire est l'homme de la Grande Taille (§7). **Deux des mains payées vivent encore — dont une à Charmoy, que personne ne soupçonne.** Frère Colin ne sait pas ce qu'il a gardé neuf ans : il sait qu'Honoré avait peur, que l'eau est arrivée huit jours après, et il n'a jamais répété la phrase. Pas encore.
+La crue d'il y a neuf ans n'était pas une crue : **la grande Retenue — le barrage au-dessus du bourg — a été ouverte de nuit, en plein orage, par des mains payées** — la Voie des Bouches Cousues appliquée à l'échelle d'un quartier. On ne visait pas un homme : on noyait **un paquet de tailles** — et l'homme avec, et sa femme parce qu'elle était là. Honoré avait senti venir l'eau : huit jours avant, il a porté son coffret à la chapelle des morts — le dépôt des défunts est inviolable, même les Bouches Cousues n'y touchent pas — avec une seule phrase pour frère Colin : *« Si je ne reviens pas, ça attendra que le petit soit grand. »* Le commanditaire est l'homme de la Grande Taille (§7). **Deux des mains payées vivent encore — dont une à Charmoy, que personne ne soupçonne.** Frère Colin ne sait pas ce qu'il a gardé neuf ans : il sait qu'Honoré avait peur, que l'eau est arrivée huit jours après, et il n'a jamais répété la phrase. Pas encore.
 
 ## 5 · La Muette
 
@@ -30,15 +30,15 @@ Le passage de strate au fond de la Dernière Marche est **un péage, pas une por
 
 ## 7 · La Grande Taille
 
-Il y a vingt-deux ans, un jeune colporteur nommé Honoré a avancé à un homme pressé de quoi acheter **une charte de col majeur** sur la Grand-Traverse. L'homme s'appelle aujourd'hui {{SCELLE:Aldric}} — troisième du cadastre du Pavois d'Étain — et sa maison entière est bâtie sur cette charte. **La taille 15 de la liasse est la moitié d'Honoré.** Réunie à l'autre — qui dort dans le trésor du Pavois, jamais détruite : l'huissier qui l'a scellée vit encore, et une taille brûlée se remarque —, elle prouve que la charte est **gagée**, et tout ce qui est bâti dessus peut se rompre. Il y a neuf ans, quand Honoré s'est mis à dire qu'il voulait « solder avant de vieillir », l'eau a répondu (§4). Le débiteur ne sait pas que la liasse a survécu à l'eau : **le jour où il l'apprend, tout recommence** — c'est une horloge du monde, pas celle de Seb, et elle se met à tourner au premier bruit que fera la Grande Taille. Et la taille sans nom (liasse 14) est le miroir : **la dette d'Honoré lui-même**, ce qu'il devait à la maison qu'il a quittée jeune, dans une vallée que la campagne n'a pas encore vue — elle s'écrira quand la route ira par là.
+Il y a vingt-deux ans, un jeune colporteur nommé Honoré a avancé à un homme pressé de quoi acheter **une charte de col majeur** sur la Grand-Traverse. L'homme s'appelle aujourd'hui {{SCELLE:Aldric}} — troisième du cadastre du Pavois d'Étain — et sa maison entière est bâtie sur cette charte. **La taille 15 du paquet est la moitié d'Honoré.** Réunie à l'autre — qui dort dans le trésor du Pavois, jamais détruite : l'huissier qui l'a scellée vit encore, et une taille brûlée se remarque —, elle prouve que la charte est **gagée**, et tout ce qui est bâti dessus peut se rompre. Il y a neuf ans, quand Honoré s'est mis à dire qu'il voulait « solder avant de vieillir », l'eau a répondu (§4). Le débiteur ne sait pas que le paquet a survécu à l'eau : **le jour où il l'apprend, tout recommence** — c'est une horloge du monde, pas celle de Seb, et elle se met à tourner au premier bruit que fera la Grande Taille. Et la taille sans nom (taille 14) est le miroir : **la dette d'Honoré lui-même**, ce qu'il devait à la maison qu'il a quittée jeune, dans une vallée que la campagne n'a pas encore vue — elle s'écrira quand la route ira par là.
 
 ## 8 · Les mèches
 
 | Mèche | S'allume quand | Mène à |
 |---|---|---|
 | la nuit de la cloche | il apprend que quelqu'un a su lire cette nuit-là | §2 — trois lecteurs, trois routes |
-| la crue | il tire le fil du pêcheur payé « la veille de la crue » (liasse 9), ou fait lire la Grande Taille (liasse 15) | §4 — la Retenue ouverte, les mains payées |
-| la Grande Taille | il fait du bruit avec la taille 15 — la montrer, la réclamer, la faire déchiffrer | §7 — le débiteur apprend que la liasse a survécu |
+| la crue | il tire le fil du pêcheur payé « la veille de la crue » (taille 9), ou fait lire la Grande Taille (taille 15) | §4 — la Retenue ouverte, les mains payées |
+| la Grande Taille | il fait du bruit avec la taille 15 — la montrer, la réclamer, la faire déchiffrer | §7 — le débiteur apprend que le paquet a survécu |
 | la Nuit Muette | il y va, ou cherche un disparu | §5 |
 | la tonte du Bouc | il approche la Dernière Marche | §6 — le péage |
 

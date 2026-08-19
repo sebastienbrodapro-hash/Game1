@@ -6,7 +6,7 @@
 > **CONSTRUCTION COMPLÈTE — passes 1 à 4 faites, audit passé, feuille validée** *(2026-08-18)*. Passe 4, sur audit et décision du joueur : **le premier acte redessiné** — personne ne mise (§3.4), l'échine est la faim et le fil (§3.5) —, **elle dans le monde** (§2.2bis), **les vallées en détail** (§2.1bis). ⚑ **Prêt pour la scène 1.**
 > **Passe 5 — 2026-08-19, tranché par le joueur : LE FIL EST SON DOMAINE, PAS CELUI DU MONDE.** Une première tentative de campagne (~60 scènes, jamais sauvegardées) a montré que tout tournait autour des fils et des nœuds. Le motif se concentre désormais sur **Seb** — sa vallée d'origine, son art ⟨LE FIL⟩, son fil de potentiel — et les institutions du monde le quittent : titres par **tailles** (§0.4), bandes en **brassards de cuir** (§0.7), la secte du Fil Blanc devenue **le Gant Blanc**. ⚑ **Feuille §4 revalidée par le joueur le 2026-08-19 — prêt pour la scène 1.**
 > **Passe 9 — 2026-08-19, décision joueur : « je veux plus Berthe — intrigue, histoire, personnages, lieux : du neuf ! et plus qui tourne autour des fils. »** Le départ déménage : **la Vallée des Relais, le bourg de Charmoy** (le carrefour des routes de colportage, la grande Retenue — le barrage qui tient l'eau des moulins, la crue) — casting neuf : **Gaucher** le maître de bât, **Margot** la patronne du relais, **frère Colin**, **Firmin** le syndic. **Seb est garçon de bât** (l'arrimage — le geste vrai de ⟨LE FIL⟩ vient de là), plus tisserand ; la Vallée qui File devient une vallée lointaine comme les autres ; Berthe, Norbert, Sidonie, Gaspard sont retirés du départ. La feuille §4 est refaite — **à revalider**.
-> **Passe 8 — 2026-08-19, décision joueur : L'INTRIGUE DU DÉBUT REFAITE À NEUF** (« les 100 scènes, tout doit être nouveau — j'aime bien les dettes à reprendre — sur les psychés, je veux retrouver la même chose »). **Le squelette devient L'HÉRITAGE : la liasse des quinze tailles d'Honoré (§17, §3.4)**, remise par frère Colin au soir du rite. **La Montre des Cols est retirée du monde et remplacée par LE GRAND BAN, la saison des primes (§8.1)** ; le Dernier Col (Armande, Basile, Perrine) est retiré, décisions joueur. Le Dernier Col et la Montre sont démis de l'arc personnel (institutions d'arrière-plan) ; le contenu brûlé par la version perdue est remplacé (Chien→Cerf de Suie, Fondeur→Dame des Lavoirs, Hivernant→Reine de l'Adret, Champ de Foudre→Orgues de Glace, Gué→Débâcle) ; **les psychés (`FONDATION` §6) sont invariantes**. Le tronc est réécrit en conséquence.
+> **Passe 8 — 2026-08-19, décision joueur : L'INTRIGUE DU DÉBUT REFAITE À NEUF** (« les 100 scènes, tout doit être nouveau — j'aime bien les dettes à reprendre — sur les psychés, je veux retrouver la même chose »). **Le squelette devient L'HÉRITAGE : les quinze tailles d'Honoré (§17, §3.4)**, remise par frère Colin au soir du rite. **La Montre des Cols est retirée du monde et remplacée par LE GRAND BAN, la saison des primes (§8.1)** ; le Dernier Col (Armande, Basile, Perrine) est retiré, décisions joueur. Le Dernier Col et la Montre sont démis de l'arc personnel (institutions d'arrière-plan) ; le contenu brûlé par la version perdue est remplacé (Chien→Cerf de Suie, Fondeur→Dame des Lavoirs, Hivernant→Reine de l'Adret, Champ de Foudre→Orgues de Glace, Gué→Débâcle) ; **les psychés (`FONDATION` §6) sont invariantes**. Le tronc est réécrit en conséquence.
 > **Passe 7 — 2026-08-19, le joueur recadre passe 6 : « le fil, c'est que moi — pas les épreuves ou le monde. »** Le rite quitte le fil : la mesure devient **la Cloche du Rite** (la durée du son), l'invocation devient **le sang au brasero**, le Grand Cadre devient une relique muette. Le sommet reste anonyme (la cloche qui sonne seule dans la nuit), la chute publique.
 > **Passe 6 — 2026-08-19, décision joueur : LE DÉBUT REFAIT** (« tout ce début, à part le fil comme Walter, tu peux tout refaire »). Le §3 est réécrit : **le sommet devient secret** — la nuit du drap, trois témoins, le fil au coffre sous serment — et la chute reste publique (le Cadre qui grince, le lapereau, « le Fileur » par dérision). Le tronc est réaligné.
 
@@ -155,7 +155,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 - **les dresseurs du Long Pré sont les seuls qui regardent vraiment** — en connaisseurs, et ce qu'ils voient les fait se taire, ce qui est pire ;
 - **les gamins de partout** — on lui court après, on veut la porter, on la lâche quand ça mord.
 
-**Le mortier — les destinataires possibles** *(le produit de son pilage ne vaut que donné, et le destinataire est son choix à elle, jamais négociable — `FONDATION` §3.4)* : **Gaucher** et ses mains cassées · **la fille de Jacquette** et son étal en deuil (liasse 2) · les **gamins du relais** · le **passeur des Trois Ponts** (liasse 3) · une **Sœur du Lac** de passage · un **mineur aux poumons courts** · un **batelier cassé** de la rivière. *Le monde en offre à chaque vallée — elle pose la chose devant qui elle veut, et c'est tout (avant C : un geste, jamais un argument).*
+**Le mortier — les destinataires possibles** *(le produit de son pilage ne vaut que donné, et le destinataire est son choix à elle, jamais négociable — `FONDATION` §3.4)* : **Gaucher** et ses mains cassées · **la fille de Jacquette** et son étal en deuil (taille 2) · les **gamins du relais** · le **passeur des Trois Ponts** (taille 3) · une **Sœur du Lac** de passage · un **mineur aux poumons courts** · un **batelier cassé** de la rivière. *Le monde en offre à chaque vallée — elle pose la chose devant qui elle veut, et c'est tout (avant C : un geste, jamais un argument).*
 
 **Ce qui s'achète pour elle** *(le carburant du palier C — `SYSTEMES` §4.1 : un achat pour elle compte toujours)* : **le mortier de rivière** — 12 pierres, « le premier vrai outil de la bête » · **le feutre taillé à sa taille** — 3 pierres · **la part de gelée des Ruches** — 1 pierre la noix · **le panier de barge doublé** — 20 taels. *Un monde qui ne lui vend jamais rien lui refuse le palier — celui-ci vend.*
 
@@ -204,10 +204,10 @@ Trois rues plus loin, dans son dos, **la cloche sonne. Seule.** Une note qui ne 
 Dedans : **quinze demi-tailles.** Les créances jamais recouvrées d'un homme qui vendait à l'avance et encaissait au retour — et qui n'est jamais revenu. Neuf ans que ces moitiés dorment ; neuf ans que quinze débiteurs, petits et énormes, apprennent à croire que la dette est morte avec le créancier.
 
 - **L'usage** : une dette d'homme mort se recouvre par l'héritier, **au principal, simple**. Celui qui la nie devant les deux moitiés réunies devient **un briseur de taille** — et tout le monde sait ce que ça vaut.
-- **La liasse est une carte de voyage** : les débiteurs sont dans huit vallées, du boulanger de Fuseau à une secte entière. Et c'est **un jeu de portes**, pas un livre de comptes : chaque taille est une scène — un qui paie en rougissant, un qui ment, un qui est mort, un qui propose autre chose que l'argent, un qui préférerait que l'héritier n'existe pas.
-- **Le détail des quinze : §17.** Ce que la liasse cache, et pourquoi elle a dormi neuf ans : **le tronc.**
+- **Le paquet est une carte de voyage** : les débiteurs sont dans huit vallées, du boulanger de Fuseau à une secte entière. Et c'est **un jeu de portes**, pas un livre de comptes : chaque taille est une scène — un qui paie en rougissant, un qui ment, un qui est mort, un qui propose autre chose que l'argent, un qui préférerait que l'héritier n'existe pas.
+- **Le détail des quinze : §17.** Ce que le paquet cache, et pourquoi il a dormi neuf ans : **le tronc.**
 - **Le secret de la cloche reste sa deuxième carte** (§3.2) — la bombe dont il tient la mèche.
-- **Sa troisième traction** : elle doit manger au-dessus de sa dernière prise (`FONDATION` §3.3) — l'échelle des proies (§7) suit les mêmes routes que la liasse.
+- **Sa troisième traction** : elle doit manger au-dessus de sa dernière prise (`FONDATION` §3.3) — l'échelle des proies (§7) suit les mêmes routes que le paquet.
 
 ### 3.5 · Autour — le monde et ses horloges
 
@@ -489,7 +489,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 
 ## 14 · LA RÉSERVE DE PRÉNOMS
 
-**Occidentaux, courts, un nouveau par scène et seulement s'il agit.** Déjà pris (passes 8-9) : **Gaucher, Margot, Firmin** (Charmoy) — et : **Honoré** (le père), **Denise** (la mère), **Colin** (le frère de la chapelle), **Jacquette, Odile, Blaise** (la liasse). ⛔ **Les prénoms consommés par la version perdue ne renomment personne de neuf** : Garin, Thibaut, Mahaut, Aubin, Perrot, Josselin, Félicien, Gros-Jean — **ni Armande, Basile, Perrine (le Dernier Col est retiré du monde)**, **ni Berthe, Norbert, Sidonie, Gaspard (le départ Fuseau est retiré, passe 9)**. Réserve : Isaure, Marceau, Léonce, Tiphaine, Hersent, Aliénor, Clémence, Colette, Aymeric, Rémi. *(Les noms civet — Yvon, Alban, Gilles, Hugues, Renaud, Brice, Maud, Tessa — sont morts avec leur monde et ne se réutilisent pas.)*
+**Occidentaux, courts, un nouveau par scène et seulement s'il agit.** Déjà pris (passes 8-9) : **Gaucher, Margot, Firmin** (Charmoy) — et : **Honoré** (le père), **Denise** (la mère), **Colin** (le frère de la chapelle), **Jacquette, Odile, Blaise** (le paquet). ⛔ **Les prénoms consommés par la version perdue ne renomment personne de neuf** : Garin, Thibaut, Mahaut, Aubin, Perrot, Josselin, Félicien, Gros-Jean — **ni Armande, Basile, Perrine (le Dernier Col est retiré du monde)**, **ni Berthe, Norbert, Sidonie, Gaspard (le départ Fuseau est retiré, passe 9)**. Réserve : Isaure, Marceau, Léonce, Tiphaine, Hersent, Aliénor, Clémence, Colette, Aymeric, Rémi. *(Les noms civet — Yvon, Alban, Gilles, Hugues, Renaud, Brice, Maud, Tessa — sont morts avec leur monde et ne se réutilisent pas.)*
 
 ## 15 · COUPE NETTE
 
@@ -500,7 +500,7 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | Axe | Où |
 |---|---|
 | `equipement` | **§5.1** (30 objets, cinq voies) · **§5.2** (5 objets de portée) · §5.0 (prix) |
-| `marchandage` | **§17 (la liasse d'Honoré)** · §5.0 (prix, bourses) · la halle de Fuseau · Hautefoire et ses enchères · §6.17 (l'encan des chartes) · §8.12 |
+| `marchandage` | **§17 (le paquet d'Honoré)** · §5.0 (prix, bourses) · la halle de Fuseau · Hautefoire et ses enchères · §6.17 (l'encan des chartes) · §8.12 |
 | `chance` | **§6** (25, réparties sur l'archipel — le voyage les découvre) |
 | `grosse_piece` | **§7** (18, de 800 à 45 000 — l'échelle de chasse est aussi son garde-manger à elle) |
 | `rite` | **§8** — le Grand Ban (§8.1) et les onze rites (§8.8-8.18) |
@@ -513,7 +513,7 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | `atout` | **§17 — chaque dette soldée peut devenir une porte** · §8.14 (la veillée) · §8.16 (la sente) · Gaucher, Margot, frère Colin |
 | `corps` | §6.1, §6.2, §6.7, §6.9, §6.19 (occasions taillées dans le paysage) · §10.3, §10.8 (réclusions de chair) |
 
-## 17 · LA LIASSE D'HONORÉ — LES QUINZE TAILLES *(passe 8 — remises par frère Colin au soir du rite)*
+## 17 · LES QUINZE TAILLES D'HONORÉ — LES QUINZE TAILLES *(passe 8 — remises par frère Colin au soir du rite)*
 
 *Chaque taille : le débiteur, le principal — et ce que neuf ans en ont fait. Une taille est une **scène**, jamais une ligne de fiche (sauf quand elle se paie en rougissant).*
 
@@ -530,9 +530,9 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | 9 | un patron-pêcheur de la Noyée | 2 pierres | jure avoir payé Honoré **en main propre, la veille de la crue** — alors où est passé l'argent d'Honoré ? |
 | 10 | Blaise, courtier à Hautefoire | 10 pierres | devenu riche SUR l'avance d'Honoré ; paiera le principal en souriant — et l'idée d'avoir une dette le ronge plus que la dette |
 | 11 | une maison de col des Meules | 25 pierres | la taille a financé leur péage : la solder, c'est admettre publiquement que **leur charte est gagée** |
-| 12 | le maître de l'arène de la Coupe | 40 pierres | propose de payer « en faveur d'arène » — la porte la plus dangereuse de la liasse |
+| 12 | le maître de l'arène de la Coupe | 40 pierres | propose de payer « en faveur d'arène » — la porte la plus dangereuse de le paquet |
 | 13 | la Voie des Fours | 60 pierres de métal jamais livré | une secte ne rend pas de comptes à un cendre : il faudra peser plus lourd, ou plus malin |
-| 14 | **la taille sans nom** | inconnu | la plus vieille de la liasse, la moitié anonyme — et c'est **Honoré** le débiteur *(le tronc)* |
+| 14 | **la taille sans nom** | inconnu | la plus vieille du paquet, la moitié anonyme — et c'est **Honoré** le débiteur *(le tronc)* |
 | 15 | **LA GRANDE TAILLE** | le débiteur est en code | la moitié d'une dette énorme, chiffrée dans le code de colporteur d'Honoré — ce qu'elle vaut, qui la doit, et pourquoi la crue : **le tronc** · **ligne mort, un jour** |
 
 **Conduite** : les tailles se servent dans le désordre, au rythme de ses routes — jamais en liste de courses. Une taille recouvrée peut devenir une **porte** (un débiteur soldé est un homme soulagé), une taille contestée un **arc court**, une taille dangereuse une **horloge**. Le compteur les sert via `marchandage`, `atout` et `noir`.
