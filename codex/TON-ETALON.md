@@ -555,7 +555,7 @@ Classement après E2 : 3ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ — et l'écart 
 
 ---
 
-*L'archive est **continue de 32 à 55** — plus le rite (1) et le Gué (10-11) en prologue. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive compte vingt-six actes — et s'agrandit par l'amont à mesure que le joueur retrouve des morceaux.*
+*L'archive est **continue de 31 à 55** — plus le rite (1) et le Gué (10-11) en prologue. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive compte vingt-sept actes — et s'agrandit par l'amont à mesure que le joueur retrouve des morceaux.*
 
 ---
 
@@ -796,3 +796,35 @@ La navette de jade est décernée avant midi — le concours n'a pas eu lieu, di
 ⚑ ⟨LA MAIN DE MAÎTRE⟩ 1/4 — porte positive, créée au triomphe. Ses ouvrages tiennent au-dessus de leur matière : ce qu'il noue ne glisse pas, ce qu'il tisse ne cède pas, et un connaisseur reconnaît sa main entre mille — désormais, tout ce qui sort de ses doigts est une signature.
 
 > *Leçons des 32-33 : le palier C tombe sur un ACHAT (douze pierres — le renoncement chiffré) et la voix arrive FORMÉE, les quatre traits d'un coup, dans une réplique qui est déjà tout son programme (« un mortier. Une route. Toi. Il manque une maison. ») ; le mortier produit des scènes, jamais des ressources (l'indigo sans nom, donné à Berthe, « pour la trame ») ; le chef-d'œuvre du héros est une lecture du monde (la Trame du pays), pas une démonstration de force ; un concours peut être « constaté » plutôt que couru ; et le cadeau ne se jette jamais — on n'a jamais fait rater un cadeau.*
+
+---
+
+## 31 · CE QUE DORT DANS LES PLIS *(version perdue — verbatim ; jet : 51-85 — pleinement. La graine de tout l'arc du faussaire : le lot 141 que paieront les scènes 47, 51 et 54.)*
+
+Le voyage vers Hautefoire est une petite comédie logistique : la mule d'Armande refuse Seb à cinquante mètres — l'odeur du Gué, que toutes les bêtes de somme se repassent de mère en fille — alors la maîtresse trotte sur la Grand-Traverse pendant que l'élève file par les sentes hautes, et ils se retrouvent aux étapes, elle déjà attablée, lui déjà arrivé.
+
+Le Tirage des Chartes tient sous les Cent Piliers, au solstice, dans une chaleur d'encan : trois cents nœuds en déshérence — les titres dont les porteurs sont morts sans héritier, cordelettes scellées qui dorment à la crypte des Icônes jusqu'à la vente — alignés sur des coussins noirs, huissiers en baudrier, et tout ce que l'archipel compte d'avides au coude à coude.
+
+« Règle du jour », souffle Armande. « Tout le monde ici lit les droits. Personne ne lit les dettes — un nœud grevé fait peur, donc un nœud grevé ne vaut rien. Or une dette, ça se conteste. À condition de savoir lire. »
+
+Ils passent l'après-midi doigts sur cordes, elle enseignant à voix de messe basse — ce pli-là est une échéance, ce scellé-là a deux âges — et au lot 141, les doigts de Seb s'arrêtent.
+
+Lot 141 : créance grevée sur une part de concession de la Salinière. Le genre de nœud que la salle fuit — un droit enterré sous une dette. Sauf que la dette... il refait le trajet du doigt, deux fois. Le nœud d'échéance a été refait. Prolongé après coup. La cire a deux âges, et le brin porte la mémoire du premier pli — la créance est morte depuis deux ans, et quelqu'un l'a ressuscitée à l'aiguille.
+
+À côté de lui, la petite silhouette indigo fixe un commis à épingle d'étain, trois rangs devant, qui transpire un peu trop pour la saison. Ses oreilles pointent, et elle rend son mot du jour, à mi-voix :
+
+« Menteur. »
+
+L'enchère du lot 141 est un enterrement : personne n'en veut. Quinze taels, adjugé au garçon en indigo — quelques rires de connaisseurs : le Fileur achète des dettes, maintenant.
+
+Puis Seb porte le lot au banc des huissiers, pose les doigts dessus, et demande la vérification publique. Armande contresigne de sa réputation. L'huissier-chef — le même qui a dû valider son bracelet au parvis, et dont la joie de métier vire à la migraine en le voyant — examine, blêmit, fait examiner par deux collègues, et rend le verdict que l'usage l'oblige à crier :
+
+« Créance... ÉTEINTE. Refaite après terme. Le lot 141 est un droit franc. »
+
+Un droit franc : une part de concession de sel, nette, que le premier concessionnaire venu rachète séance tenante quatorze pierres d'esprit — pendant que le commis à l'épingle d'étain quitte la salle sans attendre la fin, et que la salle entière recompte ses certitudes sur les nœuds grevés.
+
+« Voilà », dit Armande, qui n'a pas souri de la journée mais dont les yeux le font pour elle. « Un après-midi de doigts : quatorze pierres. Perrine a raison de te détester. »
+
+⚑ ⟨LA LECTURE DES NŒUDS⟩ 1/4 → 2/4 — les dettes et les chartes : lire les grevances, les échéances — et prouver un refait devant huissier.
+
+> *Leçons du 31 : le savoir enseigné est un angle de marché (« tout le monde lit les droits, personne ne lit les dettes ») ; la grande intrigue commence par un détail de doigts (le lot 141 → le faussaire → l'instruction d'étain, vingt scènes plus tard) ; le méchant se signale en transpirant trois rangs devant, et c'est ELLE qui le voit (« Menteur. » — son mot du jour) ; la logistique est une comédie d'une ligne (la mule à cinquante mètres, ils se retrouvent aux étapes) ; et le mentor complimente de biais (« Perrine a raison de te détester »).*
