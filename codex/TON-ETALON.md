@@ -555,7 +555,7 @@ Classement après E2 : 3ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ — et l'écart 
 
 ---
 
-*Lacunes de l'archive : seules les scènes 39-40 (le départ de la caravane, E1 — la Roue) n'ont pas survécu. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive est close à dix-huit actes.*
+*Lacunes de l'archive : seule la scène 40 (E1 — la Roue courue) n'a pas survécu. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive est close à dix-huit actes.*
 
 ---
 
@@ -596,3 +596,37 @@ Au rebord du plateau, elle l'attend, trempée, furieuse, soulagée — et les ye
 « Vingt-deux éclairs. J'ai compté. » Un temps. « Et celle-là — la blanche. La prochaine, c'est elle. Je le dis maintenant : c'est ma prise. »
 
 > *Leçons du 43 : une chance se prépare en tisserand (la cage n'annule pas le danger — elle le met en scène) ; le triomphe naturel arrive en RENCONTRE, pas en récompense (l'Hivernant qui change de table, la prise de note entre professionnels — et c'est lui que le 44 paiera) ; la matière s'améliore par l'événement vécu (le fil-d'or devient fil-d'orage) ; la marque sur la peau devient une rumeur à trois vallées ; et sa réplique à elle arme la scène suivante : « c'est ma prise ».*
+
+---
+
+## 39 · LA CARAVANE DU DERNIER COL *(version perdue — verbatim ; le départ, l'addition ① payée, la pesée d'engagement)*
+
+Ils partent à l'aube du quatrième jour — la plus petite caravane de la Montre : un porteur, une seconde de route à la mule chargée (la mule tolère Seb à vingt mètres, l'équipage s'organise autour de ce détail depuis le premier virage), et une fille-bête aux yeux de jade qui marche en éclaireuse comme si la route lui appartenait.
+
+Armande les regarde partir du seuil, droite, les mains dans le dos. Basile a levé sa canne en guise de bannière. La maison morte envoie son espoir à la guerre.
+
+Fuseau d'abord — et l'addition ①.
+
+Le bourg entier est sorti pour voir passer la caravane, parce qu'un porteur local à la Montre, ça n'était pas arrivé depuis une génération. Et au premier rang, blême, encadré par le regard de tout ce qu'il connaît : le fils du syndic.
+
+Il tient parole. Quand la caravane arrive à sa hauteur, il lève les mains — et il applaudit. Fort. Longtemps. Seul d'abord, dans un silence de four — puis le bourg, qui ne sait pas quoi faire d'autre, applaudit avec lui, et l'applaudissement forcé se noie dans une ovation générale qui le rend presque pire : il aura applaudi le premier, et tout le monde sait pourquoi.
+
+Seb arrête la caravane. Traverse jusqu'au volet d'angle. Défait le nœud gris d'un seul geste — sept mois de comptabilité rendus au vent — et le glisse dans sa poche sans un mot. Le garçon à la coudée respire comme on ressuscite.
+
+« Un de moins », compte la voix de jade derrière lui, comptable et paisible.
+
+L'ADDITION — ① PAYÉ. L'applaudissement, le premier, devant tous. Le nœud est décroché.
+
+Le Portefaix ensuite — et le monde qui apprend.
+
+Le col est en fête de guerre : trente-et-une caravanes, les mâts pavoisés, les juges, l'huissier de course — et la pesée d'engagement, publique, porteur par porteur, à la pierre de passage.
+
+Quand Seb pose la main, la pierre monte, passe le bleu, et s'arrête sur 10 555.
+
+Le silence du col dure exactement le temps qu'un greffier vérifie deux fois. Puis l'usage suit son cours, implacable : on coupe l'indigo périmé — quatrième bracelet en six mois, le greffier n'a jamais écrit ça de sa vie — et on noue le pourpre, le pourpre des cloîtres, au poignet du porteur de la maison morte. Dans la cour des caravanes, trente porteurs recalculent d'un coup tout ce qu'ils croyaient savoir de cette Montre — et un grand type calme, adossé au mât des Meules, le regarde longuement par-dessus sa chope. Thibaut. Le champion ne salue pas. Il évalue.
+
+Au tableau du barème, le peintre a fini son ouvrage. La Roue, demain, à l'aube : la charge se déclare au matin, devant les juges — l'étalon 40 kg (points simples) · le fort 55 kg (doubles) · le lourd 70 kg (triples) · le royal 85 kg (quadruples — le palier de Thibaut). Déclarer trop lourd et craquer en route : zéro point. C'est au culot du matin que les Montres se gagnent.
+
+*(Le bloc : « Quarante. » [avantage, petit] · « Cinquante-cinq. » [neutre] · « Soixante-dix. » [désavantage, petit] · « Quatre-vingt-cinq. » — le palier de Thibaut, dès la première aube, au culot pur [désavantage, moyen].)*
+
+> *Leçons du 39 : une dette d'honneur se paie en scène publique, et le paiement est PIRE que la dette (l'applaudissement forcé noyé dans l'ovation) ; le règlement d'une vieille comptabilité tient en un geste (le nœud gris décroché, glissé dans la poche) ; le détail logistique fait personnage (la mule à vingt mètres réglementaires) ; la pesée publique est une scène de pouvoir (le greffier qui vérifie deux fois, Thibaut qui évalue) ; et une déclaration de charge est le meilleur bloc possible : quatre nombres, quatre culots.*
