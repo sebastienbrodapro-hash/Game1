@@ -555,7 +555,7 @@ Classement après E2 : 3ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ — et l'écart 
 
 ---
 
-*L'archive est **continue de 30 à 55** — plus le rite (1) et le Gué (10-11) en prologue. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive compte vingt-huit actes — et s'agrandit par l'amont à mesure que le joueur retrouve des morceaux.*
+*L'archive est **continue de 29 à 55** — plus le rite (1) et le Gué (10-11) en prologue. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive compte vingt-neuf actes — et s'agrandit par l'amont à mesure que le joueur retrouve des morceaux.*
 
 ---
 
@@ -870,3 +870,43 @@ Le fils regarde la place — toutes ces têtes qui, il y a sept semaines, riaien
 Le marché mettra des années à cesser d'en parler. Le nœud gris reste au volet — visible de toute la place, désormais lisible par tous, et le fils du syndic vivra jusqu'à l'automne avec une addition pendue à sa fenêtre.
 
 > *Leçons du 30 : la vengeance de Seb est un ACTE DE COMPTABILITÉ PUBLIQUE — pas un coup, pas une humiliation gratuite : un intérêt fixé, daté, affiché (le nœud reste au volet jusqu'à paiement) ; la disproportion est la ligne (« la gueule entière pour une dent » : le rire rendu en applaudissement public, au taux du jour) ; le puissant qui pèse cent vingt n'est PAS l'interlocuteur — on attend que le débiteur descende ; « Fort », en correction sèche, vaut dix tirades ; et elle referme d'un mot de comptable : « Un. » — le 39 encaissera.*
+
+---
+
+## 29 · LA MAIN PRISE *(version perdue — verbatim ; « [Libre] — on ne jette pas un oui. » L'arrivée au Dernier Col, le fil rendu, la seule règle.)*
+
+« Marché conclu. »
+
+Armande ne sourit pas — elle hoche, une fois, comme on scelle. L'étui de cuir glisse à travers la table : deux mètres de son propre fil, la couleur qui n'existe nulle part, à nouveau à lui. Un fil de potentiel se tisse, se vend, ou s'absorbe — et le sien vaut ce que vaut son porteur. Il ne décide pas ce soir. Il le bobine à côté de l'autre, contre l'avant-bras droit : deux fils, deux bras, et le sien pèse plus lourd que tout l'or-froid du monde.
+
+Le lendemain, ils montent au col des Aiguilles.
+
+La maison du Dernier Col vit dans son auberge de crête — une grande bâtisse de pierre à moitié volets clos, au pied d'un col fermé depuis dix-neuf ans, où le vent fait le bruit de vingt clients qui ne viennent plus. Basile leur ouvre, jauge le garçon d'un œil d'ancien porteur — « les jambes, ça va. Le reste, on verra » — et Perrine ne leur ouvre rien du tout : la petite-fille, vingt-deux ans, l'orgueil des ruinés en bandoulière, regarde le porteur de remplacement s'installer sous son toit avec exactement l'enthousiasme d'une écorchure.
+
+« C'est moi qui aurais dû porter », lâche-t-elle le premier soir, à personne.
+
+« Tu es chanvre », répond Armande sans lever les yeux de son ouvrage. « La Montre ne classe pas le courage, elle classe ce qui passe les cols. »
+
+Et l'apprentissage commence. Chaque matin, la grande table de l'auberge se couvre de cordelettes — les nœuds : dans un monde sans écrit, chaque titre, chaque bail, chaque rang est une corde nouée dont le motif encode le droit, scellée à la cire ; les lire, c'est lire le droit lui-même. Armande enseigne comme elle vit : sec, exact, sans une répétition gratuite.
+
+« Un nœud de bail à trois tours. Lis. » — « Refait. Quelqu'un l'a dénoué et renoué. » — « Comment tu le sais ? » — « La cire a deux âges. Et le brin porte la mémoire du premier pli. » — « Hm. Deux semaines pour voir ça. Perrine a mis deux ans. »
+
+(Le claquement d'un ouvrage jeté dans l'escalier confirme que Perrine a entendu.)
+
+En deux semaines de table et de doigts, le geste s'installe — l'alphabet complet des nœuds ordinaires, les scellés, les refaits, les menteurs :
+
+⚑ ⟨LA LECTURE DES NŒUDS⟩ 1/4 — art acquis de la seule vraie maîtresse de l'archipel. Cran 1 : lire un nœud ordinaire au doigt — titres, comptes, scellés — et sentir qu'un nœud a été refait.
+
+Les après-midi appartiennent à Basile : le portage, la charge-étalon, les allures de col — le programme des sept étapes de la Montre, désossé par un homme qui les a courues trente ans. Et le soir, la bête et Perrine se livrent une guerre froide de territoire dans la cuisine, que la bête gagne systématiquement en s'asseyant sur la meilleure chaise, en tenue indigo, le couteau bien visible.
+
+Le quatrième soir, en explorant la grande salle vide, elle s'arrête devant l'âtre froid, promène ses oreilles sur les volets clos, les tables retournées, le comptoir poussiéreux — toute cette maison taillée pour du monde et vidée par un col mort — puis se tourne vers lui avec une question d'un seul mot :
+
+« Ici ? »
+
+Il ne répond pas tout de suite. Pas de place pour l'instant — mais le mot d'après, c'est pour l'instant, et elle le sait aussi bien que lui.
+
+Une seule règle de la maison : Armande, le premier soir, un doigt vers la fenêtre nord — vers le col fermé, ses lacets morts qui montent dans le brouillard : « Le col, on n'y monte pas. Pas pour la charte, pas pour couper, pas pour voir. C'est la seule chose que je ne t'explique pas, et tu ne me la demandes pas. »
+
+Dans la nuit du col, parfois, quelque chose de grand change de place. Personne n'en parle au petit-déjeuner.
+
+> *Leçons du 29 : « on ne jette pas un oui » — l'accord conclu se joue [Libre], le dé n'a rien à y faire ; l'apprentissage se raconte en dialogues d'exercice (« Lis. » — « Refait. » — « Hm. ») et le compliment du mentor est une comparaison qui blesse un tiers (Perrine, l'escalier) ; la maison a UNE règle inexpliquée, et c'est elle qui charge le décor (« quelque chose de grand change de place — personne n'en parle au petit-déjeuner ») ; sa question à elle tient en un mot qui arme tout son arc (« Ici ? ») ; et la guerre froide de cuisine se gagne en s'asseyant sur la meilleure chaise, le couteau bien visible.*
