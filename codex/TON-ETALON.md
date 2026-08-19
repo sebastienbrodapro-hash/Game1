@@ -464,3 +464,47 @@ Sur la plateforme d'arrivée, elle l'attend, bras croisés dans ses deux manteau
 Classement après E5 : 7ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ. Deux étapes restantes — le Muet, puis Hautefoire.
 
 > *Leçons des 48-49 : une pesée peut lire autre chose que la puissance — et rendre trois phrases qu'on n'oublie pas (« presque soldé », « ma balance lit plus loin que la pierre », « gardez-la des collectionneurs ») ; la ligne du personnage retourne même les cadeaux (« pas de dette ouverte — je paie cette nuit ») ; le pourboire d'un service bien rendu est une information qui servira ; et la faute D.00 est née ici : même magnifique, un demi-tour de conscience composé à la place du joueur reste une faute — ça se liste, toujours.*
+
+---
+
+## 46 · LES LIVRES *(version perdue — verbatim)*
+
+Le camp des teneurs suit la Montre comme les mouettes suivent une barge. Au relais du col du Sel, la tente aux ardoises affiche les cotes du soir — et le zéro d'E3 a fait son œuvre : « le Fileur au podium final : cinq contre un. » Un porteur 14ᵉ sur 31 avec trois étapes de trou, ça ne remonte pas. Disent les ardoises.
+
+Il entre, pose sa bourse, et le prix se paie en deux temps.
+
+D'abord la maison blêmit — parier sur soi est légal, l'usage le dit, mais quarante pierres d'un coup, ça déplace une cote comme un éboulis. Le teneur-chef accepte quarante sur le podium à cinq contre un... et referme le registre d'un geste sec : « limite maison. Le reste de vos pierres, gardez-le. » La cote s'effondre à deux contre un dans la minute — trop tard pour les suiveurs, juste à temps pour lui.
+
+Ensuite, en sortant, il croise le regard du fond de tente : le commis à l'épingle d'étain — celui de l'encan, celui de la fausse créance — qui note quelque chose sur sa tablette de cire sans se cacher le moins du monde. L'argent a des mains, et maintenant l'argent sait combien il croit en lui-même.
+
+(bourse : 22 pierres liquides · 40 engagées — 200 si podium)
+
+## 47 · L'OR AU COL DU SEL *(version perdue — verbatim ; E4, la lecture)*
+
+La pesée d'étape d'abord, comme le veut l'usage. La file des porteurs, la pierre de passage, les bandes qui défilent — pourpre, pourpre, bleu, pourpre —
+
+« 20 665. »
+
+Le greffier repose son calame. Le recompte. Appelle l'huissier de course, qui appelle le doyen de la maison du Sel, qui arrive en boitant et repart en courant — parce qu'on n'a pas de fil d'or au col, personne n'en a, un bracelet d'or ça se commande aux Cent Piliers, ça ne s'improvise pas dans une salle de péage. On finit par découdre le galon d'or du baudrier de cérémonie du doyen lui-même, et c'est la doyenne des fileuses du bourg, convoquée en urgence, qui tisse la bande des anciens au poignet d'un porteur de dix-huit ans, devant trente maisons muettes, pendant que le pourpre coupé pend au registre comme une peau de mue.
+
+Quatre bracelets en une saison. Cendre, chanvre, bleu, pourpre — et l'or. Le greffier écrit la ligne en tremblant : il sait qu'on la lui récitera dans cinquante ans.
+
+Thibaut, dans la file, ne dit rien. Mais il refait ses calculs — ça se voit aux mâchoires.
+
+L'épreuve, ensuite. Un chariot bâché, un chargement scellé, ses nœuds de titre — et trois mensonges dedans, plantés par les juges. Chaque porteur passe seul, au temps.
+
+Seb pose les doigts et lit comme on respire :
+
+« Un. » — l'échéance de la caution, refaite : la cire a deux âges. « Deux. » — le nœud de charge ment de quarante kilos : le pli porte la mémoire du premier poids. « Trois — » ses doigts s'arrêtent sur le scellé du timon, et quelque chose se durcit dans sa voix : « — le sceau de transit du Pavois d'étain est un faux. Bonne copie. Mais le fileur du poinçon tournait à gauche, et l'étain ment. »
+
+Silence des juges. Le troisième mensonge planté était ailleurs — une pacotille dans une caisse. Celui-là, personne ne l'avait planté. L'huissier de course fait ouvrir, vérifie, blêmit : le faux sceau est vrai — enfin, faussement vrai — bref, la Montre vient d'avaler un scandale cadastral en direct, et sa lecture fait foi.
+
+Meilleur temps de l'étape, et quatre vérités pour trois demandées. Les points tombent : E4 gagnée.
+
+Classement après E4 : 8ᵉ / 31 — Thibaut 1ᵉʳ · Mahaut 2ᵉ — et l'écart d'E3 fond.
+
+À la sortie, elle l'attend dans sa tenue neuve, assise sur une borne comme sur un trône, et rend son verdict de comptable :
+
+« Quarante pierres sur toi, une étape gagnée, un faux sceau en cadeau. » Un sourire fermé. « Les livres vont faire des cauchemars de toi. J'adore. »
+
+> *Leçons des 46-47 : l'argent est un adversaire qui a des yeux (la limite maison, la cote qui s'effondre, le commis qui note sans se cacher) ; le monde n'est pas prêt pour lui, et c'est de la scène (l'or qu'on découd du baudrier d'un doyen, le greffier qui tremble) ; l'épreuve prévue rend plus que prévu quand l'expertise est vraie (le quatrième mensonge que personne n'avait planté) ; et sa comptabilité à elle referme chaque scène en une réplique.*
