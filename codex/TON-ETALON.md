@@ -26,6 +26,8 @@
 > - **Le rythme** : phrases courtes aux sommets, longues aux respirations ; la répétition qui
 >   frappe (« lui tient le bras — lui tient le bras »).
 >
+> **Tranché le 2026-08-19, après gravure** : la campagne rejouée **recommence à la scène 1, réécrite à cet étalon** (décision joueur : « recommence maintenant que tu es étalonné ») ; et **sa robe suit les refs — blanc argenté** : le brun-gris de garenne des actes perdus ne se reprend pas.
+>
 > **Ce que l'étalon ne gouverne PAS** : le canon des événements (la campagne rejouée fait foi,
 > sauf reprise explicite tranchée par le joueur) ; les unités (RULE-MJ §0.3 : métriques — la
 > scène 1 perdue dit brasses et coudées, la prose neuve n'en reprend pas).
