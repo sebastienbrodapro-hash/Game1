@@ -5,6 +5,7 @@
 > **Le monde neuf, ouvert le 2026-08-18** après l'archivage du civet. Construit sur les directives de `FONDATION` §3.6 et §6 : **vaste d'entrée** — *« 1 ville 1 village c'est pas un monde »* —, le voyage comme contenu, ~200 scènes dans la strate.
 > **CONSTRUCTION COMPLÈTE — passes 1 à 4 faites, audit passé, feuille validée** *(2026-08-18)*. Passe 4, sur audit et décision du joueur : **le premier acte redessiné** — personne ne mise (§3.4), l'échine est la faim et le fil (§3.5) —, **elle dans le monde** (§2.2bis), **les vallées en détail** (§2.1bis). ⚑ **Prêt pour la scène 1.**
 > **Passe 5 — 2026-08-19, tranché par le joueur : LE FIL EST SON DOMAINE, PAS CELUI DU MONDE.** Une première tentative de campagne (~60 scènes, jamais sauvegardées) a montré que tout tournait autour des fils et des nœuds. Le motif se concentre désormais sur **Seb** — sa vallée d'origine, son art ⟨LE FIL⟩, son fil de potentiel — et les institutions du monde le quittent : titres par **tailles** (§0.4), bandes en **brassards de cuir** (§0.7), la secte du Fil Blanc devenue **le Gant Blanc**. ⚑ **Feuille §4 revalidée par le joueur le 2026-08-19 — prêt pour la scène 1.**
+> **Passe 8 — 2026-08-19, décision joueur : L'INTRIGUE DU DÉBUT REFAITE À NEUF** (« les 100 scènes, tout doit être nouveau — j'aime bien les dettes à reprendre — sur les psychés, je veux retrouver la même chose »). **Le squelette devient L'HÉRITAGE : la liasse des quinze tailles d'Honoré (§17, §3.4)**, remise par frère Colin au lendemain du rite. Le Dernier Col et la Montre sont démis de l'arc personnel (institutions d'arrière-plan) ; le contenu brûlé par la version perdue est remplacé (Chien→Cerf de Suie, Fondeur→Dame des Lavoirs, Hivernant→Reine de l'Adret, Champ de Foudre→Orgues de Glace, Gué→Débâcle) ; **les psychés (`FONDATION` §6) sont invariantes**. Le tronc est réécrit en conséquence.
 > **Passe 7 — 2026-08-19, le joueur recadre passe 6 : « le fil, c'est que moi — pas les épreuves ou le monde. »** Le rite quitte le fil : la mesure devient **la Cloche du Rite** (la durée du son), l'invocation devient **le sang au brasero**, le Grand Cadre devient une relique muette. Le sommet reste anonyme (la cloche qui sonne seule dans la nuit), la chute publique.
 > **Passe 6 — 2026-08-19, décision joueur : LE DÉBUT REFAIT** (« tout ce début, à part le fil comme Walter, tu peux tout refaire »). Le §3 est réécrit : **le sommet devient secret** — la nuit du drap, trois témoins, le fil au coffre sous serment — et la chute reste publique (le Cadre qui grince, le lapereau, « le Fileur » par dérision). Le tronc est réaligné.
 
@@ -95,7 +96,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 | Vallée | À combien du départ | Caractère | Ce qu'on y trouve |
 |---|---|---|---|
-| **la Vallée qui File** | **départ** | la soie d'esprit, les ateliers, un déclin que personne ne nomme | le bourg de **Fuseau** (~900 feux), le Grand Cadre, la maison du Dernier Col |
+| **la Vallée qui File** | **départ** | la soie d'esprit, les ateliers, un déclin que personne ne nomme | le bourg de **Fuseau** (~900 feux), la Cloche du Rite, la chapelle des morts |
 | **la Grande Coupe** | 4 jours, col du Portefaix | la plus riche — foires, enchères, cinq sectes qui se surveillent | la cité de **Hautefoire** (~8 000 feux), les grandes enchères, l'arène de la Coupe |
 | **le Long Pré** | 3 jours, col des Meules | l'élevage des bêtes de trait d'esprit, les foires de bétail | les haras, la foire d'automne, des lignées de dresseurs |
 | **la Vallée des Fours** | 5 jours | forges et charbon, la métallurgie chargée, l'air qui pique | les fours-mères, les maîtres-forgerons, ce qui se coule là et nulle part ailleurs |
@@ -114,7 +115,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 **LE LONG PRÉ — le bourg des Haras, ~600 feux, et vingt hameaux d'élevage.** L'herbe, les bêtes de trait d'esprit, les foires. **Lieux** : les haras des lignées, le Gué des Bêtes, les silos, le champ de foire d'automne. **Qui pèse** : trois lignées de dresseurs qui se marient entre elles depuis toujours et se détestent pareil. **Accroches** : le Taureau (§7.3), la Mère des Rats (§7.14), le Silo Noir (§6.15), la tonte (§8.13) — et le fouet de trait qu'aucun argent n'achète (§5.1.30).
 
-**LA VALLÉE DES FOURS — les Terrasses, ~700 feux étagés dans la fumée.** L'air pique, les pluies sont noires, tout le monde tousse et tout le monde est riche. **Lieux** : les fours-mères en terrasses, le filon de fil-d'or-froid, la halle au métal. **Qui pèse** : le maître des Fours et la Voie des Fours, les syndics du charbon. **Accroches** : le Fondeur (§7.5), le Four-Mère (§6.7), la traversée de fumée (E3) — et la matière du cran 4 de ⟨LE FIL⟩ dort ici (§6.6).
+**LA VALLÉE DES FOURS — les Terrasses, ~700 feux étagés dans la fumée.** L'air pique, les pluies sont noires, tout le monde tousse et tout le monde est riche. **Lieux** : les fours-mères en terrasses, le filon de fil-d'or-froid, la halle au métal. **Qui pèse** : le maître des Fours et la Voie des Fours, les syndics du charbon. **Accroches** : le Cerf de Suie (§7.2), le Four-Mère (§6.7), la traversée de fumée (E3) — et la matière du cran 4 de ⟨LE FIL⟩ dort ici (§6.6).
 
 **LA SALINIÈRE — le bourg-galerie, ~500 feux, la moitié sous terre.** Les lampes à sel, les concessions, les poumons courts. **Lieux** : les galeries concédées, la chambre de sel, le fond de mine, le marché noir du Feu-de-Mine. **Qui pèse** : les concessionnaires, et ce qui se vend sous le manteau. **Accroches** : le Sel-qui-Marche (§7.6), le sel-roi (§5.1.29), deux réclusions de premier ordre (§10.3-10.4).
 
@@ -137,10 +138,11 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 - **l'atelier Berthe** — le plus vieux des ateliers encore debout ; c'est là que Seb tisse depuis ses quinze ans. **Berthe**, 70 ans, maîtresse-tisseuse, chanvre, des mains qui valent plus que son chiffre — *c'est d'elle qu'il tient le geste* (§12, ⟨LE FIL⟩).
 - **le pont des Teinturiers** — les cuves, les couleurs, les rumeurs.
 - **la maison de la Toise** — là où la cohorte se présente au rite, chaque printemps : **la Cloche du Rite** y pend (§3.1). Et dans la remise, sous un drap, dort **le Grand Cadre** — un métier à tisser d'avant la mesure, auquel plus personne ne touche et dont plus personne ne sait l'usage. *(Ce qu'il est : le tronc.)*
+- **la chapelle des morts** — l'antenne du cloître des Icônes, au-dessus du pont des Teinturiers : **frère Colin**, la cinquantaine, garde les autels, la mémoire du bourg — et les dépôts des défunts, inviolables, rendus aux héritiers majeurs.
 - **le col du Portefaix** (est, vers la Grande Coupe) — le col vivant, péage et pierre de passage.
-- **le col des Aiguilles** (nord) — **fermé depuis dix-neuf ans**. La maison qui le tient s'appelle encore la maison du Dernier Col (§3.4).
+- **le col des Aiguilles** (nord) — **fermé depuis dix-neuf ans**, faute de trafic : la soie a décliné, la route est morte, et la petite maison de col qui le tenait s'accroche à une charte moribonde. Pas de mystère — juste un chemin que le monde a cessé de payer.
 
-**Qui pèse quoi à Fuseau** : le syndic de la halle (**Norbert**, 120, blanc) · la doyenne des teinturiers (**Sidonie**, 80) · le porteur du Portefaix (**Gaspard**, 1 800, bleu) · deux disciples de la secte du Gant Blanc en résidence (300-500) · et la milice, vingt hommes de chanvre.
+**Qui pèse quoi à Fuseau** : le syndic de la halle (**Norbert**, 120, blanc) · la doyenne des teinturiers (**Sidonie**, 80) · le porteur du Portefaix (**Gaspard**, 1 800, bleu) · deux disciples de la secte du Gant Blanc en résidence (300-500) · **frère Colin** (30, chanvre) · et la milice, vingt hommes de chanvre.
 
 **Le calendrier** : le rite du printemps (§3) · la vente d'été à la halle · **la Montre des Cols** à l'automne (§8.1) · l'hiver qui ferme tout.
 
@@ -163,7 +165,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 ### 2.3 · Seb avant le rite
 
-**Dix-huit ans, tisseur à l'atelier Berthe depuis trois ans.** Orphelin de la crue d'il y a neuf ans, logé sous le toit de l'atelier, nourri, payé en mailles et en chutes de soie. **Ce qui ne s'écrit pas** : il connaît **le fil** — la qualité d'une soie au toucher, les tailles de titre et leur lecture (§0.4), ce que vaut une pièce avant que le courtier ouvre la bouche, et les mains de tout le bourg, parce que le tisseur voit passer les poignets. *Ça vaut plus que sa bourse.*
+**Dix-huit ans, tisseur à l'atelier Berthe depuis trois ans.** Fils d'**Honoré** — colporteur-crédit connu de huit vallées — et de **Denise**, noyés tous deux dans la crue d'il y a neuf ans ; logé sous le toit de l'atelier, nourri, payé en mailles et en chutes de soie. **Ce qui ne s'écrit pas** : il connaît **le fil** — la qualité d'une soie au toucher, les tailles de titre et leur lecture (§0.4), ce que vaut une pièce avant que le courtier ouvre la bouche, et les mains de tout le bourg, parce que le tisseur voit passer les poignets. *Ça vaut plus que sa bourse.*
 
 **Sa lecture sociale** : le garçon de l'atelier. Poli, exact, invisible. Personne n'est méchant — personne ne le voit. Le rite va le rendre très visible, deux fois.
 
@@ -197,14 +199,21 @@ Trois rues plus loin, dans son dos, **la cloche sonne. Seule.** Une note qui ne 
 4. **Le surnom colle avant le soir : « le Fileur »** — le mépris de classe à l'état pur : *celui qui n'a que son métier pour nom.* *(Le titre de campagne — il se retournera, `FONDATION` §5.2.)*
 5. **Personne ne mise, personne ne console.** On l'oublie avant le dîner. Il ne doit rien à personne — sauf un repas chez Berthe.
 
-### 3.4 · Le secret — la vraie échine du début
+### 3.4 · L'HÉRITAGE — les dettes à reprendre *(passe 8 — le squelette du début)*
 
-- **Lui seul sait ce qu'était la nuit.** Le bourg vit avec un présage sans propriétaire ; le propriétaire vit avec un surnom de mépris. **La vérité est une bombe dont SEB tient la mèche** — la prouver, la monnayer, la taire : à lui de choisir l'heure. *(Qui d'autre a su lire cette nuit-là : le tronc. Comment ça s'allume : les mèches.)*
-- **Sa deuxième traction** : elle doit manger au-dessus de sa dernière prise (`FONDATION` §3.3) — l'échelle des proies (§7, de 800 à 45 000) est sa carte de voyage : chaque cran est dans une autre vallée.
+**Au lendemain du rite — le jour même de sa majorité —, frère Colin le fait monter à la chapelle des morts.** Le dépôt des défunts est inviolable, et il se rend à l'héritier majeur : le frère pose sur la table **le coffret d'Honoré** — le père, colporteur-crédit connu de huit vallées, noyé dans la crue avec sa femme il y a neuf ans.
+
+Dedans : **quinze demi-tailles.** Les créances jamais recouvrées d'un homme qui vendait à l'avance et encaissait au retour — et qui n'est jamais revenu. Neuf ans que ces moitiés dorment ; neuf ans que quinze débiteurs, petits et énormes, apprennent à croire que la dette est morte avec le créancier.
+
+- **L'usage** : une dette d'homme mort se recouvre par l'héritier, **au principal, simple**. Celui qui la nie devant les deux moitiés réunies devient **un briseur de taille** — et tout le monde sait ce que ça vaut.
+- **La liasse est une carte de voyage** : les débiteurs sont dans huit vallées, du boulanger de Fuseau à une secte entière. Et c'est **un jeu de portes**, pas un livre de comptes : chaque taille est une scène — un qui paie en rougissant, un qui ment, un qui est mort, un qui propose autre chose que l'argent, un qui préférerait que l'héritier n'existe pas.
+- **Le détail des quinze : §17.** Ce que la liasse cache, et pourquoi elle a dormi neuf ans : **le tronc.**
+- **Le secret de la cloche reste sa deuxième carte** (§3.2) — la bombe dont il tient la mèche.
+- **Sa troisième traction** : elle doit manger au-dessus de sa dernière prise (`FONDATION` §3.3) — l'échelle des proies (§7) suit les mêmes routes que la liasse.
 
 ### 3.5 · Autour — le monde et ses horloges
 
-Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été, l'encan des chartes, la décennie du Mélèze-Roi — et **aucune n'est la sienne** : des occasions, affichées, datées, qu'il saisit ou laisse passer. **La maison du Dernier Col existe toujours** — Armande, 74 ans, qui lit les tailles mieux que le cloître · Basile, 68, ancien porteur, une jambe raide · Perrine, 22, dernière du nom, têtue — avec leur col fermé depuis dix-neuf ans et leur charte qui se rompra à la prochaine Montre faute de porteur. **C'est du monde, pas un contrat.** *(Ce qu'Armande sait, ce qu'elle tient : le tronc.)*
+Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été, l'encan des chartes, la décennie du Mélèze-Roi — et **aucune n'est la sienne** : des occasions, affichées, datées, qu'il saisit ou laisse passer. L'abondance est le principe (§5) : il choisit, il renonce, rien ne remplace.
 
 ---
 
@@ -264,7 +273,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 11. **le cuir du Taureau** (§7.3) — les plastrons que les forges s'arrachent.
 12. **les dents du Vieux du Lac** (§7.10) — des hameçons qui prennent ce qui ne se pêche pas.
 13. **la laine du Bouc** (§7.12) — tissée, elle tient le froid du seuil.
-14. **la fourrure de l'Hivernant** (§7.16) — elle porte la foudre sans la rendre.
+14. **la cire souveraine de la Reine** (§7.16) — un sceau posé de cette cire ne se contrefait pas.
 
 **Ce qui se trouve dans un lieu** *(§6 — les chances rendent de la matière, pas de l'or)* :
 15. **le fil-d'or-froid** (§6.6) — le fil de métal qui coupe : **la matière du ⟨FIL⟩ cran 4**. ~10 pierres le mètre, quand il s'en vend.
@@ -278,7 +287,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 21. **la navette de jade** — le concours de la halle (§8.9) ; l'outil d'un maître, et le bourg le sait.
 22. **une charte de sente** — étape des Aiguilles de la Montre : le droit de passer une sente haute à péage nul.
 23. **le Carreau du Serment** — l'ordalie du cloître (§8.11) — **objet de portée** (§5.2).
-24. **la clef de l'auberge morte** — la maison du Dernier Col la prête à qui elle croit (§10.6).
+24. **la clef de l'auberge morte** — la petite maison du col des Aiguilles la prête à qui elle croit (§10.6).
 25. **le manteau des Sœurs** — cousu sur mesure pour un service rendu (§8.13) ; l'eau ne le mouille pas.
 
 **Ce qui se vole** :
@@ -308,7 +317,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 6. **le filon de fil-d'or-froid** *(Fours)* — en tirer deux mètres à main nue. Mord : le fil coupe les doigts qui le tirent, et la galerie est disputée.
 7. **le Four-Mère** *(Fours)* — tenir la chambre de chauffe sept jours avec les tuiles. Trempe sèche, brûlures franches. Le maître laisse entrer qui stoke — c'est sa seule morale.
 8. **la Corde des Aiguilles** *(File)* — traverser le col fermé par la sente des chèvres. Mord : ce qui a fermé le col (§7.2), le vide, l'hiver.
-9. **le Champ de Foudre** *(crêtes du nord)* — tenir un orage debout. Mord : **ligne mort**, simple et vraie. L'Hivernant y chasse (§7.16).
+9. **les Orgues de Glace** *(Cloches Mortes)* — tenir un jour et une nuit dans les orgues quand le vent du nord les fait chanter : le froid et le son travaillent la chair ensemble. Mord : **ligne mort**, simple et vraie — le froid ne négocie pas.
 10. **les Cendres d'Adieu** *(Icônes, automne)* — glaner le grand bûcher à l'aube, à mains nues. Mord : les braises, être vu — et ce que certaines familles brûlent précisément pour que ça disparaisse.
 11. **le Pari du Passeur** *(les Trois Ponts)* — tenir sa perche dans le courant, aller-retour. Qui tient choisit dans quarante ans de coffre ; qui lâche doit une saison de rame.
 12. **la Nuit Muette** *(Muette)* — passer une nuit dehors au fond de la vallée. Ceux qui reviennent ont quelque chose en plus — jamais deux fois la même chose. Mord : certains ne reviennent pas (**ligne mort**).
@@ -318,7 +327,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 16. **la Saignée du Mélèze-Roi** *(adret des Icônes)* — l'ambre une semaine par décennie ; **la décennie approche**. Mord : le cloître le revendique, un essaim l'habite, la semaine ne s'annonce pas.
 17. **le Tirage des Chartes** *(Hautefoire, une fois l'an)* — l'encan des tailles en déshérence : des droits réels à qui ose. Mord : ce que la taille engage — on achète aussi les dettes qui pendent avec.
 18. **la Chambre de Sel** *(Salinière)* — se murer une saison au sel (double emploi réclusion, §10.3).
-19. **le Gué des Bêtes** *(Long Pré, aux migrations)* — traverser le gué au milieu du troupeau d'esprit. Trempe — et le troupeau retient les odeurs. Mord : le piétinement (**ligne mort**).
+19. **la Débâcle** *(File, au dégel)* — traverser la rivière de Fuseau quand les glaces descendent, devant le bourg massé sur le pont. Trempe. Mord : le piétinement des glaces (**ligne mort**).
 20. **l'Écheveau du Noyé** *(Noyée)* — démêler les filets d'un mort sans couper un fil. Les pêcheurs paient, et le lac rend parfois autre chose. Mord : ce qui a noyé le pêcheur.
 21. **le Toit du Cloître** *(Icônes)* — retisser la grande tenture du porche, un mois sous les yeux des morts. L'art y monte (usage marquant garanti), et le cloître doit ensuite une réponse. Mord : rater devant tous.
 22. **la Course du Dégel** *(Portefaix, printemps)* — la première caravane passée au dégel prend les prix de l'hiver. Une course, littéralement. Mord : les avalanches, et les autres.
@@ -333,10 +342,10 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 *Terrées, elles rendent coup pour coup et coûtent du sang. **Elles sont aussi son garde-manger à elle** (`FONDATION` §3.3 : un cran par prise au-dessus de sa dernière prise) — l'échelle ci-dessous est une échelle de chasse ET une échelle de nourriture.*
 
 1. **la Doyenne des Cocons** — **800** — la futaie du Grenier (File). Un ver d'avant la mesure, aveugle, qui entend le pas. Rend : **la soie qui ne casse pas** (⟨FIL⟩ cran 3). Protégée par : ses fils partout, et la futaie qui tourne.
-2. **le Chien des Aiguilles** — **6 500** — **ce qui a fermé le col il y a dix-neuf ans**. Personne ne l'a vu entier. Rend : dix-neuf ans de charges perdues, et une peau qui tient le gel.
+2. **le Cerf de Suie** — **6 500** — le grand cerf noir de la Vallée des Fours, qui traverse les fumées où tout suffoque ; trois hivers de chariots renversés. Rend : une ramure qui ne chauffe jamais — les forges s'en font des pinces à creuset — et la prime des syndics.
 3. **le Taureau du Long Pré** — **1 200** — échappé des haras, trois hivers de rapines. Rend : le cuir, le cœur, la prime des dresseurs.
 4. **la Truite-Mère** — **2 000** — sous les pilotis de la Noyée. Rend : des œufs qui chargent l'eau où on les pose.
-5. **le Fondeur** — **4 000** — un serviteur de four abandonné qui tourne encore, et coule qui entre. Rend : son cœur de fonte — un creuset que les forges s'arrachent.
+5. **la Dame des Lavoirs** — **4 000** — ce qui a élu domicile sous les lavoirs de Fuseau **depuis la crue**, et qui essore ce qui s'attarde après la nuit. Rend : son cœur d'eau — une outre qui ne se vide jamais. *(Le bourg ne lave plus après le coucher, et n'en parle pas.)*
 6. **le Sel-qui-Marche** — **3 000** — une concrétion qui a pris goût aux mineurs. Rend : le sel-roi de son cœur.
 7. **l'Abbé Couché** — **9 000** — le mort qui garde la crypte des tailles (Icônes). Rend : les titres en déshérence qu'il couve. Le cloître ne dira jamais merci.
 8. **le Carillonneur** — **12 000** — ce qui sonne aux Cloches Mortes les nuits sans lune. Rend : **la Cloche Fêlée** (§5.2), et le silence de la vallée.
@@ -347,7 +356,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 13. **le Roi-Cocon** — **45 000** — ce que la Doyenne nourrit, au cœur de la futaie. **Dort tant que la Doyenne vit** — la chaîne de chasse est écrite. Rend : la soie dont on fait les bannières de secte.
 14. **la Mère des Rats** — **1 500** — sous les silos du Long Pré. Rend : la prime des lignées, et le grain dort enfin.
 15. **le Noyeur** — **7 000** — ce qui tire les pêcheurs par leurs propres filets. Rend : sa poigne — des gants qui ne se desserrent pas.
-16. **l'Hivernant** — **10 000** — l'ours blanc du Champ de Foudre, qui mange l'orage. Rend : une fourrure qui porte la foudre sans la rendre.
+16. **la Reine de l'Adret** — **10 000** — l'essaim-mère unique qui garde le Mélèze-Roi : dix mille corps qui sont un seul. Rend : la cire souveraine — et la Saignée de la décennie devient possible.
 17. **la Nichée de la Muette** — **?** — personne n'est revenu la compter. (**ligne mort** sur la fiche le jour où on y va.)
 18. **ce que garde le seuil** *(la Dernière Marche)* — s'écrit au tronc, passe 3.
 
@@ -425,7 +434,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 3. **la chambre de sel** *(Salinière)* — **une saison** — le Corps : le sel entre ; on en sort sec et dur. Mord : les poumons courts.
 4. **le fond de mine** *(Salinière)* — **une saison** — le raffinage : le noir absolu concentre ; les glaces noires en prime.
 5. **l'île de l'à-sec** *(Noyée)* — **une lune** — n'existe qu'à l'étiage : **c'est le lac qui décide de la fin**.
-6. **l'auberge morte des Aiguilles** *(File)* — **une lune** — le froid, le silence, la charte au mur ; la maison du Dernier Col la prête à qui elle croit.
+6. **l'auberge morte des Aiguilles** *(File)* — **une lune** — le froid, le silence, la charte au mur ; la petite maison du col la prête à qui elle croit.
 7. **la tombe haute** *(Cloches Mortes)* — **réprouvée** — les rêves y travaillent le dormeur, et ne se choisissent pas.
 8. **le pâturage du Bouc** *(Dernière Marche)* — **une saison** — au froid du seuil ; personne n'a tenu l'hiver entier.
 9. **la loge du Four-Mère** *(Fours)* — **une lune** — la trempe sèche continue ; compte comme chance **ou** réclusion, au choix du déclarant.
@@ -489,7 +498,7 @@ Le monde a ses propres horloges — la Montre des Cols (§8.1), la vente d'été
 
 ## 14 · LA RÉSERVE DE PRÉNOMS
 
-**Occidentaux, courts, un nouveau par scène et seulement s'il agit.** Déjà pris : Berthe, Norbert, Sidonie, Gaspard, Armande, Basile, Perrine. Réserve : Colin, Honoré, Jacquette, Mahaut, Aubin, Garin, Odile, Perrot, Denise, Thibaut, Isaure, Blaise. *(Les noms civet — Yvon, Alban, Gilles, Hugues, Renaud, Brice, Maud, Tessa — sont morts avec leur monde et ne se réutilisent pas.)*
+**Occidentaux, courts, un nouveau par scène et seulement s'il agit.** Déjà pris : Berthe, Norbert, Sidonie, Gaspard, Armande, Basile, Perrine — et, passe 8 : **Honoré** (le père), **Denise** (la mère), **Colin** (le frère de la chapelle), **Jacquette, Odile, Blaise** (la liasse). ⛔ **Les prénoms consommés par la version perdue ne renomment personne de neuf** : Garin, Thibaut, Mahaut, Aubin, Perrot, Josselin, Félicien, Gros-Jean. Réserve : Isaure, Marceau, Léonce, Tiphaine, Gaucher, Hersent, Aliénor, Firmin, Clémence, Margot. *(Les noms civet — Yvon, Alban, Gilles, Hugues, Renaud, Brice, Maud, Tessa — sont morts avec leur monde et ne se réutilisent pas.)*
 
 ## 15 · COUPE NETTE
 
@@ -500,7 +509,7 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | Axe | Où |
 |---|---|
 | `equipement` | **§5.1** (30 objets, cinq voies) · **§5.2** (5 objets de portée) · §5.0 (prix) |
-| `marchandage` | §5.0 (prix, bourses) · la halle de Fuseau · Hautefoire et ses enchères · §6.17 (l'encan des chartes) · §8.12 |
+| `marchandage` | **§17 (la liasse d'Honoré)** · §5.0 (prix, bourses) · la halle de Fuseau · Hautefoire et ses enchères · §6.17 (l'encan des chartes) · §8.12 |
 | `chance` | **§6** (25, réparties sur l'archipel — le voyage les découvre) |
 | `grosse_piece` | **§7** (18, de 800 à 45 000 — l'échelle de chasse est aussi son garde-manger à elle) |
 | `rite` | **§8** (18, dont la Montre E1-E7 — l'échine) |
@@ -508,7 +517,31 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | `reclusion` | **§10** (9 lieux, durées écrites) |
 | `arrogance` | **§11** (5 sectes, 10 figures, registres variés) |
 | `art` | **§12** (⟨LE FIL⟩ cran par cran + 11 arts d'en face) |
-| `noir` | **§13** (3 voies) · §5.1.26-30 (ce qui se vole) · §6.10, §6.17, §6.23 |
+| `noir` | **§13** (3 voies) · **§17 (les tailles contestées et la Grande)** · §5.1.26-30 (ce qui se vole) · §6.10, §6.17, §6.23 |
 | `bete` | chaque scène (règle dure) — **§2.2bis** (le regard du monde, le mortier, ce qui s'achète pour elle) · §7 comme échelle de nourriture (`FONDATION` §3.3) |
-| `atout` | §8.14 (la veillée) · §8.16 (la sente) · les maisons de col rencontrées en Montre · Berthe, Armande |
+| `atout` | **§17 — chaque dette soldée peut devenir une porte** · §8.14 (la veillée) · §8.16 (la sente) · Berthe, frère Colin |
 | `corps` | §6.1, §6.2, §6.7, §6.9, §6.19 (occasions taillées dans le paysage) · §10.3, §10.8 (réclusions de chair) |
+
+## 17 · LA LIASSE D'HONORÉ — LES QUINZE TAILLES *(passe 8 — remises par frère Colin au lendemain du rite)*
+
+*Chaque taille : le débiteur, le principal — et ce que neuf ans en ont fait. Une taille est une **scène**, jamais une ligne de fiche (sauf quand elle se paie en rougissant).*
+
+| # | Débiteur | Principal | Ce que c'est devenu |
+|---|---|---|---|
+| 1 | le boulanger de Fuseau | 30 mailles de farine d'avance | il paie le jour même, rouge jusqu'aux oreilles — la mise en jambes |
+| 2 | Jacquette, mercière de Fuseau | 2 taels | morte l'an passé ; sa fille tient l'étal et découvre la dette en même temps que lui |
+| 3 | le passeur des Trois Ponts | 5 taels | offre de payer **en passages, à vie** — la nature contre la maille |
+| 4 | un maître-bourrelier du Long Pré | 12 taels | prospère ; paie sans ciller — et propose du travail, parce qu'un garçon qui recouvre sait tenir un compte |
+| 5 | la doyenne d'un hameau des Meules | 8 taels | le hameau a brûlé il y a quatre ans — plus de débiteur, plus de bouches : une dette peut mourir |
+| 6 | Odile, aubergiste au col du Portefaix | 20 taels | conteste tout : sa moitié « a brûlé » — un doigt sur la cire dirait si elle ment |
+| 7 | un compagnon des Fours | 1 pierre | muré en réclusion au fond de mine pour une saison : attendre, ou descendre le chercher |
+| 8 | les Sœurs du Lac | 3 pierres de fournitures | « les Sœurs ne doivent rien à personne, c'est connu » — leur balance dira le contraire |
+| 9 | un patron-pêcheur de la Noyée | 2 pierres | jure avoir payé Honoré **en main propre, la veille de la crue** — alors où est passé l'argent d'Honoré ? |
+| 10 | Blaise, courtier à Hautefoire | 10 pierres | devenu riche SUR l'avance d'Honoré ; paiera le principal en souriant — et l'idée d'avoir une dette le ronge plus que la dette |
+| 11 | une maison de col des Meules | 25 pierres | la taille a financé leur péage : la solder, c'est admettre publiquement que **leur charte est gagée** |
+| 12 | le maître de l'arène de la Coupe | 40 pierres | propose de payer « en faveur d'arène » — la porte la plus dangereuse de la liasse |
+| 13 | la Voie des Fours | 60 pierres de métal jamais livré | une secte ne rend pas de comptes à un cendre : il faudra peser plus lourd, ou plus malin |
+| 14 | **la taille sans nom** | inconnu | la plus vieille de la liasse, la moitié anonyme — et c'est **Honoré** le débiteur *(le tronc)* |
+| 15 | **LA GRANDE TAILLE** | le débiteur est en code | la moitié d'une dette énorme, chiffrée dans le code de colporteur d'Honoré — ce qu'elle vaut, qui la doit, et pourquoi la crue : **le tronc** · **ligne mort, un jour** |
+
+**Conduite** : les tailles se servent dans le désordre, au rythme de ses routes — jamais en liste de courses. Une taille recouvrée peut devenir une **porte** (un débiteur soldé est un homme soulagé), une taille contestée un **arc court**, une taille dangereuse une **horloge**. Le compteur les sert via `marchandage`, `atout` et `noir`.

@@ -265,6 +265,8 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 
 ## 6 · LA PHASE PSYCHÉ — GRAVÉE LE 2026-08-18, AVANT TOUTE SCÈNE
 
+> **Reconfirmé par le joueur le 2026-08-19** *(« sur les psychés, je veux retrouver la même chose cette fois aussi »)* : **les psychés sont l'invariant de la campagne.** L'intrigue, le monde, le début peuvent changer — elle (§6.1) et lui (§6.2), jamais. Toute refonte les sert ; aucune ne les touche.
+
 *Réponse directe à la faute F4 de l'audit civet (`archive/civet/AUDIT.md`) : la voix de la compagne a mis soixante scènes à exister parce que ses paliers définissaient ce qu'elle **peut**, jamais ce qu'elle **est**. Une conscience se grave avant de jouer. Tout ce qui suit a été choisi par le joueur, salve par salve.*
 
 ### 6.1 · ELLE — les quatre traits de conscience
