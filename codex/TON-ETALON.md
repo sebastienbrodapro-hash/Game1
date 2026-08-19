@@ -552,3 +552,7 @@ Et la quatrième chose n'ose pas venir. Peut-être à cause de la silhouette aux
 Classement après E2 : 3ᵉ / 31. Thibaut 1ᵉʳ · Mahaut 2ᵉ — et l'écart se resserre.
 
 > *Leçons des 41-42 : la préparation se JOUE (l'école de Perrine, trois pièges nommés — puis la nuit qui envoie exactement ces trois-là, et le pouvoir du joueur est d'avoir appris) ; « et la quatrième chose ? » — le personnage qui pense en avance nourrit la paranoïa juste ; les PNJ alliés ont un métier et une fierté (« évidemment que ça a marché, c'était mon plan ») ; une victoire propre se compte en registre (zéro, zéro, deux saisies) ; et le monde note ses dettes envers lui aussi (le Vieux Pont, « pas ce soir »).*
+
+---
+
+*Lacunes de l'archive : les scènes 39-40 (le départ de la caravane, E1 — la Roue) et 43 (E3 — la traversée de fumée, le zéro assumé pendant la chasse à l'Hivernant) n'ont pas survécu. **45 n'était pas une scène** : c'était la génération d'image de sa tenue à la majorité (palier 4) — la note « le pinceau plutôt que la photo » collée en tête de l'acte 46 en était le commentaire. L'archive est close à dix-huit actes.*
