@@ -94,6 +94,7 @@ Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de
 
 ## C · ORDRE DE RENDU (§8)
 
+**0.** **Le titre — `## N · TITRE EN CAPITALES`, sur chaque message de fiction**, y compris en continuation de scène (même N tant que la scène dure). C'est le format exact que lit le hook Stop (`TITRE_SCENE`) : sans lui, la scène n'est pas comptée — ni pour les axes, ni pour le psy. *(Relevé par le joueur le 2026-08-19 : « tu oublies le numéro des actes ».)*
 **1.** Le jet — bandes seules, une ligne.
 **2.** La conséquence — titre + prose. **Le cran de porte s'écrit ici.**
 **3.** La fiche — ÉTAT complet + horloges, **à chaque scène**, **toute progression en `n/max`** (§54).
