@@ -13,7 +13,7 @@
 
 ---
 
-## 0 · LES CINQ FAUTES QUI COÛTENT LE PLUS
+## 0 · LES SIX FAUTES QUI COÛTENT LE PLUS
 
 1. **Seuil écrit non servi** (2026-08-15) — si la fiche annonce « grade suivant à 16 », le grade tombe **à 16**, dans la scène même. Jamais « mûr et pas encore fait ».
 2. **Bloc servi en deux fois** (§20) — entier, une seule fois, jamais de complément après coup.
