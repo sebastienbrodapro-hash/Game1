@@ -37,7 +37,7 @@ Il y a vingt-deux ans, un jeune colporteur nommé Honoré a avancé à un homme 
 | Mèche | S'allume quand | Mène à |
 |---|---|---|
 | la nuit de la cloche | il apprend que quelqu'un a su lire cette nuit-là | §2 — trois lecteurs, trois routes |
-| la crue | il tire le fil du pêcheur payé « la veille de la crue » (liasse 9), ou fait lire la Grande Taille (liasse 15) | §4 — le bief ouvert, les mains payées |
+| la crue | il tire le fil du pêcheur payé « la veille de la crue » (liasse 9), ou fait lire la Grande Taille (liasse 15) | §4 — la Retenue ouverte, les mains payées |
 | la Grande Taille | il fait du bruit avec la taille 15 — la montrer, la réclamer, la faire déchiffrer | §7 — le débiteur apprend que la liasse a survécu |
 | la Nuit Muette | il y va, ou cherche un disparu | §5 |
 | la tonte du Bouc | il approche la Dernière Marche | §6 — le péage |

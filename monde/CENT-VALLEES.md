@@ -133,7 +133,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 
 ### 2.2 · La Vallée des Relais — le départ *(passe 9 — le départ déménage : plus de vallée du fil, plus de casting déjà joué)*
 
-**Le carrefour bas de l'archipel.** Les routes de colportage descendent de six cols pour se croiser au bord de la **rivière à barges** — personne n'y est né pour rien : on y charge, on y relaie, on y repart. **Le bourg de Charmoy**, ~700 feux, étagé entre la route haute et le **grand bief** — la retenue qui alimente moulins et lavoirs, reconstruite après la crue d'il y a neuf ans.
+**Le carrefour bas de l'archipel.** Les routes de colportage descendent de six cols pour se croiser au bord de la **rivière à barges** — personne n'y est né pour rien : on y charge, on y relaie, on y repart. **Le bourg de Charmoy**, ~700 feux, étagé entre la route haute et **la grande Retenue** — le barrage qui tient l'eau des moulins et des lavoirs, reconstruit après la crue d'il y a neuf ans.
 
 **Les lieux qui servent** :
 - **le grand relais** — trente attelages sous un seul toit : les convois s'y louent, s'y chargent, s'y défont. **Margot**, la patronne, qui a logé l'orphelin d'Honoré neuf ans sans jamais en parler à personne. **Gaucher**, le vieux maître de bât aux mains cassées — *c'est de lui, et du père avant lui, que Seb tient le geste* (§12, ⟨LE FIL⟩).
