@@ -20,6 +20,7 @@
 3. **Fusion de jets** (§25) — une action = un jet.
 4. **Porte due non servie** (§27) — tout critique naturel produit un mouvement de porte, **dans la scène même**.
 5. **Règle non écrite tranchée en silence** (§22, §35) — jamais.
+6. **Passer d'un point MJ au jeu sans l'aval du joueur** (§G, 2026-08-19 — faute commise DEUX FOIS le jour même de la gravure) — le point MJ se clôt par son compte rendu, puis le jeu **attend le feu vert explicite**. Même quand la demande du joueur semble contenir l'ordre de jouer : le compte rendu d'abord, l'aval ensuite, la scène après.
 
 ---
 
