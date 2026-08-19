@@ -220,3 +220,78 @@ En remontant au bourg, les mules du premier enclos hurlent sur son passage et se
 ⚠ ⟨L'ODEUR DU GUÉ⟩ 1/3 — porte négative, ouverte. Les bêtes de somme d'esprit le tiennent pour un danger : elles bronchent, ruent, refusent — lui sur leur dos, lui dans leur convoi, lui près de leur bât. L'archipel entier voyage à dos de mule. Pas lui.
 
 > *Leçons des 10-11 : la version réduite d'un jet est un PERSONNAGE (pas le maître — Garin, venu pour expédier, retourné en trois minutes) ; le monde donne son savoir par des bouches intéressées (le menu de Garin : fouine → renard → « on en reparle ») ; la complication a un visage et un pari public ; une porte négative est une CHARGE qui voyage (l'archipel entier à dos de mule — pas lui) ; la couche de Corps tombe sur le déclencheur objectif, dans la scène, chiffre recalé aussitôt ; et elle : trois coups de pattes comme des gifles, la berge longée mètre par mètre, le front dans la joue — imbécile, imbécile.*
+
+---
+
+## 37 · LE COFFRE VIDE *(version perdue — verbatim ; jets : la nuit du Cadre 86-100 ⚑ triomphe naturel · le Chien 51-85, 2 dés)*
+
+La nuit du Cadre rassemble Fuseau entier dans la maison de la Toise : le grand métier dévoilé, le drap de l'année qu'on détisse, et les fils de la cohorte du printemps qu'on retisse dedans, un à un, pendant que le maître de la Toise récite les noms.
+
+Puis vient le moment du coffre — l'arche de chêne où dorment les fils remarquables, et d'où les huit mètres du Fileur doivent rejoindre le drap, comme l'usage l'exige.
+
+Le maître tourne la clef. Ouvre.
+
+Le coffre est vide.
+
+Le silence qui suit dure assez longtemps pour que chacun ait le temps de comprendre, puis de regarder Seb — le voleur évident, l'homme qui voulait son fil, qu'on a refusé, et qui pèse aujourd'hui de quoi ne plus demander la permission.
+
+Et c'est là que la nuit bascule au-delà. Il traverse la salle, calmement, et fait ce que le bourg l'a vu faire à la vente : il lit.
+
+« La serrure d'abord. » Ses doigts sur le mécanisme, une minute entière. « Pas crochetée. Pas forcée. Ouverte à la clef. » Un frisson traverse la salle — il y a trois clefs, et le bourg sait qui les porte. « Le coffre ensuite. » Il retourne le fond vide vers la lumière : accroché à une écharde, un fragment de rien — trois centimètres de soie grège. La soie crue, non teinte — celle que file la moitié des ateliers de l'archipel... et dont une secte porte le nom et la robe. « Ça accuse tout le monde, et personne. C'est fait exprès. Le travail est propre, ancien — la poussière du coffre a des saisons. Ce fil n'a pas disparu cette semaine. Il a disparu la nuit même du rite. »
+
+Il laisse la salle faire le calcul : la nuit du rite, lui dormait à l'atelier, et le guet Félicien peut jurer l'avoir croisé à l'autre bout du bourg à une heure du matin — devant la maison du syndic, ironie que Fuseau connaît par cœur désormais. Le seul homme de l'archipel exonéré par sa propre nuit de rôdeur.
+
+La suspicion pivote comme une girouette — le maître, les clefs, la Toise elle-même — et le bourg qui regardait un voleur regarde maintenant un expert. C'est la deuxième fois qu'une salle entière le voit lire la vérité au doigt, et cette fois, l'huissier de course de la Montre, venu pour les inscriptions, est au premier rang.
+
+⚑ ⟨SA LECTURE FAIT FOI⟩ 1/4 — porte positive, créée au triomphe (et la fenêtre des premières portes se referme sur celle-là). Quand il lit un nœud, une trace, une pièce en public, sa lecture a valeur de témoignage — l'usage et les huissiers la reçoivent comme parole d'expert.
+
+En sortant, ils passent devant le Grand Cadre remisé sous son drap neuf. Au moment exact où Seb le longe, le vieux peigne fait — seul, sans main — un petit claquement sec. Personne ne l'entend.
+
+Elle, si. Elle regarde le Cadre, puis Seb, longtemps, et ne dit rien.
+
+## 38 · LA SEULE RÈGLE *(version perdue — verbatim ; le Chien des Aiguilles, LES MAINS, la vérité du col)*
+
+Ils montent la nuit d'après, sans lanterne, par le versant que personne ne surveille — puisque personne ne monte.
+
+Le col des Aiguilles, de l'intérieur, est un cimetière de route : lacets mangés d'éboulis, bornes couchées, et l'auberge de crête morte dont les fenêtres noires regardent passer dix-neuf ans de vent. Plus haut, une odeur — vieille, animale, immense — et des traces de la taille d'un plat à four.
+
+Le Chien des Aiguilles n'a jamais été un chien. Quand il se lève de son creux entre deux dents de roche, c'est une masse de six mille cinq cents, haute comme deux hommes, la fourrure grise cordée de cicatrices, les yeux d'un gardien qui fait sa ronde depuis dix-neuf ans sans qu'on le remercie. Il ne chasse pas. Il garde. C'est sa faiblesse : un gardien tient un territoire — et un territoire, ça se lit, et ce qui se lit se piège.
+
+Ils ont préparé la nuit entière. Les lignes du Fondeur, en triple : le fil sauvage tendu bas entre les bornes couchées, non pour l'arrêter — pour le conduire. Elle, en hauteur sur la dent de roche, ses mains neuves de couteau prêtes, le code de patte armé. Lui au centre, en appât volontaire, dans le couloir exact où les lignes convergent vers l'ancien fossé de barrière — la fosse du péage mort, quatre mètres de pierre à pic.
+
+Le Chien charge l'intrus comme il a chargé tout ce qui est monté en dix-neuf ans : en ligne droite, énorme, sûr de son bon droit.
+
+La première ligne le prend au jarret. La deuxième plie sa course de trois degrés — trois degrés qui suffisent. La troisième l'attend au bord, tendue à hauteur de poitrail par un tisserand qui a calculé l'angle sur le cadavre d'un serviteur de four — et six mille cinq cents kilos de gardien basculent dans le fossé de barrière avec un bruit de fin d'époque.
+
+Il ne meurt pas de la chute. Il meurt de ce qui l'attend au fond : elle, descendue dans la fosse avant lui, le couteau des deux mains, au seul endroit que dix-neuf ans de combats ont laissé sans cicatrice et sans défense — et ses mains à elle ne tremblent pas, parce que ce sont ses vraies premières mains et qu'elle les étrenne sur sa faim.
+
+⟨LE CRI DE LA PRISE⟩. Le hurlement signé jaillit du fossé et remonte le col comme une marée — il roule sur l'auberge morte, sur les lacets, sur la crête — et il entre dans la montagne. Quelque part au-dessus, derrière un portail effondré que les fumées mêmes évitent, le cri s'engouffre... et ne ressort pas. Comme avalé. Comme écouté.
+
+Dans le silence d'après, très loin dans la roche, quelque chose d'immense change de position — vers eux.
+
+Elle mange le cœur dans la fosse, à même la prise, comme la loi des cœurs l'exige.
+
+La transformation la prend avant la fin. Les pattes-mains s'achèvent — cinq doigts vrais, des paumes, des phalanges qui se déplient comme un ouvrage qu'on démoule. Le museau fond — le profil s'aplanit, le visage remonte, et ce qui se relève au fond du fossé de barrière, dans le premier gris de l'aube, est une silhouette d'un mètre trente-cinq aux longues oreilles et aux yeux de jade, plus fille que bête désormais, qui regarde ses mains neuves ouvertes sous le ciel en respirant fort.
+
+« Des mains », dit-elle. Et puis, plus bas, en fermant les poings : « Mes mains. »
+
+⚑ chiffre 4 055 → 10 555 · LE POURPRE (le cœur du gardien, pris entier — l'indigo au poignet est déjà périmé)
+⚑ la bête — jalons 6/9 · LES MAINS — ~1,35 m, cinq doigts vrais, le museau parti. Sa dernière prise : le Chien, 6 500.
+
+Le butin du gardien dort dans son creux : dix-neuf ans de charges confisquées — la plupart pourries, mais le métal et la pierre demeurent : neuf pierres d'esprit en bourses de convoyeurs morts, des ferrures, et un ballot intact marqué au fer des Fours — un mètre vingt de fil-d'or-froid, une cargaison entière que le col a avalée il y a des années. Deux mètres au total, désormais : la matière du cran 4 est constituée. Et la peau du Chien, qui tient le gel comme un mur.
+
+Au matin, il n'y a rien à cacher : la maison voit. Armande est debout dans la cour quand ils redescendent — la silhouette nouvelle à côté de Seb, la peau grise roulée sur son épaule à lui, et le col, au-dessus, silencieux pour la première fois en dix-neuf ans.
+
+Elle ne crie pas. C'est pire. Elle regarde le col longtemps, puis le garçon, et sa voix a l'âge qu'elle n'avait jamais montré :
+
+« Tu as tué le gardien de ma maison à quatre jours de la Montre. » Un temps. « Alors maintenant tu vas savoir ce qu'il gardait — parce que tu viens d'hériter de sa ronde. »
+
+Et la bouche s'ouvre enfin, contre quelque chose, comme s'ouvrent toutes les vraies révélations : il y a dix-neuf ans, les mineurs du versant nord ont percé une poche dans la montagne — quelque chose de vieux, de tissé, que la pioche n'aurait jamais dû toucher. Ce qui suintait de la brèche rendait les bêtes folles à trois vallées. Le père d'Armande a acheté tous les silences, fermé le col de sa propre main, dénoué son propre rang à la Montre pour que plus personne n'ait de raison de monter — et posé le Chien dessus, lié à la maison, pour que rien n'approche de la brèche. La charte qu'elle défend n'est pas un péage : c'est le droit de garder le col fermé.
+
+« Le Chien est mort. La brèche est nue. Et ce que ton cri de chasse vient de réveiller sait désormais qui habite en bas. » Elle ramasse ses jupes, tourne vers la maison. « Gagne cette Montre, garçon. Il me faut le rang — et il me faut le temps qu'il achète. Après, toi et moi et ta tueuse aux mains neuves, on montera ensemble voir ce que mon père a enterré. »
+
+Derrière elle, sur le seuil, Perrine n'a pas bougé depuis le début — elle regarde la fille-bête aux yeux de jade, la peau du gardien, le col ouvert, et sa guerre froide personnelle vient de trouver infiniment plus grand qu'elle.
+
+*(Suivaient : l'ÉTAT — 10 555 POURPRE, CORPS 3/4, sept portes dont ⟨LA TRAME⟩, ⟨SANS ÉCOLE⟩, ⟨LA MAIN DE MAÎTRE⟩, ⟨SA LECTURE FAIT FOI⟩ ; esprit A✓ B✓ C✓ ; L'ADDITION — le registre des dettes à quatre lignes ; les horloges — LA MONTRE DANS QUATRE JOURS, la montée à la brèche après, « ce qui est dans la montagne écoute vers le bas » ; et le bloc : partir courir la Montre · un jour pour travailler la peau du Chien · monter voir la brèche AVANT, contre le pacte — désavantage gros, ligne mort.)*
+
+> *Leçons des 37-38 : un triomphe retourne une salle entière (le suspect devient l'expert, et la porte qui en naît est sociale) ; l'indice planté accuse tout le monde et personne ; le piège d'un tisserand est de la géométrie racontée (trois degrés qui suffisent) ; la prise nourrit TOUT — le palier, le chiffre, le butin, la révélation, la menace suivante ; une révélation tombe d'un coup, par une bouche, contre quelque chose (Armande, contre le gardien mort) ; et L'ADDITION : Seb tient un registre de dettes nommées, et le jeu le lui affiche.*
