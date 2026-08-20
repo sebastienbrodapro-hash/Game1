@@ -312,7 +312,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 3. **les Ruches de l'adret** *(Long Pré)* — la cire à sceaux et la gelée qui charge le sang. Mord : l'essaim, la chute.
 4. **le Grenier aux Cocons** *(File, futaie haute)* — des cocons d'esprit sauvages. Mord : ce qui les garde (§7.1), et la futaie qui tourne — on ressort ailleurs qu'on est entré.
 5. **la Fonte de printemps** *(Noyée)* — plonger aux cloches englouties à l'à-sec. Mord : l'apnée, la vase, le Vieux (§7.10).
-6. **le filon de fil-d'or-froid** *(Fours)* — en tirer deux mètres à main nue. Mord : le fil coupe les doigts qui le tirent, et la galerie est disputée.
+6. **le filon de fil-d'or-froid** *(Fours)* — en tirer deux mètres à main nue. Mord : le fil coupe les doigts qui le tirent, et la galerie est disputée. **⚑ tirés sc. 26 : ~2 m (+ le touret racheté) chez Seb — montés en arme sc. 30.**
 7. **le Four-Mère** *(Fours)* — tenir la chambre de chauffe sept jours avec les tuiles. Trempe sèche, brûlures franches. Le maître laisse entrer qui stoke — c'est sa seule morale.
 8. **la Corde des Aiguilles** *(File)* — traverser le col fermé par la sente des chèvres. Mord : ce qui a fermé le col (§7.2), le vide, l'hiver.
 9. **les Orgues de Glace** *(Cloches Mortes)* — tenir un jour et une nuit dans les orgues quand le vent du nord les fait chanter : le froid et le son travaillent la chair ensemble. Mord : **ligne mort**, simple et vraie — le froid ne négocie pas.
@@ -329,7 +329,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 20. **l'Écheveau du Noyé** *(Noyée)* — démêler les filets d'un mort sans couper un fil. Les pêcheurs paient, et le lac rend parfois autre chose. Mord : ce qui a noyé le pêcheur.
 21. **le Toit du Cloître** *(Icônes)* — retisser la grande tenture du porche, un mois sous les yeux des morts. L'art y monte (usage marquant garanti), et le cloître doit ensuite une réponse. Mord : rater devant tous.
 22. **la Course du Dégel** *(Portefaix, printemps)* — la première caravane passée au dégel prend les prix de l'hiver. Une course, littéralement. Mord : les avalanches, et les autres.
-23. **les Trois Jarres de la Retenue** *(Charmoy)* — sous la grande Retenue — le barrage qui tient l'eau des moulins, trois jarres scellées d'avant le bourg. Mord : l'apnée, le sacrilège — et ce qui habite les lavoirs (§7.5). Firmin paierait pour savoir qui.
+23. **les Trois Jarres de la Retenue** *(Charmoy)* — sous la grande Retenue — le barrage qui tient l'eau des moulins, trois jarres scellées d'avant le bourg. Mord : l'apnée, le sacrilège — et ce qui habite les lavoirs (§7.5). Firmin paierait pour savoir qui. **✔ faite sc. 23 (la Dame a rendu les jarres) ; la marque vendue à Firmin sc. 24.**
 24. **le Mur des Prises** *(Hautefoire, l'arène)* — les primes affichées : des bêtes à prendre **vivantes** pour les jeux. Mord : vivantes — c'est toute la difficulté.
 25. **la Borne Descellée** *(Grand-Traverse)* — une borne de cadastre descellée par le gel : qui la ressoude à sa place gagne le droit qu'elle marque. Mord : les arpenteurs du Pavois d'Étain, et le faux pas de titre.
 
@@ -341,7 +341,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 
 1. **la Doyenne des Cocons** — **800** — la futaie du Grenier (File). Un ver d'avant la mesure, aveugle, qui entend le pas. Rend : **la soie qui ne casse pas** (⟨FIL⟩ cran 3). Protégée par : ses fils partout, et la futaie qui tourne.
 2. **le Cerf de Suie** — **6 500** — le grand cerf noir de la Vallée des Fours, qui traverse les fumées où tout suffoque ; trois hivers de chariots renversés. Rend : une ramure qui ne chauffe jamais — les forges s'en font des pinces à creuset — et la prime des syndics.
-3. **le Taureau du Long Pré** — **1 200** — échappé des haras, trois hivers de rapines. Rend : le cuir, le cœur, la prime des dresseurs.
+3. **le Taureau du Long Pré** — **1 200** — échappé des haras, trois hivers de rapines. Rend : le cuir, le cœur, la prime des dresseurs. **✔ abattu sc. 28 — cloué (le Clou), cœur pris, prime payée par Léonce (8 pierres), cuir vendu aux forges (sc. 29).**
 4. **la Truite-Mère** — **2 000** — sous les pilotis de la Noyée. Rend : des œufs qui chargent l'eau où on les pose.
 5. **la Dame des Lavoirs** — **4 000** — ce qui a élu domicile sous les lavoirs de Charmoy **depuis la crue**, et qui essore ce qui s'attarde après la nuit. Rend : son cœur d'eau — une outre qui ne se vide jamais. *(Le bourg ne lave plus après le coucher, et n'en parle pas.)* **⚑ Jouée sc. 17-19** : registre acquis (heure, frontière de l'eau, tournée — depuis changée, dalle fendue veillée) ; a rendu une taille du fond et encaissé le prix (le bras) ; sait qu'on l'observe.
 6. **le Sel-qui-Marche** — **3 000** — une concrétion qui a pris goût aux mineurs. Rend : le sel-roi de son cœur.
@@ -376,7 +376,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 ### 8.8-8.18 · Les autres rites
 
 8. **l'examen du Gant Blanc** *(printemps, Hautefoire)* — la secte prend à l'examen, jamais à la naissance ; trois portes, un refus par porte.
-9. **la Grande Pesée** *(Charmoy, été)* — le concours des chargements : attacher la charge impossible, la monter au col et revenir entière. Gagne **la boucle de jade** — l'outil d'un maître chargeur — et les commandes de l'année.
+9. **la Grande Pesée** *(Charmoy, été)* — le concours des chargements : attacher la charge impossible, la monter au col et revenir entière. Gagne **la boucle de jade** — l'outil d'un maître chargeur — et les commandes de l'année. **✔ gagnée sc. 27 — la meule cousue ; la boucle au Fileur, le surnom retourné.**
 10. **la pesée d'embauche** *(partout)* — on pèse qui on embauche ; refuser la pierre, c'est doubler le soupçon.
 11. **l'ordalie du cloître** *(Icônes)* — jurer sa cause à voix haute et tirer : **le Carreau du Serment** se gagne là, et nulle part ailleurs.
 12. **le rachat de charte** *(Hautefoire, l'encan annuel)* — huissiers des tailles, enchères, dettes au bout de la taille (§6.17).
@@ -489,7 +489,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 
 ## 14 · LA RÉSERVE DE PRÉNOMS
 
-**Occidentaux, courts, un nouveau par scène et seulement s'il agit.** Déjà pris (passes 8-9) : **Gaucher, Margot, Firmin** (Charmoy) — et : **Honoré** (le père), **Denise** (la mère), **Colin** (le frère de la chapelle), **Jacquette, Odile, Blaise** (la liasse) — et **Marceau** (le fabricant de harnais du Long Pré, taille 4, nommé sc. 10). ⛔ **Les prénoms consommés par la version perdue ne renomment personne de neuf** : Garin, Thibaut, Mahaut, Aubin, Perrot, Josselin, Félicien, Gros-Jean — **ni Armande, Basile, Perrine (le Dernier Col est retiré du monde)**, **ni Berthe, Norbert, Sidonie, Gaspard (le départ Fuseau est retiré, passe 9)**. Réserve : Isaure, Léonce, Tiphaine, Hersent, Aliénor, Clémence, Colette, Aymeric, Rémi. *(Les noms civet — Yvon, Alban, Gilles, Hugues, Renaud, Brice, Maud, Tessa — sont morts avec leur monde et ne se réutilisent pas.)*
+**Occidentaux, courts, un nouveau par scène et seulement s'il agit.** Déjà pris (passes 8-9) : **Gaucher, Margot, Firmin** (Charmoy) — et : **Honoré** (le père), **Denise** (la mère), **Colin** (le frère de la chapelle), **Jacquette, Odile, Blaise** (la liasse) — et **Marceau** (le fabricant de harnais du Long Pré, taille 4, nommé sc. 10). ⛔ **Les prénoms consommés par la version perdue ne renomment personne de neuf** : Garin, Thibaut, Mahaut, Aubin, Perrot, Josselin, Félicien, Gros-Jean — **ni Armande, Basile, Perrine (le Dernier Col est retiré du monde)**, **ni Berthe, Norbert, Sidonie, Gaspard (le départ Fuseau est retiré, passe 9)**. Réserve : Isaure, Tiphaine, Hersent, Aliénor, Clémence, Colette. *(Pris en jeu : Léonce sc. 11 · Aymeric sc. 27 · Rémi sc. 29.)* *(Les noms civet — Yvon, Alban, Gilles, Hugues, Renaud, Brice, Maud, Tessa — sont morts avec leur monde et ne se réutilisent pas.)*
 
 ## 15 · COUPE NETTE
 
@@ -525,7 +525,7 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | 4 | un fabricant de harnais du Long Pré | 12 taels | prospère ; paie sans ciller — et propose du travail, parce qu'un garçon qui recouvre sait tenir un compte · **✔ payée, nommé Marceau, offre de travail faite (sc. 10)** |
 | 5 | la doyenne d'un hameau des Meules | 8 taels | le hameau a brûlé il y a quatre ans — plus de débiteur, plus de bouches : une dette peut mourir |
 | 6 | Odile, aubergiste au col des Charrettes | 20 taels | conteste tout : sa moitié « a brûlé » — un doigt sur la cire dirait si elle ment |
-| 7 | un compagnon des Fours | 1 pierre | muré en réclusion au fond de mine pour une saison : attendre, ou descendre le chercher |
+| 7 | un compagnon des Fours | 1 pierre | muré en réclusion au fond de mine pour une saison : attendre, ou descendre le chercher · **✔ payée, nommé Rémi (sc. 29)** |
 | 8 | les Sœurs du Lac | 3 pierres de fournitures | « les Sœurs ne doivent rien à personne, c'est connu » — leur balance dira le contraire |
 | 9 | un patron-pêcheur de la Noyée | 2 pierres | jure avoir payé Honoré **en main propre, la veille de la crue** — alors où est passé l'argent d'Honoré ? |
 | 10 | Blaise, courtier à Hautefoire | 10 pierres | devenu riche SUR l'avance d'Honoré ; paiera le principal en souriant — et l'idée d'avoir une dette le ronge plus que la dette |
