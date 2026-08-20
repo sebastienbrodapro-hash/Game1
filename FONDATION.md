@@ -251,6 +251,8 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 4. **Son refus dur : lui mentir à elle.** Tout au monde est négociable — ruse, masque, silence — sauf entre eux deux. *Corollaire MJ : aucune option ne lui met jamais un mensonge à elle dans la bouche.*
 5. **Son horizon s'arrête au sommet de la strate** *(joueur, 2026-08-20)* : Seb **ne sait pas qu'une deuxième strate existe**, ni les puissances au-dessus — comme tout le monde ici : du seuil de la Dernière Marche, personne ne redescend rien dire. Pour lui, les 100 000 sont le toit du monde, et c'est ce toit qu'il vise. Ce qu'il y a au-delà sera une **découverte qui lui arrive**, jamais un projet — le MJ ne fait jamais parler la fiction comme si le personnage connaissait l'étage suivant.
 
+> **LE SYMBOLE DE LA CAMPAGNE** *(joueur, 2026-08-20)* : *« Se sentir puissant, mais n'être qu'une grenouille au fond d'un puits — et ce puits est dans un puits, et ainsi de suite. C'est le symbole du xianxia. »* Chaque sommet est une margelle. Les quatre strates et leurs ×1000 (§2) sont l'architecture de cette phrase ; les traits 5 des deux psychés en sont la chair : on grimpe de toutes ses forces vers un ciel qui n'est que le couvercle du puits suivant — et chaque fois qu'on le perce, le monde recommence, plus grand.
+
 ### 6.3 · LES CHANTIERS SYSTÈMES — dus avant la scène 1 *(directives du joueur, 2026-08-18 — le détail se conçoit et se valide avant d'entrer dans `SYSTEMES.md`)*
 
 1. **L'échelle de Corps profonde, nommée d'avance.** *« La LUMIÈRE en strate 1, et après il n'y avait rien. Il en faut beaucoup plus. »* **✔ Gravé le 2026-08-18** : seize grades nommés sur quatre cycles — `SYSTEMES` §1.0, valeurs dans `SEUILS`.
