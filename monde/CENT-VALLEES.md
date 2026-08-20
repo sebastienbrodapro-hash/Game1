@@ -342,7 +342,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 1. **la Doyenne des Cocons** — **800** — la futaie du Grenier (File). Un ver d'avant la mesure, aveugle, qui entend le pas. Rend : **la soie qui ne casse pas** (⟨FIL⟩ cran 3). Protégée par : ses fils partout, et la futaie qui tourne.
 2. **le Cerf de Suie** — **6 500** — le grand cerf noir de la Vallée des Fours, qui traverse les fumées où tout suffoque ; trois hivers de chariots renversés. Rend : une ramure qui ne chauffe jamais — les forges s'en font des pinces à creuset — et la prime des syndics.
 3. **le Taureau du Long Pré** — **1 200** — échappé des haras, trois hivers de rapines. Rend : le cuir, le cœur, la prime des dresseurs. **✔ abattu sc. 28 — cloué (le Clou), cœur pris, prime payée par Léonce (8 pierres), cuir vendu aux forges (sc. 29).**
-4. **la Truite-Mère** — **2 000** — sous les pilotis de la Noyée. Rend : des œufs qui chargent l'eau où on les pose.
+4. **la Truite-Mère** — **2 000** — sous les pilotis de la Noyée. Rend : des œufs qui chargent l'eau où on les pose. **✔ abattue sc. 32 — clouée, cœur pris ; les œufs partis en mémoire (la logeuse) et en péage (la Dame).**
 5. **la Dame des Lavoirs** — **4 000** — ce qui a élu domicile sous les lavoirs de Charmoy **depuis la crue**, et qui essore ce qui s'attarde après la nuit. Rend : son cœur d'eau — une outre qui ne se vide jamais. *(Le bourg ne lave plus après le coucher, et n'en parle pas.)* **⚑ Jouée sc. 17-19** : registre acquis (heure, frontière de l'eau, tournée — depuis changée, dalle fendue veillée) ; a rendu une taille du fond et encaissé le prix (le bras) ; sait qu'on l'observe.
 6. **le Sel-qui-Marche** — **3 000** — une concrétion qui a pris goût aux mineurs. Rend : le sel-roi de son cœur.
 7. **l'Abbé Couché** — **9 000** — le mort qui garde la crypte des tailles (Icônes). Rend : les titres en déshérence qu'il couve. Le cloître ne dira jamais merci.
@@ -489,7 +489,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 
 ## 14 · LA RÉSERVE DE PRÉNOMS
 
-**Occidentaux, courts, un nouveau par scène et seulement s'il agit.** Déjà pris (passes 8-9) : **Gaucher, Margot, Firmin** (Charmoy) — et : **Honoré** (le père), **Denise** (la mère), **Colin** (le frère de la chapelle), **Jacquette, Odile, Blaise** (la liasse) — et **Marceau** (le fabricant de harnais du Long Pré, taille 4, nommé sc. 10). ⛔ **Les prénoms consommés par la version perdue ne renomment personne de neuf** : Garin, Thibaut, Mahaut, Aubin, Perrot, Josselin, Félicien, Gros-Jean — **ni Armande, Basile, Perrine (le Dernier Col est retiré du monde)**, **ni Berthe, Norbert, Sidonie, Gaspard (le départ Fuseau est retiré, passe 9)**. Réserve : Isaure, Tiphaine, Hersent, Aliénor, Clémence, Colette. *(Pris en jeu : Léonce sc. 11 · Aymeric sc. 27 · Rémi sc. 29.)* *(Les noms civet — Yvon, Alban, Gilles, Hugues, Renaud, Brice, Maud, Tessa — sont morts avec leur monde et ne se réutilisent pas.)*
+**Occidentaux, courts, un nouveau par scène et seulement s'il agit.** Déjà pris (passes 8-9) : **Gaucher, Margot, Firmin** (Charmoy) — et : **Honoré** (le père), **Denise** (la mère), **Colin** (le frère de la chapelle), **Jacquette, Odile, Blaise** (la liasse) — et **Marceau** (le fabricant de harnais du Long Pré, taille 4, nommé sc. 10). ⛔ **Les prénoms consommés par la version perdue ne renomment personne de neuf** : Garin, Thibaut, Mahaut, Aubin, Perrot, Josselin, Félicien, Gros-Jean — **ni Armande, Basile, Perrine (le Dernier Col est retiré du monde)**, **ni Berthe, Norbert, Sidonie, Gaspard (le départ Fuseau est retiré, passe 9)**. Réserve : Isaure, Tiphaine, Aliénor, Clémence, Colette. *(Pris en jeu : Léonce sc. 11 · Aymeric sc. 27 · Rémi sc. 29 · Hersent sc. 40.)* *(Les noms civet — Yvon, Alban, Gilles, Hugues, Renaud, Brice, Maud, Tessa — sont morts avec leur monde et ne se réutilisent pas.)*
 
 ## 15 · COUPE NETTE
 
@@ -526,12 +526,12 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | 5 | la doyenne d'un hameau des Meules | 8 taels | le hameau a brûlé il y a quatre ans — plus de débiteur, plus de bouches : une dette peut mourir |
 | 6 | Odile, aubergiste au col des Charrettes | 20 taels | conteste tout : sa moitié « a brûlé » — un doigt sur la cire dirait si elle ment |
 | 7 | un compagnon des Fours | 1 pierre | muré en réclusion au fond de mine pour une saison : attendre, ou descendre le chercher · **✔ payée, nommé Rémi (sc. 29)** |
-| 8 | les Sœurs du Lac | 3 pierres de fournitures | « les Sœurs ne doivent rien à personne, c'est connu » — leur balance dira le contraire |
-| 9 | un patron-pêcheur de la Noyée | 2 pierres | jure avoir payé Honoré **en main propre, la veille de la crue** — alors où est passé l'argent d'Honoré ? |
+| 8 | les Sœurs du Lac | 3 pierres de fournitures | « les Sœurs ne doivent rien à personne, c'est connu » — leur balance dira le contraire · **✔ payée sc. 36 — le lac a jugé contre elles ; rancune durable** |
+| 9 | un patron-pêcheur de la Noyée | 2 pierres | jure avoir payé Honoré **en main propre, la veille de la crue** — alors où est passé l'argent d'Honoré ? · **✔ payée sc. 33 — a avoué le mensonge acheté (l'homme sans nom, l'année de la crue)** |
 | 10 | Blaise, courtier à Hautefoire | 10 pierres | devenu riche SUR l'avance d'Honoré ; paiera le principal en souriant — et l'idée d'avoir une dette le ronge plus que la dette |
 | 11 | une maison de col des Meules | 25 pierres | la taille a financé leur péage : la solder, c'est admettre publiquement que **leur charte est gagée** |
-| 12 | le maître de l'arène de la Coupe | 40 pierres | propose de payer « en faveur d'arène » — la porte la plus dangereuse de la liasse |
-| 13 | la Voie des Fours | 60 pierres de métal jamais livré | une secte ne rend pas de comptes à un cendre : il faudra peser plus lourd, ou plus malin |
+| 12 | le maître de l'arène de la Coupe | 40 pierres | propose de payer « en faveur d'arène » — la porte la plus dangereuse de la liasse · **✔ payée pleine sc. 38, après cinq angles refusés** |
+| 13 | la Voie des Fours | 60 pierres de métal jamais livré | une secte ne rend pas de comptes à un cendre : il faudra peser plus lourd, ou plus malin · **✔ payée sc. 31 — la pierre de passage a rendu bleu devant les Terrasses** |
 | 14 | **la taille sans nom** | inconnu | la plus vieille de la liasse, la moitié anonyme — et c'est **Honoré** le débiteur *(le tronc)* |
 | 15 | **LA GRANDE TAILLE** | le débiteur est en code | la moitié d'une dette énorme, chiffrée dans le code de colporteur d'Honoré — ce qu'elle vaut, qui la doit, et pourquoi la crue : **le tronc** · **ligne mort, un jour** |
 

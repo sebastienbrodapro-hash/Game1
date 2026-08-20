@@ -59,3 +59,8 @@ Il y a vingt-deux ans, un jeune colporteur nommé Honoré a avancé à un homme 
 ## 9 · LA TAILLE REMONTÉE *(jouée sc. 19 — versée au codex-002)*
 
 La demi-taille rendue par la Dame des Lavoirs est **l'une des tailles que la crue devait noyer** (§4). Son compte lisible : trois cents pierres au moins ; sa marque de tête, à demi rongée, reste reconnaissable à vue. **Le débiteur des trois cents pierres est un allié du commanditaire de la crue** (§7) : reconnaître la marque, c'est poser le premier doigt sur la Voie des Bouches Cousues (§4). La Dame l'a gardée neuf ans parce qu'elle garde ce que la crue a pris — et l'a rendue parce que l'héritier est venu la chercher sur sa pierre : elle rend ce qui n'est pas à elle, au prix de son eau.
+
+
+## 10 · LA MARQUE COMPLÈTE *(joué sc. 33-40 — versé au codex-004)*
+
+Le pêcheur de la Noyée a avoué (sc. 33) : payé deux pierres l'année de la crue par **un homme sans nom, accent de l'aval**, pour jurer une tournée d'Honoré qui n'a jamais eu lieu — le dernier jour du père a été fabriqué. Le batelier Hersent (sc. 40) a livré la suite : l'homme fut accueilli à l'atterrissage de l'aval par une barge portant plomb de maison, et **le plomb oublié dans sa barque porte la marque entière** — la même famille de marque que la taille remontée (§9) et que la marque cousine vue par Gaucher. **L'homme sans nom est un agent de la maison débitrice des trois cents pierres** — l'alliée du commanditaire (§7). Seb tient la marque complète, reconnaissable à vue ; **le nom de la maison reste à livrer** (il rejoint le réseau scellé du §7 — le lier à un nom se fera par livrer-nom, le jour venu).
