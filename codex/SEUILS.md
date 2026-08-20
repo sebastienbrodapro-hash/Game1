@@ -11,10 +11,13 @@
 | Total | Bande | Jetons |
 |---|---|---|
 | **01-10** | minimum vital | **+2** |
-| **11-25** | réduit + complication | **+1** |
-| **26-50** | obtenu, à un prix | — |
-| **51-89** | plein, sans prix | — |
+| **11-30** | complication | **+1** |
+| **31-50** | obtenu, à un prix | — |
+| **51-70** | pleinement, sans prix | — |
+| **71-89** | un petit plus | — |
 | **90-100** | au-delà | — |
+
+**⛔ NATUREL 1 / NATUREL 100 — LE MONDE CHANGE RADICALEMENT**, en mal ou en bien (porte comprise, tout dû dans la scène même). Les critiques ordinaires (naturel 01-10 / 90-100) restent inchangés.
 
 *(Recalage 2026-08-16, puis **redurci par le joueur le 2026-08-20** : « le minimum vital tu le redresses de 1 à 10 et l'au-delà tu le resserres 90 à 100 » — les deux bandes extrêmes s'alignent sur les critiques naturels. Échec dur : 10 %. Au-delà : 11 %.)*
 

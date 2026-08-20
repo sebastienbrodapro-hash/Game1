@@ -33,21 +33,29 @@ def tirer(mod: int) -> tuple[int, int]:
 
 def lire(naturel: int, total: int) -> tuple[str, int, str]:
     """Rend (bande, jetons gagnés, mouvement de porte) pour un dé donné."""
-    # Table recalée le 2026-08-16 par le joueur : l'ancienne (10/35/65/89)
-    # faisait coûter 65 % des jets avant même les modificateurs, et ceux-ci
-    # tournaient tous en négatif. Pleins ou mieux : 50 %. Échec dur : 5 %.
+    # Table à huit bandes, dictée par le joueur le 2026-08-20 : trois
+    # négatives (01-50), trois positives (51-100), les extrêmes alignés sur
+    # les critiques — et le naturel 1 / 100 change radicalement le monde.
     if total <= 10:
         bande, jetons = "01-10 — minimum vital de l'intention", 2
-    elif total <= 25:
-        bande, jetons = "11-25 — version réduite + une complication", 1
+    elif total <= 30:
+        bande, jetons = "11-30 — complication", 1
     elif total <= 50:
-        bande, jetons = "26-50 — obtenu, à un prix (joué dans la prose)", 0
+        bande, jetons = "31-50 — obtenu, à un prix (joué dans la prose)", 0
+    elif total <= 70:
+        bande, jetons = "51-70 — pleinement, sans prix", 0
     elif total <= 89:
-        bande, jetons = "51-89 — pleinement, sans prix", 0
+        bande, jetons = "71-89 — un petit plus", 0
     else:
         bande, jetons = "90-100 — au-delà", 0
 
-    if naturel <= 10:
+    if naturel == 1:
+        porte = ("CATACLYSME — naturel 1 : LE MONDE CHANGE RADICALEMENT, "
+                 "EN MAL. Porte négative comprise, tout dû dans la scène même.")
+    elif naturel == 100:
+        porte = ("MIRACLE — naturel 100 : LE MONDE CHANGE RADICALEMENT, "
+                 "EN BIEN. Porte positive comprise, tout dû dans la scène même.")
+    elif naturel <= 10:
         porte = ("CATASTROPHE (naturel) — une porte NÉGATIVE s'ouvre ou "
                  "s'aggrave d'un cran, DUE DANS LA SCÈNE MÊME (§41)")
     elif naturel >= 90:
@@ -55,10 +63,6 @@ def lire(naturel: int, total: int) -> tuple[str, int, str]:
                  "d'un cran, DUE DANS LA SCÈNE MÊME (§27)")
     else:
         porte = "aucun mouvement de porte"
-        if total >= 90:
-            porte += " · petit plus dans la conséquence (total >= 90, §35)"
-        elif total <= 10:
-            porte += " · conséquence plus mauvaise (total <= 10, §35)"
 
     return bande, jetons, porte
 
