@@ -57,3 +57,12 @@ Le pêcheur de la Noyée a avoué (sc. 33) : payé deux pierres l'année de la c
 
 
 **Ajout sc. 60 (codex-006)** : l'intendant aux gants gris cueilli et retourne — **c'est lui, l'homme sans nom** : le pecheur paye, la tournee fabriquee, la barque, le plomb oublie. Aveu joue : « on n'a pas touche a l'eau — on a nettoye la rive », l'ordre venu **scelle, de l'amont** (le reseau du §7) ; l'intendant n'a jamais eu de nom a donner (lettre scellee, bourse, pas de nom) — **le doyen, lui, sait pour qui**. Le « chemin » du §-ci-dessus est joue et connu du joueur : des noyeurs de barges payes contre la barge de l'huissier au defile des Peupliers (6 jours avant la seance). **La page de la rive** (comptes de la crue, main de l'intendant, contre-marque du doyen) est entre les mains de Seb — la maison est documentee. Ce qui reste au tronc : le nom de la maison (reseau §7, livrer-nom le jour venu), et tout le §7.
+
+
+## 11 · LA COUCHE HAUTE — le dessous *(passe 10, codex-006)*
+
+**La Recluse ecoute l'ouvrage.** Les temples des Cloches Mortes sont une piece de l'ouvrage du §1 — la Recluse est montee il y a quarante ans parce qu'elle a entendu, une nuit sans lune, ce que le Repondant repete : **un fragment de la voix de {{SCELLE:l'Ourdisseuse}}**, garde dans le bronze comme un echo dans une cloche. Elle n'a pas redescendu parce qu'elle n'a pas fini d'ecouter. Le Repondant est un outil laisse, de la meme lignee que le Grand Cadre et les Cloches — le sonner avec la Cloche Felee, c'est reveiller l'echo entier. **La nuit de la cloche de Seb (§2) : la Recluse l'a entendue par les cretes, comme le cloitre.** Elle sait qu'un sang a fait parler le bronze sans fin. Elle attend de voir qui montera.
+
+**Le Meleze-Roi** est un survivant : la seule chose plantee AVANT l'ouvrage qui ait pousse a travers lui. Son ambre garde la memoire de ce que les vallees etaient avant d'etre des vallees. Le cloitre ne le sait pas — il le venere de travers.
+
+**La Muette-mere** : voir §5. Les couvees (20-60k) montent en age et en poids vers le fond ; ce qui se dit « au-dela de 200 000 » est une borne basse — personne n'a mesure, et l'instrument qui la mesurerait n'existe pas dans la strate.

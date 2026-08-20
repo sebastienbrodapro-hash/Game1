@@ -83,7 +83,7 @@ Les cloîtres gardent les vieux autels et la mémoire des morts. Tenue reconduit
 | **les anciens d'or** (une poignée par génération) | 20 000-59 999 |
 | **les sommets** — on les compte sur une main dans tout l'archipel | 60 000+ |
 
-**La composition ne se lit jamais** (`SYSTEMES` §0) : corps ou qi, l'instrument rend une somme. Les arts, l'équipement, le potentiel : invisibles.
+**La composition ne se lit jamais** (`SYSTEMES` §0) : corps ou qi, l'instrument rend une somme. Les arts, l'équipement, le potentiel : invisibles. **Au-dessus de 100 000 : §18 — la couche haute (passe 10).**
 
 ---
 
@@ -502,15 +502,15 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | `equipement` | **§5.1** (30 objets, cinq voies) · **§5.2** (5 objets de portée) · §5.0 (prix) |
 | `marchandage` | **§17 (la liasse d'Honoré)** · §5.0 (prix, bourses) · la halle de Fuseau · Hautefoire et ses enchères · §6.17 (l'encan des chartes) · §8.12 |
 | `chance` | **§6** (25, réparties sur l'archipel — le voyage les découvre) |
-| `grosse_piece` | **§7** (18, de 800 à 45 000 — l'échelle de chasse est aussi son garde-manger à elle) |
+| `grosse_piece` | **§7** (18, de 800 à 45 000) · **§18.2 (la couche haute : 80 000 → au-delà de 200 000)** — l'échelle de chasse est aussi son garde-manger à elle |
 | `rite` | **§8** — le Grand Ban (§8.1) et les onze rites (§8.8-8.18) |
 | `mesure` | **§9** (22 occasions + l'infrastructure) |
 | `reclusion` | **§10** (9 lieux, durées écrites) |
-| `arrogance` | **§11** (5 sectes, 10 figures, registres variés) |
+| `arrogance` | **§11** (5 sectes, 10 figures, registres variés) · **§18.1 (les Sommets)** · §18.4 (la pavane — l'inverse exact, à servir autant) |
 | `art` | **§12** (⟨LE FIL⟩ cran par cran + 11 arts d'en face) |
 | `noir` | **§13** (3 voies) · **§17 (les tailles contestées et la Grande)** · §5.1.26-30 (ce qui se vole) · §6.10, §6.17, §6.23 |
 | `bete` | chaque scène (règle dure) — **§2.2bis** (le regard du monde, le mortier, ce qui s'achète pour elle) · §7 comme échelle de nourriture (`FONDATION` §3.3) |
-| `atout` | **§17 — chaque dette soldée peut devenir une porte** · §8.14 (la veillée) · §8.16 (la sente) · Gaucher, Margot, frère Colin |
+| `atout` | **§17 — chaque dette soldée peut devenir une porte** · **§18.3 (bâtir : chartes, déshérences, alliances)** · §8.14 (la veillée) · §8.16 (la sente) · Gaucher, Margot, frère Colin |
 | `corps` | §6.1, §6.2, §6.7, §6.9, §6.19 (occasions taillées dans le paysage) · §10.3, §10.8 (réclusions de chair) |
 
 ## 17 · LA LIASSE D'HONORÉ — LES QUINZE TAILLES *(passe 8 — remises par frère Colin au soir du rite)*
@@ -536,3 +536,82 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | 15 | **LA GRANDE TAILLE** | le débiteur est en code | la moitié d'une dette énorme, chiffrée dans le code de colporteur d'Honoré — ce qu'elle vaut, qui la doit, et pourquoi la crue : **le tronc** · **ligne mort, un jour** |
 
 **Conduite** : les tailles se servent dans le désordre, au rythme de ses routes — jamais en liste de courses. Une taille recouvrée peut devenir une **porte** (un débiteur soldé est un homme soulagé), une taille contestée un **arc court**, une taille dangereuse une **horloge**. Le compteur les sert via `marchandage`, `atout` et `noir`.
+
+---
+
+## 18 · LA COUCHE HAUTE *(passe 10 — 2026-08-20, codex-006 : le joueur est passé au-dessus du sommet écrit (104 491) et veut ~200 scènes dans la strate sans « drama vioque ». Tout ce qui suit est **préexistant** — c'était là avant lui, le monde ne l'avait simplement jamais eu de raison de le montrer. Quatre piliers commandés : la pavane, bâtir, elle, le sommet d'histoire.)*
+
+### 18.0 · La loi de la couche — ce qui mord encore
+
+Au-dessus de 100 000, **le chiffre cesse d'être l'histoire**. Ce qui mord à cette hauteur existe depuis toujours, en trois familles — aucune n'est du gonflement (§E.0 : préexistant = matière) :
+
+1. **Les arts de domaine au dernier cran** (`SYSTEMES` §5.2, §12.2) : dans son domaine, un maître à 60 000 **est** sa forge, sa table, son lac — le régime de l'art y vaut, et le chiffre brut n'y suffit pas. C'est la seule monnaie que Seb connaît déjà : la Marionnette joue à cette table.
+2. **Le nombre organisé** : une formation de secte — cinq hommes de la Meule en mur, une ligne de Sœurs à l'Aiguille — engage la **somme formée**, pas les chiffres un à un. Les sectes le savent ; c'est toute leur raison d'exister.
+3. **Le vieux monde terré** (§18.2) : ce qui pèse plus que lui n'a pas disparu — il dort plus profond que ce que la strate montre, et il dormait déjà quand les vallées ont été nommées.
+
+### 18.1 · Les Sommets — la main de l'archipel
+
+*« On les compte sur une main » (§1). La voici, préexistante — cinq personnes, pas une de plus. Aucune ne porte de brassard : au-dessus de l'or, on cesse d'en porter.*
+
+1. **le doyen des huissiers de Hautefoire** — **~65 000** — l'art : **la Lecture des Tailles**, au sommet (§12.2.1). Domaine : toute table où une taille se lit — rien ne s'y contrefait, rien ne s'y ment. *C'est lui qui formera l'huissier de la séance, ou viendra lui-même si l'affaire pèse.* Registre : la lettre du droit, la joie froide du métier.
+2. **le maître des Fours** — **~70 000** — le Souffle des Fours ; dans sa forge, des miracles (§12.2.4). Sa seule morale : le travail. Il a laissé Seb stoker jadis — il s'en souviendra.
+3. **la doyenne des Sœurs du Lac** — **~60 000** — l'Aiguille : recoudre ce qui devrait mourir. Répond aux questions par des pesées. **Rancune durable contre Seb depuis la taille 8** — et la seule main de l'archipel qui puisse recoudre certaines blessures.
+4. **le patriarche du Pavois d'Étain** — **~90 000** — l'art : **la Borne** — dans les limites qu'il a bornées lui-même, le régime est à lui : les distances mentent, les chemins reviennent, le cadastre est un filet. Il ne sort plus de ses limites — il n'en a pas besoin.
+5. **la Recluse des Cloches Mortes** — **~100 000, le sommet vrai** — montée aux temples effondrés il y a quarante ans, jamais redescendue. Les Sonnailles lui montent du pain au pied de l'escalier ; il disparaît. Son art, personne ne l'a vu depuis quarante ans — les vieux disent seulement : *« elle écoute »*. **La seule personne de l'archipel à hauteur de la paire.**
+
+*(Conduite : un Sommet n'est pas un mur — c'est un être humain préexistant avec un métier, une rancune ou une dette. Trois des cinq ont déjà un fil avec Seb. Aucun ne se joue en négociation d'insignifiant : quand un Sommet paraît, la scène est grande.)*
+
+### 18.2 · Ce qui est terré au-dessus — l'échelle continue
+
+*La suite de §7 — l'échelle de chasse ET de nourriture continue au-dessus de 45 000. Tout est d'avant la mesure ; rien n'a été posé pour lui.*
+
+19. **le Père des Brumes** — **80 000** — ce qui chasse dans la brume des hauts prés (§6.14 le sait sans le dire) : la Traite des Brumes rend la rosée, et prélève un traiteur par génération. Rend : **le manteau de brume** — marcher d'une vallée à l'autre sans être vu d'aucune pierre, d'aucune bouche.
+20. **le Mélèze-Roi** — **120 000** — l'arbre de l'adret **est vivant, d'avant la mesure** ; la Saignée décennale est son sang, la Reine (§7.16) est sa garde, et le cloître se doute sans oser savoir. Rend : **l'ambre-roi** (la matière d'artefact au-dessus de tout ce que §5 liste) — et l'adret change de maître. **La décennie approche** (§6.16).
+21. **le Répondant** — **150 000** — *ce qui répond quand on sonne* aux Cloches Mortes (§2.1 l'écrit depuis la passe 1). Le Carillonneur (12 000) n'est que son sonneur. La chaîne de chasse est écrite, comme pour le Roi-Cocon : prendre la Cloche Fêlée, sonner aux tombes hautes — **il répond**. Rend : le bronze d'avant, et le silence vrai de la vallée. *(La Recluse écoute quelque chose, là-haut, depuis quarante ans.)*
+22. **la Muette-mère** — **au-delà de 200 000** — ce qui dort au fond de la Vallée Muette et dont la Nichée (§7.17) n'est que la couvée ; les couvées elles-mêmes pèsent **20 000-60 000 chacune**. **Ligne mort écrite d'avance, à chaque approche.** *(Le reste : le tronc, §5.)*
+23. **ce que garde le seuil** — la Dernière Marche ; le Bouc (30 000) n'est que le dehors. *(Le tronc, §6.)*
+
+*(Conduite : cette échelle nourrit **elle** — chaque prise au-dessus de 45 000 est un cran de nourriture légitime — et fournit la matière d'équipement de la couche : manteau de brume, ambre-roi, bronze d'avant. L'extraordinaire se prend sur de l'extraordinaire, inchangé.)*
+
+### 18.3 · BÂTIR — fonder un nom *(le pilier « je bâtis » : l'héritier du colporteur peut devenir une maison)*
+
+**L'usage des Cent Vallées** : un nom se fonde en scellant **sa taille de fondation** devant un huissier — il faut **un toit** (un lieu tenu), **des bouches** (dix personnes qui répondent au nom), et **un droit réel** (une charte, un col, une concession, un ban). Ensuite, les rangs — chacun est **des scènes**, jamais de l'administration :
+
+| Rang | Ce qu'il faut | Où ça se joue |
+|---|---|---|
+| **maison de bourg** | un toit, dix bouches, la taille scellée | l'huissier, le bourg qui regarde, le premier duel de seuil |
+| **maison de col** | une charte de passage | l'encan (§6.17), une charte gagée (liasse 11 !), une déshérence (§7.7) |
+| **maison de vallée** | un col majeur, ou trois maisons de bourg alliées | les alliances, les bornes, le Pavois qui n'aime pas ça |
+| **maison d'archipel** | un siège à Hautefoire et une bannière reconnue de deux sectes | la place haute — face au Gant Blanc et au Pavois |
+
+**Ce qui est à prendre aujourd'hui, préexistant** : la charte gagée de la maison de col des Meules (liasse 11 — la solder, c'est la tenir) · les titres en déshérence que couve l'Abbé Couché (§7.7) · la borne descellée (§6.25) · l'encan annuel (§6.17) · **et la Vallée qui File entière** — un déclin que personne ne nomme : une vallée à ramasser pour qui veut bâtir dessus, ateliers, futaie et Grand Cadre compris.
+
+**Le nom lui-même est écrit d'avance** : « le Fileur » — le mépris de classe retourné en bannière (`FONDATION` §5.2). Le jour où une taille de fondation porte ce nom-là, le monde entier se souviendra de qui riait.
+
+### 18.4 · LA PAVANE — où être regardé *(RULE-MJ §0.2 : ils le regardent, ils ne négocient pas — une scène, jamais un comité)*
+
+- **la pierre de parvis de Hautefoire** — poser la main **sans brassard** : l'instrument sature, la place comprend, et l'archipel a un sixième doigt à sa main avant la nuit ;
+- **la défense du titre** — l'automne, les Cent Piliers : PREMIER COUTEAU se défend devant tout ce qui chasse ;
+- **l'arène de la Coupe** — la maîtresse d'armes « ne pèse plus les moins de mille » : la tête qu'elle fera ;
+- **l'examen du Gant Blanc** — en spectateur qui pèse plus que le jury ; le règlement « pas de proies dans l'enceinte » devant LA FEMME au grelot d'or ;
+- **le duel de seuil** — être le témoin qu'on s'arrache : la craie se trace autrement quand il regarde ;
+- **la bénédiction du dégel** — en tête du premier convoi, pesé homme par homme, devant le parvis plein ;
+- **l'auberge de col, un soir ordinaire** — un poignet nu entre, et la salle se tait : la pavane la plus simple du monde.
+
+### 18.5 · ELLE — la couche haute *(trait 5 : ses envies sont des possessions et des positions — le monde en vend)*
+
+- **sa légende a un mur** : au Mur des Prises, les prises du Ban portent son nom autant que le sien — et une cote qui s'est retournée depuis « la revanche sans une marque » ;
+- **les dresseurs du Long Pré** — les seuls qui regardent vraiment : ce qu'ils offriraient pour une portée, une mèche, une heure d'observation — **et le refus est à elle, toujours** (§47) ;
+- **le tarif des chiens, retourné** : les auberges qui l'ont fait payer une maille ont des enseignes, et elle a une mémoire — matière à scènes de pavane à elle ;
+- **les positions au-dessus de la suite** : une loge à l'année aux Cent Piliers · un banc au premier rang de l'arène, gravé · un fournisseur attitré qui ne sert qu'elle ;
+- **son garde-manger continue** (§18.2) — au-dessus du Roi-Cocon, il reste cinq étages de faim.
+
+### 18.6 · LE SOMMET D'HISTOIRE — l'architecture de la fin de strate *(MJ seul — le chemin, jamais le tronc)*
+
+**Trois routes écrites, qui se croisent sans s'imposer** — le joueur choisit l'ordre, le monde tient les dates :
+
+1. **LA GRANDE TAILLE** (liasse 15) — la séance des 300 pierres n'est que la première marche : le code de colporteur d'Honoré se déchiffre par des bouches (les vieux colporteurs de huit vallées, Gaucher, le doyen des huissiers) — et chaque bruit fait tourner une horloge que le monde tient (*le tronc, §7-§8*). L'amont est au bout.
+2. **LE NOM FONDÉ** (§18.3) — de la taille de fondation à la place haute de Hautefoire : la revanche de classe complète, bâtie et non criée.
+3. **LA DERNIÈRE MARCHE** — le seuil (*le tronc, §6*) : la strate se quitte le jour où il le décide — et pas avant d'avoir soldé ce qu'il veut solder. **La fin de strate est un choix de joueur, jamais une échéance.**
+
+*(Conduite : ces trois routes se servent par les axes ordinaires — rien de neuf à déclarer. Le compteur continue de commander.)*
