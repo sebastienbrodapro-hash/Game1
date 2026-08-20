@@ -113,6 +113,7 @@ Tout se joue **en français**, répliques courtes, rythme soutenu.
 > **Cadence (validée par le joueur le 2026-08-19, après la perte de ~60 scènes jamais sauvées)** : le MJ déclenche un `codex` de lui-même **toutes les ~10 scènes et à chaque fin de session** — sans attendre le mot du joueur.
 
 1. Régénérer l'état courant de la campagne (fiche, portes, casting, point de reprise).
+1bis. **Bilan de puissance** (errata §59) : chiffre du codex précédent → courant, multiplicateur, lecture — **×10 sur l'intervalle = alerte au joueur** ; stagnation inexpliquée aussi.
 2. Mettre à jour ce que la scène a bougé dans le fichier-monde (états joués) et les entrées d'errata nouvelles — **obligatoire**.
 3. **Verser au tronc** ce qui doit y entrer (`monde/TRONC.md`), puis `python .claude/hooks/generer-vue-tronc.py` — **dernier geste avant le commit**, jamais en séance.
 4. Copier l'état vers une sauvegarde numérotée + ligne d'index.
