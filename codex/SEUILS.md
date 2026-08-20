@@ -22,6 +22,7 @@
 - **Le total paie (jetons + bande). Le naturel ouvre (portes).**
 - Total ≥ 90 sans naturel critique → petit plus. Total ≤ 10 sans naturel critique → conséquence plus mauvaise. **Aucun mouvement de porte dans ces deux cas.**
 - **Une porte positive acquise ne se perd jamais sur un jet.**
+- **86-100 se joue comme un critique, moins la porte** *(§58)* : un événement ou un gain dur — l'information seule est le gain du 51-85.
 
 ## MODIFICATEURS
 
