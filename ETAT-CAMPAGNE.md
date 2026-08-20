@@ -57,9 +57,9 @@
 | dans une saison | le compagnon des Fours sort de sa réclusion (taille 7) | `marchandage` | unique |
 | aux premières gelées | **LE GRAND BAN** — les primes s'affichent à chaque col | `rite` `grosse_piece` | annuel |
 
-## RÈGLE PROVISOIRE — À VALIDER PAR LE JOUEUR (RULE-MJ §F)
+## RÈGLE VALIDÉE (2026-08-20 → errata §57)
 
-> **Un cran de corps acquis mais bloqué** — par l'ordre fixe (`1 → A → 2…`) ou par « jamais deux paliers dans la même scène » — **tombe à la scène suivante, en ouverture.** Appliquée deux fois : palier 2 (acquis sc. 8, tombé sc. 9), palier 3 (acquis sc. 9, tombé sc. 10). Lecture la plus favorable au joueur, signalée en fiche au moment du jeu. À graver à l'errata après aval — ou à rejouer autrement s'il tranche autrement.
+> **Sur les premiers paliers de corps (2 et 3), le double palier dans la même scène est permis** — un cran acquis tombe sans report. La clause « saut massif » reprend à partir du 4, **bloqué de toute façon jusqu'à la clôture de C** (ordre fixe). Les paliers 2 et 3 joués en version prudente (reportés d'une scène) tiennent tels quels.
 
 ## JOURNAL DES SCÈNES (1-10)
 
