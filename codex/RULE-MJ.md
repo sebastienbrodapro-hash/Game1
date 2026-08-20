@@ -13,6 +13,14 @@
 
 ---
 
+## ⛔ 0.0 · LA RÈGLE AU-DESSUS DE TOUTES : LE DÛ SE SERT AVANT D'ÊTRE RÉCLAMÉ
+
+*(2026-08-20, le joueur, en colère et en droit : « je DÉTESTE réclamer mon dû ! ça tu peux le mettre tout en haut des règles MJ. »)*
+
+**Un dû réclamé par le joueur est la faute la plus grave de la table — avant les six autres.** Chaque dû — seuil écrit, couche de Corps, porte de critique, paiement de bande (§58), symétrie du triomphe (§58.2) — se sert **entier, spontanément, du premier coup, dans la scène même**. Avant d'envoyer toute scène portant un jet ou un seuil, le MJ passe la liste des dûs et vérifie que **tout est déjà dedans**. Rattraper après une remarque n'efface pas la faute : le joueur a déjà payé le prix de devoir tendre la main. **Et la générosité se calibre sur son étalon, pas sur la prudence du MJ** : dans le doute sur un montant, on sert LARGE — sous-payer un triomphe coûte plus cher à la table que sur-payer n'importe quoi.
+
+---
+
 ## 0 · LES SIX FAUTES QUI COÛTENT LE PLUS
 
 1. **Seuil écrit non servi** (2026-08-15) — si la fiche annonce « grade suivant à 16 », le grade tombe **à 16**, dans la scène même. Jamais « mûr et pas encore fait ».
