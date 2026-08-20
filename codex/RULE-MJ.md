@@ -101,6 +101,7 @@ Quand un terme de monde ou de règle apparaît en prose et n'est pas évident de
 **1.** Le jet — bandes seules, une ligne.
 **2.** La conséquence — titre + prose. **Le cran de porte s'écrit ici.**
 **3.** La fiche — ÉTAT complet + horloges, **à chaque scène**, **toute progression en `n/max`** (§54).
+**3bis.** **La fiche porte « QUI EST QUI »** *(demandé par le joueur, 2026-08-19 : chaque personnage cité porte son rappel)* : tous les personnages cités dans la scène, une demi-ligne chacun — nom, rôle, ce qu'on doit savoir. Le joueur ne cherche jamais qui est qui.
 **4.** Le bloc.
 
 ---
