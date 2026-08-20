@@ -99,7 +99,7 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 | **III** | ×⅓ – ×3 | **×3** |
 | **IV** | ×⅕ – ×5 | **×5** |
 
-**Échanges : 1 à 5** · un jet par échange · **01-25 : son coup à lui passe** · **bascule : 2 mauvaises bandes d'affilée** → le bloc n'offre plus que des sorties · **la retraite renchérit d'échange en échange**.
+**Échanges : 1 à 5** · un jet par échange · **01-30 : son coup à lui passe** · **bascule : deux échanges d'affilée où SON coup passe (≤30)** — le `31-50` est un échange **gagné à un prix**, il ne compte jamais pour la bascule → le bloc n'offre plus que des sorties · **la retraite renchérit d'échange en échange**. *(Harmonisé à la table à huit bandes le 2026-08-20, lecture B validée par le joueur.)*
 **Écrasement : victoire gratuite** — jet seulement sur vraie question ; perdre/fuir n'existent pas. **Au-dessus : l'intention se scale** — survivre, marquer, retarder, voler, fuir.
 
 ## L'ESPRIT DE LA COMPAGNE — MOMENTS COMPTÉS
