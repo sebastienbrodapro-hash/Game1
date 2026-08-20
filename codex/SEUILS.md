@@ -10,13 +10,13 @@
 
 | Total | Bande | Jetons |
 |---|---|---|
-| **01-05** | minimum vital | **+2** |
-| **06-25** | réduit + complication | **+1** |
+| **01-10** | minimum vital | **+2** |
+| **11-25** | réduit + complication | **+1** |
 | **26-50** | obtenu, à un prix | — |
-| **51-85** | plein, sans prix | — |
-| **86-100** | au-delà | — |
+| **51-89** | plein, sans prix | — |
+| **90-100** | au-delà | — |
 
-*(Recalage tranché par le joueur le 2026-08-16. L'ancienne table faisait coûter **65 %** des jets, avant même les modificateurs — et ils tournaient tous en négatif. Pleins ou mieux : **50 %**. Échec dur : **5 %** au lieu de 10.)*
+*(Recalage 2026-08-16, puis **redurci par le joueur le 2026-08-20** : « le minimum vital tu le redresses de 1 à 10 et l'au-delà tu le resserres 90 à 100 » — les deux bandes extrêmes s'alignent sur les critiques naturels. Échec dur : 10 %. Au-delà : 11 %.)*
 
 - **Naturel `01-10`** → porte négative ouverte ou +1 cran. **Naturel `90-100`** → porte positive ouverte ou +1 cran. **Rien d'autre n'ouvre une porte.**
 - **Le total paie (jetons + bande). Le naturel ouvre (portes).**
