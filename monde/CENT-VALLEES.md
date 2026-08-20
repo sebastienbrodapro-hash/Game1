@@ -489,7 +489,7 @@ Le monde a ses propres horloges — **le Grand Ban d'automne** (§8.1), la vente
 
 ## 14 · LA RÉSERVE DE PRÉNOMS
 
-**Occidentaux, courts, un nouveau par scène et seulement s'il agit.** Déjà pris (passes 8-9) : **Gaucher, Margot, Firmin** (Charmoy) — et : **Honoré** (le père), **Denise** (la mère), **Colin** (le frère de la chapelle), **Jacquette, Odile, Blaise** (la liasse). ⛔ **Les prénoms consommés par la version perdue ne renomment personne de neuf** : Garin, Thibaut, Mahaut, Aubin, Perrot, Josselin, Félicien, Gros-Jean — **ni Armande, Basile, Perrine (le Dernier Col est retiré du monde)**, **ni Berthe, Norbert, Sidonie, Gaspard (le départ Fuseau est retiré, passe 9)**. Réserve : Isaure, Marceau, Léonce, Tiphaine, Hersent, Aliénor, Clémence, Colette, Aymeric, Rémi. *(Les noms civet — Yvon, Alban, Gilles, Hugues, Renaud, Brice, Maud, Tessa — sont morts avec leur monde et ne se réutilisent pas.)*
+**Occidentaux, courts, un nouveau par scène et seulement s'il agit.** Déjà pris (passes 8-9) : **Gaucher, Margot, Firmin** (Charmoy) — et : **Honoré** (le père), **Denise** (la mère), **Colin** (le frère de la chapelle), **Jacquette, Odile, Blaise** (la liasse) — et **Marceau** (le fabricant de harnais du Long Pré, taille 4, nommé sc. 10). ⛔ **Les prénoms consommés par la version perdue ne renomment personne de neuf** : Garin, Thibaut, Mahaut, Aubin, Perrot, Josselin, Félicien, Gros-Jean — **ni Armande, Basile, Perrine (le Dernier Col est retiré du monde)**, **ni Berthe, Norbert, Sidonie, Gaspard (le départ Fuseau est retiré, passe 9)**. Réserve : Isaure, Léonce, Tiphaine, Hersent, Aliénor, Clémence, Colette, Aymeric, Rémi. *(Les noms civet — Yvon, Alban, Gilles, Hugues, Renaud, Brice, Maud, Tessa — sont morts avec leur monde et ne se réutilisent pas.)*
 
 ## 15 · COUPE NETTE
 
@@ -519,10 +519,10 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 
 | # | Débiteur | Principal | Ce que c'est devenu |
 |---|---|---|---|
-| 1 | le boulanger de Charmoy | 30 mailles de farine d'avance | il paie le jour même, rouge jusqu'aux oreilles — la mise en jambes |
-| 2 | Jacquette, mercière de Charmoy | 2 taels | morte l'an passé ; sa fille tient l'étal et découvre la dette en même temps que lui |
+| 1 | le boulanger de Charmoy | 30 mailles de farine d'avance | il paie le jour même, rouge jusqu'aux oreilles — la mise en jambes · **✔ soldée (sc. 5)** |
+| 2 | Jacquette, mercière de Charmoy | 2 taels | morte l'an passé ; sa fille tient l'étal et découvre la dette en même temps que lui · **✔ graciée devant témoins (sc. 6)** |
 | 3 | le passeur des Trois Ponts | 5 taels | offre de payer **en passages, à vie** — la nature contre la maille |
-| 4 | un fabricant de harnais du Long Pré | 12 taels | prospère ; paie sans ciller — et propose du travail, parce qu'un garçon qui recouvre sait tenir un compte |
+| 4 | un fabricant de harnais du Long Pré | 12 taels | prospère ; paie sans ciller — et propose du travail, parce qu'un garçon qui recouvre sait tenir un compte · **✔ payée, nommé Marceau, offre de travail faite (sc. 10)** |
 | 5 | la doyenne d'un hameau des Meules | 8 taels | le hameau a brûlé il y a quatre ans — plus de débiteur, plus de bouches : une dette peut mourir |
 | 6 | Odile, aubergiste au col des Charrettes | 20 taels | conteste tout : sa moitié « a brûlé » — un doigt sur la cire dirait si elle ment |
 | 7 | un compagnon des Fours | 1 pierre | muré en réclusion au fond de mine pour une saison : attendre, ou descendre le chercher |
