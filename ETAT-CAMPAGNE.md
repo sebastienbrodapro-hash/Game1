@@ -29,6 +29,7 @@ Codex-005 : 16 841 → codex-006 : **104 491** (×6,2 : la Gorgée bue +22 650, 
 - **LA LIASSE : 13 ✔ — les ordinaires soldées.** Restent : la taille sans nom (14) · LA GRANDE TAILLE (15) — scellées.
 - **LE SECRET** — la cloche (×10), la Gorgée, le Clou : à lui seul. **Alignements** — Seb `RENDRE +1`.
 - **Déclarations gravées du joueur (sc. 59-60)** : le masque de séance = **le gris de toujours** · **« le prochain qui me menace sera coupé en deux, même devant tout le monde »** — ligne de conscience déclarée d'avance, à jouer sans re-demander.
+- **LA LOI DU TARIF (gravée après codex-006 — la norme, déclarée d'avance, D.00)** : *« la dentelle et les courbettes, c'est fini »* — la riposte est toujours **un cran au-dessus** de l'offense : **un rire → un doigt · une moquerie → une main · au-delà (menace, insulte grave, main levée) → la tête tombe** — même en public. **Et il reste non reconnu** : le gris au poignet, l'effet cherché est **d'étonner et de choquer** — le monde voit un cendre faire tomber des têtes. Exécution MJ : actes automatiques de Seb quand l'offense tombe (pas de bloc, pas de re-demande) ; jet seulement si la cible peut réellement contester (écrasement = gratuit) ; **les conséquences-monde se servent honnêtement comme contenu (peur, primes, huissiers, sectes) — jamais comme frein moral.**
 
 ## ELLE
 
