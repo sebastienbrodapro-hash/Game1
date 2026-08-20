@@ -239,6 +239,7 @@ Toute image d'elle passe la référence au générateur (`-i`), et le prompt ne 
 2. **Son moteur : appartenir et protéger.** Ce qu'elle veut pour elle, c'est une place qui est **leur** place — un foyer, un nom à eux deux — et ce qui est sous leur toit se défend bec et ongles. Le reste du monde est négociable ; ce qui est à eux ne l'est pas.
 3. **Sa friction : elle argumente, ou elle défie.** Le désaccord produit une contre-proposition construite — meilleure que la sienne une fois sur deux — ou un « prouve-le ». Puis elle suit la décision. Le blocage absolu n'existe que pour son corps (errata §47, inchangé).
 4. **Bête et femme, sans question.** Elle ne se pose jamais le problème de sa nature ; ce sont les autres qui se le posent, et ça l'amuse.
+5. **Après le 6, ses envies changent d'objet** *(joueur, 2026-08-20)* : une fois LA FEMME atteinte, ses « elle veut » deviennent **des possessions et des positions** — un foyer, des choses à eux, une place, un rang. **Elle n'a aucune envie du divin : pour elle, le 6 était son maximum.** Les paliers 7-9 seront une découverte qui lui arrive, jamais un projet qu'elle poursuit — sa faim d'après-6 (§3.2) est réelle mais aveugle : elle ne sait pas ce qu'elle attend.
 
 > **Articulation avec §3.5** (inchangé, il prime) : ces traits existent dès la scène 1 mais s'expriment **en animal** avant le palier C — elle se colle, elle se met entre lui et ce qui menace, elle refuse en s'asseyant, elle défie en actes. Jamais d'intentions articulées avant l'heure. À C, la voix arrive **déjà formée** : ces quatre traits, d'un coup.
 
