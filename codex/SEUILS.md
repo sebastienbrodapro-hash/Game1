@@ -18,6 +18,7 @@
 | **90-100** | au-delà | — |
 
 **⛔ NATUREL 1 / NATUREL 100 — LE MONDE CHANGE RADICALEMENT**, en mal ou en bien (porte comprise, tout dû dans la scène même). Les critiques ordinaires (naturel 01-10 / 90-100) restent inchangés.
+**LE RADICAL SE MESURE À LA SCÈNE** *(joueur, 2026-08-20 : « sur une conversation, un 1 ne peut pas détruire une ville »)* : le 1 et le 100 changent radicalement **ce qui est engagé dans la scène**, jamais plus — sur une discussion, c'est la discussion qui bascule ; sur une bataille, la bataille. L'échelle du dé est l'échelle de l'enjeu : **un 31-50 sur un événement majeur peut coûter plus cher qu'un naturel 1 sur une causerie.** Toute bande se dose à l'enjeu réellement posé sur la table.
 
 *(Recalage 2026-08-16, puis **redurci par le joueur le 2026-08-20** : « le minimum vital tu le redresses de 1 à 10 et l'au-delà tu le resserres 90 à 100 » — les deux bandes extrêmes s'alignent sur les critiques naturels. Échec dur : 10 %. Au-delà : 11 %.)*
 
