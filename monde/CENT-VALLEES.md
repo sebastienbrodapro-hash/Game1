@@ -533,7 +533,7 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | 12 | le maître de l'arène de la Coupe | 40 pierres | propose de payer « en faveur d'arène » — la porte la plus dangereuse de la liasse · **✔ payée pleine sc. 38, après cinq angles refusés** |
 | 13 | la Voie des Fours | 60 pierres de métal jamais livré | une secte ne rend pas de comptes à un cendre : il faudra peser plus lourd, ou plus malin · **✔ payée sc. 31 — la pierre de passage a rendu bleu devant les Terrasses** |
 | 14 | **la taille sans nom** | inconnu | la plus vieille de la liasse, la moitié anonyme — et c'est **Honoré** le débiteur *(le tronc)* |
-| 15 | **LA GRANDE TAILLE** | le débiteur est en code | la moitié d'une dette énorme, chiffrée dans le code de colporteur d'Honoré — ce qu'elle vaut, qui la doit, et pourquoi la crue : **le tronc** · **ligne mort, un jour** |
+| 15 | **LA GRANDE TAILLE** | le débiteur est en code | la moitié d'une dette énorme, chiffrée dans le code de colporteur d'Honoré — ce qu'elle vaut, qui la doit, et pourquoi la crue : **le tronc** · **ligne mort, un jour** · **✔ LUE sc. 64 par le doyen des huissiers (qui l'avait scellée il y a 22 ans) : le débiteur est ALDRIC, troisième du cadastre du Pavois d'Étain — la charte de son col majeur de la Grand-Traverse est gagée, sa maison entière bâtie dessus ; sa moitié dort au trésor du Pavois ; sous une lune, il saura** |
 
 **Conduite** : les tailles se servent dans le désordre, au rythme de ses routes — jamais en liste de courses. Une taille recouvrée peut devenir une **porte** (un débiteur soldé est un homme soulagé), une taille contestée un **arc court**, une taille dangereuse une **horloge**. Le compteur les sert via `marchandage`, `atout` et `noir`.
 
