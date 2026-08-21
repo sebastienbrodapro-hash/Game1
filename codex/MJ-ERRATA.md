@@ -154,3 +154,5 @@
 - **LE CORDON DES BORNES** — le releve complet du bornage d'avant, noue au fil, lisible par lui seul. Le monde voit des pierres ; lui tient la carte.
 
 **Regle re-affirmee** : le paiement d'un critique se mesure a ce que LE JOUEUR garde — jamais a ce que le monde gagne. Un miracle qui enrichit le decor sans changer la fiche est un miracle non paye.
+
+**Correctif (retour joueur, meme jour)** : le Cordon des Bornes retire (« n'importe qui avec un crayon peut le faire ») — remplace par **LA BORNE D'AVANT** : un piquet du bornage originel, dechausse pour lui seul ; plantee, un point que rien dans la strate ne deplace, un fil noue dessus tient toute tension, seule la main qui l'a plantee la dechausse.
