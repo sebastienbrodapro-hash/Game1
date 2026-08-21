@@ -7,9 +7,10 @@
 
 ## POINT DE REPRISE
 
-- **Scène courante : 113** — jouée : **LE DUEL DE DOMAINES GAGNÉ 3-2** (le labyrinthe défroissé, le genou posé, les limites ouvertes, le Réalignement RETIRÉ — la guerre des fourmis morte hors-champ) · **LA RECLUSE** : la note de printemps, la chaîne du Répondant (Cloche Fêlée → tombes hautes → 150 000 à hauteur), « trois oreilles avant la mienne ». Bloc posé.
-- **Où** : le temple sans toit, les Cloches Mortes, ~jour 515.
-- **Le bloc en attente** : 1. la chaîne du Répondant (`grosse_piece` `chance` · mort) · 2. le Ban d'abord (`rite` `grosse_piece`) · 3. l'écoute de la Recluse (`art` `mesure`) · 4. Charmoy (`atout` `noir`).
+- **Scène courante : 116** — jouées : **114 Charmoy** (le fusil de Margot, les trois étrangers du sud, la moitié de pièce au **poinçon aux trois traits** — la frappe perdue au dégel) · **115 la nuit sans lune** (la Cloche Fêlée décrochée sans un son — la fêlure est TAILLÉE, faite pour tenir ; le Carillonneur suit) · **116 LE RÉPONDANT PRIS 3-2** — deux catastrophes naturelles dans l'échange : la Cloche a bu sa mort (fêlure courue — muette à jamais), la main gauche a mangé la seconde (chair morte entière, Jade) ; **la note de printemps tient dans la fêlure** · le bronze d'avant · le silence vrai · ⛔ LA TROISIÈME OREILLE 2/4 (un feu compté sur la crête est). Bloc posé.
+- **Où** : les tombes hautes, les Cloches Mortes, aube du ~jour 522, premières gelées.
+- **Le bloc en attente** : 1. monter la Cloche à la Recluse (`art` `mesure`) · 2. le bronze d'avant — descendre la carcasse, une maille pour elle (`equipement` `bete` `marchandage`) · 3. redescendre vers le Ban (`rite` `grosse_piece`) · 4. le feu compté sur la crête (`noir` `chance`).
+- **Deltas de fiche depuis codex-011** : jetons **8/10** (+2 ×2, catastrophes) · ⛔ MAIN DE L'HIVER AGGRAVÉE : **main gauche entière morte (chair) — ne tient plus rien, jusqu'au JADE** ; le toucher fin reste définitif · épaule du duel rouverte (~2 sem.) · Maille : entaille à l'avant-bras (pansée, Toile Royale) · **+ la Cloche Fêlée (muette, elle TIENT la note de printemps)** · + le bronze d'avant (carcasse aux tombes, des tonnes) · + la moitié de pièce au poinçon aux trois traits · + le silence vrai des Cloches Mortes · **+ ⛔ LA TROISIÈME OREILLE 2/4** *(deux notes de mort ont passé les crêtes — quelqu'un s'est levé)* · le Carillonneur suit la Cloche.
 
 ## BILAN DE PUISSANCE (§59)
 
