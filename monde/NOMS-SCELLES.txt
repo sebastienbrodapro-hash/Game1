@@ -8,3 +8,7 @@
 4	le Dernier Péager	scelle	oui
 5	Aldric	livre	non
 6	Berthilde	livre	non
+7	le Peseur des Marches	scelle	oui
+8	la Premiere Racine	scelle	oui
+9	Aubin le Blanc	scelle	oui
+10	le Premier Fruit	scelle	oui

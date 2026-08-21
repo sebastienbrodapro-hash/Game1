@@ -115,3 +115,12 @@ Le pre de bornes decouvert sous la brume des hauts pres est une piece de l'ouvra
 - Sur directive joueur (errata §70) : la charpente du vieux monde SORT DU SERVICE COURANT — elle reste écrite ici et ne se sert plus que sur toucher volontaire du joueur. Les oreilles immobiles et la marcheuse : coupées mortes, ne reviennent jamais.
 - Le cœur de bronze du Répondant (+150 000) aux tombes hautes — à manger au retour du Dormant.
 - Corps : le Grès achevé, le Bronze entamé (la main gauche morte sonne).
+
+
+## LE VERGER — LE DESSOUS (chantier passes 1-2, 2026-08-21, hors seance)
+
+- LA DERNIERE MARCHE : l'escalier est tenu par ⟦SCELLE-7⟧ — il pese ce qui se presente ; sous ~100 000 (Poussiere), le vent rend au monde d'en bas. Il ne pose aucune enigme : il pese, il ouvre ou il rend. Le jour ou la paire se presente, il dira UNE phrase, en clair, et ouvrira — le premier etre qui leur parle comme a des egaux venus d'en bas depuis des siecles. Declenchement de la decouverte (fiction, a jouer au retour vers l'est) : par une bouche, d'un coup — la Recluse est la seule a hauteur de l'archipel et la seule qui ait passe sa vie a ecouter les cretes : ELLE SAIT ou vont les Effaces. Si le joueur ne repasse pas par elle, variante : le patriarche, en payant sa reconnaissance, offre ce que sa maison garde depuis toujours — la carte des Effaces de leur lignee. Deux bouches possibles, une seule phrase chacune, zero mystere.
+- CE QUI DORT SOUS L'ARBRE (~500 000+) : ⟦SCELLE-8⟧ — la racine-mere du premier arbre du continent, vivante, enroulee sous la capitale. Les Saisonniers le savent et batissent dessus expres : tant que la ville pese dessus, elle dort. Une bouche le dira d'un coup le jour venu (un Saisonnier, a table, contre quelque chose).
+- LA QUATRIEME MAISON — L'HIVER TENU : son Saisonnier est ⟦SCELLE-9⟧ (~180 000), le seul Saisonnier qui se deplace seul et sans suite. Il LOUE l'hiver (conserver, punir, geler un domaine rival) — c'est la banque froide du continent.
+- LE DIVIN TROUVABLE (trois, preexistants) : l'oeuf de l'Aigle de la Couronne (il n'eclot pas — il attend mieux que l'Aigle) · le coeur de la Souche-Mere · ⟦SCELLE-10⟧ — le premier arbre du continent (l'Arbre-capitale) n'a fructifie qu'une fois ; le fruit n'est jamais tombe, il murit encore, quelque part dans la canopee, depuis mille ans. Sa faim d'apres-6 reconnaitra ce qu'elle trouvera — jamais fabrique sur mesure.
+- L'entree en jeu de la paire : par les Espaliers, ~565, feuille de bourgeon — le retour de l'arrogance du monde est un contenu voulu.
