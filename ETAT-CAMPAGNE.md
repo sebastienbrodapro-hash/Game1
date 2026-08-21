@@ -7,9 +7,9 @@
 
 ## POINT DE REPRISE
 
-- **Scène courante : 111** — jouée : **l'est saute dessus** — le pli du doyen gardé 4 mois (LE VOTE du Grand Réalignement au premier jour des gelées — jours !) · **le premier coup du patriarche : une borne de l'Étain déplacée dans les formes** (tiers de la route perdu, l'arbitre = le chef du cadastre) · le fils d'Aldric : « dites-moi quoi faire ». Bloc posé.
-- **Où** : le pied du dernier col, Hautefoire à une heure, ~jour 506.
-- **Le bloc en attente (REPRIS À HAUTEUR, §0.2)** : les clôtures aux PNJ (le fils porte le relevé au doyen, hors-champ) — 1. **le duel de domaines** chez le patriarche (`art` `arrogance` · mort) · 2. le Ban, la saison (`rite` `grosse_piece`) · 3. la Recluse des Cloches Mortes (`mesure` `chance`) · 4. Charmoy (`atout` `noir`).
+- **Scène courante : 113** — jouée : **LE DUEL DE DOMAINES GAGNÉ 3-2** (le labyrinthe défroissé, le genou posé, les limites ouvertes, le Réalignement RETIRÉ — la guerre des fourmis morte hors-champ) · **LA RECLUSE** : la note de printemps, la chaîne du Répondant (Cloche Fêlée → tombes hautes → 150 000 à hauteur), « trois oreilles avant la mienne ». Bloc posé.
+- **Où** : le temple sans toit, les Cloches Mortes, ~jour 515.
+- **Le bloc en attente** : 1. la chaîne du Répondant (`grosse_piece` `chance` · mort) · 2. le Ban d'abord (`rite` `grosse_piece`) · 3. l'écoute de la Recluse (`art` `mesure`) · 4. Charmoy (`atout` `noir`).
 
 ## BILAN DE PUISSANCE (§59)
 
