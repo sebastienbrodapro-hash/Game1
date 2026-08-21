@@ -7,9 +7,9 @@
 
 ## POINT DE REPRISE
 
-- **Scène courante : 105** — jouée : les jours de maison (le poids au mur, la chambre du père, l'atelier, la Cour : 3 mailles) puis **le chapelet des trois vieux de l'ouest** — le Sanglier de Fonte (~100k) · la Dame des Roselières (~140k, pays d'eau) · le Dormant du Grand Orage (200k+, au-dessus). Bloc du tribut posé.
-- **Où** : la maison de la Balance, jour 458, le soir.
-- **Le bloc en attente** : 1. le Sanglier (`grosse_piece` `equipement` · mort) · 2. la Dame (`grosse_piece` `bete` · mort) · 3. le Dormant (`grosse_piece` `arrogance` · mort) · 4. l'est d'abord (`rite` `mesure`).
+- **Scène courante : 107** — jouée : **le Sanglier de Fonte pris (écrasement, chasse pleine)** ; **LE TRIBUT PAYÉ au confluent — ⛔ L'EAU SE SOUVIENT REFERMÉE, l'eau le porte, l'acompte rendu (5 anciennes)**. Plus aucune dette nulle part. La couenne (400 kg), les défenses à Maille, les collines de fer libérées. Bloc posé.
+- **Où** : les quais de Millefeux, jour 466, le soir du tribut.
+- **Le bloc en attente** : 1. la route de l'est (`rite` `mesure`) · 2. les collines à ramasser (`marchandage` `atout`) · 3. la quatrième couche (`corps` `chance`) · 4. les adieux qu'on fait bien (`atout` `bete`).
 - **L'ouest est écrit** (passe 11, `CENT-VALLEES` §19 + tronc §13) : Millefeux au canon, la Vallée des Balances construite, scellée où il faut.
 
 ## BILAN DE PUISSANCE (§59)
@@ -24,8 +24,8 @@ Codex-009 : 184 491 → codex-010 : **184 491** (pause — aucune prise). Perdu 
 - **Bourse : ~3 440 pierres + taels** · 4 pierres anciennes · deux chevaux · **LA GORGÉE (+172 000 potentiels, 10/nuit)** · le manteau de brume · LE CLOU · LE SOUFFLE · LA TOILE ROYALE · **le peson d'avant la mesure** · la preuve entière (sceau + tiers + page + carnet) · l'archive d'Aldric · les tenues d'Isambart · la 5ᵉ maille *(dans la main morte)*
 - **DOMAINES ET DROITS** : le col de l'Étain *(~400 p/lune, le fils en gérance)* · la charte des Aiguilles · PREMIER COUTEAU *(à défendre à l'automne — cinq semaines de route !)* · l'alliance des Meules · les murs du relais : à Margot
 - **POSITIONS DE L'OUEST** : la table du complot (Bout-du-Monde) · Isambart, tailleur de la paire · la chambre à l'année · le Roi des Quais
-- **Portes** : ⚑ `LE CRÉANCIER 3/4` · ⚑ `LA BRUME LE SERT 1/4` · ⚑ `LA TOURNÉE LUE 1/4` · ⚑ `L'HÔTE DE L'EAU 3/4` *(il est entré — hôte vrai)* · ⛔ **`L'EAU SE SOUVIENT 4/4 — PLAFOND`** *(l'eau ne le porte plus : barques, gués, pluie — jusqu'au TRIBUT)* · ⛔ `LA SOIE 1/4` · ⛔ `QUI EST LE CENDRE ? 2/4` *(l'est et l'ouest vont recoller le conte)*
-- **LA DETTE D'EAU** : « rends un vieux au fond » — le prochain cœur d'ancien pris descend à l'eau, entier, en tribut ; payée → L'EAU 4/4 se referme. Arrhes prises : 1 pierre ancienne.
+- **Portes** : ⚑ `LE CRÉANCIER 3/4` · ⚑ `LA BRUME LE SERT 1/4` · ⚑ `LA TOURNÉE LUE 1/4` · ⚑ `L'HÔTE DE L'EAU 3/4` *(il est entré — hôte vrai)* · ⛔ `LA SOIE 1/4` · ⛔ `QUI EST LE CENDRE ? 2/4` *(l'est et l'ouest vont recoller le conte)*
+- **LA DETTE D'EAU : PAYÉE (sc. 107)** — le cœur du Sanglier au fond du confluent ; l'eau le porte à nouveau ; arrhes rendues.
 - **LA 14** : la dette d'Honoré — la Vallée des Balances, à trois jours ouest de Millefeux ; « ne peut pas être du pognon » (joueur) ; « c'est une porte » (elle) ; **payable en personne seulement** (§19.2).
 - **Déclarations gravées** : le gris de toujours · coupé en deux · LA LOI DU TARIF · achats d'elle peu importe le prix · le droit sauf la vengeance · la loi des 2 % (+ arsenal cataclysmes) · **réponse au psy sc. 101 : « Seb aime les choses claires et nettes. Plus de dette, à rendre ou à recevoir. C'est juste propre. »** — la pesée n'était pas un abandon du secret : c'était le dernier solde. Le secret vit toujours ; les comptes, eux, sont fermés.
 - **LE SECRET** — la cloche (×10), la Gorgée, le Clou, le chiffre exact — **et maintenant la note de la pierre fine.** Alignements : `RENDRE +1`.
