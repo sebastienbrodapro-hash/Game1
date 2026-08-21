@@ -120,3 +120,5 @@ Tout se joue **en français**, répliques courtes, rythme soutenu.
 5. Commit, **tag annoté**, push (`git push && git push origin <tag>`). Session cloud (tags refusés) : sauter le tag, copies + index font foi.
 
 > **Si un `codex` échoue (réseau, outil, quoi que ce soit) : le refaire immédiatement, avant de reprendre le jeu.**
+
+> **§66 (2026-08-21)** : en plus du codex, **le POINT DE REPRISE d'`ETAT-CAMPAGNE.md` se met à jour et se pousse après CHAQUE scène** — perte maximale : zéro scène.

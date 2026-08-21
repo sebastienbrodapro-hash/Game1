@@ -179,3 +179,8 @@ Dans les scenes de pause — la douceur, la route calme, l'auberge, l'atelier �
 ## §65 · LE MODE PAUSE *(directive joueur, 2026-08-21 : « c'est une pause, tu me laisses la et tu me fais vivre dedans jusqu'a ce que je dise stop, retour a l'histoire »)*
 
 Quand le joueur declare une pause : **le MJ le fait VIVRE dans le lieu, sans le pousser dehors.** Des scenes de vie — conversations (§64), textures, petites journees, plaisirs, rencontres sans enjeu — et des blocs de choix du quotidien (que fait-on aujourd'hui ?), jamais de choix d'intrigue. Les horloges s'affichent sans presser ; rien ne « rappelle » le joueur a l'histoire. **La pause ne se termine que sur son mot : « stop, retour a l'histoire. »** Les des ne sortent que pour les enjeux legers du lieu (un pari, un concours), doses en consequence.
+
+
+## §66 · LE POINT DE REPRISE PAR SCENE *(valide joueur, 2026-08-21 — « j'aime vraiment cette campagne »)*
+
+Apres CHAQUE scene, en meme temps que la declaration servi : le bloc POINT DE REPRISE de `ETAT-CAMPAGNE.md` est mis a jour (scene courante, ou, bloc en attente) puis **commite et pousse immediatement** — deux lignes, dix secondes, invisible en jeu. Le codex complet garde sa cadence (~10 scenes et fin de session). **Perte maximale en cas de mort de session : zero scene.**
