@@ -24,7 +24,7 @@ Codex-006 : 104 491 → codex-007 : **184 491** (×1,76 — le Père des Brumes 
 - **LA CHARTE DU COL DES AIGUILLES** *(achetée à la vacation — un col mort à lui, l'auberge morte comprise : un droit réel, une fondation possible — §18.3)*
 - **Portes** : ⚑ `LE CRÉANCIER 2/4` · ⚑ **`LA BRUME LE SERT 1/4`** *(dans toute brume : il voit clair, rien ne le signale)* · ⚑ `LA TOURNÉE LUE 1/4` · ⚑ `L'HÔTE 2/4` · ⛔ **`L'EAU SE SOUVIENT 3/4`** *(l'eau qui coule et qui dort le signale)* · ⛔ `LA SOIE SE SOUVIENT 1/4` · ⛔ `QUI EST LE CENDRE ? 1/4`
 - **LA LIASSE : 13 ✔** · la taille sans nom (14) scellée · **LA GRANDE TAILLE (15) : LUE — le débiteur est ALDRIC**
-- **Déclarations gravées du joueur** : le gris de toujours · « le prochain qui me menace sera coupé en deux, même devant tout le monde » · **LA LOI DU TARIF** (un rire → un doigt · une moquerie → une main · au-delà → la tête — actes automatiques, monde servi en contenu) · **tout achat qu'elle veut est acheté, peu importe le prix**.
+- **Déclarations gravées du joueur** : le gris de toujours · « le prochain qui me menace sera coupé en deux, même devant tout le monde » · **LA LOI DU TARIF** (un rire → un doigt · une moquerie → une main · au-delà → la tête — actes automatiques, monde servi en contenu) · **tout achat qu'elle veut est acheté, peu importe le prix** · **POUR ALDRIC : LES DEUX** (réponse au psy, sc. 71) — la maison encaissée **et** la tête : l'eau qu'il a payée vaut bien plus qu'une menace au Tarif.
 - **LE SECRET** — la cloche (×10), la Gorgée, le Clou, le chiffre exact. **Alignements** — Seb `RENDRE +1`.
 
 ## ELLE
