@@ -7,9 +7,9 @@
 
 ## POINT DE REPRISE
 
-- **Scène courante : 121, EN COURS** — chez Isambart puis sur la glace : **la tenue de neige de Maille révélée (image servie)** — la scène est SUSPENDUE : elle se tourne vers Seb et attend ; **la main est au joueur** (« je lui dirai ce que j'en pense à ce moment-là — n'invente pas pour moi »). Aucun bloc posé.
-- **Où** : Millefeux sous la neige, le fleuve gelé, nuit, ~jour 544.
-- **Avant (ce codex)** : 118 la route blanche (le pourquoi du Dormant dit en jeu : il m'a mis sur sa liste le premier · le dernier barreau · la dernière bouchée à sa taille) · 119 Millefeux sous la neige (le Roi des Quais : « ma table est la vôtre ») · 120 la glace du bassin, de nuit (elle a patiné avec la main morte, sans un mot).
+- **Scène courante : 123** — jouées : 121 fin (« Moelleuse. » — rangé dans sa collection) · 122 la vérification (la nuit sur la glace, la casserole des « amoureux », elle marche côté gauche) · **123 LE SEUIL DU GRAND ORAGE** : le marais vu — le cercle qui fume, l'orage accroché, la respiration d'une minute ; l'Écoute l'a entendu, **il les a entendus depuis trois jours**. Bloc posé.
+- **Où** : la crête au-dessus du marais du Grand Orage, ~jour 562, plein hiver.
+- **Le bloc en attente (sc. 123)** : 1. au centre, de front (`grosse_piece` · mort) · 2. la chasse lente (`mesure` `chance` `bete`) · 3. le tirer hors du marais (`noir` `grosse_piece`).
 - **CAP DE CAMPAGNE (validé)** : **LE DORMANT DU GRAND ORAGE (200 000+)** — finale de la strate, à hauteur pleine (184 601), ligne mort · **le cœur du Répondant (+150 000) au retour** (ordre choisi) · **le chantier de la suite se construit hors séance** (§39 — en fiction Seb ne sait rien au-delà des 100 000).
 - **COUPES (§70, directives joueur)** : vieux monde hors service courant · marcheuse, poinçon, oreilles immobiles : morts · QUI EST LE CENDRE en sommeil · le Ban soldé hors-champ · plus jamais d'exposition-récompense ni d'annexe qui pointe vers une annexe.
 
