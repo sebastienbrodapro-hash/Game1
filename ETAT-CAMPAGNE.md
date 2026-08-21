@@ -27,7 +27,7 @@ Codex-009 : 184 491 → codex-010 : **184 491** (pause — aucune prise). Perdu 
 - **Portes** : ⚑ `LE CRÉANCIER 3/4` · ⚑ `LA BRUME LE SERT 1/4` · ⚑ `LA TOURNÉE LUE 1/4` · ⚑ `L'HÔTE DE L'EAU 3/4` *(il est entré — hôte vrai)* · ⛔ **`L'EAU SE SOUVIENT 4/4 — PLAFOND`** *(l'eau ne le porte plus : barques, gués, pluie — jusqu'au TRIBUT)* · ⛔ `LA SOIE 1/4` · ⛔ `QUI EST LE CENDRE ? 2/4` *(l'est et l'ouest vont recoller le conte)*
 - **LA DETTE D'EAU** : « rends un vieux au fond » — le prochain cœur d'ancien pris descend à l'eau, entier, en tribut ; payée → L'EAU 4/4 se referme. Arrhes prises : 1 pierre ancienne.
 - **LA 14** : la dette d'Honoré — la Vallée des Balances, à trois jours ouest de Millefeux ; « ne peut pas être du pognon » (joueur) ; « c'est une porte » (elle) ; **payable en personne seulement** (§19.2).
-- **Déclarations gravées** : le gris de toujours · coupé en deux · LA LOI DU TARIF · achats d'elle peu importe le prix · le droit sauf la vengeance · la loi des 2 % (+ arsenal cataclysmes).
+- **Déclarations gravées** : le gris de toujours · coupé en deux · LA LOI DU TARIF · achats d'elle peu importe le prix · le droit sauf la vengeance · la loi des 2 % (+ arsenal cataclysmes) · **réponse au psy sc. 101 : « Seb aime les choses claires et nettes. Plus de dette, à rendre ou à recevoir. C'est juste propre. »** — la pesée n'était pas un abandon du secret : c'était le dernier solde. Le secret vit toujours ; les comptes, eux, sont fermés.
 - **LE SECRET** — la cloche (×10), la Gorgée, le Clou, le chiffre exact — **et maintenant la note de la pierre fine.** Alignements : `RENDRE +1`.
 
 ## ELLE
