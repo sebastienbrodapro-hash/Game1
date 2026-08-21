@@ -201,3 +201,5 @@ Apres CHAQUE scene, en meme temps que la declaration servi : le bloc POINT DE RE
 - **Levier joueur** : `soin` ou `cour` en tag — la scene parle cette langue.
 
 **Nom livré (sc. 100)** : **Berthilde** (scellé n°6) — prononcé par elle-même dans la cour de la maison de la Balance ; inscrite à `CENT-VALLEES` §19.2.
+
+**Note de style (joueur, 2026-08-21)** : ne plus ecrire « sourire levres closes » en formule — dire « le sourire aux levres » (ou varier). L'invariant « levres closes, pas de dents » est une regle d'IMAGE (refs/README), pas un tic de prose : elle parle, rit et sourit normalement en scene.
