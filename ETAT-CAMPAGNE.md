@@ -7,9 +7,9 @@
 
 ## POINT DE REPRISE
 
-- **Scène courante : 123** — jouées : 121 fin (« Moelleuse. » — rangé dans sa collection) · 122 la vérification (la nuit sur la glace, la casserole des « amoureux », elle marche côté gauche) · **123 LE SEUIL DU GRAND ORAGE** : le marais vu — le cercle qui fume, l'orage accroché, la respiration d'une minute ; l'Écoute l'a entendu, **il les a entendus depuis trois jours**. Bloc posé.
-- **Où** : la crête au-dessus du marais du Grand Orage, ~jour 562, plein hiver.
-- **Le bloc en attente (sc. 123)** : 1. au centre, de front (`grosse_piece` · mort) · 2. la chasse lente (`mesure` `chance` `bete`) · 3. le tirer hors du marais (`noir` `grosse_piece`).
+- **Scène courante : 124** — LA CHASSE LENTE (71-89) : le Dormant VU — salamandre colossale, cuirasse de fer noir, **poids vrai ~230 000** ; l'orage est son souffle ; **la fenêtre : le grand souffle du soir, ~100 s de surdité** ; il chasse aux vibrations ; boue sans fond MAIS marais saturé de tendu (roseaux, glace, l'orage haubané comme une tente) ; petit plus : **l'échine de roc** (approche dure jusqu'à 300 m du cercle). Bloc du plan posé.
+- **Où** : le camp de crête au-dessus du Grand Orage, ~jour 565, plein hiver.
+- **Le bloc en attente (sc. 124)** : 1. la fenêtre du souffle, à deux (`grosse_piece` `bete` · mort) · 2. lui prendre son ciel d'abord — couper la tente de l'orage (`art` `grosse_piece` · mort) · 3. le faire sortir — la couenne en faux poids (`noir` `mesure`).
 - **CAP DE CAMPAGNE (validé)** : **LE DORMANT DU GRAND ORAGE (200 000+)** — finale de la strate, à hauteur pleine (184 601), ligne mort · **le cœur du Répondant (+150 000) au retour** (ordre choisi) · **le chantier de la suite se construit hors séance** (§39 — en fiction Seb ne sait rien au-delà des 100 000).
 - **COUPES (§70, directives joueur)** : vieux monde hors service courant · marcheuse, poinçon, oreilles immobiles : morts · QUI EST LE CENDRE en sommeil · le Ban soldé hors-champ · plus jamais d'exposition-récompense ni d'annexe qui pointe vers une annexe.
 
