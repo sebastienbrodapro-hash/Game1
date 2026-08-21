@@ -18,6 +18,7 @@
 | **90-100** | au-delà | — |
 
 **⛔ NATUREL 1 / NATUREL 100 — LE MONDE CHANGE RADICALEMENT**, en mal ou en bien (porte comprise, tout dû dans la scène même). Les critiques ordinaires (naturel 01-10 / 90-100) restent inchangés.
+**LA LOI DES 2 %** *(joueur, 2026-08-21)* : 0 à 2 fois par strate — chaque occurrence **marque énormément et définitivement**, dosée à l enjeu. **Miracle** : un gain d étage unique au monde (art d au-delà du dernier cran, objet d avant la mesure) — jamais chiffre, info ou situationnel. **Cataclysme** : une perte du même étage — un membre, une chute de puissance (jusqu à 1), une malédiction (ne plus monter que par le Corps…) ; **§44 est levé pour lui seul : le cataclysme peut mutiler définitivement, quel que soit le grade de Corps.**
 **LE RADICAL SE MESURE À LA SCÈNE** *(joueur, 2026-08-20 : « sur une conversation, un 1 ne peut pas détruire une ville »)* : le 1 et le 100 changent radicalement **ce qui est engagé dans la scène**, jamais plus — sur une discussion, c'est la discussion qui bascule ; sur une bataille, la bataille. L'échelle du dé est l'échelle de l'enjeu : **un 31-50 sur un événement majeur peut coûter plus cher qu'un naturel 1 sur une causerie.** Toute bande se dose à l'enjeu réellement posé sur la table.
 
 *(Recalage 2026-08-16, puis **redurci par le joueur le 2026-08-20** : « le minimum vital tu le redresses de 1 à 10 et l'au-delà tu le resserres 90 à 100 » — les deux bandes extrêmes s'alignent sur les critiques naturels. Échec dur : 10 %. Au-delà : 11 %.)*

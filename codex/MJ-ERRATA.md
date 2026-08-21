@@ -156,3 +156,11 @@
 **Regle re-affirmee** : le paiement d'un critique se mesure a ce que LE JOUEUR garde — jamais a ce que le monde gagne. Un miracle qui enrichit le decor sans changer la fiche est un miracle non paye.
 
 **Correctif (retour joueur, meme jour)** : le Cordon des Bornes retire (« n'importe qui avec un crayon peut le faire ») — remplace par **LA BORNE D'AVANT** : un piquet du bornage originel, dechausse pour lui seul ; plantee, un point que rien dans la strate ne deplace, un fil noue dessus tient toute tension, seule la main qui l'a plantee la dechausse.
+
+
+## §63 · LA LOI DES 2 % *(dictee par le joueur, 2026-08-21, apres le paiement du premier naturel 100)*
+
+Un naturel 1 ou 100 arrive 0 a 2 fois par strate : chaque occurrence marque la campagne enormement et definitivement, dans les deux sens, dosee a l'enjeu de la scene.
+- **Naturel 100 (miracle)** : un gain de l'etage Fil de Brume / Borne d'Avant — art unique au monde, objet d'avant la mesure, capacite que personne d'autre n'aura. Jamais un chiffre, jamais de l'info, jamais du situationnel.
+- **Naturel 1 (cataclysme)** : une perte du meme etage — un bras, une chute de puissance (jusqu'a retomber a 1), une malediction (ne plus monter que par le Corps, etc.). **L'exception §44 est levee pour le cataclysme seul** : il peut mutiler definitivement, quel que soit le grade de Corps. (Mots du joueur : « si sur un cataclysme je perds un bras, ou si tu me fais retomber a 1, ou une malediction qui ne me permet plus de monter que par le corps, j'accepterai. »)
+- Les deux se paient dans la scene meme ; le dosage suit l'enjeu (§ radical-a-la-scene, SEUILS).
