@@ -7,9 +7,9 @@
 
 ## POINT DE REPRISE
 
-- **Scène courante : 103** — jouée. **LA PESÉE EST PAYÉE (sc. 102) : la Balance a tout dit — le secret entier vit dans les murs, sous la loi du secret de pesée. LA LIASSE EST FERMÉE, 15/15. « L'enfant est pesé. L'enfant est nôtre. »** Le peson rendu (sc. 103) : le Fléau de Poche, les poids d'Honoré, une chambre à vie. Bloc posé.
-- **Où** : la maison de la Balance, le Fléau, jour 454, le matin.
-- **Le bloc en attente** : 1. quelques jours de maison (`atout` `bete`) · 2. le beau vieux demandé à la maison (`grosse_piece` `chance`) · 3. la route de l'est (`rite` `mesure`) · 4. la quatrième couche (`corps` `chance`).
+- **Scène courante : 105** — jouée : les jours de maison (le poids au mur, la chambre du père, l'atelier, la Cour : 3 mailles) puis **le chapelet des trois vieux de l'ouest** — le Sanglier de Fonte (~100k) · la Dame des Roselières (~140k, pays d'eau) · le Dormant du Grand Orage (200k+, au-dessus). Bloc du tribut posé.
+- **Où** : la maison de la Balance, jour 458, le soir.
+- **Le bloc en attente** : 1. le Sanglier (`grosse_piece` `equipement` · mort) · 2. la Dame (`grosse_piece` `bete` · mort) · 3. le Dormant (`grosse_piece` `arrogance` · mort) · 4. l'est d'abord (`rite` `mesure`).
 - **L'ouest est écrit** (passe 11, `CENT-VALLEES` §19 + tronc §13) : Millefeux au canon, la Vallée des Balances construite, scellée où il faut.
 
 ## BILAN DE PUISSANCE (§59)
