@@ -565,13 +565,17 @@ Au-dessus de 100 000, **le chiffre cesse d'être l'histoire**. Ce qui mord à ce
 
 *La suite de §7 — l'échelle de chasse ET de nourriture continue au-dessus de 45 000. Tout est d'avant la mesure ; rien n'a été posé pour lui.*
 
-19. **le Père des Brumes** — **80 000** — ce qui chasse dans la brume des hauts prés (§6.14 le sait sans le dire) : la Traite des Brumes rend la rosée, et prélève un traiteur par génération. Rend : **le manteau de brume** — marcher d'une vallée à l'autre sans être vu d'aucune pierre, d'aucune bouche.
+19. **le Père des Brumes** — **80 000** — ce qui chasse dans la brume des hauts prés (§6.14 le sait sans le dire) : la Traite des Brumes rend la rosée, et prélève un traiteur par génération. Rend : **le manteau de brume** — marcher d'une vallée à l'autre sans être vu d'aucune pierre, d'aucune bouche. **✔ pris sc. 71 — quatre échanges, ligne mort, les côtes ouvertes ; sur NATUREL 100 (le premier miracle de la campagne) : la brume des hauts prés arrachée d'un seul geste — le pré a rendu LES BORNES D'AVANT (§18.7), le manteau et le cœur pris (+80 000 → 184 491), ⚑ LA BRUME LE SERT ouverte.**
 20. **le Mélèze-Roi** — **120 000** — l'arbre de l'adret **est vivant, d'avant la mesure** ; la Saignée décennale est son sang, la Reine (§7.16) est sa garde, et le cloître se doute sans oser savoir. Rend : **l'ambre-roi** (la matière d'artefact au-dessus de tout ce que §5 liste) — et l'adret change de maître. **La décennie approche** (§6.16).
 21. **le Répondant** — **150 000** — *ce qui répond quand on sonne* aux Cloches Mortes (§2.1 l'écrit depuis la passe 1). Le Carillonneur (12 000) n'est que son sonneur. La chaîne de chasse est écrite, comme pour le Roi-Cocon : prendre la Cloche Fêlée, sonner aux tombes hautes — **il répond**. Rend : le bronze d'avant, et le silence vrai de la vallée. *(La Recluse écoute quelque chose, là-haut, depuis quarante ans.)*
 22. **la Muette-mère** — **au-delà de 200 000** — ce qui dort au fond de la Vallée Muette et dont la Nichée (§7.17) n'est que la couvée ; les couvées elles-mêmes pèsent **20 000-60 000 chacune**. **Ligne mort écrite d'avance, à chaque approche.** *(Le reste : le tronc, §5.)*
 23. **ce que garde le seuil** — la Dernière Marche ; le Bouc (30 000) n'est que le dehors. *(Le tronc, §6.)*
 
 *(Conduite : cette échelle nourrit **elle** — chaque prise au-dessus de 45 000 est un cran de nourriture légitime — et fournit la matière d'équipement de la couche : manteau de brume, ambre-roi, bronze d'avant. L'extraordinaire se prend sur de l'extraordinaire, inchangé.)*
+
+### 18.7 · LES BORNES D'AVANT *(canon né du miracle de la sc. 71 — préexistant : la brume les couvrait depuis des siècles)*
+
+Sous la brume des hauts prés dormait **le bornage originel de l'archipel** : des centaines de pierres levées en lignes de crête à crête, gravées d'encoches d'avant tout cadastre vivant. Elles disent où étaient les limites **avant qu'on les déplace en souriant** — le témoin de pierre contre lequel tout le cadastre du Pavois d'Étain peut être confronté. Personne d'autre ne sait encore qu'elles ont reparu ; les herbagers monteront aux prés découverts d'ici quelques jours, et alors le monde saura. *(Ce qu'elles sont vraiment : le tronc.)*
 
 ### 18.3 · BÂTIR — fonder un nom *(le pilier « je bâtis » : l'héritier du colporteur peut devenir une maison)*
 

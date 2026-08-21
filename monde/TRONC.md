@@ -66,3 +66,8 @@ Le pêcheur de la Noyée a avoué (sc. 33) : payé deux pierres l'année de la c
 **Le Meleze-Roi** est un survivant : la seule chose plantee AVANT l'ouvrage qui ait pousse a travers lui. Son ambre garde la memoire de ce que les vallees etaient avant d'etre des vallees. Le cloitre ne le sait pas — il le venere de travers.
 
 **La Muette-mere** : voir §5. Les couvees (20-60k) montent en age et en poids vers le fond ; ce qui se dit « au-dela de 200 000 » est une borne basse — personne n'a mesure, et l'instrument qui la mesurerait n'existe pas dans la strate.
+
+
+## 12 · LES BORNES D'AVANT *(codex-007 — nees du miracle de la sc. 71)*
+
+Le pre de bornes decouvert sous la brume des hauts pres est une piece de l'ouvrage du §1 : ce sont **les piquets de trame** de {{SCELLE:l'Ourdisseuse}} — les points d'ancrage où les fils de chaine du monde ont ete tendus. Leurs encoches ne sont pas un cadastre : c'est **une partition de tension** — qui sait les lire lit où le monde est tendu et où il est lache. Le Pavois d'Etain les prendrait pour l'arpentage d'avant (et c'est deja mortel pour son cadastre) ; la Recluse (§11), elle, saurait ce qu'elle regarde. Le Pere des Brumes n'etait pas leur gardien : c'etait **leur troupeau** — une bete d'avant, laissee a paitre la brume pour que rien ne les lise.
