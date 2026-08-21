@@ -7,75 +7,64 @@
 
 ## POINT DE REPRISE
 
-- **Scène courante : 117** — LA RECLUSE SOLDÉE : la note livrée et entendue, les quatre faits dits en clair, paiement : ⟨L'ÉCOUTE⟩ (entendre le tendu à portée de voix) + l'entendu de quarante ans (le Dormant ne dort pas ; la troisième oreille marche par la route de l'est, ne pèse presque rien) ; le fil du vieux monde SORT DU SERVICE COURANT (ne revient que si le joueur le touche — recadrage validé). Le Carillonneur reste avec elle. Avant : jouées : **114 Charmoy** (le fusil de Margot, les trois étrangers du sud, la moitié de pièce au **poinçon aux trois traits** — la frappe perdue au dégel) · **115 la nuit sans lune** (la Cloche Fêlée décrochée sans un son — la fêlure est TAILLÉE, faite pour tenir ; le Carillonneur suit) · **116 LE RÉPONDANT PRIS 3-2** — deux catastrophes naturelles dans l'échange : la Cloche a bu sa mort (fêlure courue — muette à jamais), la main gauche a mangé la seconde (chair morte entière, Jade) ; **la note de printemps tient dans la fêlure** · le bronze d'avant · le silence vrai · ⛔ LA TROISIÈME OREILLE 2/4 (un feu compté sur la crête est). Bloc posé.
-- **Où** : les tombes hautes, les Cloches Mortes, aube du ~jour 522, premières gelées.
-- **Le bloc en attente (sc. 117)** : 1. le Ban, plein est (`rite` `grosse_piece`) · 2. la marcheuse sur la route — l'écoute tendue devant (`noir` `chance`) · 3. le bronze d'avant — descendre, une maille pour Maille (`equipement` `bete` `marchandage`) · 4. les Orgues de Glace avant de partir (`corps` · mort). Psy lancé à 117 (directive « pas de questions de place » incluse).
-- **CORPS servi sur réclamation (faute §0.0 à graver au codex-012)** : GRÈS 4/4 (duel sc. 112 — côtes tenues) + BRONZE 1/4 (sc. 116 — la main qui a mangé la note) ; chiffre 184 491 → **184 601** ; liste `corps` posée : les Orgues de Glace (mort) · réclusion dans le silence vrai · la tombe haute (réprouvée).
-- **Deltas de fiche depuis codex-011** : jetons **8/10** (+2 ×2, catastrophes) · ⛔ MAIN DE L'HIVER AGGRAVÉE : **main gauche entière morte (chair) — ne tient plus rien, jusqu'au JADE** ; le toucher fin reste définitif · épaule du duel rouverte (~2 sem.) · Maille : entaille à l'avant-bras (pansée, Toile Royale) · **+ la Cloche Fêlée (muette, elle TIENT la note de printemps)** · + le bronze d'avant (carcasse aux tombes, des tonnes) · + la moitié de pièce au poinçon aux trois traits · + le silence vrai des Cloches Mortes · **+ ⛔ LA TROISIÈME OREILLE 2/4** *(deux notes de mort ont passé les crêtes — quelqu'un s'est levé)* · le Carillonneur suit la Cloche.
+- **Scène courante : 121, EN COURS** — chez Isambart puis sur la glace : **la tenue de neige de Maille révélée (image servie)** — la scène est SUSPENDUE : elle se tourne vers Seb et attend ; **la main est au joueur** (« je lui dirai ce que j'en pense à ce moment-là — n'invente pas pour moi »). Aucun bloc posé.
+- **Où** : Millefeux sous la neige, le fleuve gelé, nuit, ~jour 544.
+- **Avant (ce codex)** : 118 la route blanche (le pourquoi du Dormant dit en jeu : il m'a mis sur sa liste le premier · le dernier barreau · la dernière bouchée à sa taille) · 119 Millefeux sous la neige (le Roi des Quais : « ma table est la vôtre ») · 120 la glace du bassin, de nuit (elle a patiné avec la main morte, sans un mot).
+- **CAP DE CAMPAGNE (validé)** : **LE DORMANT DU GRAND ORAGE (200 000+)** — finale de la strate, à hauteur pleine (184 601), ligne mort · **le cœur du Répondant (+150 000) au retour** (ordre choisi) · **le chantier de la suite se construit hors séance** (§39 — en fiction Seb ne sait rien au-delà des 100 000).
+- **COUPES (§70, directives joueur)** : vieux monde hors service courant · marcheuse, poinçon, oreilles immobiles : morts · QUI EST LE CENDRE en sommeil · le Ban soldé hors-champ · plus jamais d'exposition-récompense ni d'annexe qui pointe vers une annexe.
 
 ## BILAN DE PUISSANCE (§59)
 
-Codex-010 : 184 491 → codex-011 : 184 491 → courant : **184 601** (deux couches de Corps dues servies) (le cœur du Sanglier rendu au fond — jamais compté : c'était le tribut). **Contre l'étage servi** : le Sanglier ~100 000 pris à l'écrasement ✔ ; restent à l'ouest la Dame (~140 000) et le Dormant (200 000+) ; à l'est le patriarche (~90 000) et la couche haute (§18). **Ratio dans la fenêtre — rien ne sonne.** Les moyens : col de l'Étain (+1 600 p à encaisser), concessions de fer (4/10), couenne 400 kg, Gorgée +172 000 dormants.
+Codex-011 : 184 491 → codex-012 : **184 601** (+110 — les deux couches de Corps servies sur réclamation, §68). Quasi-stagnation **expliquée et volontaire** : deux prises majeures en attente d'encaissement — le cœur du Répondant (**+150 000**, banké aux tombes) et le Dormant (**200 000+**, chasse engagée) ; sortie de monde projetée ~534 601. Rien ne sonne.
 
-## FICHE — Seb, 18 ans · sommet révélé aux deux bouts de la Traverse · SANS UNE DETTE NULLE PART
+## FICHE — Seb, 18 ans · sommet des deux bouts de la Traverse · SANS UNE DETTE NULLE PART
 
-- `chiffre — 184 601 · pesé 184 491 par la Balance d'Avant (secret aux murs, loi de pesée)` · brassard CENDRE *(l'or du vallon au coffre — légal partout)*
-- `CORPS — LE GRÈS ACHEVÉ 4/4 (dû sc. 112, servi sur réclamation §0.0 — faute nommée) · LE BRONZE 1/4 (la main, sc. 116)` — *la main gauche morte SONNE* · `jetons 8/10` · ⛔ **LA MAIN DE L'HIVER** *(permanent — toucher fin de la gauche mort ; deux mains fines = une bande plus dure ; froid vif = −5 art ; chair au JADE un jour)* · le pouce marqué
-- **L'ART** : ⟨FIL⟩ 6/6 LA MARIONNETTE · ⟨FIL DE BRUME⟩ · ⟨L'ÉCOUTE⟩ *(de la Recluse — entendre le tendu à portée de voix : pièges, arts armés, domaines pliés)* · LA BÉNÉDICTION DE LA TRAME *(la Balance a refusé de la peser : « il est d'avant elle »)*
-- **Bourse : ~3 440 p** + ~1 600 p au col · 5 pierres anciennes · deux chevaux · **la Gorgée (+172 000, 10/nuit)** · le manteau de brume · LE CLOU · LE SOUFFLE · LA TOILE ROYALE · **LE FLÉAU DE POCHE** *(le poids vrai des choses au contact)* · **les poids d'Honoré** · la couenne de fonte (400 kg) · la preuve entière · l'archive d'Aldric · les tenues d'Isambart (automne comprises) · la 5ᵉ maille
-- **DOMAINES ET DROITS** : le col de l'Étain *(~400 p/lune)* · **les concessions des collines de fer** *(maison de la Balance, 4/10 à lui, l'oncle exploitant)* · la charte des Aiguilles · PREMIER COUTEAU *(à défendre au Ban — semaines)* · l'alliance des Meules · une chambre à vie au Fléau · les positions de l'ouest (la table du complot, Isambart, la chambre de Millefeux, le Roi des Quais)
-- **Portes** : ⚑ `LE CRÉANCIER 3/4` · ⚑ `LA BRUME LE SERT 1/4` · ⚑ `LA TOURNÉE LUE 1/4` · ⚑ `L'HÔTE DE L'EAU 3/4` · ⛔ `LA SOIE 1/4` · ⛔ `QUI EST LE CENDRE ? 2/4` *(les étrangers repartis sur les mensonges de Firmin — vers le sud)*
-- **Déclarations gravées** : le gris de toujours · coupé en deux · LA LOI DU TARIF · achats d'elle peu importe le prix · le droit sauf la vengeance · la loi des 2 % · **« plus de dette, à rendre ou à recevoir — c'est propre »** *(réalisé : les comptes du monde avec Seb sont vides depuis la sc. 107)* · son nom propre gardé « pour le jour où il sera crié ».
-- **LE SECRET** — la cloche, la Gorgée, le Clou, le chiffre, la note de la pierre fine : **connu d'une seule maison au monde, sous la loi la plus dure de sa vallée.** Alignements : `RENDRE +1`.
+- `chiffre — 184 601` *(pesé 184 491 par la Balance d'Avant — secret aux murs)* · brassard CENDRE *(l'or du vallon au coffre)*
+- `CORPS — LE GRÈS ACHEVÉ 4/4 · LE BRONZE 1/4` — *la main gauche morte SONNE* · `jetons 8/10` · ⛔ **LA MAIN DE L'HIVER, AGGRAVÉE** *(toucher fin gauche mort À JAMAIS ; chair de la main gauche entière morte — ne tient rien — jusqu'au JADE ; froid vif = −5 art)* · le pouce marqué · épaule guérie
+- **L'ART** : ⟨FIL⟩ 6/6 LA MARIONNETTE · ⟨FIL DE BRUME⟩ · ⟨L'ÉCOUTE⟩ *(entendre le tendu à portée de voix : pièges, arcs bandés, arts armés, domaines pliés)* · LA BÉNÉDICTION DE LA TRAME
+- **Bourse : ~3 140 p** *(tenues d'hiver d'Isambart ~300 p)* + ~1 600 p au col · 5 pierres anciennes · deux chevaux · **la Gorgée (+172 000, 10/nuit)** · le manteau de brume · LE CLOU · LE SOUFFLE · LA TOILE ROYALE · LE FLÉAU DE POCHE · les poids d'Honoré · la couenne de fonte (400 kg) · la preuve entière · l'archive d'Aldric · les tenues d'Isambart (hiver compris) · la 5ᵉ maille · **la Cloche Fêlée** *(trophée muet — chez la Recluse)* · **le bronze d'avant + LE CŒUR (+150 000) aux tombes hautes, à manger au retour**
+- **DOMAINES ET DROITS** : le col de l'Étain *(~400 p/lune)* · les concessions des collines de fer *(4/10, l'oncle exploitant)* · la charte des Aiguilles · PREMIER COUTEAU *(défendu sans combat — personne ne s'est présenté)* · l'alliance des Meules · une chambre à vie au Fléau · les positions de l'ouest *(la table du complot, Isambart, la chambre de Millefeux, le Roi des Quais)* · les limites du patriarche ouvertes à jamais, sa reconnaissance due
+- **Portes** : ⚑ CRÉANCIER 3/4 · ⚑ LA BRUME LE SERT 1/4 · ⚑ LA TOURNÉE LUE 1/4 · ⚑ L'HÔTE DE L'EAU 3/4 · ⛔ LA SOIE 1/4 · ⛔ QUI EST LE CENDRE ? 2/4 **en sommeil** *(ne se sert plus d'elle-même — §70)*
+- **Déclarations gravées** : le gris de toujours · coupé en deux · LA LOI DU TARIF · achats d'elle peu importe le prix · le droit sauf la vengeance · la loi des 2 % · « plus de dette, à rendre ou à recevoir » · son nom gardé « pour le jour où il sera crié » · **« soit c'est la trame principale, soit c'est rien »**
+- **LE SECRET** — inchangé (une seule maison au monde). Alignements : `RENDRE +1`.
 
 ## ELLE — MAILLE
 
-- `la bête 6/9 · LA FEMME · MAILLE` *(nommée par elle-même, sc. 99 — « proposé, jamais mendié »)* · A ✔ B ✔ C ✔ · dernière prise : le Père des Brumes (80 000).
-- **Possessions** : le tour de cou aux quatre mailles · les défenses du Sanglier · la loge des Cent Piliers · sa garde-robe d'Isambart · la collection de mailles *(renaissante)*.
-- **LE LIEN (§67)** — la Meute (socle) · **LE SOIN** *(l'anguille, le manteau, la boîte posée sans un mot, les anguilles à heure fixe de la tante)* · **LA COUR** *(mailles dépensées : 3 — le rougissement · l'avoir entendu dire « Maille » en premier · le tarif des grand-mères)*.
-- Hauts faits récents : son baptême à la borne · saluée par la Balance d'Avant (« c'est rare ») · « l'ouest est à nous ».
+- `la bête 6/9 · LA FEMME · MAILLE` · A ✔ B ✔ C ✔ · dernière prise : le Père des Brumes (80 000) · **prochaines bouchées : le cœur du Répondant (150 000, au retour) · le Dormant**
+- **Possessions** : le tour de cou aux quatre mailles · les défenses du Sanglier · la loge des Cent Piliers · sa garde-robe d'Isambart · **la tenue de neige (sa demande : « de quoi être vue sur la glace »)** · les gants gris perle · la collection de mailles
+- **LE LIEN (§67)** — la Meute (socle) · **LE SOIN** *(… · le côté gauche pris sur la route, jamais commenté · la main morte emmenée patiner)* · **LA COUR** *(mailles dépensées : 3)*
+- Blessures : aucune. L'avant-bras guéri propre.
 
-## LES FILS OUVERTS — L'EST
+## LE MONDE — OÙ ON EN EST
 
-1. **LA GUERRE DES GÉOMÈTRES** : les bornes d'avant publiques ; le doyen des huissiers « garde une lame sous son manteau, il attend quelqu'un » ; **le Pavois propose le Grand Réalignement** (tenir la plume de sa propre correction) ; la partie du patriarche : « les formes — les miennes ».
-2. **LE GRAND BAN** : premières gelées, dans quelques semaines — le titre se défend ; le Long Couteau s'entraîne ouvertement.
-3. **CHARMOY** : des étrangers ont questionné l'été — Firmin a menti exprès, repartis vers le sud ; Margot garde la chambre balayée et le fusil chargé.
-4. **L'ouest en réserve** : la Dame des Roselières (~140 000) · le Dormant (200 000+) · les arts du miracle jamais éprouvés à froid · la 4ᵉ couche du Grès · « la Voie a des maîtres — pas encore ».
-
-## CASTING (delta depuis codex-010)
-
-- **BERTHILDE** — grand-mère, doyenne de la Balance ; « la chambre reste » ; « Juste. »
-- **l'oncle** — maître d'exploitation des collines de fer ; « méfie-toi des instruments faussés : il faut une main pour fausser »
-- **la tante** · les enfants de la maison *(tarif des gamins : gratuit)*
-- **le Sanglier de Fonte** — pris sc. 106 ; les collines silencieuses
-- **l'eau** — comptes fermés, arrhes rendues ; le porte
-- *(L'est reconduit : le doyen des huissiers, le patriarche, le chef du cadastre, le Long Couteau, Margot, Gaucher, Firmin, frère Colin, le fils au col…)*
+1. **LA CHASSE AU DORMANT** : ~2,5 semaines de route restantes (les Roselières, puis le marais du Grand Orage) ; la Dame des Roselières (~140 000) sur le chemin — sous lui désormais.
+2. **L'est, réglé** : patriarche à genou (reconnaissance due), Ban soldé, Charmoy tranquille (Margot, le fusil), le péage tourne.
+3. **Le chantier de la suite** : hors séance, invisible en jeu.
 
 ## HORLOGES
 
 | Quand | Quoi | Tags | Récurrence |
 |---|---|---|---|
-| **semaines** | **LE GRAND BAN** — premières gelées, le titre se défend | `rite` `grosse_piece` | annuel |
-| en cours | **la guerre des géomètres** — Réalignement vs la lame du doyen | `mesure` `noir` | — |
-| à 2 jours | Charmoy — le fusil chargé de Margot | `atout` | — |
-| chaque lune | le péage de l'Étain (1 600 p à encaisser) | `marchandage` | continu |
+| ~2,5 semaines | **le marais du Grand Orage** — le Dormant attend | `grosse_piece` | unique |
+| ~une lune | la glace de Millefeux tiendra | `atout` | saisonnier |
+| chaque lune | le péage de l'Étain s'accumule (~1 600 p +) | `marchandage` | continu |
+| au retour | le cœur du Répondant (+150 000) aux tombes | `grosse_piece` | unique |
 
-## RÈGLES GRAVÉES DEPUIS CODEX-010
+## RÈGLES ET FAUTES DEPUIS CODEX-011
 
-- **§66** — le point de reprise par scène (en service) · **§67** — LE LIEN (la Meute socle, le Soin, la Cour ; initiative des deux côtés ; acquis de pause = canon actif).
-- **Réponses au psy** : sc. 101 « plus de dette, à rendre ou à recevoir — c'est propre » · sc. 109 : close sans réponse (directive : le psy ne ressert plus le thème de la place)
+- **§68** faute §0.0 : le Corps réclamé (2 couches servies) · **§69** faute §0.0 : le gain du Répondant réclamé (une prise paie son poids) · **§70** directive « soit trame principale, soit rien » (vieux monde hors service, annexes coupées, exposition-récompense interdite).
+- **Psy sc. 117** (la main gauche : récupérer ou vivre avec ?) — réponse en attente, droit du joueur.
 
-## JOURNAL DES SCÈNES (99-110)
+## JOURNAL DES SCÈNES (111-121)
 
-99. **LA QUESTION DU NOM** — « il fallait qu'on me le propose » — **MAILLE** ; la 3ᵉ maille ; premier usage public à la borne.
-100. **LA MAISON QUI PÈSE** — le Fléau descendu ; **Berthilde** ; la 14 réunie ; la dette = une pesée qui rend LE VRAI ; « Honoré a fui la lecture ».
-101. **CE QUE LA BALANCE DIT** — la loi du secret de pesée ; le père raconté ; « ta maladie se soigne peut-être ».
-102. **LA PESÉE** — la Balance a tout dit, du plus léger au plus lourd ; elle a refusé la Trame ; **« L'enfant est pesé. L'enfant est nôtre. » LA LIASSE FERMÉE, 15/15.**
-103. **LE PESON RENDU** — le contrepoids perdu depuis quatre générations ; le Fléau de Poche, les poids d'Honoré, la chambre à vie.
-104. **LES JOURS DE MAISON** — le poids au mur (crochet reforgé), le vide d'Honoré gardé, la chambre aux cartes, l'atelier (« le geste y est »).
-105. **LE BEAU VIEUX** — le chapelet des trois vieux de l'ouest ; « pèse pourquoi » ; « on offre beau ».
-106. **LE SANGLIER DE FONTE** — écrasement, chasse pleine ; le cœur entier, la couenne, les défenses.
-107. **LE TRIBUT** — le cœur au fond du confluent ; **l'eau soupire, rend l'acompte, le porte** ; le premier rire sur l'eau depuis la crue ; **plus aucune dette nulle part.**
-108. **LES ADIEUX QU'ON FAIT BIEN** — « la chambre reste » ; « Juste. » ; le conseil de l'oncle sur les instruments faussés ; Isambart anticipe les saisons.
-109. **LA MARQUE SUR LES COLLINES** — les concessions fondées (Balance, 4/10) ; son nom gardé « pour le jour où il sera crié ».
-110. **LA GRANDE ROUTE DE L'EST** — cinq semaines ; les nouvelles : bornes publiques, le Grand Réalignement du Pavois, le Ban qui attend, Charmoy qui a tenu ; « par qui on commence ? »
+111. LE PLI DU DOYEN — le monde a bondi ; la borne déplacée.
+112. **LE DUEL DE DOMAINES — GAGNÉ 3-2** ; le labyrinthe défroissé ; le genou posé ; le Réalignement retiré.
+113. CELLE QUI ÉCOUTE — la Recluse ; la chaîne du Répondant.
+114. LE FUSIL DE MARGOT — Charmoy ; les trois étrangers ; la pièce coupée *(fil coupé depuis, §70)*.
+115. LA NUIT SANS LUNE — la Cloche Fêlée décrochée ; le Carillonneur suit.
+116. **CE QUI RÉPOND — LE RÉPONDANT PRIS 3-2** ; deux catastrophes naturelles payées (la Cloche muette, la main morte) ; la note tenue.
+117. CELLE QUI ÉCOUTE, PAYÉE — la Recluse soldée ; l'Écoute apprise *(scène-étalon de la faute §70)*.
+118. LA ROUTE BLANCHE — le pourquoi du Dormant, à trois raisons ; les châtaignes.
+119. MILLEFEUX SOUS LA NEIGE — le fleuve gelé, la ville dessus ; « ma table est la vôtre ».
+120. LA GLACE REND TOUT — le bassin des joutes, de nuit, à deux ; la main morte emmenée patiner.
+121. CHEZ ISAMBART *(en cours)* — la tenue de neige révélée sur la glace ; **elle attend ce qu'il en pense.**

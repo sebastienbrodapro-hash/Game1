@@ -107,3 +107,11 @@ Le pre de bornes decouvert sous la brume des hauts pres est une piece de l'ouvra
 
 
 **Ajouts sc. 99-110 (codex-011)** — etats joues sur le §13 : la pesee est PAYEE (sc. 102) — la Balance a rendu le vrai entier devant la maison assemblee, secret aux murs sous la loi de pesee ; elle a refuse de peser la Benediction de la Trame (« il est d'avant elle ») — le fil vers l'ouvrage du §1 reste vivant et personne dans la vallee n'a les mots pour le dire. Berthilde a eu ce qu'elle attendait : quelqu'un est revenu. Le vide d'Honore au mur des poids est garde exact. L'est en mouvement pendant l'absence : le Pavois propose le « Grand Realignement » (tenir la plume de sa propre correction) — la partie du patriarche s'ecrit au chemin, pas au tronc ; les etrangers venus questionner Charmoy (QUI EST LE CENDRE 2/4) repartis vers le sud sur les mensonges de Firmin — qui les a envoyes, a ecrire quand la traque approchera.
+
+
+## ÉTATS JOUÉS — sc. 111-121 (codex-012)
+
+- Le Répondant pris (sc. 116) : la note de printemps versée dans la fêlure de la Cloche, livrée et entendue par la Recluse (sc. 117) — elle a dit au joueur la version claire : le monde est un ouvrage tendu, le son baisse, le don de Seb est le geste du métier. Aucun nom prononcé. L'Écoute transmise (entendre le tendu à portée de voix).
+- Sur directive joueur (errata §70) : la charpente du vieux monde SORT DU SERVICE COURANT — elle reste écrite ici et ne se sert plus que sur toucher volontaire du joueur. Les oreilles immobiles et la marcheuse : coupées mortes, ne reviennent jamais.
+- Le cœur de bronze du Répondant (+150 000) aux tombes hautes — à manger au retour du Dormant.
+- Corps : le Grès achevé, le Bronze entamé (la main gauche morte sonne).

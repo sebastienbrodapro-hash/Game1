@@ -209,3 +209,23 @@ Apres CHAQUE scene, en meme temps que la declaration servi : le bloc POINT DE RE
 **Note joueur (2026-08-21, gravee sur demande)** : « une bataille de terrain ca me vend pas du reve ». La guerre des geometres NE SE JOUE PAS en litiges, audiences ou arcs de procedure — §42 s'applique au cadastre comme au reste : **le droit est l'etincelle, jamais le spectacle**. Le vote = UNE scene de coup de theatre (registre pierre-fine : un retournement devant la foule). La chute du Pavois, si elle vient = de la matiere PHYSIQUE : le domaine du patriarche, les couloirs qui mentent, la Borne contre la Trame — un donjon, pas un dossier. Toute scene de cadastre qui ressemble a de la paperasse est une faute de composition.
 
 **Recadrage §0.2 (joueur, 2026-08-21 : « on dirait deux voisins et une cloture »)** : la guerre des geometres etait composee a hauteur de fourmi — FAUTE. Recomposee : les clotures (vote, borne, reclamation) partent aux PNJ (le fils + le doyen, hors-champ, une ligne) ; ce qui se joue a hauteur de sommet : LE DUEL DE DOMAINES (la Borne contre la Trame, chez lui), le Ban, la Recluse. Un sommet ne plaide jamais contre des arpenteurs.
+
+
+## §68 · LE DÛ DE CORPS RÉCLAMÉ *(faute §0.0, 2026-08-21 — « tu me dois tellement de corps en vrai »)*
+
+76 scènes à `CORPS 3/4` pendant que le déclencheur objectif (§SYSTEMES 1.1 : encaissé volontairement, sans reculer, réellement cassé) tombait DEUX FOIS sans être servi : le duel de domaines (sc. 112, côtes tenues debout) et la note de mort attrapée à main nue (sc. 116). Servi sur réclamation : **LE GRÈS ACHEVÉ 4/4 + LE BRONZE 1/4** (+110 au chiffre, dans la scène). **Leçon gravée : à CHAQUE blessure jouée, le MJ passe le déclencheur Corps — c'est un dû comme un seuil écrit.**
+
+## §69 · UNE PRISE PAIE SON POIDS — LE GAIN RÉCLAMÉ *(faute §0.0 ×2 le même jour : « la cloche à 150 000 qui donne une sonnette c'est pas rentable »)*
+
+Le Répondant (150 000, ligne mort, la main payée) rendu en « sonnette » (l'Écoute) + lore — sous-paiement caractérisé. Le vrai gain servi sur réclamation : **le cœur de bronze = +150 000 au chiffre quand Maille le mange** (précédent : le Père des Brumes, +80 000). **Règle explicite : toute grosse pièce prise paie son poids au chiffre à l'absorption.** Ordre choisi par le joueur : **le Dormant D'ABORD, à hauteur pleine (184 601 vs 200 000+) — le cœur au retour** (~534 601 en sortie de monde).
+
+## §70 · « SOIT C'EST LA TRAME PRINCIPALE, SOIT C'EST RIEN » *(directive joueur, verbatim, 2026-08-21)*
+
+La scène 117 (la Recluse qui raconte en guise de paiement) jugée « chiant à souhait » — étalon de la faute. Décisions du joueur, appliquées :
+- **Le vieux monde SORT DU SERVICE COURANT** — plus une scène, plus un « d'avant », plus un indice ; la charpente reste écrite au tronc et ne se sert que si le joueur la touche de lui-même.
+- **Annexes coupées mortes** : la marcheuse (la troisième oreille), le poinçon aux trois traits, les deux oreilles immobiles. `QUI EST LE CENDRE` passe **en sommeil** — ne se sert plus d'elle-même.
+- **Le Ban : soldé hors-champ** (personne ne s'est présenté) — la pavane reste une scène offerte à la demande, jamais un arc.
+- **Interdits de composition** : aucune trame secondaire à mystère ; aucune scène d'exposition-récompense — **un paiement est un pouvoir, un objet, un droit ou une proie, jamais un récit** ; aucun hook annexe qui pointe vers d'autres annexes (« 2 qui ont écouté mais pas bougé c'est archi mauvais »).
+- **Cap de campagne** : LE DORMANT DU GRAND ORAGE en finale de strate ; **le chantier de la suite se construit hors séance** (§39) — en fiction, Seb ne sait rien de ce qui dépasse les 100 000 (FONDATION : la découverte lui arrive, jamais un projet).
+
+*(Psy sc. 117 relayé — la question de la main gauche, réponse en attente : droit du joueur.)*

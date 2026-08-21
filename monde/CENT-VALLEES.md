@@ -636,3 +636,14 @@ Sous la brume des hauts prés dormait **le bornage originel de l'archipel** : de
 3. **LA DERNIÈRE MARCHE** — le seuil (*le tronc, §6*) : la strate se quitte le jour où il le décide — et pas avant d'avoir soldé ce qu'il veut solder. **La fin de strate est un choix de joueur, jamais une échéance.**
 
 *(Conduite : ces trois routes se servent par les axes ordinaires — rien de neuf à déclarer. Le compteur continue de commander.)*
+
+
+---
+
+## ÉTATS JOUÉS — sc. 111-121 *(codex-012)*
+
+- **§18.1 le patriarche** : LE DUEL DE DOMAINES PERDU contre Seb (sc. 112, 3-2 — le labyrinthe défroissé, « un espace plié est un espace tendu ») ; le genou posé, les limites ouvertes à jamais, le Grand Réalignement retiré, reconnaissance due au cadastre assemblé.
+- **§18.2 / §5.2.2 / §7.8** : **le Répondant PRIS** (sc. 116, à hauteur 3-2) — la Cloche Fêlée décrochée (fêlure courue en combat : muette à jamais, elle TIENT) ; le Carillonneur suit la Cloche, resté aux temples ; **le silence vrai** sur la vallée ; la carcasse de bronze d'avant aux tombes hautes — **le cœur (+150 000) à manger au retour du Dormant** (§69 errata). La Recluse : payée (la note entendue), en paix, garde la Cloche.
+- **Le Grand Ban** : soldé hors-champ — personne ne s'est présenté contre le Premier Couteau.
+- **Directive §70 errata** : le registre « vieux monde » ne se sert plus de lui-même ; `QUI EST LE CENDRE` en sommeil.
+- **Cap courant** : **LE DORMANT DU GRAND ORAGE (200 000+)** — la dernière chose de l'archipel au-dessus de lui ; route de l'ouest en cours (Millefeux sous la neige, sc. 119-121).
