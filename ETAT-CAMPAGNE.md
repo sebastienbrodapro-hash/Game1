@@ -9,7 +9,7 @@
 
 - **Scène courante : 111** — jouée : **l'est saute dessus** — le pli du doyen gardé 4 mois (LE VOTE du Grand Réalignement au premier jour des gelées — jours !) · **le premier coup du patriarche : une borne de l'Étain déplacée dans les formes** (tiers de la route perdu, l'arbitre = le chef du cadastre) · le fils d'Aldric : « dites-moi quoi faire ». Bloc posé.
 - **Où** : le pied du dernier col, Hautefoire à une heure, ~jour 506.
-- **Le bloc en attente** : 1. la lame ce soir — le doyen (`mesure` `noir`) · 2. la borne, de nuit (`noir` `art` · Chiffré) · 3. le portail du Pavois (`arrogance` `mesure`) · 4. le poids public — le Ban avec éclat (`rite` `grosse_piece`).
+- **Le bloc en attente (REPRIS À HAUTEUR, §0.2)** : les clôtures aux PNJ (le fils porte le relevé au doyen, hors-champ) — 1. **le duel de domaines** chez le patriarche (`art` `arrogance` · mort) · 2. le Ban, la saison (`rite` `grosse_piece`) · 3. la Recluse des Cloches Mortes (`mesure` `chance`) · 4. Charmoy (`atout` `noir`).
 
 ## BILAN DE PUISSANCE (§59)
 
