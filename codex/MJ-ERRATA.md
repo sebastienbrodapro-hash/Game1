@@ -143,3 +143,14 @@
 ## §61 · NOM LIVRÉ — sc. 64 *(2026-08-21)*
 
 **Aldric** (scellé n°5) est livré au canon public : prononcé par le doyen des huissiers à la lecture de la Grande Taille (liasse 15). Inscrit à `CENT-VALLEES` §17. Le reste du réseau du tronc §7 demeure scellé.
+
+
+## §62 · FAUTE §58 SUR LE PREMIER NATUREL 100 — ET SON PAIEMENT *(sc. 71, 2026-08-21)*
+
+**La faute** : le premier naturel 100 de la campagne (le Pere des Brumes, echange 4, ligne mort) a ete paye en decor — les bornes d'avant profitent au monde (info, revelee a tous sous quelques jours), la porte au minimum. Rien de personnel, durable, garde. Le joueur a du reclamer : recidive §0.0.
+
+**Le paiement grave** (ce que la prose avait deja montre) :
+- **⟨LE FIL DE BRUME⟩** — l'art au-dela du dernier cran : la brume elle-meme se file (lignes, toile, marionnette, sans soie, invisible) ; avec la porte et le manteau, sa brume voyage avec lui. Unique au monde.
+- **LE CORDON DES BORNES** — le releve complet du bornage d'avant, noue au fil, lisible par lui seul. Le monde voit des pierres ; lui tient la carte.
+
+**Regle re-affirmee** : le paiement d'un critique se mesure a ce que LE JOUEUR garde — jamais a ce que le monde gagne. Un miracle qui enrichit le decor sans changer la fiche est un miracle non paye.
