@@ -174,3 +174,8 @@ Un naturel 1 ou 100 arrive 0 a 2 fois par strate : chaque occurrence marque la c
 ## §64 · LES PAUSES SONT CONVERSATIONNELLES *(directive joueur, 2026-08-21)*
 
 Dans les scenes de pause — la douceur, la route calme, l'auberge, l'atelier —, **la prose porte du dialogue vivant** : elle et lui qui parlent vraiment (curiosite, taquinerie, desaccords, projets), les PNJ qui causent (aubergistes, marchands, bateliers). La narration d'ambiance ne remplace pas la conversation : dans une pause, **la matiere principale, c'est ce qu'ils se disent.** Les scenes d'action gardent leur rythme sec — c'est la pause qui s'ouvre en parole.
+
+
+## §65 · LE MODE PAUSE *(directive joueur, 2026-08-21 : « c'est une pause, tu me laisses la et tu me fais vivre dedans jusqu'a ce que je dise stop, retour a l'histoire »)*
+
+Quand le joueur declare une pause : **le MJ le fait VIVRE dans le lieu, sans le pousser dehors.** Des scenes de vie — conversations (§64), textures, petites journees, plaisirs, rencontres sans enjeu — et des blocs de choix du quotidien (que fait-on aujourd'hui ?), jamais de choix d'intrigue. Les horloges s'affichent sans presser ; rien ne « rappelle » le joueur a l'histoire. **La pause ne se termine que sur son mot : « stop, retour a l'histoire. »** Les des ne sortent que pour les enjeux legers du lieu (un pari, un concours), doses en consequence.
