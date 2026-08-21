@@ -7,9 +7,9 @@
 
 ## POINT DE REPRISE
 
-- **Scène courante : 110** — jouée, bloc posé. **En attente du choix du joueur.**
-- **Où** : le dernier col avant Hautefoire, ~jour 506, l'automne commence. **L'ouest est fermé proprement ; l'est rouvre.**
-- **Le bloc en attente** : 1. le doyen d'abord — les bornes (`mesure` `noir`) · 2. le Ban — le titre (`rite` `grosse_piece`) · 3. Charmoy, à deux jours (`atout` `noir`) · 4. le col de l'Étain (`marchandage` `mesure`).
+- **Scène courante : 111** — jouée : **l'est saute dessus** — le pli du doyen gardé 4 mois (LE VOTE du Grand Réalignement au premier jour des gelées — jours !) · **le premier coup du patriarche : une borne de l'Étain déplacée dans les formes** (tiers de la route perdu, l'arbitre = le chef du cadastre) · le fils d'Aldric : « dites-moi quoi faire ». Bloc posé.
+- **Où** : le pied du dernier col, Hautefoire à une heure, ~jour 506.
+- **Le bloc en attente** : 1. la lame ce soir — le doyen (`mesure` `noir`) · 2. la borne, de nuit (`noir` `art` · Chiffré) · 3. le portail du Pavois (`arrogance` `mesure`) · 4. le poids public — le Ban avec éclat (`rite` `grosse_piece`).
 
 ## BILAN DE PUISSANCE (§59)
 
