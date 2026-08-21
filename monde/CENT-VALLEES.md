@@ -527,6 +527,7 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 - **L'usage de la maison** : ce qui se doit ici ne se paie **qu'en personne, sur la Balance** — jamais en pierres, jamais par porteur. C'est pour ça que la 14 a dormi vingt-deux ans.
 - **Qui pèse quoi** : **la doyenne BERTHILDE** *(✔ nommée sc. 100 — livrée du tronc : la mère d'Honoré, la grand-mère de Seb ; a gravé la 14 de sa main)* · l'oncle (les tempes grises, la loi à la bouche) · les trois autres maisons · le bourg entier, qui pèse par réflexe.
 - **Le détail de la dette, et pourquoi Honoré a fui : le tronc, §13.**
+- **✔ ÉTATS JOUÉS (sc. 99-110)** : Maille nommée à la borne (sc. 99) · **la pesée payée sc. 102** — la Balance a tout dit, le secret vit sous la loi des murs ; elle a refusé de peser la Trame (« il est d'avant elle ») · le peson rendu (le Fléau de Poche, les poids d'Honoré, la chambre à vie) · le poids au mur (crochet reforgé), le vide d'Honoré gardé · **le Sanglier de Fonte pris sc. 106** (écrasement ; la couenne, les défenses à Maille) — **le tribut payé au confluent sc. 107 : L'EAU SE SOUVIENT refermée** · **les concessions des collines fondées sc. 109** au nom de la maison de la Balance (4/10 à Seb, l'oncle exploitant). Restent au chapelet : **la Dame des Roselières (~140 000)** · **le Dormant du Grand Orage (200 000+)**.
 
 ## 17 · LA LIASSE D'HONORÉ — LES QUINZE TAILLES *(passe 8 — remises par frère Colin au soir du rite)*
 
