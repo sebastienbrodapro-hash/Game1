@@ -83,3 +83,6 @@ Le pêcheur de la Noyée a avoué (sc. 33) : payé deux pierres l'année de la c
 ## 12 · LES BORNES D'AVANT *(codex-007 — nees du miracle de la sc. 71)*
 
 Le pre de bornes decouvert sous la brume des hauts pres est une piece de l'ouvrage du §1 : ce sont **les piquets de trame** de ⟦SCELLE-1⟧ — les points d'ancrage où les fils de chaine du monde ont ete tendus. Leurs encoches ne sont pas un cadastre : c'est **une partition de tension** — qui sait les lire lit où le monde est tendu et où il est lache. Le Pavois d'Etain les prendrait pour l'arpentage d'avant (et c'est deja mortel pour son cadastre) ; la Recluse (§11), elle, saurait ce qu'elle regarde. Le Pere des Brumes n'etait pas leur gardien : c'etait **leur troupeau** — une bete d'avant, laissee a paitre la brume pour que rien ne les lise.
+
+
+**Ajout sc. 71+ (la Benediction de la Trame)** : le miracle du pre des bornes a fait plus que decouvrir l'ouvrage — **la trame l'a reconnu**. Ce qui est tendu lui repond desormais au contact : c'est la signature de ⟦SCELLE-1⟧ qui repond a ce sang-la, le meme que la Cloche a reconnu (§2). Le garcon croit tenir une benediction de chasse ; il tient **une clef de l'ouvrage entier** — et plus il montera, plus les choses tendues qu'il touchera seront proches du metier d'origine. La Recluse, le jour où elle le verra toucher une chaine, comprendra avant lui.
