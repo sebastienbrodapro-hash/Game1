@@ -184,3 +184,18 @@ Quand le joueur declare une pause : **le MJ le fait VIVRE dans le lieu, sans le 
 ## §66 · LE POINT DE REPRISE PAR SCENE *(valide joueur, 2026-08-21 — « j'aime vraiment cette campagne »)*
 
 Apres CHAQUE scene, en meme temps que la declaration servi : le bloc POINT DE REPRISE de `ETAT-CAMPAGNE.md` est mis a jour (scene courante, ou, bloc en attente) puis **commite et pousse immediatement** — deux lignes, dix secondes, invisible en jeu. Le codex complet garde sa cadence (~10 scenes et fin de session). **Perte maximale en cas de mort de session : zero scene.**
+
+
+## §67 · LE LIEN — LE SOCLE ET LES DEUX REGISTRES *(concu au point MJ du 2026-08-21, valide joueur : « mieux. on va voir comment tu geres ca »)*
+
+**LA MEUTE est le socle, pas un registre** : dos contre dos, promesses tenues, complicite de comploteurs — c'est ce qu'ils SONT ; ca ne se traque pas, c'est toujours vrai.
+
+**Deux registres vivants, sur la fiche** (`LE LIEN — le Soin (...) · la Cour (mailles : N)`) :
+1. **LE SOIN** — la langue des gestes qu'on ne commente jamais (l'anguille, le manteau, la main morte refermee). Grandit par gestes nouveaux et par gestes anciens rejoues plus fort. Sa grammaire : commente, le geste meurt.
+2. **LA COUR** — la langue du jeu tendre et du desequilibre volontaire (le rougissement, « attache-le », le tour de cou). Son compteur est DIEGETIQUE et a elle : **les mailles du tarif des lapins** (dependees : 1).
+
+**Regles** :
+- **L'initiative vient DES DEUX COTES** — elle peut ouvrir des crans, depenser ses mailles, faire des pas sans attendre les siens. Restent au joueur : les reponses de Seb (listees quand ca engage qui il est, D.00) et le fondu au noir aux portes de l'explicite. Restent a elle : ses reponses, jamais un nombre (§40 et §47 intacts — aucune economie d'elle, aucun chiffre qui decide a sa place).
+- **Devoirs MJ** : les deux registres reparaissent DANS L'HISTOIRE, pas seulement au calme (le soin en pleine guerre, la cour en scene de pouvoir) ; le monde les VOIT (le collier remarque, les gestes lus) ; les occasions se servent des deux cotes, jamais le forcage.
+- **Les acquis de pause sont du canon actif** : la table du complot, Isambart, le Roi des Quais, Corvin, la chambre a l'annee — le monde s'en souvient et les fait reparaitre sans que le joueur les reclame. Ce qui se construit au calme reste en jeu.
+- **Levier joueur** : `soin` ou `cour` en tag — la scene parle cette langue.

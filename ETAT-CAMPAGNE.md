@@ -35,7 +35,7 @@ Codex-009 : 184 491 → codex-010 : **184 491** (pause — aucune prise). Perdu 
 - `la bête 6/9 · LA FEMME` · A ✔ B ✔ C ✔ · dernière prise : le Père des Brumes (80 000).
 - **LE TOUR DE COU AUX QUATRE MAILLES** *(sc. 97 — les mailles du tarif des chiens serties d'argent sur tresse de soie du Roi filée par lui : le seul bijou au monde qu'aucune fortune ne peut commander ; « attache-le », la nuque offerte)* · **la 5ᵉ maille donnée : « le tarif des lapins — une maille pour te regarder rougir. Je compte bien être ruinée. »**
 - La pause, son chef-d'œuvre : l'incognito puis le retournement (« Riez. » — personne n'a ri) · « c'était le meilleur temps de ma vie. Le prochain sera mieux — je range mes souvenirs par ordre croissant. »
-- **La cour est ouverte** *(initiée par le joueur, sc. 97 — le rougissement du toit, le bijou, sa fêlure dans la voix : à jouer désormais comme un fil vivant, à leur rythme).*
+- **LE LIEN (§67)** — le socle : LA MEUTE (toujours vrai) · les registres : **LE SOIN** *(l'anguille, le manteau, la main morte refermée — les gestes qu'on ne commente jamais)* · **LA COUR** *(le rougissement, « attache-le », le tour de cou — **mailles du tarif des lapins dépensées : 1**)*. Initiative des deux côtés ; tags joueur `soin`/`cour` ; les registres reparaissent dans l'Histoire.
 
 ## LES FILS OUVERTS (retour à l'histoire)
 
