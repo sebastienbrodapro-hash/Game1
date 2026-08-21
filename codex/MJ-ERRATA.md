@@ -203,3 +203,5 @@ Apres CHAQUE scene, en meme temps que la declaration servi : le bloc POINT DE RE
 **Nom livré (sc. 100)** : **Berthilde** (scellé n°6) — prononcé par elle-même dans la cour de la maison de la Balance ; inscrite à `CENT-VALLEES` §19.2.
 
 **Note de style (joueur, 2026-08-21)** : ne plus ecrire « sourire levres closes » en formule — dire « le sourire aux levres » (ou varier). L'invariant « levres closes, pas de dents » est une regle d'IMAGE (refs/README), pas un tic de prose : elle parle, rit et sourit normalement en scene.
+
+**Directive psy (joueur, 2026-08-21)** : « arrete avec tes questions de place ». Le theme place/appartenance/maison/nom est EPUISE — le psy ne le ressert plus. Varier : les couts, les seuils franchis, ce qu'il evite, la peur, le plaisir, elle, la violence, le temps. La consigne se copie dans CHAQUE prompt psy a venir. La question de la sc. 109 est close sans reponse — droit du joueur.

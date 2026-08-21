@@ -10,7 +10,6 @@
 - **Scène courante : 110** — jouée, bloc posé. **En attente du choix du joueur.**
 - **Où** : le dernier col avant Hautefoire, ~jour 506, l'automne commence. **L'ouest est fermé proprement ; l'est rouvre.**
 - **Le bloc en attente** : 1. le doyen d'abord — les bornes (`mesure` `noir`) · 2. le Ban — le titre (`rite` `grosse_piece`) · 3. Charmoy, à deux jours (`atout` `noir`) · 4. le col de l'Étain (`marchandage` `mesure`).
-- **Question psy en attente (sc. 109)** : Seb porte le nom des Balances, ou il en fonde un ?
 
 ## BILAN DE PUISSANCE (§59)
 
@@ -62,7 +61,7 @@ Codex-010 : 184 491 → codex-011 : **184 491** (le cœur du Sanglier rendu au f
 ## RÈGLES GRAVÉES DEPUIS CODEX-010
 
 - **§66** — le point de reprise par scène (en service) · **§67** — LE LIEN (la Meute socle, le Soin, la Cour ; initiative des deux côtés ; acquis de pause = canon actif).
-- **Réponses au psy** : sc. 101 « plus de dette, à rendre ou à recevoir — c'est propre » · **sc. 109 en attente : le nom des Balances, ou fonder le sien ?**
+- **Réponses au psy** : sc. 101 « plus de dette, à rendre ou à recevoir — c'est propre » · sc. 109 : close sans réponse (directive : le psy ne ressert plus le thème de la place)
 
 ## JOURNAL DES SCÈNES (99-110)
 
