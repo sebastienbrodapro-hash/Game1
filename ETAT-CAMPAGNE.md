@@ -7,9 +7,9 @@
 
 ## POINT DE REPRISE
 
-- **Scène courante : 98** — jouée. **LA PAUSE EST FINIE (« stop, retour à l'histoire ») — bloc de reprise posé, en attente du choix du joueur.**
-- **Où** : la route à la sortie de Millefeux, au matin — **jour 449, l'été plein**.
-- **Le bloc en attente** : 1. la vallée d'Honoré (3 jours ouest — `marchandage` `mesure`) · 2. le beau vieux (la piste du tribut — `grosse_piece` `chance`) · 3. les arts du miracle à froid (`art`) · 4. la quatrième couche (`corps` `chance`).
+- **Scène courante : 99** — jouée (**ELLE A UN NOM : MAILLE** — choisi par elle ; la Cour : 2 mailles dépensées), bloc posé.
+- **Où** : l'entrée de la Vallée des Balances, jour 452 — le Fléau en contrebas, la maison de la Balance dedans.
+- **Le bloc en attente** : 1. la porte de la maison, la 14 en main (`marchandage` `mesure`) · 2. le bourg d'abord, en gris (`mesure` `noir`) · 3. le peson aux peseurs (`atout` `mesure`) · 4. un soir de plus sur la crête (`bete`).
 - **L'ouest est écrit** (passe 11, `CENT-VALLEES` §19 + tronc §13) : Millefeux au canon, la Vallée des Balances construite, scellée où il faut.
 
 ## BILAN DE PUISSANCE (§59)
