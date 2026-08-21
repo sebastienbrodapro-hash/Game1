@@ -7,9 +7,9 @@
 
 ## POINT DE REPRISE
 
-- **Scène courante : 100** — jouée : la cour de la maison de la Balance — **BERTHILDE, sa grand-mère** ; la 14 réunie ; **la dette = UNE PESÉE sur la Balance d'Avant (elle rend LE VRAI, tout le vrai)** ; Honoré a fui la lecture. Bloc posé.
-- **Où** : la cour de la maison, le Fléau, jour 452, le soir.
-- **Le bloc en attente** : 1. la pesée tout de suite (`mesure` `rite`) · 2. comprendre d'abord (`mesure` `atout`) · 3. le peson sur la table (`marchandage` `atout`) · 4. refuser la loi (`mesure` `arrogance`).
+- **Scène courante : 103** — jouée. **LA PESÉE EST PAYÉE (sc. 102) : la Balance a tout dit — le secret entier vit dans les murs, sous la loi du secret de pesée. LA LIASSE EST FERMÉE, 15/15. « L'enfant est pesé. L'enfant est nôtre. »** Le peson rendu (sc. 103) : le Fléau de Poche, les poids d'Honoré, une chambre à vie. Bloc posé.
+- **Où** : la maison de la Balance, le Fléau, jour 454, le matin.
+- **Le bloc en attente** : 1. quelques jours de maison (`atout` `bete`) · 2. le beau vieux demandé à la maison (`grosse_piece` `chance`) · 3. la route de l'est (`rite` `mesure`) · 4. la quatrième couche (`corps` `chance`).
 - **L'ouest est écrit** (passe 11, `CENT-VALLEES` §19 + tronc §13) : Millefeux au canon, la Vallée des Balances construite, scellée où il faut.
 
 ## BILAN DE PUISSANCE (§59)
