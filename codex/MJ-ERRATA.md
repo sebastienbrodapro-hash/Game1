@@ -199,3 +199,5 @@ Apres CHAQUE scene, en meme temps que la declaration servi : le bloc POINT DE RE
 - **Devoirs MJ** : les deux registres reparaissent DANS L'HISTOIRE, pas seulement au calme (le soin en pleine guerre, la cour en scene de pouvoir) ; le monde les VOIT (le collier remarque, les gestes lus) ; les occasions se servent des deux cotes, jamais le forcage.
 - **Les acquis de pause sont du canon actif** : la table du complot, Isambart, le Roi des Quais, Corvin, la chambre a l'annee — le monde s'en souvient et les fait reparaitre sans que le joueur les reclame. Ce qui se construit au calme reste en jeu.
 - **Levier joueur** : `soin` ou `cour` en tag — la scene parle cette langue.
+
+**Nom livré (sc. 100)** : **Berthilde** (scellé n°6) — prononcé par elle-même dans la cour de la maison de la Balance ; inscrite à `CENT-VALLEES` §19.2.

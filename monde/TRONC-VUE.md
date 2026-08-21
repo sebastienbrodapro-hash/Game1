@@ -99,7 +99,7 @@ Le pre de bornes decouvert sous la brume des hauts pres est une piece de l'ouvra
 
 **L'heritier herite de la convocation.** Payer la 14, c'est monter sur la Balance d'Avant — et pour Seb, c'est LA porte la plus dangereuse du monde : l'instrument-mere rendrait TOUT — la cloche, le x10, la Gorgee, le Clou, le chiffre exact, le fond. Le secret qui n'a jamais ete lu par aucun instrument rencontrerait le seul instrument qui lit vrai. *(C'est pour ca qu'elle a dit « c'est une porte » sans le savoir.)*
 
-**La doyenne de la maison — ⟦SCELLE-6⟧ — est la mere d'Honore : la grand-mere de Seb.** Tres vieille, tres exacte, jamais consolee. Elle sait depuis vingt-deux ans pourquoi son fils a fui ; elle a appris par les routes qu'il est mort noye il y a neuf ans ; elle ne sait rien du petit-fils. La maison ne pardonne pas la dette — mais la doyenne, elle, attend autre chose que la pesee : quelqu'un qui revienne.
+**La doyenne de la maison — Berthilde — est la mere d'Honore : la grand-mere de Seb.** Tres vieille, tres exacte, jamais consolee. Elle sait depuis vingt-deux ans pourquoi son fils a fui ; elle a appris par les routes qu'il est mort noye il y a neuf ans ; elle ne sait rien du petit-fils. La maison ne pardonne pas la dette — mais la doyenne, elle, attend autre chose que la pesee : quelqu'un qui revienne.
 
 **Le peson du rebut (sc. 85)** est un contrepoids PERDU du jeu de la Balance d'Avant — vole ou egare il y a des generations, echoue a Millefeux dans une caisse de ferraille. La maison le cherche depuis toujours ; le rendre serait un geste que la vallee entiere comprendrait. Seb le porte sans savoir ce qu'il tient.
 

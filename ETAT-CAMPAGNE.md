@@ -7,9 +7,9 @@
 
 ## POINT DE REPRISE
 
-- **Scène courante : 99** — jouée (**ELLE A UN NOM : MAILLE** — choisi par elle ; la Cour : 2 mailles dépensées), bloc posé.
-- **Où** : l'entrée de la Vallée des Balances, jour 452 — le Fléau en contrebas, la maison de la Balance dedans.
-- **Le bloc en attente** : 1. la porte de la maison, la 14 en main (`marchandage` `mesure`) · 2. le bourg d'abord, en gris (`mesure` `noir`) · 3. le peson aux peseurs (`atout` `mesure`) · 4. un soir de plus sur la crête (`bete`).
+- **Scène courante : 100** — jouée : la cour de la maison de la Balance — **BERTHILDE, sa grand-mère** ; la 14 réunie ; **la dette = UNE PESÉE sur la Balance d'Avant (elle rend LE VRAI, tout le vrai)** ; Honoré a fui la lecture. Bloc posé.
+- **Où** : la cour de la maison, le Fléau, jour 452, le soir.
+- **Le bloc en attente** : 1. la pesée tout de suite (`mesure` `rite`) · 2. comprendre d'abord (`mesure` `atout`) · 3. le peson sur la table (`marchandage` `atout`) · 4. refuser la loi (`mesure` `arrogance`).
 - **L'ouest est écrit** (passe 11, `CENT-VALLEES` §19 + tronc §13) : Millefeux au canon, la Vallée des Balances construite, scellée où il faut.
 
 ## BILAN DE PUISSANCE (§59)
