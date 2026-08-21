@@ -169,3 +169,8 @@ Un naturel 1 ou 100 arrive 0 a 2 fois par strate : chaque occurrence marque la c
 **Arsenal de cataclysmes futurs, valide par le joueur** (« je monte vite ») : perdre un membre · retomber a 1 de puissance · malediction "ne plus monter que par le Corps" · **diviser par 5, en definitif, les chiffres pris** — a la discretion du MJ au prochain naturel 1, dose a l'enjeu.
 
 **Cloture §62 (choix joueur)** : le second prix du miracle sc. 71 est **LA BENEDICTION DE LA TRAME** — tout ce qui est tendu repond a son contact, art entier dessus, grandit avec les strates. (Options ecartees : Poulain de Brume, Ciel Roule.)
+
+
+## §64 · LES PAUSES SONT CONVERSATIONNELLES *(directive joueur, 2026-08-21)*
+
+Dans les scenes de pause — la douceur, la route calme, l'auberge, l'atelier —, **la prose porte du dialogue vivant** : elle et lui qui parlent vraiment (curiosite, taquinerie, desaccords, projets), les PNJ qui causent (aubergistes, marchands, bateliers). La narration d'ambiance ne remplace pas la conversation : dans une pause, **la matiere principale, c'est ce qu'ils se disent.** Les scenes d'action gardent leur rythme sec — c'est la pause qui s'ouvre en parole.
