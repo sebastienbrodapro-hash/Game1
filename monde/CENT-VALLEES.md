@@ -513,6 +513,21 @@ Reconduit : ce qui se vide se quitte, ce qui se tient peut se tenir (`FONDATION`
 | `atout` | **§17 — chaque dette soldée peut devenir une porte** · **§18.3 (bâtir : chartes, déshérences, alliances)** · §8.14 (la veillée) · §8.16 (la sente) · Gaucher, Margot, frère Colin |
 | `corps` | §6.1, §6.2, §6.7, §6.9, §6.19 (occasions taillées dans le paysage) · §10.3, §10.8 (réclusions de chair) |
 
+## 19 · L'OUEST *(passe 11 — écrit quand la route y est allée, codex-009/010)*
+
+### 19.1 · MILLEFEUX — canon joué
+
+**35 000 feux**, trois collines au confluent de deux fleuves, le bout ouest de la Grand-Traverse. **Sept sectes** (à détailler à mesure — une par scène si elles agissent). **La pierre fine** : un seul bloc, « lit l'or sans saturer » — **a saturé ET chanté pour la paire (sc. 96)** : une note qui ne finit pas, dont personne en ville ne connaît le sens. **La guilde des peseurs** (deuxième colline) — la branche aval du vieux métier ; un des leurs a repéré la pesée à l'œil de Seb (sc. 88). **Positions de la paire** : la table du complot (Bout-du-Monde, ne paie plus jamais) · Isambart, tailleur de la paire · la chambre à l'année · le Roi des Quais. **La fête des Mille Feux** (mi-été, annuel) : joutes, course des toits, lanternes.
+
+### 19.2 · LA VALLÉE DES BALANCES — la vallée d'Honoré *(à trois jours plein ouest de Millefeux)*
+
+**La vallée où le poids est né.** Un bourg petit et exact — **le Fléau**, ~300 feux — où chaque chose porte son poids gravé : les portes, les bornes, les cloches. C'est d'ici que viennent **les pierres de col** de tout l'archipel : la vallée les taille depuis toujours, et la guilde de Millefeux n'est que sa boutique d'aval. Quatre maisons de peseurs se partagent le métier ; la plus vieille tient **la Balance d'Avant** — l'instrument-mère, d'avant la mesure, celui sur lequel tous les autres sont réglés. *Le peson trouvé au rebut des halles (sc. 85) est de cette famille d'instruments — « il pèse juste quand tout pèse presque juste ».*
+
+- **La maison d'Honoré** : une des quatre — celle qui garde la Balance. Honoré en est parti à dix-sept ans, une nuit, sans rendre ce que la maison exige de chaque enfant qui part. Le bourg s'en souvient comme on se souvient d'une fêlure : on n'en parle pas, et tout le monde sait.
+- **L'usage de la maison** : ce qui se doit ici ne se paie **qu'en personne, sur la Balance** — jamais en pierres, jamais par porteur. C'est pour ça que la 14 a dormi vingt-deux ans.
+- **Qui pèse quoi** : la doyenne de la maison *(le tronc)* · les trois autres maisons · le bourg entier, qui pèse par réflexe.
+- **Le détail de la dette, et pourquoi Honoré a fui : le tronc, §13.**
+
 ## 17 · LA LIASSE D'HONORÉ — LES QUINZE TAILLES *(passe 8 — remises par frère Colin au soir du rite)*
 
 *Chaque taille : le débiteur, le principal — et ce que neuf ans en ont fait. Une taille est une **scène**, jamais une ligne de fiche (sauf quand elle se paie en rougissant).*

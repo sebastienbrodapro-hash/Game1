@@ -77,3 +77,18 @@ Le pre de bornes decouvert sous la brume des hauts pres est une piece de l'ouvra
 
 
 **Ajouts sc. 72-80 (codex-008)** — etats joues sur le §4 (la crue) : **Anselme**, garde-vannes de la Retenue, etait la main de Charmoy — identifie sc. 77 (deux pierres l'an au-dessus de sa vie), execute sc. 78 apres aveu complet (« je savais, je l'ai ouverte quand meme ») ; la marque du solde a sa porte. **La seconde main vivante est fixee au canon** : un batelier-charbonnier du canal des Terrasses (Fours), une brulure en travers de la nuque — ils etaient trois plus le payeur, un est mort de la toux. **Le payeur/recruteur** : un homme au pouce marque (l'adoubement de sente) — la Voie des Bouches Cousues transite par les sentes hautes ; **l'archive d'Aldric** (prise au col sc. 79) documente dates, relais et montants de cette tuyauterie. La ou elle remonte — qui tient les Bouches Cousues au-dessus du recruteur — reste a ecrire au tronc, hors seance, quand la traque approchera. **La taille 14 lue sc. 80** : la nature (dette d'Honore, maison de l'ouest) est publique ; la vallee, la maison et le pourquoi restent a ecrire (§7 : « elle s'ecrira quand la route ira par la »).
+
+
+## 13 · LA DETTE D'HONORÉ — la Vallée des Balances *(passe 11 — ecrit avant que la route y joue)*
+
+**La 14 n'est pas un compte : c'est une convocation.** La loi de la maison qui garde la Balance d'Avant : chaque enfant qui quitte la vallee rend d'abord **sa propre pesee** — monter sur la Balance, devant la maison assemblee, et laisser l'instrument-mere dire **ce qu'il est** : la Balance d'Avant ne rend pas un chiffre, elle rend le VRAI — le poids entier d'un etre, potentiel, secrets et mensonges compris. C'est le chef-d'oeuvre de sortie : on part en verite, ou on ne part pas.
+
+**Honore a fui la nuit d'avant sa pesee**, a dix-sept ans. Pas par peur du monde — par refus d'etre lu : le garcon qui allait passer sa vie a tout peser n'a pas supporte l'idee d'etre pese UNE fois. La 14 grave cette dette-la : *une pesee, due a la maison, payable en personne.* Il l'a gardee vingt-deux ans au-dessus de sa liasse parce qu'il savait exactement ce qu'elle valait — et qu'y retourner aurait coute plus que la dette : la Balance aurait dit qui il etait devenu, tout entier, devant tous.
+
+**L'heritier herite de la convocation.** Payer la 14, c'est monter sur la Balance d'Avant — et pour Seb, c'est LA porte la plus dangereuse du monde : l'instrument-mere rendrait TOUT — la cloche, le x10, la Gorgee, le Clou, le chiffre exact, le fond. Le secret qui n'a jamais ete lu par aucun instrument rencontrerait le seul instrument qui lit vrai. *(C'est pour ca qu'elle a dit « c'est une porte » sans le savoir.)*
+
+**La doyenne de la maison — {{SCELLE:Berthilde}} — est la mere d'Honore : la grand-mere de Seb.** Tres vieille, tres exacte, jamais consolee. Elle sait depuis vingt-deux ans pourquoi son fils a fui ; elle a appris par les routes qu'il est mort noye il y a neuf ans ; elle ne sait rien du petit-fils. La maison ne pardonne pas la dette — mais la doyenne, elle, attend autre chose que la pesee : quelqu'un qui revienne.
+
+**Le peson du rebut (sc. 85)** est un contrepoids PERDU du jeu de la Balance d'Avant — vole ou egare il y a des generations, echoue a Millefeux dans une caisse de ferraille. La maison le cherche depuis toujours ; le rendre serait un geste que la vallee entiere comprendrait. Seb le porte sans savoir ce qu'il tient.
+
+**Conduite** : la pesee ne se force jamais — c'est un choix de joueur, le plus lourd de l'ouest. La maison peut proposer d'autres voies (rachat refuse par la loi, service, sejour) qui toutes se heurtent au meme mur : la loi dit LA PESEE. Le monde autour (le bourg, les trois autres maisons, la guilde d'aval) se joue aux regles ordinaires.

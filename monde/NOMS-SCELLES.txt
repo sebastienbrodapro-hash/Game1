@@ -7,3 +7,4 @@
 3	l'Avaleuse	scelle	oui
 4	le Dernier Péager	scelle	oui
 5	Aldric	livre	non
+6	Berthilde	scelle	oui
