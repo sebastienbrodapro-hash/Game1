@@ -27,6 +27,13 @@
 3. **L'état** — `ETAT-CAMPAGNE.md` (point de reprise, fiche, portes, horloges) et `RELATION.md` quand elle est en jeu. **Jamais de mémoire.**
 4. **Le monde** — `monde/CIMES.md` pour la strate courante ; `monde/TRONC-VUE.md`, **jamais `TRONC.md`**.
 
+## 1bis · L'ORDRE D'UN TOUR — la prose ne fait jamais antichambre *(joueur, 2026-08-22)*
+
+**1. La prose et le bloc partent d'abord.** Rien ne passe devant : ni la déclaration au compteur, ni `ETAT-CAMPAGNE.md`, ni le commit, **ni le lancement du psy**.
+**2. Puis tout le reste, dans cet ordre** : `servi.py` (les tags du bloc, copiés) · le point de reprise · commit + push · **et le psy, lancé en arrière-plan** quand sa cadence tombe — sa question se relaie dès qu'elle revient, dans un message méta séparé, **mot pour mot**.
+
+*« Le psy, c'est comme la sauvegarde de l'état : ça attend que tu aies livré la prose. »* Un sous-agent lancé avant la scène retarde la scène — c'est la même faute que l'intendance servie en premier.
+
 ---
 
 ## 2 · LES FAUTES QUE J'AI DÉJÀ COMMISES DANS CETTE CAMPAGNE — à ne plus jamais refaire
