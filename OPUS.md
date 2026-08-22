@@ -55,7 +55,9 @@
 
 Le joueur peut annoncer son programme d'avance (« 1 puis 4 », « 124 »). **Ça ne les fusionne pas : ça les met à la file.** Chaque option prise déroule **sa propre scène** — titre, prose, fiche, horloges, bloc — et la suivante attend le tour d'après.
 
-**La frontière avec §28, dite par le joueur** *(2026-08-22)* : *« la logistique, c'est pas un choix — c'est inclus dans une action proposée. »* Elle **n'apparaît donc JAMAIS comme une option** : elle voyage **à l'intérieur** de l'action qu'on propose. On ne propose pas « payer l'auberge » — on dort, et c'est une ligne dans la scène. On ne propose pas « acheter la bourse profonde » — c'est compris dans « prendre la caravane pour Bassefeuille ».
+**La frontière avec §28, dite par le joueur** *(2026-08-22)* : *« la logistique, c'est pas un choix — c'est inclus dans une action proposée. »* Elle **n'apparaît donc JAMAIS comme une option** : elle voyage **à l'intérieur** de l'action qu'on propose. On ne propose pas « payer l'auberge » — on dort, et c'est une ligne dans la scène ; pareil pour recoudre une épaule, porter un ballot au dépôt, déclarer une réclusion.
+
+**⛔ ET LE COMMERCE N'EST PAS DE LA LOGISTIQUE** *(recadrage du joueur, 2026-08-22, sur un exemple faux que j'avais écrit ici : « acheter la bourse profonde »)* : **acheter, vendre, négocier sont des ACTIONS** — elles ont leur axe (`marchandage`) et leur protocole (`RULE-MJ` D.0.1 : jet sur le stock, puis la liste, puis le marchand qui sait ou ne sait pas, puis le jet de négociation). Une transaction est donc **une option légitime et une scène pleine**. *Le mot « acheter » de §28 ne couvre que ce qui ne peut rien casser — le repas, la corde, la nuit d'auberge : un prix connu, pas de marchand en face, rien à arbitrer.*
 
 **Corollaire, et c'est lui qui compte** : si une ligne de bloc n'est que de la logistique, **elle n'avait pas à être une option**. Donc **toute option porte un vrai choix — et toute option choisie vaut sa scène.**
 
