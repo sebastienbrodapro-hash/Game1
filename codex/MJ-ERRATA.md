@@ -245,3 +245,7 @@ Le MJ menait la paire à un passage SANS RETOUR en laissant sa fortune d'apex (6
 ## §73 · L'ÉCONOMIE DE SESSION *(2026-08-22, demandé par le joueur)*
 
 Le quota se mange par la LONGUEUR DE CONVERSATION, pas par les scènes. **La norme : une conversation neuve par session de jeu** — le point de reprise (§66) + le codex portent tout l'état ; on relit les fichiers, jamais le chat. C'est le mode prévu depuis le départ.
+
+## §74 · L'EXCLUSIVITÉ S'AFFICHE *(2026-08-22, validé par le joueur en séance)*
+
+Quand choisir une option d'un bloc **en ferme ou en retarde une autre du même bloc** — l'occasion se referme, le lieu ne sera plus accessible, le temps ne suffit plus —, **le bloc le dit en une ligne** (« prendre A ferme B »). **Silence = compatible.** Ce n'est pas un pronostic (§10) : l'exclusivité est un fait de calendrier ou de géographie, jamais une annonce de résultat. *Née d'un programme du joueur (« 1 puis 4 puis 3 puis 2 ») donné sans qu'il puisse savoir ce qui se fermait.*
