@@ -1,4 +1,4 @@
-# LES CIMES — LA STRATE II *(chantier v3 du 2026-08-22 — la nature sortie sur directive joueur ; À VALIDER avant d'y jouer, §39)*
+# LES CIMES — LA STRATE II *(chantier v6 du 2026-08-22 — passes 1-3 COMPLÈTES ; À VALIDER par le joueur avant d'y jouer, §39)*
 
 > **Directives joueur appliquées** : *« les trucs qui poussent, j'en veux pas — d'immenses montagnes, et plus le sommet est haut, plus la secte est puissante »* · sectes par centaines · le haut relevé (~1 000 000 local) · les gens ordinaires ordinaires · même monnaie qu'en bas, échelle changée.
 > **Le nom** : la strate garde son nom de FONDATION §2 — « le Verger », le mot des étages du dessus pour un monde où tout *cultivateur* pousse vite. Le continent lui-même s'appelle **LES CIMES**. *(Si tu préfères renommer la strate aussi, un mot suffit.)*
@@ -188,6 +188,38 @@ Baptiste · Honorine · Clément · Perrine · Julien · Adèle · Bastien · Fl
 | `atout` | zéro au départ — tout à construire |
 | `bete` | sa faim d'après-6 (§10) · les prises §7 · **un sommet À EUX aux Dents Blanches** |
 
-## 16 · CE QUI ATTEND LA PASSE 3 *(après validation joueur)*
+## 16 · LES PAYS EN DÉTAIL *(passe 3)*
 
-Détail des sept pays (bourgs, castings, accroches) · le casting des Cinq et des huit moyennes · les mesures (liste pleine) · les prix complets · la feuille d'arrivée (première scène des Cimes) · versement tronc complémentaire.
+- **LES CONTREFORTS** — bourgs : **Pied-du-Ciel** (le bourg de l'arrivée : auberges de nouveaux-venus, le comptoir des changes, la place de la Pesée) · **Roche-Basse** (marché aux fourrures et aux proies) · **le Peigne** (dernier bourg avant les Dents). Accroches : les recruteurs en tournée d'hiver ; le Bélier qui défonce les terrasses de Pied-du-Ciel ; le comptoir qui sous-paie les « cailloux » des provinciaux.
+- **LE PAYS GRIS** — villes : **Bassefeuille** (la grande halle sous la pluie) · **les Cuves** (tanneries, teintureries). Accroches : la Pesée des Cinq Ans sur les places ; le marché noir de l'air ; les francs qui rêvent de plaques.
+- **L'AUBE D'OR** — la ville-étage **Prime-Lumière** sur le flanc est. Accroches : la Course du Premier Rayon ; les rites de table ; le Bœuf « bétail » à la frontière.
+- **LE PIC DE FER** — **Forge-Creuse**, la ville dans la paroi. Accroches : l'Arène de Basalte chaque lune ; la source noire ; les commandes d'armes.
+- **LES MILLE MARCHES** — **le Chantier**, ville-camp perpétuelle. Accroches : le péage continental ; les ponts à réparer ; l'Éboulis Qui Marche dans leurs friches.
+- **LES DENTS BLANCHES** — pas de villes : des camps. **le Feu-Court** (camp des sans-secte, le Ban des Dents). Accroches : les sommets vacants ; la Meute Blanche ; le Tailleur de Cols, la nuit.
+- **L'AIGUILLE** — la capitale en spirale : **le Premier Tour** (halles), **le Deuxième Étage** (guildes, la Chouette), **la Haute-Vire** (les Cinq, la Couronne), **la Pointe** (interdite). Accroches : la Descente annuelle ; la purge ; la dîme de l'Aigle.
+
+## 17 · LES CASTINGS *(passe 3 — un nom n'agit qu'en scène, un seul nouveau par scène)*
+
+- **L'AUBE D'OR** : patriarche **Aurèle** (~320 000, l'homme le plus riche du continent, reçoit en pleine lumière) · doyenne **Hortense** (~180 000, la vraie tête).
+- **LE PIC DE FER** : patriarche **Ferrand** (~280 000, forgeron d'abord, soldat ensuite) · maître d'arène **Brice** (~90 000).
+- **LES MILLE MARCHES** : patriarche **Césaire** (~250 000, parle en devis) · la première tailleuse **Perrine** (~120 000).
+- **L'HIVER TENU** : patriarche **Aubin le Blanc** *(voir tronc)* — le seul qui voyage seul.
+- **LA COURONNE** : doyenne **Victorine** (~200 000, tient l'Aiguille en tenant les clés).
+- **Moyennes** (chefs 1 000-10 000) : Baptiste (le Burin) · Flore (la Corde Rouge) · Rémi (le Vieux Col) · Célestine (la Salle d'Air) · Armand (les Cent Lanternes) · Adèle (la Dalle) · Bastien (le Pont Cassé) · Suzanne (la Première Gelée).
+- **Contreforts, au quotidien** : **Julien** (recruteur de la Corde Rouge, tournée d'hiver, flair excellent) · **Honorine** (tient le comptoir des changes de Pied-du-Ciel — sous-paie les provinciaux par principe) · **Damien** (aubergiste du Pied, sait qui monte et qui redescend) · **Rosalie** (gamine de la Pesée, pesée à 12 — le village attend la secte).
+
+## 18 · LES MESURES — où le monde le lit *(passe 3, première levée : 8)*
+
+la Pesée des Plaques (chaque saison, publique) · l'Impôt d'Altitude (sur la montagne d'une secte) · le comptoir des changes (on jauge la bourse) · l'examen d'entrée (on jauge le corps et l'art) · l'Arène de Basalte (on jauge au bord) · le regard des patrouilles volantes (on jauge d'en haut) · la Pesée des Cinq Ans (les enfants — et parfois un étranger par défi) · l'aura posée d'un ancien (le test social de base : plier ou pas).
+
+## 19 · LA FEUILLE D'ARRIVÉE *(passe 3 — la première scène des Cimes ; LE RÉSULTAT SE JOUE, jamais fixé d'avance)*
+
+1. **La Dernière Marche** : l'escalier au-dessus des Aiguilles ; en haut, LE PESEUR *(tronc)* — il pèse, il dit UNE phrase, il ouvre. Qui passe débouche **aux Contreforts, par la brume du rebord, au-dessus de Pied-du-Ciel.**
+2. **Premier contact** : la mer de nuages VUE D'EN DESSOUS (la pluie grise), puis le premier rayon en montant au bourg. Personne ne les attend. Personne ne les connaît. **Personne, nulle part, ne sait ce qu'ils pèsent** — ni eux, l'échelle locale.
+3. **Les premières frictions servies** (piocher, pas dérouler) : le comptoir d'Honorine qui sous-paie leurs « cailloux » · Julien le recruteur qui flaire l'anomalie · une patrouille volante qui passe TRÈS haut · la place de la Pesée · le Bélier qui a défoncé un mur la veille.
+4. **Leur état à l'arrivée** : ~565 local · plaque : aucune (« caillasse » aux yeux de tous) · fortune : ~120 taels d'équivalent + la matière d'apex (à faire estimer — scène, pas ligne) · le trousseau (trois caisses) · la clef au cordon · les arts intacts, **le vol : non** (~10 000 requis).
+5. **Ce qui NE change pas** : le chiffre de la paire, les arts, le Corps (Bronze 2/4 — le Jade reste sa route), les portes ⚑/⛔, le Lien et ses compteurs.
+
+## 20 · RESTE À FAIRE *(après validation)*
+
+Prix détaillés par bourg · seconde levée (chances 13-25, proies locales mineures, rites 10-18) · les patrouilles et leurs visages · versement tronc complémentaire au premier codex des Cimes.
