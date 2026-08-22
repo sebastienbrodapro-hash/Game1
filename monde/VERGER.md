@@ -59,11 +59,13 @@
 - **Comment on entre** : examens saisonniers (§8), parrainage, ou éclat public. **Comment on monte** : le rang donne la ration de fruits — la puissance est littéralement une solde. **Comment on sort** : rarement debout.
 - **Et la paire là-dedans** : 565 sans secte, sans manuel, sans feuille — pour le monde, un franc anormalement lourd. Les recruteurs vont le flairer, les disciples vont le mépriser, les anciens vont le jauger. **Il n'a besoin d'aucune secte — et tout le monde va lui expliquer le contraire.** *(Sa ligne de toujours : le droit pour tout, et rien d'imposé.)*
 
-## 4 · L'ÉCONOMIE — grosse, comme il l'aime
+## 4 · L'ÉCONOMIE — grosse, comme il l'aime *(v3 — corrigée par le joueur : « même monnaie qu'en bas, plus à la même échelle »)*
 
-- **La monnaie est vivante : LA GRAINE** (elle vaut parce qu'elle peut devenir un arbre). 1 graine ≈ une semaine de vie confortable. Au-dessus : **la greffe** (≈ 40 graines) · **l'arbre sur pied** (≈ 2 000+). En dessous : **le quartier** (¼ de graine morte).
-- **Les fruits sont la marchandise, pas la monnaie — et les sectes tiennent le marché** : fruit second ≈ 2 graines (toléré au marché) · fruit plein ≈ 300 graines (contrôlé) · fruit de branche ≈ 4 000 graines **et** un ennemi (les enchères sous garde). **Le marché noir des fruits est le grand jeu continental** — l'axe `noir` en vit.
-- **Le métier de Seb marche ici** : cours à réapprendre, méthode intacte. **La matière d'apex d'en bas** (cuirasse du Dormant, vessie d'orage, œil d'or) vaut aux Espaliers son poids d'exotique — de quoi arriver riches, pas de quoi être quelqu'un.
+- **LA MÊME MONNAIE QU'EN BAS : LA PIERRE.** Pas de monnaie exotique — le Verger compte en pierres, comme tout le monde. **Mais l'abondance a tout changé d'échelle** : là-haut, les pierres se condensent aux racines des arbres de puissance, on en ramasse. **Une pierre d'en bas vaut quelques mailles là-haut.**
+- **L'échelle des pièces** : **la maille** (la petite monnaie — un repas simple ≈ 2 mailles) · **la pierre** = 100 mailles (≈ une semaine confortable) · **la pierre haute** = 100 pierres (les vraies affaires : greffes, terres, enchères).
+- **Ce que ça fait à sa fortune d'en bas** : ~4 700 pierres de la Poussière ≈ **~12 000 mailles, soit ~120 pierres du Verger** — de quoi vivre quelques mois, pas de quoi être quelqu'un. Le trésor du roi des Cent Vallées est l'argent de poche d'un disciple. **La vraie fortune qu'ils montent, c'est la matière d'apex** : la cuirasse du Dormant, la vessie d'orage, l'œil d'or — de l'exotique de grande chasse, qui vaut partout.
+- **Les fruits, graines et greffes sont la marchandise, pas la monnaie — et les sectes tiennent le marché** : fruit second ≈ 1 pierre (toléré) · fruit plein ≈ 150 pierres (contrôlé) · fruit de branche ≈ 2 000 pierres **et** un ennemi (enchères sous garde) · une greffe ≈ 40 pierres · un arbre sur pied ≈ 2 000 pierres et plus, selon la veine. **Le marché noir des fruits est le grand jeu continental** — l'axe `noir` en vit.
+- **Le métier de Seb marche ici** : cours à réapprendre de zéro, méthode intacte — et le monde entier compte sa petite monnaie avec le nom de sa compagne.
 
 ## 5 · L'ÉQUIPEMENT — les cinq voies, reconduites
 
@@ -89,7 +91,7 @@
 | # | Proie | Poids | Où | Rend |
 |---|---|---|---|---|
 | 1 | **le Bélier des Espaliers** — il défonce les murs palissés | **~400** | Espaliers | la toison de pierre, les cornes |
-| 2 | **la Truie de Souche** — elle déterre les graines-monnaie | **~650** | Plaine | le groin d'or, sa réserve de graines |
+| 2 | **la Truie de Souche** — elle déterre les caches de graines des semenciers | **~650** | Plaine | le groin d'or, sa réserve de graines |
 | 3 | **le Renard de Gel** — il chasse dans l'hiver de personne | **~900** | Marches Blanches | la fourrure de gel (un manteau qui refuse le froid) |
 | 4 | **la Reine de la Ruche Basse** — huit cents abeilles à 80 | **~1 300** | l'Arbre, contreforts | le miel plein, la cire d'armure |
 | 5 | **le Cerf de Printemps** — ses bois repoussent en une nuit | **~2 200** | Printemps | les bois (la matière qui repousse) |
@@ -162,7 +164,7 @@ Baptiste · Honorine · Clément · Perrine · Julien · Adèle · Bastien · Fl
 | Axe | Où |
 |---|---|
 | `equipement` | §5 · §7 col. « Rend » · les foires de la Plaine |
-| `marchandage` | §4 (graines, cours à réapprendre, marché noir des fruits) · les enchères |
+| `marchandage` | §4 (mailles et pierres, cours à réapprendre, marché noir des fruits) · les enchères |
 | `chance` | §6 |
 | `grosse_piece` | §7 — vingt étages, de 400 à 2 000 000 |
 | `rite` | §8 (dont les examens d'entrée — l'axe raté de l'ancienne campagne) |
