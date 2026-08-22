@@ -8,7 +8,8 @@
 
 ## 0 · LES LOIS DU MONDE
 
-- **0.1 · LA DA.** Des montagnes à perte de vue, hautes à rendre fou — et **une mer de nuages** qui coupe le monde en deux : **au-dessus, le soleil perpétuel ; en dessous, la pluie grise.** Des escaliers taillés partout (le pays des cent mille marches), des ponts de chaîne entre les parois, des villes en terrasses accrochées aux flancs. **La puissance se condense avec l'altitude** : l'air d'en haut nourrit, les pierres — la monnaie — se condensent sur les hauteurs. Le français reste courant.
+- **0.1 · LA DA — ET LE CIEL EST HABITÉ.** Des montagnes à rendre fou, et **une mer de nuages** qui coupe le monde en deux : au-dessus, le soleil perpétuel ; en dessous, la pluie grise. Des escaliers taillés partout, des ponts de chaîne, des villes en terrasses. Et partout, **le xianxia à plein régime** : au crépuscule, **les traînées d'épées volantes filent entre les pics** comme des étoiles filantes ; les parois portent **les Balafres** — des cicatrices de duels anciens, longues de plusieurs kilomètres, qu'on visite en famille ; la nuit, les formations des sectes **allument leurs sommets** comme des lanternes ; et quand un ancien pose son aura dans une salle, **la salle plie les genoux sans qu'il ait dit un mot.** La puissance se condense avec l'altitude : l'air d'en haut nourrit, les pierres — la monnaie — se condensent sur les hauteurs. Le français reste courant.
+- **0.1bis · LE CIEL AUSSI A DES ÉTAGES** : voler au-dessus du pic d'un autre est le même crime que d'y monter — la hauteur de vol permise suit le rang, et les patrouilles des Grandes croisent dans leur ciel. Un inconnu qui vole haut est soit quelqu'un, soit un mort.
 - **0.2 · LA LOI LISIBLE DU CONTINENT : PLUS LE SOMMET EST HAUT, PLUS LA SECTE EST PUISSANTE.** La hauteur EST la richesse (l'air, les pierres) — donc les sectes se classent à l'œil nu : **il suffit de lever la tête pour lire l'organigramme du monde.** On ne possède pas des terres, ici : on possède **de la hauteur** — et monter sur la montagne d'un autre est le crime de base.
 - **0.3 · LA MATIÈRE A MONTÉ AVEC LE MONDE** : le granit des Cimes est du granit de puissance, les marches sont taillées dedans, les chaînes des ponts pèsent des tonnes au mètre. Un costaud d'ici ne « rase » pas une ville d'ici. *(Un homme des Cimes dans la Poussière serait un dieu ; il n'a ni moyen d'y descendre, ni raison.)*
 - **0.4 · RIEN NE SE CONSIGNE** : la propriété se sait par des bouches, des bornes de col et des rites, et se défend par la force.
@@ -17,17 +18,21 @@
 
 ## 1 · L'ÉCHELLE DES FORCES — la puissance est ORGANISÉE, jamais ambiante
 
-**Le principe** : naître aux Cimes ne donne rien. **L'altitude donne tout — et les sectes tiennent les sommets.** Un homme d'en bas, sous les nuages, reste un homme.
+**Le principe** : l'altitude donne tout — et les sectes tiennent les sommets. **Mais l'abondance fait aussi le sang** : les enfants d'ici naissent plus forts qu'en bas, et le continent se trie au berceau (§1.1).
 
-| Tranche | Qui c'est | Réalité |
+| Tranche | Qui c'est | Ce que ça FAIT — le xianxia visible |
 |---|---|---|
-| **1-20** | **les gens** — le pays gris sous la mer de nuages : paysans de terrasse, porteurs, aubergistes | des gens ordinaires ; ils vivent SOUS les sectes, littéralement |
-| **20-99** | **les francs** — porteurs de cols, gardes de convoi, chasseurs sans plaque | forts au village, rien devant une secte |
-| **100-999** | **LES DISCIPLES** — le rang donne **la hauteur où tu as le droit de dormir** : la puissance est une solde d'altitude | **la paire arrive ici, à ~565** — sans secte, sans manuel, sans plaque : une anomalie qui marche sur les routes |
-| **1 000-9 999** | **les anciens** — maîtres de pavillon, chefs des petites sectes de contrefort | une petite secte entière tient sur trois anciens |
-| **10 000-99 999** | **les grands anciens et les patriarches** des sectes moyennes ; les bras des Cinq | ce qui fait la loi dans un pays |
-| **100 000-499 999** | **LES CINQ GRANDES** — patriarches, doyens, trésors vivants (des dizaines d'êtres) | ce qui fait la loi du continent |
-| **~1 000 000+** | **LES MAÎTRES DU CIEL** — une poignée ; leur art de domaine **change le temps qu'il fait sur une province** | **le sommet vrai** — et leur propre légende d'Effacés dit qu'il reste un escalier, quelque part |
+| **1-20** | **les gens** — le pays gris sous les nuages | des gens ordinaires — mais un enfant pesé à **1** à cinq ans est déjà « un talent » qu'on vient voir de trois villages |
+| **20-99** | **les francs** — porteurs, gardes, chasseurs sans plaque | sautent une falaise, plient une barre de fer ; forts au village, rien devant une secte |
+| **100-999** | **LES DISCIPLES** — le rang donne **la hauteur où tu dors** : la puissance est une solde d'altitude | courent aux murs, sautent de terrasse en terrasse, **premières lames de qi** — **la paire arrive ici, à ~565**, sans secte, sans plaque : une anomalie qui marche sur les routes |
+| **1 000-9 999** | **les anciens** — maîtres de pavillon, chefs des petites sectes | **L'AURA** : leur poids posé fait plier une salle entière ; ils tiennent debout sur la mer de nuages |
+| **10 000-99 999** | **les grands anciens et les patriarches** des sectes moyennes | **LE VOL** — au-dessus de ~10 000, on ne marche plus : **l'épée volante** ; leurs techniques balafrent les parois |
+| **100 000-499 999** | **LES CINQ GRANDES** — patriarches, doyens, trésors vivants (des dizaines d'êtres) | le temps local se dérègle autour d'eux ; leur salutation d'aura se sent à une vallée de distance |
+| **~1 000 000+** | **LES MAÎTRES DU CIEL** — une poignée | ils **changent le temps qu'il fait sur une province** ; leur passage se lit dans le ciel comme une saison qui tourne — et leur propre légende d'Effacés dit qu'il reste un escalier, quelque part |
+
+### 1.1 · LA PESÉE DES CINQ ANS — le talent se trie au berceau
+
+Chaque enfant du continent est pesé à **cinq ans**, sur la place. La masse pèse zéro virgule quelque chose. **Peser 1 est un talent** — les recruteurs notent le village. **Peser 10** : une secte descend avec des cadeaux, et les parents touchent une rente. **Peser 50 et plus** : les Grandes se disputent l'enfant à coups d'enchères, et le village vit dessus dix ans. *(L'envers exact du monde d'en bas — où peser 1 faisait de Seb un déchet. Ici, le même chiffre fait un prodige de cinq ans. Une ligne, le jour où il l'apprendra.)*
 
 **Fenêtre strate II** (SEUILS) : à hauteur **×½-×2**, écrasement dès ×2. À 565 : les anciens l'écrasent, les Cinq ne le voient pas. **Presque tout le monde est au-dessus — la margelle du puits suivant, et l'axe `arrogance` ressuscite tout seul.**
 
@@ -63,14 +68,14 @@
 - **LA PIERRE, comme partout.** Mais ici **les pierres se condensent sur les hauteurs** — l'abondance a tout dévalué : **une pierre d'en bas vaut quelques mailles là-haut.**
 - **L'échelle des pièces** : **la maille** (la petite — un repas ≈ 2 mailles) · **la pierre** = 100 mailles (une semaine confortable) · **la pierre haute** = 100 pierres (les vraies affaires).
 - **Sa fortune d'en bas** : ~4 700 pierres de la Poussière ≈ **~12 000 mailles (~120 pierres des Cimes)** — quelques mois de vie, pas un rang. **La vraie fortune montée : la matière d'apex** (la cuirasse du Dormant, la vessie d'orage, l'œil d'or) — de l'exotique de grande chasse, qui vaut partout.
-- **La marchandise que les sectes tiennent** : **l'air des cimes en fioles** (respirer un mois d'altitude sans y dormir : ≈ 30 pierres — le marché noir en vit) · **les passes d'altitude** (le droit de monter travailler : tarifé) · les manuels recopiés · la pierre haute brute des sommets. **Le marché noir de l'air et des passes est le grand jeu continental** — l'axe `noir` en vit.
+- **La marchandise que les sectes tiennent** : **l'air des cimes en fioles** (un mois d'altitude sans y dormir : ≈ 30 pierres) · **les passes d'altitude** · **LES PILULES** (l'air et la pierre pressés : pilule de souffle ≈ 5 pierres · de couche ≈ 80 · de percée — enchères sous garde) · **LES ÉPÉES VOLANTES** (forgées au Pic de Fer : ≈ 1 500 pierres l'entrée de gamme — **et il faut peser ~10 000 pour qu'elle vous porte** : posséder l'épée avant le poids est le péché d'orgueil favori des héritiers) · **les talismans** (le papier des Cent Lanternes) · les manuels recopiés. **Le marché noir de l'air, des passes et des pilules est le grand jeu continental** — l'axe `noir` en vit.
 - **Le métier de Seb marche ici** : cours à réapprendre de zéro, méthode intacte — et le monde entier compte sa petite monnaie avec le nom de sa compagne.
 
 ## 5 · L'ÉQUIPEMENT — les cinq voies, reconduites
 
 **s'achète** (le courant des halles grises) · **se prend sur une bête** (§7) · **se trouve** (§6) · **se gagne** (§8) · **se vole** (tout est à quelqu'un ; les sectes jettent les voleurs d'air du haut de leur pic). L'extraordinaire se prend sur de l'extraordinaire : basalte de forge, glace du Pic Blanc, cuir de corniche, chaîne des Mille Marches.
 
-## 6 · LES CHANCES — première levée *(12)*
+## 6 · LES CHANCES — première levée *(13)*
 
 1. **la vire aux nids** *(Contreforts)* — une paroi d'aires jamais cueillies : personne n'ose la voie
 2. **la cache du thésauriseur** *(Pays Gris)* — un vieux franc mort sans héritier ; sa cache de pierres se dispute au couteau
@@ -84,6 +89,7 @@
 10. **l'hivernage** *(Dents Blanches)* — aux grandes tempêtes, les bêtes descendent ; à l'accalmie, on ramasse
 11. **la pierre de gel** *(Pic Blanc, lisière)* — une pierre haute prise dans le glacier ; la sortir sans la fendre
 12. **la purge de l'Aiguille** *(la capitale, annuel)* — la ville jette son vieux gréement du haut de la flèche : à qui le porte
+13. **la barque tombée** *(gorges des Grandes Marches)* — une barque volante perdue corps et biens il y a vingt ans ; sa cargaison dort au fond d'une gorge que personne ne descend
 
 ## 7 · LES GROSSES PIÈCES — l'échelle de chasse, du premier soir au sommet vrai *(« Rend : » = le dû ; une prise mangée paie son poids, §69)*
 
@@ -116,7 +122,7 @@
 2. **les Examens d'Entrée** *(chaque secte, saisonniers)* — la porte des sans-nom ; réussir puis refuser de signer se fait, et fait du bruit
 3. **la Course du Premier Rayon** *(Aube d'Or, annuel)* — atteindre le sommet avant l'aube ; le premier touché par le soleil a gagné
 4. **l'Ouverture des Cols** *(printemps, continental)* — qui ouvre le grand col le premier après les tempêtes prend le péage de l'année
-5. **l'Arène de Basalte** *(Pic de Fer, chaque lune)* — combats à hauteur, mises énormes, recruteurs au bord
+5. **l'Arène de Basalte** *(Pic de Fer, chaque lune)* — des duels au-dessus du vide, volants pour qui vole ; mises énormes, recruteurs au bord
 6. **la Descente** *(l'Aiguille, annuel)* — porter une charge du sommet au sol sans la verser fait un nom
 7. **le Ban des Dents** *(Dents Blanches, aux grandes tempêtes)* — les sans-secte élisent leur Premier Couteau à eux
 8. **le Pont d'Alliance** *(sectes)* — deux sectes jettent un pont entre leurs pics ; assister engage, refuser insulte
@@ -147,7 +153,7 @@
 
 ## 12 · LES ARTS
 
-Les siens montent avec lui (le fil, la brume, l'écoute, la Trame — son domaine, personne d'autre). Les Cimes ont les leurs : **arts de taille** (la pierre en combat — les Mille Marches), **arts de ciel** (le gel, la foudre, le temps qu'il fait — les Grandes et les Maîtres du Ciel), **arts de souffle** (l'air d'altitude — la respiration comme arme), **arts de manuel** (ce que les sectes enseignent par rang). Tout art inconnu = puissance invisible.
+Les siens montent avec lui (le fil, la brume, l'écoute, la Trame — son domaine, personne d'autre). Les Cimes ont les leurs : **le vol** (l'épée, la barque, le palanquin — porter son poids au ciel) · **l'aura** (poser son poids sans un geste — l'art social du continent : saluer, menacer, faire plier) · **les lames de qi** (l'escrime qui coupe à distance — les Balafres des parois sont leurs cicatrices) · **arts de taille** (la pierre en combat — les Mille Marches) · **arts de ciel** (le gel, la foudre, le temps qu'il fait) · **arts de souffle** (la respiration comme arme) · **arts de manuel** (ce que les sectes enseignent par rang). Tout art inconnu = puissance invisible.
 
 ## 13 · LES VOIES SOMBRES — 3, nommées, réprouvées
 
