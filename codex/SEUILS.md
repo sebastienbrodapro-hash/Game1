@@ -128,3 +128,5 @@ Le modificateur ne vient que de la **circonstance** : terrain, fatigue, blessure
 
 Envoyé seul : **arrête, vérifie dans le fichier, corrige en une ligne, rends la main.**
 Pas de discussion de design, pas de refonte de règle, pas trois tours de méta.
+
+**LA DIGESTION (strate II et au-delà — joueur, 2026-08-22)** : prise dans la fenêtre à hauteur = **+33 % de son poids** · au-dessus de la fenêtre = 33 % **plafonné à +50 % du chiffre** · sous la fenêtre = **+10 %**. (La strate I reste au plein poids — acquis.) Le cran de palier de la compagne : inchangé (> sa dernière prise).
