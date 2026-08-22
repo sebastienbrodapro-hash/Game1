@@ -16,3 +16,9 @@ build/
 !.claude/hooks/
 !.claude/settings.json
 .claude/hooks/__pycache__/
+
+# état de séance, jamais versionné
+.claude/file-etat.json
+.claude/psy-etat.txt
+.claude/axes-etat.json
+.claude/derniere-scene.md

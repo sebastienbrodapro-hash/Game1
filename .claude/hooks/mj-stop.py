@@ -35,6 +35,10 @@ try:
     import axes as AXES
 except ImportError:  # le compteur ne doit jamais empêcher de jouer
     AXES = None
+try:
+    import file as FILE
+except ImportError:  # la file ne doit jamais empêcher de jouer
+    FILE = None
 
 RACINE = Path(__file__).resolve().parents[2]
 # Le coffre courant est le TRONC (monde/). L'ancien coffre du Creuset est
@@ -50,6 +54,19 @@ SEUIL_PSY = 8
 # titre de SCÈNE est en capitales (« ## 112 · CENT VISAGES ») : on exige
 # qu'aucune minuscule ne suive le point médian.
 TITRE_SCENE = re.compile(r"^##\s*(\d{1,4})\s*·(?!.*[a-zà-öø-ÿ])", re.MULTILINE)
+
+
+# 2026-08-22 — LA FILE (file.py). Un bloc d'options qui part alors que le
+# joueur a une file en cours lui refacture un choix déjà payé. Le MJ avait
+# la file écrite sous les yeux et l'a écrasée quand même : le gabarit « une
+# scène finit par un bloc » bat l'état. Donc c'est le hook qui tranche.
+# Un bloc = au moins deux lignes numérotées en gras, plus une étiquette de jet.
+LIGNE_OPTION = re.compile(r"^\s{0,3}\d{1,2}\.\s+\*\*", re.MULTILINE)
+ETIQUETTE = re.compile(r"\[(?:Libre|Chiffré)", re.IGNORECASE)
+
+
+def contient_bloc(texte: str) -> bool:
+    return len(LIGNE_OPTION.findall(texte)) >= 2 and bool(ETIQUETTE.search(texte))
 
 
 def charger_noms() -> list[str]:
@@ -219,6 +236,38 @@ def main() -> int:
             file=sys.stderr,
         )
         return 2
+
+    # LA FILE — le test qui ne repose plus sur la vigilance du MJ.
+    # Il ne sonne que si une scène a AVANCÉ dans ce tour : les continuations
+    # (combat en échanges, boutique) gardent leurs blocs légitimes, et le
+    # `--suite` couvre le cas où l'option en tête se joue en plusieurs
+    # messages. Un hook qui sonne à tort est un hook qu'on éteint.
+    scene_neuve = bool(vus) and max(vus) >= derniere and max(vus) not in (0,)
+    if FILE is not None and scene_neuve:
+        try:
+            etat_file = FILE.charger()
+        except Exception:  # noqa: BLE001 — jamais bloquer le jeu sur l'outil
+            etat_file = None
+        if etat_file and etat_file["file"] and not etat_file["suite"]:
+            if contient_bloc(texte):
+                ecrire_etat(derniere, dernier_psy)
+                reste = ", ".join(str(x) for x in etat_file["file"])
+                print(
+                    "FILE DU JOUEUR — un bloc d'options est parti alors que sa "
+                    f"file n'est pas vide (reste : {reste}).\n"
+                    "OPUS §1ter : file non vide = AUCUN bloc. La scène suivante "
+                    "est déjà décidée, elle s'ouvre sans rien lui demander.\n"
+                    "Deux cas, un seul est vrai — trancher MAINTENANT :\n"
+                    "  1. l'option en cours est FINIE : `python .claude/hooks/"
+                    "file.py --consomme`, puis retirer le bloc et enchaîner la "
+                    "suivante ;\n"
+                    "  2. l'option en cours se joue en plusieurs messages "
+                    "(échanges de combat, boutique) et ce bloc lui appartient : "
+                    "`python .claude/hooks/file.py --suite`, et continuer.\n"
+                    "Dans les deux cas, le dire au joueur en une ligne.",
+                    file=sys.stderr,
+                )
+                return 2
 
     # Les axes passent APRÈS le coffre (une fuite prime sur tout) mais AVANT
     # le psy : un audit sur une tranche dont le contenu manque auditerait le
