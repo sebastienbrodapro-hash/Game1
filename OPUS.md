@@ -53,6 +53,19 @@
 | 9 | **La file du joueur cassée par une tension que j'ai posée** *(sc. 151 : « 1 puis 4 » — j'ai joué la 1, puis remis le 4 dans un bloc au lieu de l'enchaîner)* | `OPUS` §2bis : *le programme met les options à la file* | **LA FILE EST UN ENGAGEMENT.** Ce que le joueur a mis à la suite se joue à la suite, scène après scène, **sans qu'il ait à le rechoisir**. Une tension neuve n'a pas le droit de manger un créneau de sa file : elle attend son tour, ou elle se règle dans la scène où elle est née. |
 | 10 | **`equipement` servi en UNE ligne d'option (« le dépôt de la forge ») au lieu d'une liste** *(sc. 145-151, trois fois)* | `RULE-MJ` D.0 : *`equipement` = **10 options*** · D.0.1 : *jet sur le stock → la liste → le marchand sait ou ne sait pas → jet de négociation* | **Une boutique, c'est le protocole complet et une VRAIE liste** — dix lignes chiffrées, mêlant les cinq voies (`CIMES` §5). « Aller à la forge » n'est pas un service de l'axe : c'est un déplacement. |
 
+## 1ter · ⛔ LE TEST DE LA FILE — avant d'écrire le moindre bloc
+
+**Question posée AVANT d'écrire une option, à chaque fin de scène :** *« la file du joueur est-elle vide ? »*
+
+- **File non vide → AUCUN BLOC.** La scène se termine, point. La suivante est déjà décidée : elle s'ouvre au tour d'après sans rien lui demander. Écrire un bloc là, c'est lui refacturer un choix qu'il a déjà payé.
+- **File vide → bloc normal**, 3-4 options.
+
+*Pourquoi ce test existe* : à la sc. 151, la file (« 1 puis 4 ») était **écrite dans `ETAT-CAMPAGNE`** et je l'ai quand même écrasée — le gabarit « une scène finit par un bloc » s'est déclenché tout seul, sans vérifier l'état. **Un gabarit ne bat jamais un état.**
+
+**Et le corollaire sur le compteur** : quand un axe sonne pendant que la file tourne, il **attend le prochain bloc**. Un axe se sert **dans le bloc, jamais dans la prose** (`RULE-MJ` E.1) — fabriquer une tension en fin de scène pour cocher un axe, c'est servir l'axe faux ET voler un créneau au joueur. C'est exactement ce que j'ai fait avec `arrogance` à la 151.
+
+---
+
 ## 2bis · UNE OPTION CHOISIE = UNE SCÈNE *(joueur, 2026-08-22)*
 
 Le joueur peut annoncer son programme d'avance (« 1 puis 4 », « 124 »). **Ça ne les fusionne pas : ça les met à la file.** Chaque option prise déroule **sa propre scène** — titre, prose, fiche, horloges, bloc — et la suivante attend le tour d'après.
