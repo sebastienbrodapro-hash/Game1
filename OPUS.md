@@ -55,7 +55,9 @@
 
 Le joueur peut annoncer son programme d'avance (« 1 puis 4 », « 124 »). **Ça ne les fusionne pas : ça les met à la file.** Chaque option prise déroule **sa propre scène** — titre, prose, fiche, horloges, bloc — et la suivante attend le tour d'après.
 
-**La frontière avec §28** *(la logistique se règle en une ligne)* : §28 vaut pour ce que **personne n'a choisi** — l'achat de fond, le paiement d'auberge, le soin de routine. **Une option que le joueur a désignée n'est jamais de la logistique** : il l'a choisie, donc elle vaut une scène, même si elle ne porte aucun dé.
+**La frontière avec §28, dite par le joueur** *(2026-08-22)* : *« la logistique, c'est pas un choix — c'est inclus dans une action proposée. »* Elle **n'apparaît donc JAMAIS comme une option** : elle voyage **à l'intérieur** de l'action qu'on propose. On ne propose pas « payer l'auberge » — on dort, et c'est une ligne dans la scène. On ne propose pas « acheter la bourse profonde » — c'est compris dans « prendre la caravane pour Bassefeuille ».
+
+**Corollaire, et c'est lui qui compte** : si une ligne de bloc n'est que de la logistique, **elle n'avait pas à être une option**. Donc **toute option porte un vrai choix — et toute option choisie vaut sa scène.**
 
 ---
 
