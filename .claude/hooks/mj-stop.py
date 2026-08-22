@@ -69,6 +69,32 @@ def contient_bloc(texte: str) -> bool:
     return len(LIGNE_OPTION.findall(texte)) >= 2 and bool(ETIQUETTE.search(texte))
 
 
+# 2026-08-22 — LA BÊTE EN SCÈNE (ordre du joueur). RULE-MJ E.1, règle dure :
+# « au moins une phrase sur elle dans la prose de chaque scène — minimum
+# absolu ». Le compteur d'axes ne surveillait que ma DÉCLARATION, jamais le
+# texte : on pouvait déclarer `bete` sur une scène où elle n'apparaissait pas.
+# Ici c'est la PROSE qui est lue — la fiche et le bloc sont découpés d'abord,
+# sinon la ligne « ELLE — MAILLE » de la fiche ferait passer n'importe quoi.
+# Limite assumée : le hook vérifie qu'elle est NOMMÉE, pas qu'elle est vivante.
+# La qualité reste due par le MJ ; le nom est le plancher vérifiable.
+NOM_COMPAGNE = re.compile(r"\bMaille\b", re.IGNORECASE)
+FIN_PROSE = re.compile(r"\*\*FICHE|^#+\s*FICHE|\bFICHE\b", re.MULTILINE)
+
+
+def extraire_prose(texte: str) -> str:
+    """La prose seule : du titre de scène jusqu'à la fiche (ou au bloc)."""
+    m = TITRE_SCENE.search(texte)
+    debut = m.end() if m else 0
+    fin = len(texte)
+    f = FIN_PROSE.search(texte, debut)
+    if f:
+        fin = min(fin, f.start())
+    o = LIGNE_OPTION.search(texte, debut)
+    if o:
+        fin = min(fin, o.start())
+    return texte[debut:fin]
+
+
 def charger_noms() -> list[str]:
     """Noms encore scellés ET assez rares pour ne pas faire sonner à tort.
 
@@ -268,6 +294,26 @@ def main() -> int:
                     file=sys.stderr,
                 )
                 return 2
+
+    # LA BÊTE — règle dure, à chaque scène, dans la PROSE.
+    if vus:
+        prose = extraire_prose(texte)
+        if prose.strip() and not NOM_COMPAGNE.search(prose):
+            ecrire_etat(derniere, dernier_psy)
+            print(
+                "LA BÊTE EN SCÈNE — elle n'est pas dans la prose de cette "
+                "scène (la fiche et le bloc ne comptent pas).\n"
+                "RULE-MJ §E.1, règle dure : au moins une phrase sur elle dans "
+                "la prose de CHAQUE scène — minimum absolu. Et sur un tour à "
+                "plusieurs jets, elle a sa ligne SUR CHAQUE JET.\n"
+                "FONDATION §3.5 : « jamais du décor » ne veut pas dire « une "
+                "volonté propre » — après le palier C, elle veut, elle refuse, "
+                "elle argumente.\n"
+                "Réparer maintenant, avant de rendre la main : ajouter sa "
+                "ligne à la prose, pas au bloc.",
+                file=sys.stderr,
+            )
+            return 2
 
     # Les axes passent APRÈS le coffre (une fuite prime sur tout) mais AVANT
     # le psy : un audit sur une tranche dont le contenu manque auditerait le
