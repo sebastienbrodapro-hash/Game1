@@ -8,9 +8,9 @@
 
 ## 0 · LES LOIS DU MONDE
 
-- **0.1 · LA DA — ET LE CIEL EST HABITÉ.** Des montagnes à rendre fou, et **une mer de nuages** qui coupe le monde en deux : au-dessus, le soleil perpétuel ; en dessous, la pluie grise. Des escaliers taillés partout, des ponts de chaîne, des villes en terrasses. Et partout, **le xianxia à plein régime** : au crépuscule, **les traînées d'épées volantes filent entre les pics** comme des étoiles filantes ; les parois portent **les Balafres** — des cicatrices de duels anciens, longues de plusieurs kilomètres, qu'on visite en famille ; la nuit, les formations des sectes **allument leurs sommets** comme des lanternes ; et quand un ancien pose son aura dans une salle, **la salle plie les genoux sans qu'il ait dit un mot.** La puissance se condense avec l'altitude : l'air d'en haut nourrit, les pierres — la monnaie — se condensent sur les hauteurs. Le français reste courant.
+- **0.1 · LA DA — ET LE CIEL EST HABITÉ.** Des montagnes à rendre fou, et **une mer de nuages** qui coupe le monde en deux : au-dessus, le soleil perpétuel ; en dessous, la pluie grise. Des escaliers taillés partout, des ponts de chaîne, des villes en terrasses. Et partout, **le xianxia à plein régime** : au crépuscule, **les traînées d'épées volantes filent entre les pics** comme des étoiles filantes ; les parois portent **les Balafres** — des cicatrices de duels anciens, longues de plusieurs kilomètres, qu'on visite en famille ; la nuit, les formations des sectes **allument leurs sommets** comme des lanternes ; et quand un ancien pose son aura dans une salle, **la salle plie les genoux sans qu'il ait dit un mot.** La puissance se condense avec l'altitude : l'air d'en haut nourrit, et les pierres se condensent toutes seules sur les hauteurs — si bien qu'ici, la pierre n'est plus un trésor (§4). Le français reste courant.
 - **0.1bis · LE CIEL AUSSI A DES ÉTAGES** : voler au-dessus du pic d'un autre est le même crime que d'y monter — la hauteur de vol permise suit le rang, et les patrouilles des Grandes croisent dans leur ciel. Un inconnu qui vole haut est soit quelqu'un, soit un mort.
-- **0.2 · LA LOI LISIBLE DU CONTINENT : PLUS LE SOMMET EST HAUT, PLUS LA SECTE EST PUISSANTE.** La hauteur EST la richesse (l'air, les pierres) — donc les sectes se classent à l'œil nu : **il suffit de lever la tête pour lire l'organigramme du monde.** On ne possède pas des terres, ici : on possède **de la hauteur** — et monter sur la montagne d'un autre est le crime de base.
+- **0.2 · LA LOI LISIBLE DU CONTINENT : PLUS LE SOMMET EST HAUT, PLUS LA SECTE EST PUISSANTE.** La hauteur EST la richesse (l'air, les pierres de haut grade) — donc les sectes se classent à l'œil nu : **il suffit de lever la tête pour lire l'organigramme du monde.** On ne possède pas des terres, ici : on possède **de la hauteur** — et monter sur la montagne d'un autre est le crime de base.
 - **0.3 · LA MATIÈRE A MONTÉ AVEC LE MONDE** : le granit des Cimes est du granit de puissance, les marches sont taillées dedans, les chaînes des ponts pèsent des tonnes au mètre. Un costaud d'ici ne « rase » pas une ville d'ici. *(Un homme des Cimes dans la Poussière serait un dieu ; il n'a ni moyen d'y descendre, ni raison.)*
 - **0.4 · RIEN NE SE CONSIGNE** : la propriété se sait par des bouches, des bornes de col et des rites, et se défend par la force.
 - **0.5 · LE SALE reste une transgression** (§13). **0.6 · LE FIL RESTE SON DOMAINE.** **0.7 · Casser un familier = tuer son porteur.**
@@ -54,7 +54,7 @@ Chaque enfant du continent est pesé à **cinq ans**, sur la place. La masse pè
 
 ## 3 · LES SECTES — le cœur social du monde
 
-**Une secte = un sommet tenu + ses manuels + ses arts + sa salle d'air.** Elle rationne l'altitude par rang, vend son surplus de pierres, défend sa montagne. **Il y en a des centaines** — chaque pic tenu est une secte, et la hauteur du pic dit son rang : l'organigramme se lit à l'horizon.
+**Une secte = un sommet tenu + ses manuels + ses arts + sa salle d'air.** Elle rationne l'altitude par rang, vend son surplus de pierres franches, défend sa montagne. **Il y en a des centaines** — chaque pic tenu est une secte, et la hauteur du pic dit son rang : l'organigramme se lit à l'horizon.
 
 - **LES CINQ GRANDES** *(les cinq plus hauts sommets tenus — patriarches et trésors vivants : 100 000-500 000)* : **l'Aube d'Or** (la plus riche — le premier soleil) · **le Pic de Fer** (les soldats) · **les Mille Marches** (les bâtisseurs — toute route leur paie) · **l'HIVER TENU** (le Pic Blanc : celle dont on ne parle pas à table — elle ne subit pas le gel, elle le POSSÈDE et le loue : conserver, punir, geler un rival) · **la COURONNE** (petite en nombre, assise sur l'Aiguille).
 - **Au-dessus d'elles** : **les Maîtres du Ciel** (§1) — au-dessus des sectes elles-mêmes.
@@ -63,12 +63,17 @@ Chaque enfant du continent est pesé à **cinq ans**, sur la place. La masse pè
 - **Comment on entre** : examens saisonniers (§8), parrainage, éclat public. **Comment on monte** : le rang donne l'altitude — dormir plus haut, c'est cultiver plus vite : **la puissance est littéralement une solde.** **Comment on sort** : rarement debout.
 - **La paire là-dedans** : 565, sans plaque, sans secte — pour le monde, un franc anormalement lourd. Les recruteurs vont le flairer, les disciples le mépriser, les anciens le jauger. **Il n'a besoin d'aucune secte — et tout le monde va lui expliquer le contraire.**
 
-## 4 · L'ÉCONOMIE — même monnaie qu'en bas, plus la même échelle
+## 4 · L'ÉCONOMIE — l'abondance a renversé la table *(v5, corrigée par le joueur)*
 
-- **LA PIERRE, comme partout.** Mais ici **les pierres se condensent sur les hauteurs** — l'abondance a tout dévalué : **une pierre d'en bas vaut quelques mailles là-haut.**
-- **L'échelle des pièces** : **la maille** (la petite — un repas ≈ 2 mailles) · **la pierre** = 100 mailles (une semaine confortable) · **la pierre haute** = 100 pierres (les vraies affaires).
-- **Sa fortune d'en bas** : ~4 700 pierres de la Poussière ≈ **~12 000 mailles (~120 pierres des Cimes)** — quelques mois de vie, pas un rang. **La vraie fortune montée : la matière d'apex** (la cuirasse du Dormant, la vessie d'orage, l'œil d'or) — de l'exotique de grande chasse, qui vaut partout.
-- **La marchandise que les sectes tiennent** : **l'air des cimes en fioles** (un mois d'altitude sans y dormir : ≈ 30 pierres) · **les passes d'altitude** · **LES PILULES** (l'air et la pierre pressés : pilule de souffle ≈ 5 pierres · de couche ≈ 80 · de percée — enchères sous garde) · **LES ÉPÉES VOLANTES** (forgées au Pic de Fer : ≈ 1 500 pierres l'entrée de gamme — **et il faut peser ~10 000 pour qu'elle vous porte** : posséder l'épée avant le poids est le péché d'orgueil favori des héritiers) · **les talismans** (le papier des Cent Lanternes) · les manuels recopiés. **Le marché noir de l'air, des passes et des pilules est le grand jeu continental** — l'axe `noir` en vit.
+- **LE TAEL EST REPASSÉ AU-DESSUS DE LA PIERRE.** En bas, la pierre était le trésor et le métal comptait les sous. Ici, **les pierres se condensent toutes seules sur les hauteurs** — l'abondance les a fait déchoir : **la monnaie des Cimes, c'est le tael.**
+- **Les pièces** : **la maille** (la petite — un repas ≈ 2 mailles) · **le tael** = 100 mailles (une semaine confortable) · **le lingot** = 100 taels (les vraies affaires).
+- **ET LES PIERRES ONT DES GRADES, comme tout le reste** :
+  · **la pierre commune** — presque un caillou : quelques mailles, **pas même un tael** ;
+  · **la pierre franche** — bonne veine : ≈ 20 taels ;
+  · **la pierre haute** — ce qui se condense sur les sommets tenus : ≈ 500 taels ;
+  · **la pierre de ciel** — ce qui se condense au-dessus de tout : enchères sous garde, on n'en voit pas deux par an.
+- **LA DOUCHE FROIDE DE L'ARRIVÉE** *(à jouer, pas à raconter)* : la paire monte avec ~4 700 pierres — la fortune d'un roi d'en bas. **Premier comptoir : ce sont des pierres COMMUNES.** ~12 000 mailles, ~120 taels. Le trésor des Cent Vallées est l'argent de poche d'un disciple — il croyait arriver riche, il arrive avec du gravier de qualité. **La vraie fortune montée : la matière d'apex** (la cuirasse du Dormant, la vessie d'orage, l'œil d'or) — l'exotique de grande chasse, qui vaut partout.
+- **La marchandise que les sectes tiennent** : **l'air des cimes en fioles** (un mois d'altitude sans y dormir : ≈ 30 taels) · **les passes d'altitude** · **LES PILULES** (pilule de souffle ≈ 5 taels · de couche ≈ 80 · de percée — enchères sous garde) · **LES ÉPÉES VOLANTES** (forgées au Pic de Fer : ≈ 1 500 taels l'entrée de gamme — **et il faut peser ~10 000 pour qu'elle vous porte** : posséder l'épée avant le poids est le péché d'orgueil favori des héritiers) · **les talismans** (le papier des Cent Lanternes) · les manuels recopiés · la pierre franche et au-dessus. **Le marché noir de l'air, des passes et des pilules est le grand jeu continental** — l'axe `noir` en vit.
 - **Le métier de Seb marche ici** : cours à réapprendre de zéro, méthode intacte — et le monde entier compte sa petite monnaie avec le nom de sa compagne.
 
 ## 5 · L'ÉQUIPEMENT — les cinq voies, reconduites
@@ -78,7 +83,7 @@ Chaque enfant du continent est pesé à **cinq ans**, sur la place. La masse pè
 ## 6 · LES CHANCES — première levée *(13)*
 
 1. **la vire aux nids** *(Contreforts)* — une paroi d'aires jamais cueillies : personne n'ose la voie
-2. **la cache du thésauriseur** *(Pays Gris)* — un vieux franc mort sans héritier ; sa cache de pierres se dispute au couteau
+2. **la cache du thésauriseur** *(Pays Gris)* — un vieux franc mort sans héritier ; sa cache de taels se dispute au couteau
 3. **le pic foudroyé** *(Dents Blanches)* — un sommet frappé depuis mille ans : la roche vitrifiée vaut plus que le pic
 4. **la source noire** *(Pic de Fer)* — une eau qui brûle ; qui la boit gagne ou crève
 5. **le monastère vide** *(Dents Blanches)* — une secte morte d'un hiver, ses réserves murées intactes
@@ -87,7 +92,7 @@ Chaque enfant du continent est pesé à **cinq ans**, sur la place. La masse pè
 8. **la borne de col descellée** *(entre deux sectes)* — une frontière morte : deux pics et un no-man's-land plein
 9. **la cave murée** *(Aube d'Or)* — une salle d'avant la Grande Secte, scellée avec sa dernière réserve
 10. **l'hivernage** *(Dents Blanches)* — aux grandes tempêtes, les bêtes descendent ; à l'accalmie, on ramasse
-11. **la pierre de gel** *(Pic Blanc, lisière)* — une pierre haute prise dans le glacier ; la sortir sans la fendre
+11. **la pierre de gel** *(Pic Blanc, lisière)* — une pierre HAUTE prise dans le glacier depuis toujours ; la sortir sans la fendre
 12. **la purge de l'Aiguille** *(la capitale, annuel)* — la ville jette son vieux gréement du haut de la flèche : à qui le porte
 13. **la barque tombée** *(gorges des Grandes Marches)* — une barque volante perdue corps et biens il y a vingt ans ; sa cargaison dort au fond d'une gorge que personne ne descend
 
@@ -170,7 +175,7 @@ Baptiste · Honorine · Clément · Perrine · Julien · Adèle · Bastien · Fl
 | Axe | Où |
 |---|---|
 | `equipement` | §5 · §7 col. « Rend » · les halles grises · la forge de basalte |
-| `marchandage` | §4 (mailles/pierres, l'air en fioles, les passes — cours à réapprendre) · les enchères |
+| `marchandage` | §4 (mailles, taels, lingots · les grades de pierres · l'air en fioles, les passes — cours à réapprendre) · les enchères |
 | `chance` | §6 |
 | `grosse_piece` | §7 — vingt étages, de 400 à 2 000 000 |
 | `rite` | §8 (dont les examens d'entrée) |
