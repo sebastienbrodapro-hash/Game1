@@ -71,6 +71,7 @@ Chaque enfant du continent est pesé à **cinq ans**, sur la place. La masse pè
   · **la pierre franche** — bonne veine : ≈ 20 taels ;
   · **la pierre haute** — ce qui se condense sur les sommets tenus : ≈ 500 taels ;
   · **la pierre de ciel** — ce qui se condense au-dessus de tout : enchères sous garde, on n'en voit pas deux par an.
+- **CE QU'UNE PIERRE REND AU CHIFFRE, RAFFINÉE** *(tranché par le joueur le 2026-08-22, lecture B : le rendement suit le prix)* : **franche → +500 chez lui** (base +50, ×10) · **haute → +12 500 chez lui** (base +1 250) · **commune → négligeable**. Dix pierres la nuit. *La pierre est redevenue de l'appoint : aux Cimes, la vraie montée passe par la chasse (la Digestion), pas par le tas de cailloux.* **Nombres dans `SEUILS`.**
 - **LA DOUCHE FROIDE DE L'ARRIVÉE** *(à jouer, pas à raconter)* : la paire monte avec ~4 700 pierres — la fortune d'un roi d'en bas. **Premier comptoir : ce sont des pierres COMMUNES.** ~12 000 mailles, ~120 taels. Le trésor des Cent Vallées est l'argent de poche d'un disciple — il croyait arriver riche, il arrive avec du gravier de qualité. **La vraie fortune montée : la matière d'apex** (la cuirasse du Dormant, la vessie d'orage, l'œil d'or) — l'exotique de grande chasse, qui vaut partout.
 - **LES POCHES DIMENSIONNELLES** *(ajout joueur, canon xianxia)* — elles existent, et elles se paient **au prix fort** :
   · **la bourse profonde** (le volume d'un coffre) ≈ **2 000 taels** — le premier vrai achat de quiconque compte ;
