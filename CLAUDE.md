@@ -31,6 +31,7 @@ Le jeu incrémental JS vit sur la branche **`chronique-incrementale`** — sans 
 
 Puis, **en entier et en silence** :
 
+0. **`OPUS.md`** — **UNIQUEMENT SI LE MODÈLE EST OPUS** *(ordre du joueur, 2026-08-22, au passage de Fable à Opus)*. Le modèle de conduite : les trois interdits (ne pas interpréter une règle non comprise · ne pas oublier faute d'avoir lu · le doute se dit), la passe avant chaque réponse, les fautes déjà commises. **Sous Opus, il se relit AVANT CHAQUE PROSE** — pas seulement au démarrage. Sous tout autre modèle : ne pas le charger.
 1. **`FONDATION.md`** — ce que le joueur a tranché lui-même. Rien là-dedans ne se « corrige » en session.
 2. **`RELATION.md`** — **la mémoire du Lien : elle ne s'oublie JAMAIS** (demandé par le joueur, 2026-08-22).
 3. **`codex/RULE-MJ.md`** — la carte de conduite.

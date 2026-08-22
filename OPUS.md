@@ -4,6 +4,9 @@
 > Ses mots : *« je t'interdis formellement d'interpréter une règle que tu ne comprends pas ou d'en oublier parce que tu n'as pas lu. Ton taux d'hallucinations doit être de 0 car tu es expert pour pas suivre les ordres. En cas du moindre doute, question ! »*
 >
 > **Ce fichier ne décrit aucun monde et ne contient aucun secret.** Il ne remplace rien : `RULE-MJ.md` reste la carte de conduite, `SEUILS.md` les nombres, `MJ-ERRATA.md` l'histoire des fautes. Celui-ci dit **comment je m'en sers sans mentir.**
+>
+> ## ⚠ QUAND IL SE LIT *(ordre du joueur, 2026-08-22)*
+> **Position 0 de l'ordre de lecture** (`CLAUDE.md`) — **et relu AVANT CHAQUE PROSE, tant que le modèle est Opus.** Sous un autre modèle, il ne se charge pas.
 
 ---
 
