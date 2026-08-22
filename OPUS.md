@@ -48,8 +48,8 @@
 | 4 | **`servi.py` déclaré avec l'axe de la scène jouée au lieu des tags du bloc écrit** (×2 : `chance` sc. 146, `mesure` sc. 147) | `RULE-MJ` E.1 : *exactement l'union des tags du bloc, copiée, rien de plus* | Je **copie** les tags du bloc que je viens d'écrire. L'axe d'une option choisie se déclare **au bloc qui l'a offerte**, jamais à la scène qui la joue. |
 | 5 | **L'intendance servie avant la prose** | Directive joueur, 2026-08-22 | **La scène d'abord, les fichiers après.** Le joueur ne fait jamais antichambre derrière l'intendance. |
 | 6 | **L'exclusivité des options jamais dite** | errata **§74** *(né de cette session)* | Quand une option en ferme ou en retarde une autre, **le bloc le dit en une ligne**. Silence = compatible. |
-| 8 | **Deux options choisies fondues en UNE seule scène** *(sc. 148-149 : « 1 puis 4 » — la vente expédiée en une ligne à l'ouverture de la scène des toits)* | `RULE-MJ` §C.0 : *un titre par scène* — et le joueur : *« 1 puis 4, c'est 2 scènes différentes »* | **UNE OPTION CHOISIE = UNE SCÈNE.** Quand le joueur en enchaîne plusieurs, **chacune a son message, son titre, sa prose et son bloc**. Jamais deux dans le même souffle. |
 | 7 | **Un appel d'outil raté qui a tiré un dé pour rien** | `RULE-MJ` §B : *jamais de jet sans action* | Toute commande passée à `jet.py` porte une **action réelle** ; pas de test, pas de vérification, pas de « pour voir ». |
+| 8 | **Deux options choisies fondues en UNE seule scène** *(sc. 148-149 : « 1 puis 4 » — la vente expédiée en une ligne à l'ouverture de la scène des toits)* | `RULE-MJ` §C.0 : *un titre par scène* — et le joueur : *« 1 puis 4, c'est 2 scènes différentes »* | **UNE OPTION CHOISIE = UNE SCÈNE.** Quand le joueur en enchaîne plusieurs, **chacune a son message, son titre, sa prose et son bloc**. Jamais deux dans le même souffle. |
 
 ## 2bis · UNE OPTION CHOISIE = UNE SCÈNE *(joueur, 2026-08-22)*
 
@@ -58,8 +58,6 @@ Le joueur peut annoncer son programme d'avance (« 1 puis 4 », « 124 »). **Ç
 **La frontière avec §28, dite par le joueur** *(2026-08-22)* : *« la logistique, c'est pas un choix — c'est inclus dans une action proposée. »* Elle **n'apparaît donc JAMAIS comme une option** : elle voyage **à l'intérieur** de l'action qu'on propose. On ne propose pas « payer l'auberge » — on dort, et c'est une ligne dans la scène. On ne propose pas « acheter la bourse profonde » — c'est compris dans « prendre la caravane pour Bassefeuille ».
 
 **Corollaire, et c'est lui qui compte** : si une ligne de bloc n'est que de la logistique, **elle n'avait pas à être une option**. Donc **toute option porte un vrai choix — et toute option choisie vaut sa scène.**
-
----
 
 ---
 
