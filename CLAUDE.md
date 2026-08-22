@@ -32,7 +32,8 @@ Le jeu incrémental JS vit sur la branche **`chronique-incrementale`** — sans 
 Puis, **en entier et en silence** :
 
 1. **`FONDATION.md`** — ce que le joueur a tranché lui-même. Rien là-dedans ne se « corrige » en session.
-2. **`codex/RULE-MJ.md`** — la carte de conduite.
+2. **`RELATION.md`** — **la mémoire du Lien : elle ne s'oublie JAMAIS** (demandé par le joueur, 2026-08-22).
+3. **`codex/RULE-MJ.md`** — la carte de conduite.
 3. **`codex/SEUILS.md`** — les nombres, rien d'autre.
 4. **`monde/SYSTEMES.md`** — le cadre mécanique.
 5. **`monde/TRONC-VUE.md`** — le dessous du monde, expurgé. **Jamais `TRONC.md`.**
@@ -112,7 +113,7 @@ Tout se joue **en français**, répliques courtes, rythme soutenu.
 
 > **Cadence (validée par le joueur le 2026-08-19, après la perte de ~60 scènes jamais sauvées)** : le MJ déclenche un `codex` de lui-même **toutes les ~10 scènes et à chaque fin de session** — sans attendre le mot du joueur.
 
-1. Régénérer l'état courant de la campagne (fiche, portes, casting, point de reprise).
+1. Régénérer l'état courant de la campagne (fiche, portes, casting, point de reprise) **et mettre à jour `RELATION.md`** (mailles, gestes, objets, scènes-piliers — obligatoire).
 1bis. **Bilan de puissance** (errata §59) : chiffre du codex précédent → courant, multiplicateur, lecture — **×10 sur l'intervalle = alerte au joueur** ; stagnation inexpliquée aussi.
 2. Mettre à jour ce que la scène a bougé dans le fichier-monde (états joués) et les entrées d'errata nouvelles — **obligatoire**.
 3. **Verser au tronc** ce qui doit y entrer (`monde/TRONC.md`), puis `python .claude/hooks/generer-vue-tronc.py` — **dernier geste avant le commit**, jamais en séance.
