@@ -229,3 +229,19 @@ La scène 117 (la Recluse qui raconte en guise de paiement) jugée « chiant à 
 - **Cap de campagne** : LE DORMANT DU GRAND ORAGE en finale de strate ; **le chantier de la suite se construit hors séance** (§39) — en fiction, Seb ne sait rien de ce qui dépasse les 100 000 (FONDATION : la découverte lui arrive, jamais un projet).
 
 *(Psy sc. 117 relayé — la question de la main gauche, réponse en attente : droit du joueur.)*
+
+
+## §71 · LE BALLOT OUBLIÉ *(faute §0.0 ×3 du même arc, 2026-08-22 — « tu as oublié les matériaux apex »)*
+
+Le MJ menait la paire à un passage SANS RETOUR en laissant sa fortune d'apex (60 plaques, la vessie d'orage) à trois semaines à l'ouest. Réclamé par le joueur, réparé en jeu (sc. 140, le détour, la vessie pliée en sac). **Leçon : avant tout seuil irréversible, le MJ passe l'INVENTAIRE COMPLET — ce qui ne traverse pas doit être un choix, jamais un oubli.**
+
+## §72 · LA STRATE II — LES CIMES, VALIDÉE *(2026-08-22)*
+
+- **Renommée par le joueur** : LES CIMES (ex-« Verger », FONDATION §2 amendé). Le continent : les Cent Sommets.
+- **Construite en 8 versions sur recadrages joueur** : montagnes (« la nature j'en veux pas ») · puissance ORGANISÉE en sectes, jamais ambiante (« un paysan à 5 000 ça tient pas ») · le haut relevé (~1M, terré 2M : « relever le plafond = relever le haut ») · tael > pierre, grades de pierres · poches dimensionnelles au prix fort · xianxia plein régime (vol à ~10 000, auras, Balafres, Pesée des Cinq Ans) · **contenu doublé** (« j'ai plié la strate I en 100 scènes ») : 28 chances, 36 proies, 18 rites, 11 réclusions, 22 mesures, 3 guerres de sectes.
+- **LA DIGESTION** *(validée)* : fenêtre = +33 % du poids (~×1,5 par chasse d'apex, ~18 jusqu'au sommet) · au-dessus = plafonné +50 % du chiffre · sous = +10 %. Strate I acquise au plein poids. Cran de Maille inchangé. **Nombres dans SEUILS.**
+- **Refs** : sourire humain permis, dents de lapin interdites (refs/README amendé). **Images** : pipeline Kling (OAuth CLI, crédits appli, modèle gemini-3-pro-image) — **les authentifications (Replicate/Kling) vivent dans la session, jamais au dépôt : à redonner en début de session.** Prompt : visage humain palier 6 en dur.
+
+## §73 · L'ÉCONOMIE DE SESSION *(2026-08-22, demandé par le joueur)*
+
+Le quota se mange par la LONGUEUR DE CONVERSATION, pas par les scènes. **La norme : une conversation neuve par session de jeu** — le point de reprise (§66) + le codex portent tout l'état ; on relit les fichiers, jamais le chat. C'est le mode prévu depuis le départ.

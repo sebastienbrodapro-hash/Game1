@@ -118,3 +118,9 @@ Le pre de bornes decouvert sous la brume des hauts pres est une piece de l'ouvra
 - Le Dormant pris (sc. 126) ; le Grand Orage éteint ; le marais = LE GRAND CALME, à la paire.
 - Le cœur du Répondant mangé (chiffre 564 701). La bouche prévue (plan A) a fonctionné : la Recluse a dit l'escalier au-dessus des Aiguilles en deux phrases, sc. 130 — zéro mystère, conforme au plan. Le Peseur des Marches attend.
 - Pause en cours (le dernier hiver, Hautefoire). AVANT le passage : finir la passe 3 des CIMES et obtenir la validation joueur (§39).
+
+## ÉTAT — codex-014 (fin de session, 2026-08-22)
+
+- La paire au pied de la Dernière Marche (~jour 630) : chiffre 564 701, tout leur bien avec eux (ballot d'apex, trousseau, œil d'or, la clef, la bague). LA PESÉE PAR LE PESEUR = LA PROCHAINE SCÈNE (141). Le Peseur dit UNE phrase, en clair, et ouvre — arrivée : les Contreforts, brume du rebord, au-dessus de Pied-du-Ciel (CIMES §19).
+- LES CIMES VALIDÉES par le joueur (v8) — jouables. La Digestion en service au passage.
+- Psy dû à la scène 141 (dernier : 133 — directive « pas de questions de place » à copier dans chaque prompt).

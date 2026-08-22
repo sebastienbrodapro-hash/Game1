@@ -2,7 +2,7 @@
 
 Cette branche (`main`) contient **le jeu d'histoire IA** : un jeu de rôle solo mené par Claude en Maître du Jeu — c'est l'objet des sessions de jeu.
 
-> **⚠ CAMPAGNE NEUVE : « LES CENT VALLÉES » — prête, scène 1 non jouée** *(état au 2026-08-18)*. La campagne « **Civet** » (113 scènes) est close dans `archive/civet/` (post-mortem : `archive/civet/AUDIT.md`). Depuis :
+> **⚡ ÉTAT COURANT (2026-08-22) : scène 140 jouée — LA PAIRE EST AU PIED DE LA DERNIÈRE MARCHE (564 701), la strate II « LES CIMES » est VALIDÉE et jouable (`monde/CIMES.md`). Prochaine scène : 141, LA PESÉE (psy dû). Tout l'état : `ETAT-CAMPAGNE.md`.** *(Historique du départ, 2026-08-18 :)* La campagne « **Civet** » (113 scènes) est close dans `archive/civet/` (post-mortem : `archive/civet/AUDIT.md`). Depuis :
 > 1. **✔ La phase psyché** — traits de conscience d'elle et de lui, gravés dans `FONDATION.md` §6. Seb a **18 ans**. Elle recommence **du début**, conscience définie.
 > 2. **✔ Les systèmes refondus** — combat à trois régimes, seize grades de Corps nommés, réclusions à durée, moments d'esprit comptés (`SYSTEMES.md`, `SEUILS.md`).
 > 3. **✔ Le monde** — `monde/CENT-VALLEES.md` (passes 1-2 : l'archipel, l'abondance par axe) + tronc scellé (passe 3). **✔ Audit du monde fait le 2026-08-19** — références re-pointées sur `CENT-VALLEES`, Balance→Cadre dans `SYSTEMES`, alignements remis à zéro — **+ passe 5 : LE FIL EST SON DOMAINE, PAS CELUI DU MONDE** (titres par tailles, brassards de cuir, le Gant Blanc). **Passes 6-9 (2026-08-19)** : le début refait à neuf — le rite de la Cloche (le fil n'est plus une institution du monde), **l'héritage : la liasse des quinze tailles d'Honoré** (`CENT-VALLEES` §17 et §3.4), **le Grand Ban** remplace la Montre, le Dernier Col retiré, contenu brûlé remplacé, psychés invariantes (`FONDATION` §6) — et **le départ déménagé : la Vallée des Relais, le bourg de Charmoy, casting neuf** (Gaucher, Margot, frère Colin, Firmin), Seb garçon de bât devenu « chargeur » (français courant), Berthe et Fuseau retirés du départ. **⚠ Feuille §4 refaite, à revalider — la scène 1 se rejoue après aval.** *(Une première tentative — ~60 scènes en session Remote Control, jamais de `codex` — est perdue.)*
@@ -16,7 +16,7 @@ Cette branche (`main`) contient **le jeu d'histoire IA** : un jeu de rôle solo 
 | Où | Quoi | Statut |
 |---|---|---|
 | **`FONDATION.md`** | le document de conception : genre, strates, la compagne, son échelle, le rythme | **vivant — à revalider en phase psyché** |
-| **`monde/`** | **`CENT-VALLEES.md`** (le contenu MJ de la strate I — son **§16** est l'index de service) · `SYSTEMES.md` (le cadre mécanique) · **`TRONC-VUE.md`** (la vue expurgée — **c'est elle qu'on lit**) · `TRONC.md` et `NOMS-SCELLES.txt` (**jamais**) | **vivant** |
+| **`monde/`** | **`CENT-VALLEES.md`** (strate I — close en jeu à la sc. 140) · **`CIMES.md`** (**LA STRATE II, VALIDÉE le 2026-08-22 — le fichier-monde courant** ; feuille d'arrivée §19, index §15) · `SYSTEMES.md` (le cadre mécanique) · **`TRONC-VUE.md`** (la vue expurgée — **c'est elle qu'on lit**) · `TRONC.md` et `NOMS-SCELLES.txt` (**jamais**) | **vivant** |
 | **`codex/`** | **la conduite, toujours en vigueur** : `RULE-MJ.md` (avant chaque bloc) · `SEUILS.md` (avant chaque réponse) · `MJ-ERRATA.md` (sur événement) | **vivant** |
 | **`refs/`** | les références visuelles validées de la compagne : paliers 1→7, tenue, écusson, scènes-étalons, règles de génération | **vivant** |
 | **`archive/creuset/`** · **`archive/civet/`** | l'état complet des campagnes closes (+ `AUDIT.md` pour civet) | ⛔ **ne se charge jamais pour jouer** |
@@ -36,7 +36,7 @@ Puis, **en entier et en silence** :
 3. **`codex/SEUILS.md`** — les nombres, rien d'autre.
 4. **`monde/SYSTEMES.md`** — le cadre mécanique.
 5. **`monde/TRONC-VUE.md`** — le dessous du monde, expurgé. **Jamais `TRONC.md`.**
-6. **`monde/CENT-VALLEES.md`** — le contenu jouable de la strate I. Son **§16** est l'index de service : axe → où piocher.
+6. **`monde/CIMES.md`** — **le monde courant (strate II, validé)** : index §15, feuille d'arrivée §19. *(`CENT-VALLEES.md` : la strate I, close à la sc. 140 — se consulte, ne se joue plus.)*
 7. Le git log récent.
 
 **Tant que la feuille de départ n'est pas validée par le joueur, on ne joue pas.** Rien d'`archive/` ne se lit pour jouer.
