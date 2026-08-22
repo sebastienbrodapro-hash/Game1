@@ -29,14 +29,14 @@ Chaque strate est graduée **de 1 à ~100 000 dans ses propres unités**. Entre 
 | Strate | Unités locales | En unités de la Poussière | Le sommet y fait |
 |---|---|---|---|
 | **I · La Poussière** | 1 – 100 000 | 1 – 10⁵ | **détruit des montagnes** |
-| **II · Le Verger** | 1 – 100 000 | 10³ – 10⁸ | tient un continent, change une saison |
+| **II · LES CIMES** *(renommée par le joueur le 2026-08-22 — ex-« le Verger »)* | 1 – 100 000 *(nominal — le sommet vrai à ~1 000 000)* | 10³ – 10⁸ | tient un continent, change le temps d'une province |
 | **III · L'Univers** | 1 – 100 000 | 10⁶ – 10¹¹ | gouverne d'une planète à une galaxie |
 | **IV · Le Peu** | 1 – 100 000 | 10⁹ – 10¹⁴ | la règle elle-même |
 
 - **La conversion est un déplacement de virgule** : `175 796` en bas devient `175,796` au-dessus. Aucun chiffre n'est perdu, les relevés restent prononçables jusqu'en haut, et l'instinct garde les décimales quand le reste du monde jauge à la louche.
-- **Le sommet de la Poussière — celui qui détruit des montagnes — pèse 100 au Verger.** Pas nul : *quelconque*. ~~avec des paysans à 5 000 autour de lui~~ *(corrigé par le joueur le 2026-08-22 : « un paysan à 5 000, ça veut dire 5 000 000 à ma strate — le paysan peut raser une ville s'il est pas content ? ça tient pas. » **La puissance d'une strate est ORGANISÉE, jamais ambiante** : les gens ordinaires du Verger restent ordinaires ; ce qui pèse, ce sont les cultivateurs des sectes — l'abondance fait BEAUCOUP de sectes, pas des paysans surhumains. Détail : `monde/CIMES.md` §1.)*
+- **Le sommet de la Poussière — celui qui détruit des montagnes — pèse 100 aux Cimes.** Pas nul : *quelconque*. ~~avec des paysans à 5 000 autour de lui~~ *(corrigé par le joueur le 2026-08-22 : « un paysan à 5 000, ça veut dire 5 000 000 à ma strate — le paysan peut raser une ville s'il est pas content ? ça tient pas. » **La puissance d'une strate est ORGANISÉE, jamais ambiante** : les gens ordinaires du Verger restent ordinaires ; ce qui pèse, ce sont les cultivateurs des sectes — l'abondance fait BEAUCOUP de sectes, pas des paysans surhumains. Détail : `monde/CIMES.md` §1.)*
 - **Le haut d'une strate se relève** *(joueur, 2026-08-22 : « quand je dis de relever le plafond, ça veut dire de relever le haut »)* : la graduation « 1 à ~100 000 » est nominale — le sommet VRAI d'une strate vit bien au-dessus (la strate II : ~1 000 000 local au sommet vrai — `monde/CIMES.md`), parce que l'absorption à 100 % fait monter la paire vite et que le monde doit durer ~200 scènes sans jamais manquer d'étages.
-- **Le Verger est extrêmement propice** : ce qui prend vingt ans en bas en prend deux. Contrepartie du genre : tout le monde y pousse vite, la concurrence est féroce, rien n'est laissé sans propriétaire.
+- **La strate II — les Cimes — est extrêmement propice** : ce qui prend vingt ans en bas en prend deux. Contrepartie du genre : tout le monde y pousse vite, la concurrence est féroce, rien n'est laissé sans propriétaire.
 - **À L'Univers, le déplacement marque le rang** : en bas on prend un vaisseau ; vers 10¹¹ on traverse le vide par soi-même, et la strate entière le sait.
 - **Au Peu**, tout appartient déjà à quelqu'un, et ce quelqu'un se compte par milliers. Plus de sectes, plus de foules : **des individus**, et des **domaines** — une portion de réel où les lois sont les leurs.
 - **Aucun plafond, jamais** (errata §29/§49) : les amplitudes se recouvrent, on peut monter en pesant déjà le sommet de la strate d'arrivée.
