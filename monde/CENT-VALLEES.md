@@ -647,3 +647,5 @@ Sous la brume des hauts prés dormait **le bornage originel de l'archipel** : de
 - **Le Grand Ban** : soldé hors-champ — personne ne s'est présenté contre le Premier Couteau.
 - **Directive §70 errata** : le registre « vieux monde » ne se sert plus de lui-même ; `QUI EST LE CENDRE` en sommeil.
 - **Cap courant** : **LE DORMANT DU GRAND ORAGE (200 000+)** — la dernière chose de l'archipel au-dessus de lui ; route de l'ouest en cours (Millefeux sous la neige, sc. 119-121).
+
+- **✔ ÉTATS JOUÉS (sc. 122-131, codex-013)** : **LE DORMANT DU GRAND ORAGE PRIS** (sc. 126, à hauteur 3-1 — le ciel coupé la veille, le cœur mangé +230 000) ; l'orage éteint, le marais rebaptisé **LE GRAND CALME**, propriété de la paire (butin caché : cuirasse, vessie d'orage) · **le cœur du Répondant mangé** (sc. 130, +150 000 — chiffre 564 701) · **la Recluse a dit la porte** : l'escalier au-dessus des Aiguilles (deux phrases, sc. 130) · la Dernière Glisse de Millefeux (la tenue vue par la ville). L'archipel n'a plus rien au-dessus d'eux.

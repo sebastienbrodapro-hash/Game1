@@ -124,3 +124,9 @@ Le pre de bornes decouvert sous la brume des hauts pres est une piece de l'ouvra
 - LA QUATRIEME GRANDE — L'HIVER TENU (le Pic Blanc) : son patriarche est ⟦SCELLE-9⟧ (~400 000), le seul patriarche qui se deplace seul et sans suite. Il LOUE le gel (conserver, punir, geler un rival) — la banque froide du continent.
 - LE DIVIN TROUVABLE (trois, preexistants) : l'oeuf de l'Aigle de la Couronne (il n'eclot pas — il attend mieux que l'Aigle) · le coeur du Glacier Premier · ⟦SCELLE-12⟧ — a la pointe exacte de l'Aiguille, une pierre se condense depuis mille ans et n'est jamais tombee ; les Cinq font semblant de ne pas la voir. Sa faim d'apres-6 reconnaitra ce qu'elle trouvera.
 - L'entree de la paire : par les Contreforts, ~565, plaque de col — le retour de l'arrogance du monde est un contenu voulu.
+
+## ÉTATS JOUÉS — sc. 122-131 (codex-013)
+
+- Le Dormant pris (sc. 126) ; le Grand Orage éteint ; le marais = LE GRAND CALME, à la paire.
+- Le cœur du Répondant mangé (chiffre 564 701). La bouche prévue (plan A) a fonctionné : la Recluse a dit l'escalier au-dessus des Aiguilles en deux phrases, sc. 130 — zéro mystère, conforme au plan. Le Peseur des Marches attend.
+- Pause en cours (le dernier hiver, Hautefoire). AVANT le passage : finir la passe 3 des CIMES et obtenir la validation joueur (§39).
