@@ -28,8 +28,10 @@ chaînage qui fait qu'on la reconnaît du lapereau à la femme.
   transformation, et au palier 1 c'est **la seule chose anormale sur elle** :
   un lapin ordinaire qui soutient le regard une seconde de trop.
 - **La queue** : gros pompon rond et volumineux, jamais une touffe discrète.
-- Le blanc argenté, les longues oreilles, le sourire **lèvres closes — aucune
-  dent visible**, jamais de croc ni de canine (c'est une lapine, pas une
+- Le blanc argenté, les longues oreilles, le sourire — **amendé par le joueur
+  le 2026-08-22 : un sourire humain, dents visibles ou non, est beau et permis ;
+  ce qui reste interdit, ce sont les DENTS DE LAPIN (incisives proéminentes)**,
+  et toujours jamais de croc ni de canine (c'est une lapine, pas une
   chauve-souris).
 - **Pas de griffes** : ongles humains courts et ronds dès qu'elle a des mains.
 
