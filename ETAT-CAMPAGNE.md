@@ -6,8 +6,9 @@
 
 ## POINT DE REPRISE — ⚡ NOUVELLE CONVERSATION : LIRE CECI D'ABORD
 
-- **Scène courante : 140 JOUÉE — la prochaine est la 141 : LA PESÉE.** La paire est **au pied de la Dernière Marche** (le dernier col des Aiguilles, ~jour 630, fin d'hiver), l'escalier suspendu en vue, TOUT leur bien avec eux. **Bloc en attente** : 1. monter se présenter (`rite` `mesure`) · 2. une dernière nuit au pied, à deux (`bete`).
-- **⚠ PSY DÛ À LA 141** (dernier : 133 — copier la directive « pas de questions de place » dans le prompt).
+- **Scène courante : 141 JOUÉE (LA PESÉE) — la prochaine est la 142.** La paire a **PASSÉ la Dernière Marche** : le Peseur a dit une phrase en clair (« Cinq cent soixante-quatre mille sept cent un — montez. ») et a ouvert. **Ils sont AUX CIMES** : le rebord des Contreforts, sous la pluie grise, au-dessus du bourg d'arrivée (Pied-du-Ciel — nom pas encore livré en fiction), fin de jour, ~jour 630. TOUT leur bien avec eux, rien laissé. **Bloc en attente** : 1. descendre au bourg, un toit avant la nuit (`mesure`) · 2. faire estimer la matière d'apex au premier comptoir (`marchandage` `mesure`) · 3. camper sur le rebord, entrer au premier rayon (`bete`).
+- **Psy fait à la 141** (question posée : la route décidée sans bloc ; réponse joueur : « une que la route a prise à ma place mais on n'allait pas juste plus rien faire donc j'ai rien contre » + « je lui ai promis une maison à elle et comme la première strate n'avait rien à sa hauteur, on monte »). Prochain psy : ~149 (cadence 8) — copier la directive « pas de questions de place ».
+- **Compteur d'axes** : état non versionné reparti de zéro dans le conteneur cloud (2026-08-22) ; 141 déclarée `rite mesure marchandage bete` ; `arrogance` dégelée à l'arrivée ; retards réels connus : `noir`.
 - **LA STRATE II EST VALIDÉE ET JOUABLE** : **LES CIMES** — `monde/CIMES.md` (v8) est le fichier-monde de la suite : la feuille d'arrivée est son §19 (le Peseur dit UNE phrase et ouvre → les Contreforts, Pied-du-Ciel). **LA DIGESTION** en service (SEUILS : fenêtre +33 %, plafond +50 %, sous-fenêtre +10 % ; strate I acquise).
 - **Images** : pipeline Kling CLI (OAuth, crédits appli, modèle `gemini-3-pro-image`, réf `refs/lapine-forme-finale.png`) — **les auth (Kling/Replicate) ne survivent pas à la session : les redemander au joueur au premier besoin d'image.** Prompt : visage humain (palier 6), dents humaines OK, dents de lapin interdites.
 - En fiction, **Seb ne sait RIEN des Cimes** — il monte vers l'inconnu absolu.
@@ -16,9 +17,9 @@
 
 Codex-013 : 564 701 → codex-014 : **564 701** (pause + logistique — rien à manger, tout à vivre). Aux Cimes : **565 local**, presque tout le monde au-dessus — voulu, c'est la margelle. ~18 chasses d'apex jusqu'au sommet vrai (~1M) sous la Digestion.
 
-## FICHE — Seb, 18 ans (19 bientôt) · au pied de l'escalier
+## FICHE — Seb, 18 ans (19 bientôt) · les Contreforts, le rebord au-dessus du bourg
 
-- `chiffre — 564 701` *(= 564,7 aux Cimes)* · `CORPS — LE BRONZE 2/4` *(le corps sonne)* · `jetons 4/10` · entier
+- `chiffre — 564 701` *(= **564,7 local** aux Cimes — bande « col », plaque : AUCUNE, « caillasse » aux yeux de tous)* · `CORPS — LE BRONZE 2/4` *(le corps sonne)* · `jetons 4/10` · entier
 - ⛔ **LA MAIN DE L'HIVER** *(toucher fin gauche mort à jamais ; main gauche entière morte, ne tient rien, jusqu'au JADE ; froid vif = −5 art)* · le pouce marqué
 - **L'ART** : ⟨FIL⟩ 6/6 LA MARIONNETTE · ⟨FIL DE BRUME⟩ · ⟨L'ÉCOUTE⟩ *(le tendu à portée de voix)* · LA BÉNÉDICTION DE LA TRAME · **le vol : NON** (~10 000 local requis)
 - **SUR EUX (tout)** : **le ballot d'apex** *(la vessie d'orage pliée en sac : 60 plaques de fer noir — des tonnes qui grondent)* · le trousseau (3 caisses) · l'œil d'or *(à elle)* · **la clef sans serrure** *(au cordon, sternum)* · 4 pierres anciennes · ~1 100 p à lui · la bourse à Maille (~6 270 p) · la Gorgée (+172 000, 10/nuit) · le manteau de brume · LE CLOU · LE SOUFFLE · LA TOILE ROYALE · LE FLÉAU DE POCHE · les poids d'Honoré · la couenne de fonte · les tenues d'Isambart · la toque grise
@@ -36,9 +37,10 @@ Codex-013 : 564 701 → codex-014 : **564 701** (pause + logistique — rien à 
 
 | Quand | Quoi | Tags | Récurrence |
 |---|---|---|---|
-| **maintenant** | **LA PESÉE — la Dernière Marche** | `rite` `mesure` | unique |
-| de l'autre côté | la feuille d'arrivée (CIMES §19) : Pied-du-Ciel, le comptoir, la Pesée des Plaques | `mesure` `marchandage` | — |
+| **la nuit qui vient** | un toit — l'étage où l'auberge vous loge EST le verdict | `mesure` | continu |
 | dès l'arrivée | faire estimer l'apex → **une poche dimensionnelle** (bourse profonde ~2 000 taels) | `equipement` `marchandage` | — |
+| chaque saison | la Pesée des Plaques (publique) — prochaine : au printemps | `mesure` `rite` | saisonnier |
+| chaque lune | l'Arène de Basalte (Forge-Creuse) | `arrogance` `corps` | mensuel |
 
 ## RÈGLES DEPUIS CODEX-013 *(détail : errata §71-73)*
 
@@ -55,3 +57,4 @@ Codex-013 : 564 701 → codex-014 : **564 701** (pause + logistique — rien à 
 138. LA BAGUE — la bague-maillon ; « Celle-là, je la compte pas. Elle compte toute seule. »
 139. LA ROUTE DES AIGUILLES — fin de pause ; l'escalier EN VUE ; « On sonne, ou on frappe ? »
 140. LE DÉTOUR — le Grand Calme ; la vessie pliée en sac ; tout leur bien au pied des marches.
+141. LA PESÉE — « Je t'ai promis une maison » ; 206 marches puis le blanc ; la main morte prise dans le blanc ; le Peseur compte juste (« 564 701 — montez ») ; les Cimes sous la pluie grise.

@@ -49,6 +49,7 @@ le bouton du poignet gauche, chaque matin · le côté gauche pris (route, table
 - **La Dernière Glisse** (sc. 129) : vue par une ville entière dans SA tenue ; le murmure ; « Quatre. »
 - **Le dernier hiver** (sc. 131-138) : la bourse remise entière · les jours simples · les sept gamins (« le monsieur du fil ») · la clef · la bague.
 - **Le départ** (sc. 139-140) : « On sonne, ou on frappe ? » — et la maison sur le dos.
+- **LA PESÉE** (sc. 141) : « Je t'ai promis une maison. En bas, rien n'était à ta hauteur. » — puis 206 marches, et dans le blanc où rien ne se voit, elle a pris la main morte. Le Peseur a dit leur chiffre exact — la seule voix du monde qui compte juste, elle s'en souviendra. Premier regard sur les Cimes côte à côte, sous la pluie grise.
 
 ## 6 · L'ÉTAT DU LIEN — au pied de l'escalier *(sc. 140)*
 
