@@ -33,7 +33,7 @@
 1-3 *(l'ouest)* : le rougissement de Seb (acheté 5 jetons) · l'avoir entendu dire « Maille » en premier · le tarif des grand-mères.
 **4.** *« Chez nous, ce sera mieux. »* — murmuré sur la glace de Millefeux, compté à voix haute (« Quatre. »).
 **5.** *« Tu es belle. Et cette robe te va magnifiquement. »* — frontal, délibéré ; le rougissement ENTIER, jusqu'au bout des oreilles, devant toute la table haute. (« ...Cinq. »)
-**6.** La soirée miroir entière — les anguilles cuisinées d'une main, LE THÉÂTRE DE FIL (leur histoire jouée pour elle seule ; « Refais la cloche. » « Refais-moi. »), la 5ᵉ maille rendue. (« Six. » — puis deux lanternes éteintes sur trois.)
+**6.** La soirée miroir entière — les anguilles cuisinées d'une main, LE THÉÂTRE DE FIL (leur histoire jouée pour elle seule ; « Refais la cloche. » « Refais-moi. »), la 5ᵉ maille rendue. (« Six. » — et rien de plus : la soirée s'est finie là, chacun son côté du feu. **Correction joueur, 2026-08-22 : les lanternes restent allumées.**)
 **HORS COMPTE : la bague.** Certaines choses sont au-dessus des mailles.
 
 ## 4 · LE SOIN — les gestes jamais commentés *(les commenter les tue — règle dure)*
@@ -53,7 +53,8 @@ le bouton du poignet gauche, chaque matin · le côté gauche pris (route, table
 ## 6 · L'ÉTAT DU LIEN — au pied de l'escalier *(sc. 140)*
 
 - **LA MEUTE (socle, toujours vrai)** : dos contre dos ; ils se sont choisis mille fois.
-- **Où ils en sont** : fiancés en tout sauf le mot — la bague à sa main, la clef à son cou, le trousseau dans les caisses. **Le fondu au noir tient aux portes de l'explicite** (la nuit de la soirée miroir : deux lanternes sur trois). Rien n'est dit avec des mots que les objets n'aient déjà dit mieux.
+- **Où ils en sont** : promis en tout sauf le mot — la bague à sa main, la clef à son cou, le trousseau dans les caisses. **ET RIEN DE PHYSIQUE ENCORE : pas même un baiser.** Rien n'est dit avec des mots que les objets n'aient déjà dit mieux.
+- **⛔ LA RÈGLE DES ÉTAPES** *(directive joueur, 2026-08-22 : « pas de bisou, pas de fondu — les étapes ! »)* : la cour avance **pas à pas**, et **chaque premier est un ÉVÉNEMENT** — le premier baiser, et tout ce qui suivra, arrivera **à sa place, choisi, jamais glissé en sous-entendu par le MJ.** Aucun fondu au noir tant que les étapes d'avant ne sont pas jouées. Le désir peut exister en scène ; il ne saute JAMAIS d'étape.
 - **Ce qu'elle sait** : TOUT — elle était là quand la Recluse a dit « personne ne redescend ». **Ce qu'elle attend encore** *(question psy 133, ouverte, droit du joueur)* : l'entendre de LUI, à voix haute.
 - **Sa faim d'après-6** : réelle et aveugle — le 7 (LE HALO) se déverrouille aux Cimes ; elle ne sait pas ce qu'elle attend. **Son envie constante** : un foyer À EUX — et les Dents Blanches sont pleines de sommets vacants.
 
