@@ -73,6 +73,11 @@ Chaque enfant du continent est pesé à **cinq ans**, sur la place. La masse pè
   · **la pierre haute** — ce qui se condense sur les sommets tenus : ≈ 500 taels ;
   · **la pierre de ciel** — ce qui se condense au-dessus de tout : enchères sous garde, on n'en voit pas deux par an.
 - **LA DOUCHE FROIDE DE L'ARRIVÉE** *(à jouer, pas à raconter)* : la paire monte avec ~4 700 pierres — la fortune d'un roi d'en bas. **Premier comptoir : ce sont des pierres COMMUNES.** ~12 000 mailles, ~120 taels. Le trésor des Cent Vallées est l'argent de poche d'un disciple — il croyait arriver riche, il arrive avec du gravier de qualité. **La vraie fortune montée : la matière d'apex** (la cuirasse du Dormant, la vessie d'orage, l'œil d'or) — l'exotique de grande chasse, qui vaut partout.
+- **LES POCHES DIMENSIONNELLES** *(ajout joueur, canon xianxia)* — elles existent, et elles se paient **au prix fort** :
+  · **la bourse profonde** (le volume d'un coffre) ≈ **2 000 taels** — le premier vrai achat de quiconque compte ;
+  · **l'anneau-grenier** (le volume d'une grange) ≈ **20 000 taels et une file d'attente** — artisans rares, enchères fréquentes ;
+  · **l'anneau-domaine** (une maison entière et sa cour) — **ne se vend pas** : ça se gagne, ça s'hérite, ou ça se prend sur un mort. Les Grandes en tiennent le compte.
+  *Ce qui y dort ne pèse rien et ne se fouille pas — la moitié de la contrebande du continent voyage en poche.*
 - **La marchandise que les sectes tiennent** : **l'air des cimes en fioles** (un mois d'altitude sans y dormir : ≈ 30 taels) · **les passes d'altitude** · **LES PILULES** (pilule de souffle ≈ 5 taels · de couche ≈ 80 · de percée — enchères sous garde) · **LES ÉPÉES VOLANTES** (forgées au Pic de Fer : ≈ 1 500 taels l'entrée de gamme — **et il faut peser ~10 000 pour qu'elle vous porte** : posséder l'épée avant le poids est le péché d'orgueil favori des héritiers) · **les talismans** (le papier des Cent Lanternes) · les manuels recopiés · la pierre franche et au-dessus. **Le marché noir de l'air, des passes et des pilules est le grand jeu continental** — l'axe `noir` en vit.
 - **Le métier de Seb marche ici** : cours à réapprendre de zéro, méthode intacte — et le monde entier compte sa petite monnaie avec le nom de sa compagne.
 
@@ -217,7 +222,8 @@ la Pesée des Plaques (chaque saison, publique) · l'Impôt d'Altitude (sur la m
 1. **La Dernière Marche** : l'escalier au-dessus des Aiguilles ; en haut, LE PESEUR *(tronc)* — il pèse, il dit UNE phrase, il ouvre. Qui passe débouche **aux Contreforts, par la brume du rebord, au-dessus de Pied-du-Ciel.**
 2. **Premier contact** : la mer de nuages VUE D'EN DESSOUS (la pluie grise), puis le premier rayon en montant au bourg. Personne ne les attend. Personne ne les connaît. **Personne, nulle part, ne sait ce qu'ils pèsent** — ni eux, l'échelle locale.
 3. **Les premières frictions servies** (piocher, pas dérouler) : le comptoir d'Honorine qui sous-paie leurs « cailloux » · Julien le recruteur qui flaire l'anomalie · une patrouille volante qui passe TRÈS haut · la place de la Pesée · le Bélier qui a défoncé un mur la veille.
-4. **Leur état à l'arrivée** : ~565 local · plaque : aucune (« caillasse » aux yeux de tous) · fortune : ~120 taels d'équivalent + la matière d'apex (à faire estimer — scène, pas ligne) · le trousseau (trois caisses) · la clef au cordon · les arts intacts, **le vol : non** (~10 000 requis).
+4. **Premier objectif économique évident à l'arrivée** : faire estimer la matière d'apex, et **acheter une poche** — le ballot de tonnes qui gronde ne passera pas inaperçu longtemps, et son contenu tiendrait dans un anneau-grenier (le trousseau dans une bourse profonde : sa maison dans sa poche, littéralement).
+4bis. **Leur état à l'arrivée** : ~565 local · plaque : aucune (« caillasse » aux yeux de tous) · fortune : ~120 taels d'équivalent + la matière d'apex (à faire estimer — scène, pas ligne) · le trousseau (trois caisses) · la clef au cordon · les arts intacts, **le vol : non** (~10 000 requis).
 5. **Ce qui NE change pas** : le chiffre de la paire, les arts, le Corps (Bronze 2/4 — le Jade reste sa route), les portes ⚑/⛔, le Lien et ses compteurs.
 
 ## 20 · RESTE À FAIRE *(après validation)*
